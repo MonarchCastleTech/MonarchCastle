@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-29T14:50:28.079075+00:00",
+  "fetched_at": "2026-01-29T15:47:51.052254+00:00",
   "window_hours": 72,
-  "score": 33.9,
+  "score": 33.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 52.9,
-    "civilian_risk": 37.3
+    "conflict_intensity": 52.4,
+    "civilian_risk": 36.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 99
+      "items": 97
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 2.75,
+      "score": 2.71,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T12:01:05+00:00",
-      "score": 1.21,
+      "score": 1.19,
       "tags": [
         "civilian_risk"
       ],
@@ -125,7 +125,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-29T14:50:28.079075+00:00",
+      "published_at": "2026-01-29T15:47:51.052254+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.88,
+      "score": 0.86,
       "tags": [
         "conflict_intensity"
       ],
@@ -156,7 +156,7 @@
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.74,
+      "score": 0.73,
       "tags": [
         "conflict_intensity"
       ],
@@ -180,28 +180,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-29T16:22:35.585751+00:00",
-      "score": 17.0
+      "timestamp": "2026-01-29T16:45:14.025433+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-01-29T17:54:43.092427+00:00",
-      "score": 17.7
+      "timestamp": "2026-01-29T17:42:36.998612+00:00",
+      "score": 21.7
     },
     {
-      "timestamp": "2026-01-29T19:26:50.599103+00:00",
-      "score": 18.4
+      "timestamp": "2026-01-29T18:39:59.971791+00:00",
+      "score": 22.6
     },
     {
-      "timestamp": "2026-01-29T20:58:58.105779+00:00",
-      "score": 19.1
+      "timestamp": "2026-01-29T19:37:22.944970+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-01-29T22:31:05.612455+00:00",
-      "score": 19.8
+      "timestamp": "2026-01-29T20:34:45.918149+00:00",
+      "score": 24.4
     },
     {
-      "timestamp": "2026-01-30T00:03:13.119131+00:00",
-      "score": 20.5
+      "timestamp": "2026-01-29T21:32:08.891328+00:00",
+      "score": 25.3
     }
   ]
 }
