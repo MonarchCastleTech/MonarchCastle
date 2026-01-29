@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-01-29T08:54:38.392346+00:00",
+  "fetched_at": "2026-01-29T09:54:24.478222+00:00",
   "window_hours": 72,
-  "score": 11.8,
+  "score": 11.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 21.4,
+    "conflict_intensity": 21.0,
     "civilian_risk": 5.3
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 88
+      "items": 90
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.96,
+      "score": 0.94,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,11 +111,11 @@
       ]
     },
     {
-      "title": "Nigerian police fire tear gas, protester injured in Lagos floating slum protests",
+      "title": "Nigerian police fire tear gas, injuring protester in Lagos floating slum protests",
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.82,
+      "score": 0.81,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,28 +139,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-29T10:00:01.876012+00:00",
-      "score": 9.8
+      "timestamp": "2026-01-29T10:54:10.564098+00:00",
+      "score": 10.6
     },
     {
-      "timestamp": "2026-01-29T11:05:25.359678+00:00",
-      "score": 10.1
+      "timestamp": "2026-01-29T11:53:56.649974+00:00",
+      "score": 10.9
     },
     {
-      "timestamp": "2026-01-29T12:10:48.843344+00:00",
-      "score": 10.4
+      "timestamp": "2026-01-29T12:53:42.735850+00:00",
+      "score": 11.3
     },
     {
-      "timestamp": "2026-01-29T13:16:12.327010+00:00",
-      "score": 10.7
+      "timestamp": "2026-01-29T13:53:28.821726+00:00",
+      "score": 11.6
     },
     {
-      "timestamp": "2026-01-29T14:21:35.810676+00:00",
-      "score": 11.0
+      "timestamp": "2026-01-29T14:53:14.907602+00:00",
+      "score": 12.0
     },
     {
-      "timestamp": "2026-01-29T15:26:59.294342+00:00",
-      "score": 11.4
+      "timestamp": "2026-01-29T15:53:00.993478+00:00",
+      "score": 12.4
     }
   ]
 }
