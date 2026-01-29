@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-01-29T07:49:14.908680+00:00",
+  "fetched_at": "2026-01-29T08:54:38.392346+00:00",
   "window_hours": 72,
-  "score": 11.9,
+  "score": 11.8,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 21.7,
+    "conflict_intensity": 21.4,
     "civilian_risk": 5.3
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.97,
+      "score": 0.96,
       "tags": [
         "conflict_intensity"
       ],
@@ -115,7 +115,7 @@
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.84,
+      "score": 0.82,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,28 +139,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-29T08:36:54.164933+00:00",
-      "score": 8.8
+      "timestamp": "2026-01-29T10:00:01.876012+00:00",
+      "score": 9.8
     },
     {
-      "timestamp": "2026-01-29T09:24:33.421186+00:00",
-      "score": 9.1
+      "timestamp": "2026-01-29T11:05:25.359678+00:00",
+      "score": 10.1
     },
     {
-      "timestamp": "2026-01-29T10:12:12.677439+00:00",
-      "score": 9.3
+      "timestamp": "2026-01-29T12:10:48.843344+00:00",
+      "score": 10.4
     },
     {
-      "timestamp": "2026-01-29T10:59:51.933692+00:00",
-      "score": 9.6
+      "timestamp": "2026-01-29T13:16:12.327010+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-01-29T11:47:31.189945+00:00",
-      "score": 9.9
+      "timestamp": "2026-01-29T14:21:35.810676+00:00",
+      "score": 11.0
     },
     {
-      "timestamp": "2026-01-29T12:35:10.446198+00:00",
-      "score": 10.2
+      "timestamp": "2026-01-29T15:26:59.294342+00:00",
+      "score": 11.4
     }
   ]
 }
