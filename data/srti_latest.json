@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-29T02:45:29.515743+00:00",
+  "fetched_at": "2026-01-29T04:45:34.856325+00:00",
   "window_hours": 72,
-  "score": 8.6,
+  "score": 8.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 15.0,
-    "civilian_risk": 5.5
+    "conflict_intensity": 14.7,
+    "civilian_risk": 5.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.91,
+      "score": 0.88,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://allafrica.com/stories/202601270044.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-27T05:09:32+00:00",
-      "score": 0.4,
+      "score": 0.38,
       "tags": [
         "civilian_risk"
       ],
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-29T05:55:32.972060+00:00",
-      "score": 6.4
+      "timestamp": "2026-01-29T06:45:40.196907+00:00",
+      "score": 7.0
     },
     {
-      "timestamp": "2026-01-29T09:05:36.428377+00:00",
-      "score": 6.5
+      "timestamp": "2026-01-29T08:45:45.537489+00:00",
+      "score": 7.2
     },
     {
-      "timestamp": "2026-01-29T12:15:39.884694+00:00",
-      "score": 6.7
+      "timestamp": "2026-01-29T10:45:50.878071+00:00",
+      "score": 7.4
     },
     {
-      "timestamp": "2026-01-29T15:25:43.341011+00:00",
-      "score": 6.8
+      "timestamp": "2026-01-29T12:45:56.218653+00:00",
+      "score": 7.5
     },
     {
-      "timestamp": "2026-01-29T18:35:46.797328+00:00",
-      "score": 6.9
+      "timestamp": "2026-01-29T14:46:01.559235+00:00",
+      "score": 7.7
     },
     {
-      "timestamp": "2026-01-29T21:45:50.253645+00:00",
-      "score": 7.1
+      "timestamp": "2026-01-29T16:46:06.899817+00:00",
+      "score": 7.9
     }
   ]
 }
