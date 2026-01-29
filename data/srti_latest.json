@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-01-29T11:39:45.067400+00:00",
+  "fetched_at": "2026-01-29T13:18:20.572399+00:00",
   "window_hours": 72,
-  "score": 11.3,
+  "score": 14.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 20.5,
-    "civilian_risk": 5.3
+    "conflict_intensity": 19.9,
+    "civilian_risk": 22.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 94
+      "items": 99
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Lagos protesters denounce the destruction of floating Makoko slum",
+      "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-29T12:01:05+00:00",
+      "score": 1.24,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Gunfire and explosions heard near airport in Niger\u2019s capital, residents say",
       "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.92,
+      "score": 0.9,
       "tags": [
         "conflict_intensity"
       ],
@@ -115,7 +128,7 @@
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.79,
+      "score": 0.76,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,28 +152,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-29T12:28:50.310910+00:00",
-      "score": 11.8
+      "timestamp": "2026-01-29T14:56:56.077398+00:00",
+      "score": 12.9
     },
     {
-      "timestamp": "2026-01-29T13:17:55.554420+00:00",
-      "score": 12.3
+      "timestamp": "2026-01-29T16:35:31.582397+00:00",
+      "score": 13.3
     },
     {
-      "timestamp": "2026-01-29T14:07:00.797930+00:00",
-      "score": 12.7
+      "timestamp": "2026-01-29T18:14:07.087396+00:00",
+      "score": 13.8
     },
     {
-      "timestamp": "2026-01-29T14:56:06.041440+00:00",
-      "score": 13.1
+      "timestamp": "2026-01-29T19:52:42.592395+00:00",
+      "score": 14.3
     },
     {
-      "timestamp": "2026-01-29T15:45:11.284950+00:00",
-      "score": 13.5
+      "timestamp": "2026-01-29T21:31:18.097394+00:00",
+      "score": 14.7
     },
     {
-      "timestamp": "2026-01-29T16:34:16.528460+00:00",
-      "score": 13.9
+      "timestamp": "2026-01-29T23:09:53.602393+00:00",
+      "score": 15.2
     }
   ]
 }
