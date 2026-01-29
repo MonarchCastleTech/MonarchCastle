@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-29T15:47:51.052254+00:00",
+  "fetched_at": "2026-01-29T16:54:53.024808+00:00",
   "window_hours": 72,
-  "score": 33.6,
+  "score": 33.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 52.4,
-    "civilian_risk": 36.9
+    "conflict_intensity": 51.7,
+    "civilian_risk": 36.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 97
+      "items": 100
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 2.71,
+      "score": 2.67,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T12:01:05+00:00",
-      "score": 1.19,
+      "score": 1.17,
       "tags": [
         "civilian_risk"
       ],
@@ -125,7 +125,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-29T15:47:51.052254+00:00",
+      "published_at": "2026-01-29T16:54:53.024808+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.86,
+      "score": 0.85,
       "tags": [
         "conflict_intensity"
       ],
@@ -156,7 +156,7 @@
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.73,
+      "score": 0.71,
       "tags": [
         "conflict_intensity"
       ],
@@ -180,28 +180,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-29T16:45:14.025433+00:00",
-      "score": 20.8
+      "timestamp": "2026-01-29T18:01:54.997362+00:00",
+      "score": 24.2
     },
     {
-      "timestamp": "2026-01-29T17:42:36.998612+00:00",
-      "score": 21.7
+      "timestamp": "2026-01-29T19:08:56.969916+00:00",
+      "score": 25.2
     },
     {
-      "timestamp": "2026-01-29T18:39:59.971791+00:00",
-      "score": 22.6
+      "timestamp": "2026-01-29T20:15:58.942470+00:00",
+      "score": 26.3
     },
     {
-      "timestamp": "2026-01-29T19:37:22.944970+00:00",
-      "score": 23.5
+      "timestamp": "2026-01-29T21:23:00.915024+00:00",
+      "score": 27.4
     },
     {
-      "timestamp": "2026-01-29T20:34:45.918149+00:00",
-      "score": 24.4
+      "timestamp": "2026-01-29T22:30:02.887578+00:00",
+      "score": 28.4
     },
     {
-      "timestamp": "2026-01-29T21:32:08.891328+00:00",
-      "score": 25.3
+      "timestamp": "2026-01-29T23:37:04.860132+00:00",
+      "score": 29.5
     }
   ]
 }
