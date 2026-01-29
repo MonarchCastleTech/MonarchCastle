@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-01-29T13:18:20.572399+00:00",
+  "fetched_at": "2026-01-29T14:50:28.079075+00:00",
   "window_hours": 72,
-  "score": 14.5,
-  "risk_level": "LOW",
+  "score": 33.9,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 19.9,
-    "civilian_risk": 22.6
+    "conflict_intensity": 52.9,
+    "civilian_risk": 37.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 5
+      "items": 6
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -94,11 +94,26 @@
   ],
   "top_headlines": [
     {
+      "title": "Attack On Niamey Airport, Where There Are a Thousand Tons of Uranium",
+      "link": "https://allafrica.com/stories/202601290504.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-01-29T14:33:58+00:00",
+      "score": 2.75,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "Lagos protesters denounce the destruction of floating Makoko slum",
       "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T12:01:05+00:00",
-      "score": 1.24,
+      "score": 1.21,
       "tags": [
         "civilian_risk"
       ],
@@ -107,11 +122,24 @@
       ]
     },
     {
+      "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
+      "link": "https://lefaso.net/spip.php?article144087",
+      "source": "LeFaso",
+      "published_at": "2026-01-29T14:50:28.079075+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Gunfire and explosions heard near airport in Niger\u2019s capital, residents say",
       "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.9,
+      "score": 0.88,
       "tags": [
         "conflict_intensity"
       ],
@@ -128,7 +156,7 @@
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.76,
+      "score": 0.74,
       "tags": [
         "conflict_intensity"
       ],
@@ -152,28 +180,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-29T14:56:56.077398+00:00",
-      "score": 12.9
+      "timestamp": "2026-01-29T16:22:35.585751+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-01-29T16:35:31.582397+00:00",
-      "score": 13.3
+      "timestamp": "2026-01-29T17:54:43.092427+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-01-29T18:14:07.087396+00:00",
-      "score": 13.8
+      "timestamp": "2026-01-29T19:26:50.599103+00:00",
+      "score": 18.4
     },
     {
-      "timestamp": "2026-01-29T19:52:42.592395+00:00",
-      "score": 14.3
+      "timestamp": "2026-01-29T20:58:58.105779+00:00",
+      "score": 19.1
     },
     {
-      "timestamp": "2026-01-29T21:31:18.097394+00:00",
-      "score": 14.7
+      "timestamp": "2026-01-29T22:31:05.612455+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-01-29T23:09:53.602393+00:00",
-      "score": 15.2
+      "timestamp": "2026-01-30T00:03:13.119131+00:00",
+      "score": 20.5
     }
   ]
 }
