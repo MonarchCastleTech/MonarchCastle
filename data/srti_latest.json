@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-01-29T07:01:35.652427+00:00",
+  "fetched_at": "2026-01-29T07:49:14.908680+00:00",
   "window_hours": 72,
-  "score": 6.2,
+  "score": 11.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 10.2,
+    "conflict_intensity": 21.7,
     "civilian_risk": 5.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -94,11 +94,28 @@
   ],
   "top_headlines": [
     {
+      "title": "Gunfire and explosions heard near airport in Niger\u2019s capital, residents say",
+      "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-29T07:12:28+00:00",
+      "score": 0.97,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "niger",
+        "burkina",
+        "burkina faso",
+        "niamey"
+      ]
+    },
+    {
       "title": "Nigerian police fire tear gas, protester injured in Lagos floating slum protests",
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.85,
+      "score": 0.84,
       "tags": [
         "conflict_intensity"
       ],
@@ -122,28 +139,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-29T08:09:22.643711+00:00",
-      "score": 7.8
-    },
-    {
-      "timestamp": "2026-01-29T09:17:09.634995+00:00",
-      "score": 8.0
-    },
-    {
-      "timestamp": "2026-01-29T10:24:56.626279+00:00",
-      "score": 8.2
-    },
-    {
-      "timestamp": "2026-01-29T11:32:43.617563+00:00",
-      "score": 8.4
-    },
-    {
-      "timestamp": "2026-01-29T12:40:30.608847+00:00",
-      "score": 8.6
-    },
-    {
-      "timestamp": "2026-01-29T13:48:17.600131+00:00",
+      "timestamp": "2026-01-29T08:36:54.164933+00:00",
       "score": 8.8
+    },
+    {
+      "timestamp": "2026-01-29T09:24:33.421186+00:00",
+      "score": 9.1
+    },
+    {
+      "timestamp": "2026-01-29T10:12:12.677439+00:00",
+      "score": 9.3
+    },
+    {
+      "timestamp": "2026-01-29T10:59:51.933692+00:00",
+      "score": 9.6
+    },
+    {
+      "timestamp": "2026-01-29T11:47:31.189945+00:00",
+      "score": 9.9
+    },
+    {
+      "timestamp": "2026-01-29T12:35:10.446198+00:00",
+      "score": 10.2
     }
   ]
 }
