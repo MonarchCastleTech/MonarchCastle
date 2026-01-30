@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-01-30T16:53:10.614753+00:00",
+  "fetched_at": "2026-01-30T17:42:57.227949+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 105
+      "items": 107
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 5.02,
+      "score": 4.94,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,36 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 4.08,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
-      "title": "Niger airport attacked by armed groups in first attack on strategic site",
-      "link": "https://www.france24.com/en/niger-airport-attacked-by-armed-groups-in-first-attack-on-strategic-site",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-30T13:57:08+00:00",
-      "score": 1.88,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
-      "title": "Attack On Niamey Airport, Where There Are a Thousand Tons of Uranium",
-      "link": "https://allafrica.com/stories/202601290504.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 1.75,
+      "score": 4.03,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -155,8 +126,8 @@
       "title": "Suspected jihadists attack airport near Niger's capital",
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-01-30T10:17:46+00:00",
-      "score": 1.74,
+      "published_at": "2026-01-30T17:25:09+00:00",
+      "score": 1.91,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -166,11 +137,40 @@
       ]
     },
     {
+      "title": "Niger airport attacked by armed groups in first attack on strategic site",
+      "link": "https://www.france24.com/en/niger-airport-attacked-by-armed-groups-in-first-attack-on-strategic-site",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-30T13:57:08+00:00",
+      "score": 1.86,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
+      "title": "Attack On Niamey Airport, Where There Are a Thousand Tons of Uranium",
+      "link": "https://allafrica.com/stories/202601290504.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-01-29T14:33:58+00:00",
+      "score": 1.72,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "Iraqi Politics in Ferment after Trump\u2019s Broadside",
       "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
       "source": "Crisis Group",
       "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 1.64,
+      "score": 1.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -183,7 +183,7 @@
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 1.52,
+      "score": 1.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -195,7 +195,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-30T16:53:10.614753+00:00",
+      "published_at": "2026-01-30T17:42:57.227949+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -207,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-30T17:59:39.981593+00:00",
-      "score": 80.2
+      "timestamp": "2026-01-30T18:32:43.841145+00:00",
+      "score": 80.0
     },
     {
-      "timestamp": "2026-01-30T19:06:09.348433+00:00",
-      "score": 82.6
+      "timestamp": "2026-01-30T19:22:30.454341+00:00",
+      "score": 82.1
     },
     {
-      "timestamp": "2026-01-30T20:12:38.715273+00:00",
-      "score": 84.9
+      "timestamp": "2026-01-30T20:12:17.067537+00:00",
+      "score": 84.3
     },
     {
-      "timestamp": "2026-01-30T21:19:08.082113+00:00",
-      "score": 87.2
+      "timestamp": "2026-01-30T21:02:03.680733+00:00",
+      "score": 86.4
     },
     {
-      "timestamp": "2026-01-30T22:25:37.448953+00:00",
-      "score": 89.6
+      "timestamp": "2026-01-30T21:51:50.293929+00:00",
+      "score": 88.5
     },
     {
-      "timestamp": "2026-01-30T23:32:06.815793+00:00",
-      "score": 91.9
+      "timestamp": "2026-01-30T22:41:36.907125+00:00",
+      "score": 90.7
     }
   ]
 }
