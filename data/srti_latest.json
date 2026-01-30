@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-30T02:46:40.726555+00:00",
+  "fetched_at": "2026-01-30T04:48:08.446175+00:00",
   "window_hours": 72,
-  "score": 63.9,
+  "score": 62.0,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 89.0,
-    "civilian_risk": 96.9
+    "conflict_intensity": 86.5,
+    "civilian_risk": 94.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 6.34,
+      "score": 6.15,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 2.29,
+      "score": 2.21,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T02:36:16+00:00",
-      "score": 1.92,
+      "score": 1.86,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-30T02:46:40.726555+00:00",
+      "published_at": "2026-01-30T04:48:08.446175+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T12:01:05+00:00",
-      "score": 1.0,
+      "score": 0.97,
       "tags": [
         "civilian_risk"
       ],
@@ -167,7 +167,7 @@
       "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.71,
+      "score": 0.69,
       "tags": [
         "conflict_intensity"
       ],
@@ -184,7 +184,7 @@
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.58,
+      "score": 0.55,
       "tags": [
         "conflict_intensity"
       ],
@@ -208,28 +208,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-30T05:57:46.832662+00:00",
-      "score": 47.5
+      "timestamp": "2026-01-30T06:49:36.165795+00:00",
+      "score": 52.7
     },
     {
-      "timestamp": "2026-01-30T09:08:52.938769+00:00",
-      "score": 49.5
+      "timestamp": "2026-01-30T08:51:03.885415+00:00",
+      "score": 55.0
     },
     {
-      "timestamp": "2026-01-30T12:19:59.044876+00:00",
-      "score": 51.4
+      "timestamp": "2026-01-30T10:52:31.605035+00:00",
+      "score": 57.2
     },
     {
-      "timestamp": "2026-01-30T15:31:05.150983+00:00",
-      "score": 53.4
+      "timestamp": "2026-01-30T12:53:59.324655+00:00",
+      "score": 59.4
     },
     {
-      "timestamp": "2026-01-30T18:42:11.257090+00:00",
-      "score": 55.4
+      "timestamp": "2026-01-30T14:55:27.044275+00:00",
+      "score": 61.7
     },
     {
-      "timestamp": "2026-01-30T21:53:17.363197+00:00",
-      "score": 57.4
+      "timestamp": "2026-01-30T16:56:54.763895+00:00",
+      "score": 63.9
     }
   ]
 }
