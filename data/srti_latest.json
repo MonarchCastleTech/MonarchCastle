@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-01-30T08:52:53.030996+00:00",
+  "fetched_at": "2026-01-30T09:51:14.498663+00:00",
   "window_hours": 72,
-  "score": 60.2,
+  "score": 65.0,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 81.5,
-    "civilian_risk": 97.4
+    "conflict_intensity": 90.1,
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 100
+      "items": 99
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 5.77,
+      "score": 5.68,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 2.06,
+      "score": 2.02,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T02:36:16+00:00",
-      "score": 1.75,
+      "score": 1.73,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-30T08:52:53.030996+00:00",
+      "published_at": "2026-01-30T09:51:14.498663+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 1.02,
+      "score": 1.01,
       "tags": [
         "civilian_risk"
       ],
@@ -164,10 +164,10 @@
       ]
     },
     {
-      "title": "Lagos protesters denounce the destruction of floating Makoko slum",
-      "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-29T12:01:05+00:00",
+      "title": "Joshua pays emotional tribute to friends killed in Nigeria car crash",
+      "link": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-01-29T21:03:18+00:00",
       "score": 0.89,
       "tags": [
         "civilian_risk"
@@ -177,28 +177,24 @@
       ]
     },
     {
-      "title": "Gunfire and explosions heard near airport in Niger\u2019s capital, residents say",
-      "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
+      "title": "Lagos protesters denounce the destruction of floating Makoko slum",
+      "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
       "source": "France 24 - Africa",
-      "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.63,
+      "published_at": "2026-01-29T12:01:05+00:00",
+      "score": 0.88,
       "tags": [
-        "conflict_intensity"
+        "civilian_risk"
       ],
       "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso",
-        "niamey"
+        "niger"
       ]
     },
     {
-      "title": "Nigerian police fire tear gas, injuring protester in Lagos floating slum protests",
-      "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
+      "title": "Across Africa: 'Mothers of Chibok', a story of sadness and strength",
+      "link": "https://www.france24.com/en/across-africa-the-mothers-of-chibok-s-story-of-sadness-and-strength",
       "source": "France 24 - Africa",
-      "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.5,
+      "published_at": "2026-01-29T21:52:38+00:00",
+      "score": 0.82,
       "tags": [
         "conflict_intensity"
       ],
@@ -209,28 +205,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-30T09:55:33.767592+00:00",
-      "score": 67.6
+      "timestamp": "2026-01-30T10:49:35.966330+00:00",
+      "score": 70.4
     },
     {
-      "timestamp": "2026-01-30T10:58:14.504188+00:00",
-      "score": 70.3
+      "timestamp": "2026-01-30T11:47:57.433997+00:00",
+      "score": 73.1
     },
     {
-      "timestamp": "2026-01-30T12:00:55.240784+00:00",
-      "score": 73.0
+      "timestamp": "2026-01-30T12:46:18.901664+00:00",
+      "score": 75.9
     },
     {
-      "timestamp": "2026-01-30T13:03:35.977380+00:00",
-      "score": 75.7
+      "timestamp": "2026-01-30T13:44:40.369331+00:00",
+      "score": 78.6
     },
     {
-      "timestamp": "2026-01-30T14:06:16.713976+00:00",
-      "score": 78.4
+      "timestamp": "2026-01-30T14:43:01.836998+00:00",
+      "score": 81.4
     },
     {
-      "timestamp": "2026-01-30T15:08:57.450572+00:00",
-      "score": 81.1
+      "timestamp": "2026-01-30T15:41:23.304665+00:00",
+      "score": 84.1
     }
   ]
 }
