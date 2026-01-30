@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-01-30T11:36:59.455560+00:00",
+  "fetched_at": "2026-01-30T13:16:01.834809+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 12,
+  "items_count": 13,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 96
+      "items": 99
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31
+      "items": 32
     },
     {
       "name": "UN News Africa",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 8
+      "items": 9
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 5.51,
+      "score": 5.36,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 1.95,
+      "score": 1.89,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T10:17:46+00:00",
-      "score": 1.88,
+      "score": 1.84,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -141,7 +141,7 @@
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 1.64,
+      "score": 1.6,
       "tags": [
         "conflict_intensity"
       ],
@@ -153,7 +153,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-30T11:36:59.455560+00:00",
+      "published_at": "2026-01-30T13:16:01.834809+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,7 +167,7 @@
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.98,
+      "score": 0.96,
       "tags": [
         "civilian_risk"
       ],
@@ -181,7 +181,7 @@
       "link": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-29T21:03:18+00:00",
-      "score": 0.86,
+      "score": 0.84,
       "tags": [
         "civilian_risk"
       ],
@@ -190,43 +190,44 @@
       ]
     },
     {
-      "title": "Lagos protesters denounce the destruction of floating Makoko slum",
-      "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-29T12:01:05+00:00",
-      "score": 0.85,
+      "title": "Niger Accuses France, Benin and Cote d'Ivoire of Sponsoring Airport Attack",
+      "link": "https://allafrica.com/stories/202601300375.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-01-30T11:59:35+00:00",
+      "score": 0.83,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "niger"
+        "niger",
+        "niamey"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-30T12:25:51.043337+00:00",
-      "score": 75.9
+      "timestamp": "2026-01-30T14:55:04.214058+00:00",
+      "score": 78.0
     },
     {
-      "timestamp": "2026-01-30T13:14:42.631114+00:00",
-      "score": 78.7
+      "timestamp": "2026-01-30T16:34:06.593307+00:00",
+      "score": 80.7
     },
     {
-      "timestamp": "2026-01-30T14:03:34.218891+00:00",
-      "score": 81.5
+      "timestamp": "2026-01-30T18:13:08.972556+00:00",
+      "score": 83.5
     },
     {
-      "timestamp": "2026-01-30T14:52:25.806668+00:00",
-      "score": 84.3
+      "timestamp": "2026-01-30T19:52:11.351805+00:00",
+      "score": 86.2
     },
     {
-      "timestamp": "2026-01-30T15:41:17.394445+00:00",
-      "score": 87.1
+      "timestamp": "2026-01-30T21:31:13.731054+00:00",
+      "score": 89.0
     },
     {
-      "timestamp": "2026-01-30T16:30:08.982222+00:00",
-      "score": 89.8
+      "timestamp": "2026-01-30T23:10:16.110303+00:00",
+      "score": 91.7
     }
   ]
 }
