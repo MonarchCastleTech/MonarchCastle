@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-01-30T17:42:57.227949+00:00",
+  "fetched_at": "2026-01-30T18:57:25.954371+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 17,
+  "items_count": 16,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 107
+      "items": 106
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31
+      "items": 32
     },
     {
       "name": "UN News Africa",
@@ -71,7 +71,7 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 30
+      "items": 29
     },
     {
       "name": "AllAfrica - Mali",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 4.94,
+      "score": 4.83,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 4.03,
+      "score": 3.96,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T17:25:09+00:00",
-      "score": 1.91,
+      "score": 1.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -137,25 +137,11 @@
       ]
     },
     {
-      "title": "Niger airport attacked by armed groups in first attack on strategic site",
-      "link": "https://www.france24.com/en/niger-airport-attacked-by-armed-groups-in-first-attack-on-strategic-site",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-30T13:57:08+00:00",
-      "score": 1.86,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
       "title": "Attack On Niamey Airport, Where There Are a Thousand Tons of Uranium",
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 1.72,
+      "score": 1.67,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -170,7 +156,7 @@
       "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
       "source": "Crisis Group",
       "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 1.62,
+      "score": 1.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -183,7 +169,7 @@
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 1.5,
+      "score": 1.47,
       "tags": [
         "conflict_intensity"
       ],
@@ -195,7 +181,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-30T17:42:57.227949+00:00",
+      "published_at": "2026-01-30T18:57:25.954371+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -203,32 +189,46 @@
       "regions": [
         "burkina"
       ]
+    },
+    {
+      "title": "Deutsche Welle Correspondent Arrested in Niamey",
+      "link": "https://allafrica.com/stories/202601300045.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-01-30T05:07:34+00:00",
+      "score": 0.87,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-30T18:32:43.841145+00:00",
-      "score": 80.0
+      "timestamp": "2026-01-30T20:11:54.680793+00:00",
+      "score": 81.0
     },
     {
-      "timestamp": "2026-01-30T19:22:30.454341+00:00",
-      "score": 82.1
+      "timestamp": "2026-01-30T21:26:23.407215+00:00",
+      "score": 83.1
     },
     {
-      "timestamp": "2026-01-30T20:12:17.067537+00:00",
-      "score": 84.3
+      "timestamp": "2026-01-30T22:40:52.133637+00:00",
+      "score": 85.2
     },
     {
-      "timestamp": "2026-01-30T21:02:03.680733+00:00",
-      "score": 86.4
+      "timestamp": "2026-01-30T23:55:20.860059+00:00",
+      "score": 87.3
     },
     {
-      "timestamp": "2026-01-30T21:51:50.293929+00:00",
-      "score": 88.5
+      "timestamp": "2026-01-31T01:09:49.586481+00:00",
+      "score": 89.4
     },
     {
-      "timestamp": "2026-01-30T22:41:36.907125+00:00",
-      "score": 90.7
+      "timestamp": "2026-01-31T02:24:18.312903+00:00",
+      "score": 91.5
     }
   ]
 }
