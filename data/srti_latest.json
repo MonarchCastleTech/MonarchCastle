@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-30T07:50:12.294400+00:00",
+  "fetched_at": "2026-01-30T08:52:53.030996+00:00",
   "window_hours": 72,
-  "score": 61.2,
+  "score": 60.2,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 82.8,
-    "civilian_risk": 99.0
+    "conflict_intensity": 81.5,
+    "civilian_risk": 97.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 5.87,
+      "score": 5.77,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 2.1,
+      "score": 2.06,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T02:36:16+00:00",
-      "score": 1.78,
+      "score": 1.75,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-30T07:50:12.294400+00:00",
+      "published_at": "2026-01-30T08:52:53.030996+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 1.04,
+      "score": 1.02,
       "tags": [
         "civilian_risk"
       ],
@@ -168,7 +168,7 @@
       "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T12:01:05+00:00",
-      "score": 0.91,
+      "score": 0.89,
       "tags": [
         "civilian_risk"
       ],
@@ -181,7 +181,7 @@
       "link": "https://www.france24.com/en/africa/20260129-gunfire-explosions-heard-near-airport-niger-capital-residents-say",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T07:12:28+00:00",
-      "score": 0.64,
+      "score": 0.63,
       "tags": [
         "conflict_intensity"
       ],
@@ -198,7 +198,7 @@
       "link": "https://www.france24.com/en/nigerian-police-fire-tear-gas-protester-injured-in-lagos-floating-slum-protests",
       "source": "France 24 - Africa",
       "published_at": "2026-01-28T21:23:49+00:00",
-      "score": 0.51,
+      "score": 0.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -209,28 +209,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-30T08:37:12.077412+00:00",
-      "score": 65.0
-    },
-    {
-      "timestamp": "2026-01-30T09:24:11.860424+00:00",
+      "timestamp": "2026-01-30T09:55:33.767592+00:00",
       "score": 67.6
     },
     {
-      "timestamp": "2026-01-30T10:11:11.643436+00:00",
+      "timestamp": "2026-01-30T10:58:14.504188+00:00",
       "score": 70.3
     },
     {
-      "timestamp": "2026-01-30T10:58:11.426448+00:00",
+      "timestamp": "2026-01-30T12:00:55.240784+00:00",
       "score": 73.0
     },
     {
-      "timestamp": "2026-01-30T11:45:11.209460+00:00",
+      "timestamp": "2026-01-30T13:03:35.977380+00:00",
       "score": 75.7
     },
     {
-      "timestamp": "2026-01-30T12:32:10.992472+00:00",
-      "score": 78.3
+      "timestamp": "2026-01-30T14:06:16.713976+00:00",
+      "score": 78.4
+    },
+    {
+      "timestamp": "2026-01-30T15:08:57.450572+00:00",
+      "score": 81.1
     }
   ]
 }
