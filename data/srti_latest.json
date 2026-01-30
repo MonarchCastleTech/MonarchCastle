@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-01-30T13:16:01.834809+00:00",
+  "fetched_at": "2026-01-30T14:46:04.836863+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,7 +11,7 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 13,
+  "items_count": 14,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 99
+      "items": 101
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32
+      "items": 31
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 5.36,
+      "score": 5.22,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,11 +108,25 @@
       ]
     },
     {
+      "title": "Niger airport attacked by armed groups in first attack on strategic site",
+      "link": "https://www.france24.com/en/niger-airport-attacked-by-armed-groups-in-first-attack-on-strategic-site",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-30T13:57:08+00:00",
+      "score": 1.94,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "Attack On Niamey Airport, Where There Are a Thousand Tons of Uranium",
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 1.89,
+      "score": 1.83,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +141,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T10:17:46+00:00",
-      "score": 1.84,
+      "score": 1.8,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -141,7 +155,7 @@
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 1.6,
+      "score": 1.57,
       "tags": [
         "conflict_intensity"
       ],
@@ -153,7 +167,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-30T13:16:01.834809+00:00",
+      "published_at": "2026-01-30T14:46:04.836863+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,7 +181,7 @@
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.96,
+      "score": 0.94,
       "tags": [
         "civilian_risk"
       ],
@@ -181,53 +195,39 @@
       "link": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-29T21:03:18+00:00",
-      "score": 0.84,
+      "score": 0.81,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "Niger Accuses France, Benin and Cote d'Ivoire of Sponsoring Airport Attack",
-      "link": "https://allafrica.com/stories/202601300375.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-01-30T11:59:35+00:00",
-      "score": 0.83,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-30T14:55:04.214058+00:00",
-      "score": 78.0
+      "timestamp": "2026-01-30T16:16:07.838917+00:00",
+      "score": 79.4
     },
     {
-      "timestamp": "2026-01-30T16:34:06.593307+00:00",
-      "score": 80.7
+      "timestamp": "2026-01-30T17:46:10.840971+00:00",
+      "score": 82.0
     },
     {
-      "timestamp": "2026-01-30T18:13:08.972556+00:00",
-      "score": 83.5
+      "timestamp": "2026-01-30T19:16:13.843025+00:00",
+      "score": 84.7
     },
     {
-      "timestamp": "2026-01-30T19:52:11.351805+00:00",
-      "score": 86.2
+      "timestamp": "2026-01-30T20:46:16.845079+00:00",
+      "score": 87.4
     },
     {
-      "timestamp": "2026-01-30T21:31:13.731054+00:00",
-      "score": 89.0
+      "timestamp": "2026-01-30T22:16:19.847133+00:00",
+      "score": 90.0
     },
     {
-      "timestamp": "2026-01-30T23:10:16.110303+00:00",
-      "score": 91.7
+      "timestamp": "2026-01-30T23:46:22.849187+00:00",
+      "score": 92.7
     }
   ]
 }
