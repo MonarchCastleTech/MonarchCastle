@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-01-30T14:46:04.836863+00:00",
+  "fetched_at": "2026-01-30T15:46:41.247913+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 14,
+  "items_count": 16,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 101
+      "items": 103
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 5.22,
+      "score": 5.12,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,11 +108,26 @@
       ]
     },
     {
+      "title": "Islamic State group claims deadly attack on Niamey airport in Niger",
+      "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-30T14:49:59+00:00",
+      "score": 4.14,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "Niger airport attacked by armed groups in first attack on strategic site",
       "link": "https://www.france24.com/en/niger-airport-attacked-by-armed-groups-in-first-attack-on-strategic-site",
       "source": "France 24 - Africa",
       "published_at": "2026-01-30T13:57:08+00:00",
-      "score": 1.94,
+      "score": 1.91,
       "tags": [
         "conflict_intensity"
       ],
@@ -126,7 +141,7 @@
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 1.83,
+      "score": 1.79,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -141,7 +156,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T10:17:46+00:00",
-      "score": 1.8,
+      "score": 1.77,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,11 +166,24 @@
       ]
     },
     {
+      "title": "Iraqi Politics in Ferment after Trump\u2019s Broadside",
+      "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
+      "source": "Crisis Group",
+      "published_at": "2026-01-30T14:58:54+00:00",
+      "score": 1.66,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Heavy Security Near Niger Capital's Airport After Gunfire, Blasts",
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 1.57,
+      "score": 1.54,
       "tags": [
         "conflict_intensity"
       ],
@@ -167,7 +195,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-30T14:46:04.836863+00:00",
+      "published_at": "2026-01-30T15:46:41.247913+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -175,59 +203,32 @@
       "regions": [
         "burkina"
       ]
-    },
-    {
-      "title": "Deutsche Welle Correspondent Arrested in Niamey",
-      "link": "https://allafrica.com/stories/202601300045.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.94,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
-      "title": "Joshua pays emotional tribute to friends killed in Nigeria car crash",
-      "link": "https://www.bbc.com/sport/boxing/articles/c4g0y415qlko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-01-29T21:03:18+00:00",
-      "score": 0.81,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-30T16:16:07.838917+00:00",
-      "score": 79.4
+      "timestamp": "2026-01-30T16:47:17.658963+00:00",
+      "score": 80.1
     },
     {
-      "timestamp": "2026-01-30T17:46:10.840971+00:00",
-      "score": 82.0
+      "timestamp": "2026-01-30T17:47:54.070013+00:00",
+      "score": 82.6
     },
     {
-      "timestamp": "2026-01-30T19:16:13.843025+00:00",
-      "score": 84.7
+      "timestamp": "2026-01-30T18:48:30.481063+00:00",
+      "score": 85.2
     },
     {
-      "timestamp": "2026-01-30T20:46:16.845079+00:00",
-      "score": 87.4
+      "timestamp": "2026-01-30T19:49:06.892113+00:00",
+      "score": 87.7
     },
     {
-      "timestamp": "2026-01-30T22:16:19.847133+00:00",
-      "score": 90.0
+      "timestamp": "2026-01-30T20:49:43.303163+00:00",
+      "score": 90.2
     },
     {
-      "timestamp": "2026-01-30T23:46:22.849187+00:00",
-      "score": 92.7
+      "timestamp": "2026-01-30T21:50:19.714213+00:00",
+      "score": 92.8
     }
   ]
 }
