@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-31T09:37:26.906870+00:00",
+  "fetched_at": "2026-01-31T10:36:14.405001+00:00",
   "window_hours": 72,
-  "score": 64.7,
+  "score": 64.4,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 73.7
+    "civilian_risk": 71.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 3.46,
+      "score": 3.37,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 3.1,
+      "score": 3.05,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T17:25:09+00:00",
-      "score": 1.49,
+      "score": 1.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -141,7 +141,7 @@
       "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
       "source": "Crisis Group",
       "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 1.25,
+      "score": 1.22,
       "tags": [
         "conflict_intensity"
       ],
@@ -150,23 +150,10 @@
       ]
     },
     {
-      "title": "Heavy Security Near Niger Capital's Airport After Gunfire, Blasts",
-      "link": "https://allafrica.com/stories/202601300204.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 1.13,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-31T09:37:26.906870+00:00",
+      "published_at": "2026-01-31T10:36:14.405001+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,11 +163,24 @@
       ]
     },
     {
+      "title": "Heavy Security Near Niger Capital's Airport After Gunfire, Blasts",
+      "link": "https://allafrica.com/stories/202601300204.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-01-30T09:59:27+00:00",
+      "score": 1.11,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Attack On Niamey Airport, Where There Are a Thousand Tons of Uranium",
       "link": "https://allafrica.com/stories/202601290504.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-29T14:33:58+00:00",
-      "score": 1.11,
+      "score": 1.07,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -195,7 +195,7 @@
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.65,
+      "score": 0.64,
       "tags": [
         "civilian_risk"
       ],
@@ -207,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-31T10:33:41.989383+00:00",
-      "score": 69.4
+      "timestamp": "2026-01-31T11:35:01.903132+00:00",
+      "score": 68.3
     },
     {
-      "timestamp": "2026-01-31T11:29:57.071896+00:00",
-      "score": 69.5
+      "timestamp": "2026-01-31T12:33:49.401263+00:00",
+      "score": 68.3
     },
     {
-      "timestamp": "2026-01-31T12:26:12.154409+00:00",
-      "score": 69.7
+      "timestamp": "2026-01-31T13:32:36.899394+00:00",
+      "score": 68.3
     },
     {
-      "timestamp": "2026-01-31T13:22:27.236922+00:00",
-      "score": 69.8
+      "timestamp": "2026-01-31T14:31:24.397525+00:00",
+      "score": 68.3
     },
     {
-      "timestamp": "2026-01-31T14:18:42.319435+00:00",
-      "score": 69.9
+      "timestamp": "2026-01-31T15:30:11.895656+00:00",
+      "score": 68.4
     },
     {
-      "timestamp": "2026-01-31T15:14:57.401948+00:00",
-      "score": 70.0
+      "timestamp": "2026-01-31T16:28:59.393787+00:00",
+      "score": 68.4
     }
   ]
 }
