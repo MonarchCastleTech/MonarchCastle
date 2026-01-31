@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-31T22:33:26.314329+00:00",
+  "fetched_at": "2026-01-31T23:32:11.299316+00:00",
   "window_hours": 72,
-  "score": 61.1,
+  "score": 60.4,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 100.0,
-    "civilian_risk": 55.3
+    "conflict_intensity": 99.0,
+    "civilian_risk": 54.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 67
     },
     {
       "name": "ActuNiger",
@@ -94,21 +94,6 @@
   ],
   "top_headlines": [
     {
-      "title": "Islamic State group claims deadly attack on Niamey airport in Niger",
-      "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 2.35,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
       "title": "Deadly jihadist attack kills dozens in northeast Nigeria, including soldiers",
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
@@ -123,30 +108,45 @@
       ]
     },
     {
-      "title": "Suspected jihadists attack airport near Niger's capital",
-      "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-01-30T17:25:09+00:00",
-      "score": 1.14,
+      "title": "Islamic State group claims deadly attack on Niamey airport in Niger",
+      "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-30T14:49:59+00:00",
+      "score": 2.29,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
       ],
       "regions": [
-        "niger"
+        "niger",
+        "niamey"
       ]
     },
     {
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-31T22:33:26.314329+00:00",
+      "published_at": "2026-01-31T23:32:11.299316+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "burkina"
+      ]
+    },
+    {
+      "title": "Suspected jihadists attack airport near Niger's capital",
+      "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-01-30T17:25:09+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
       ]
     },
     {
@@ -169,7 +169,7 @@
       "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
       "source": "Crisis Group",
       "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 0.94,
+      "score": 0.92,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,7 +182,7 @@
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 0.83,
+      "score": 0.8,
       "tags": [
         "conflict_intensity"
       ],
@@ -191,44 +191,43 @@
       ]
     },
     {
-      "title": "Deutsche Welle Correspondent Arrested in Niamey",
-      "link": "https://allafrica.com/stories/202601300045.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.46,
+      "title": "Lagos protesters denounce the destruction of floating Makoko slum",
+      "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-29T12:01:05+00:00",
+      "score": 0.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
-        "niger",
-        "niamey"
+        "niger"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-31T23:35:37.345676+00:00",
-      "score": 59.7
+      "timestamp": "2026-02-01T00:30:56.284303+00:00",
+      "score": 59.3
     },
     {
-      "timestamp": "2026-02-01T00:37:48.377023+00:00",
-      "score": 59.2
-    },
-    {
-      "timestamp": "2026-02-01T01:39:59.408370+00:00",
+      "timestamp": "2026-02-01T01:29:41.269290+00:00",
       "score": 58.8
     },
     {
-      "timestamp": "2026-02-01T02:42:10.439717+00:00",
+      "timestamp": "2026-02-01T02:28:26.254277+00:00",
       "score": 58.3
     },
     {
-      "timestamp": "2026-02-01T03:44:21.471064+00:00",
-      "score": 57.8
+      "timestamp": "2026-02-01T03:27:11.239264+00:00",
+      "score": 57.9
     },
     {
-      "timestamp": "2026-02-01T04:46:32.502411+00:00",
+      "timestamp": "2026-02-01T04:25:56.224251+00:00",
       "score": 57.4
+    },
+    {
+      "timestamp": "2026-02-01T05:24:41.209238+00:00",
+      "score": 57.0
     }
   ]
 }
