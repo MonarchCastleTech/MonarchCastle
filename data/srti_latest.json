@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-31T18:46:43.152891+00:00",
+  "fetched_at": "2026-01-31T19:28:58.145727+00:00",
   "window_hours": 72,
-  "score": 62.0,
+  "score": 61.8,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 59.8
+    "civilian_risk": 58.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 2.6,
+      "score": 2.54,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 2.57,
+      "score": 2.53,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T17:25:09+00:00",
-      "score": 1.24,
+      "score": 1.22,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-31T18:46:43.152891+00:00",
+      "published_at": "2026-01-31T19:28:58.145727+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
       "source": "Crisis Group",
       "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 1.03,
+      "score": 1.01,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,7 +182,7 @@
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 0.91,
+      "score": 0.9,
       "tags": [
         "conflict_intensity"
       ],
@@ -195,7 +195,7 @@
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.52,
+      "score": 0.5,
       "tags": [
         "civilian_risk"
       ],
@@ -207,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-31T20:00:05.683860+00:00",
-      "score": 61.7
+      "timestamp": "2026-01-31T20:11:13.138563+00:00",
+      "score": 61.1
     },
     {
-      "timestamp": "2026-01-31T21:13:28.214829+00:00",
-      "score": 61.2
+      "timestamp": "2026-01-31T20:53:28.131399+00:00",
+      "score": 60.7
     },
     {
-      "timestamp": "2026-01-31T22:26:50.745798+00:00",
-      "score": 60.8
+      "timestamp": "2026-01-31T21:35:43.124235+00:00",
+      "score": 60.2
     },
     {
-      "timestamp": "2026-01-31T23:40:13.276767+00:00",
-      "score": 60.4
+      "timestamp": "2026-01-31T22:17:58.117071+00:00",
+      "score": 59.8
     },
     {
-      "timestamp": "2026-02-01T00:53:35.807736+00:00",
-      "score": 60.0
+      "timestamp": "2026-01-31T23:00:13.109907+00:00",
+      "score": 59.4
     },
     {
-      "timestamp": "2026-02-01T02:06:58.338705+00:00",
-      "score": 59.6
+      "timestamp": "2026-01-31T23:42:28.102743+00:00",
+      "score": 58.9
     }
   ]
 }
