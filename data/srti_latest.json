@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-31T19:28:58.145727+00:00",
+  "fetched_at": "2026-01-31T20:35:58.644350+00:00",
   "window_hours": 72,
-  "score": 61.8,
+  "score": 61.4,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 58.8
+    "civilian_risk": 57.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -94,25 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "Deadly jihadist attack kills dozens in northeast Nigeria, including soldiers",
-      "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 2.54,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Islamic State group claims deadly attack on Niamey airport in Niger",
       "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 2.53,
+      "score": 2.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -123,11 +109,25 @@
       ]
     },
     {
+      "title": "Deadly jihadist attack kills dozens in northeast Nigeria, including soldiers",
+      "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-29T22:40:39+00:00",
+      "score": 2.43,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Suspected jihadists attack airport near Niger's capital",
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T17:25:09+00:00",
-      "score": 1.22,
+      "score": 1.2,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-31T19:28:58.145727+00:00",
+      "published_at": "2026-01-31T20:35:58.644350+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
       "source": "Crisis Group",
       "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 1.01,
+      "score": 0.99,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,7 +182,7 @@
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 0.9,
+      "score": 0.87,
       "tags": [
         "conflict_intensity"
       ],
@@ -195,7 +195,7 @@
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.5,
+      "score": 0.49,
       "tags": [
         "civilian_risk"
       ],
@@ -207,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-31T20:11:13.138563+00:00",
-      "score": 61.1
+      "timestamp": "2026-01-31T21:42:59.142973+00:00",
+      "score": 60.6
     },
     {
-      "timestamp": "2026-01-31T20:53:28.131399+00:00",
-      "score": 60.7
+      "timestamp": "2026-01-31T22:49:59.641596+00:00",
+      "score": 60.1
     },
     {
-      "timestamp": "2026-01-31T21:35:43.124235+00:00",
-      "score": 60.2
+      "timestamp": "2026-01-31T23:57:00.140219+00:00",
+      "score": 59.7
     },
     {
-      "timestamp": "2026-01-31T22:17:58.117071+00:00",
-      "score": 59.8
+      "timestamp": "2026-02-01T01:04:00.638842+00:00",
+      "score": 59.2
     },
     {
-      "timestamp": "2026-01-31T23:00:13.109907+00:00",
-      "score": 59.4
+      "timestamp": "2026-02-01T02:11:01.137465+00:00",
+      "score": 58.8
     },
     {
-      "timestamp": "2026-01-31T23:42:28.102743+00:00",
-      "score": 58.9
+      "timestamp": "2026-02-01T03:18:01.636088+00:00",
+      "score": 58.3
     }
   ]
 }
