@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-01-31T21:31:15.282982+00:00",
+  "fetched_at": "2026-01-31T22:33:26.314329+00:00",
   "window_hours": 72,
-  "score": 61.2,
+  "score": 61.1,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 56.0
+    "civilian_risk": 55.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 84
+      "items": 81
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 2.41,
+      "score": 2.35,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-01-30T17:25:09+00:00",
-      "score": 1.17,
+      "score": 1.14,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,26 +140,13 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-01-31T21:31:15.282982+00:00",
+      "published_at": "2026-01-31T22:33:26.314329+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "burkina"
-      ]
-    },
-    {
-      "title": "Iraqi Politics in Ferment after Trump\u2019s Broadside",
-      "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
-      "source": "Crisis Group",
-      "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 0.97,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
       ]
     },
     {
@@ -178,11 +165,24 @@
       ]
     },
     {
+      "title": "Iraqi Politics in Ferment after Trump\u2019s Broadside",
+      "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
+      "source": "Crisis Group",
+      "published_at": "2026-01-30T14:58:54+00:00",
+      "score": 0.94,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Heavy Security Near Niger Capital's Airport After Gunfire, Blasts",
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 0.85,
+      "score": 0.83,
       "tags": [
         "conflict_intensity"
       ],
@@ -195,7 +195,7 @@
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.47,
+      "score": 0.46,
       "tags": [
         "civilian_risk"
       ],
@@ -207,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-01-31T22:26:31.921614+00:00",
-      "score": 60.1
+      "timestamp": "2026-01-31T23:35:37.345676+00:00",
+      "score": 59.7
     },
     {
-      "timestamp": "2026-01-31T23:21:48.560246+00:00",
-      "score": 59.6
-    },
-    {
-      "timestamp": "2026-02-01T00:17:05.198878+00:00",
+      "timestamp": "2026-02-01T00:37:48.377023+00:00",
       "score": 59.2
     },
     {
-      "timestamp": "2026-02-01T01:12:21.837510+00:00",
-      "score": 58.7
+      "timestamp": "2026-02-01T01:39:59.408370+00:00",
+      "score": 58.8
     },
     {
-      "timestamp": "2026-02-01T02:07:38.476142+00:00",
+      "timestamp": "2026-02-01T02:42:10.439717+00:00",
       "score": 58.3
     },
     {
-      "timestamp": "2026-02-01T03:02:55.114774+00:00",
+      "timestamp": "2026-02-01T03:44:21.471064+00:00",
       "score": 57.8
+    },
+    {
+      "timestamp": "2026-02-01T04:46:32.502411+00:00",
+      "score": 57.4
     }
   ]
 }
