@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-01T03:24:07.220194+00:00",
+  "fetched_at": "2026-02-01T05:25:38.679284+00:00",
   "window_hours": 72,
-  "score": 57.4,
+  "score": 55.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 93.9,
-    "civilian_risk": 52.1
+    "conflict_intensity": 91.2,
+    "civilian_risk": 51.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 2.07,
+      "score": 1.95,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,27 +126,13 @@
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-02-01T03:24:07.220194+00:00",
+      "published_at": "2026-02-01T05:25:38.679284+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "burkina"
-      ]
-    },
-    {
-      "title": "Suspected jihadists attack airport near Niger's capital",
-      "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-01-30T17:25:09+00:00",
-      "score": 1.01,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
       ]
     },
     {
@@ -165,11 +151,25 @@
       ]
     },
     {
+      "title": "Suspected jihadists attack airport near Niger's capital",
+      "link": "https://www.bbc.com/news/articles/cvgp47neze4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-01-30T17:25:09+00:00",
+      "score": 0.96,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Iraqi Politics in Ferment after Trump\u2019s Broadside",
       "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
       "source": "Crisis Group",
       "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 0.83,
+      "score": 0.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,7 +182,7 @@
       "link": "https://allafrica.com/stories/202601300204.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-01-30T09:59:27+00:00",
-      "score": 0.71,
+      "score": 0.67,
       "tags": [
         "conflict_intensity"
       ],
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-01T07:16:03.141072+00:00",
-      "score": 58.5
-    },
-    {
-      "timestamp": "2026-02-01T11:07:59.061950+00:00",
-      "score": 58.0
-    },
-    {
-      "timestamp": "2026-02-01T14:59:54.982828+00:00",
+      "timestamp": "2026-02-01T07:27:10.138374+00:00",
       "score": 57.5
     },
     {
-      "timestamp": "2026-02-01T18:51:50.903706+00:00",
+      "timestamp": "2026-02-01T09:28:41.597464+00:00",
       "score": 57.0
     },
     {
-      "timestamp": "2026-02-01T22:43:46.824584+00:00",
+      "timestamp": "2026-02-01T11:30:13.056554+00:00",
       "score": 56.5
     },
     {
-      "timestamp": "2026-02-02T02:35:42.745462+00:00",
+      "timestamp": "2026-02-01T13:31:44.515644+00:00",
       "score": 56.0
+    },
+    {
+      "timestamp": "2026-02-01T15:33:15.974734+00:00",
+      "score": 55.5
+    },
+    {
+      "timestamp": "2026-02-01T17:34:47.433824+00:00",
+      "score": 54.9
     }
   ]
 }
