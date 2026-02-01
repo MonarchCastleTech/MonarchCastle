@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-01T18:49:55.203147+00:00",
+  "fetched_at": "2026-02-01T19:33:09.116056+00:00",
   "window_hours": 72,
   "score": 29.2,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -192,28 +192,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-01T20:06:06.871303+00:00",
-      "score": 28.0
+      "timestamp": "2026-02-01T20:16:23.028965+00:00",
+      "score": 25.7
     },
     {
-      "timestamp": "2026-02-01T21:22:18.539459+00:00",
-      "score": 26.2
+      "timestamp": "2026-02-01T20:59:36.941874+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-02-01T22:38:30.207615+00:00",
-      "score": 24.4
+      "timestamp": "2026-02-01T21:42:50.854783+00:00",
+      "score": 22.1
     },
     {
-      "timestamp": "2026-02-01T23:54:41.875771+00:00",
-      "score": 22.7
+      "timestamp": "2026-02-01T22:26:04.767692+00:00",
+      "score": 20.3
     },
     {
-      "timestamp": "2026-02-02T01:10:53.543927+00:00",
-      "score": 20.9
+      "timestamp": "2026-02-01T23:09:18.680601+00:00",
+      "score": 18.5
     },
     {
-      "timestamp": "2026-02-02T02:27:05.212083+00:00",
-      "score": 19.2
+      "timestamp": "2026-02-01T23:52:32.593510+00:00",
+      "score": 16.6
     }
   ]
 }
