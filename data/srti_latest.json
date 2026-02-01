@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-01T10:38:13.980485+00:00",
+  "fetched_at": "2026-02-01T11:30:51.088168+00:00",
   "window_hours": 72,
-  "score": 46.6,
-  "risk_level": "ELEVATED",
+  "score": 25.0,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 76.4,
-    "civilian_risk": 42.2
+    "conflict_intensity": 45.8,
+    "civilian_risk": 10.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 12,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -70,8 +70,8 @@
     {
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
-      "status": "ok",
-      "items": 29
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "AllAfrica - Mali",
@@ -94,39 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Deadly jihadist attack kills dozens in northeast Nigeria, including soldiers",
-      "link": "https://www.france24.com/en/africa/20260129-dozens-killed-jihadist-attack-nigeria",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-29T22:40:39+00:00",
-      "score": 2.35,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Islamic State group claims deadly attack on Niamey airport in Niger",
-      "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-30T14:49:59+00:00",
-      "score": 1.64,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
       "title": "Burkina/ Gourma : 420 kg de poissons avari\u00e9s saisis et incin\u00e9r\u00e9s par les services v\u00e9t\u00e9rinaires et la police municipale",
       "link": "https://lefaso.net/spip.php?article144087",
       "source": "LeFaso",
-      "published_at": "2026-02-01T10:38:13.980485+00:00",
+      "published_at": "2026-02-01T11:30:51.088168+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -155,7 +126,7 @@
       "link": "https://www.crisisgroup.org/anb/middle-east-north-africa/iraq-united-states/iraqi-politics-ferment-after-trumps-broadside",
       "source": "Crisis Group",
       "published_at": "2026-01-30T14:58:54+00:00",
-      "score": 0.66,
+      "score": 0.64,
       "tags": [
         "conflict_intensity"
       ],
@@ -177,19 +148,6 @@
       ]
     },
     {
-      "title": "Lagos protesters denounce the destruction of floating Makoko slum",
-      "link": "https://www.france24.com/en/lagos-protesters-denounce-the-destruction-of-floating-makoko-slum",
-      "source": "France 24 - Africa",
-      "published_at": "2026-01-29T12:01:05+00:00",
-      "score": 0.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Deutsche Welle Correspondent Arrested in Niamey",
       "link": "https://allafrica.com/stories/202601300045.html",
       "source": "AllAfrica - Niger",
@@ -202,32 +160,72 @@
         "niger",
         "niamey"
       ]
+    },
+    {
+      "title": "Violence roiling Nigeria extends beyond religious lines, amid a deepening humanitarian crisis",
+      "link": "https://news.un.org/feed/view/en/story/2026/01/1166857",
+      "source": "UN News Africa",
+      "published_at": "2026-01-29T12:00:00+00:00",
+      "score": 0.29,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
+      "link": "https://www.crisisgroup.org/how-we-work/events/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
+      "source": "Crisis Group",
+      "published_at": "2026-01-29T16:59:25+00:00",
+      "score": 0.29,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Niger Accuses France, Benin and Cote d'Ivoire of Sponsoring Airport Attack",
+      "link": "https://allafrica.com/stories/202601300375.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-01-30T11:59:35+00:00",
+      "score": 0.29,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-01T11:36:18.588714+00:00",
-      "score": 49.9
+      "timestamp": "2026-02-01T12:23:28.195851+00:00",
+      "score": 44.8
     },
     {
-      "timestamp": "2026-02-01T12:34:23.196943+00:00",
-      "score": 49.1
+      "timestamp": "2026-02-01T13:16:05.303534+00:00",
+      "score": 43.7
     },
     {
-      "timestamp": "2026-02-01T13:32:27.805172+00:00",
-      "score": 48.3
+      "timestamp": "2026-02-01T14:08:42.411217+00:00",
+      "score": 42.6
     },
     {
-      "timestamp": "2026-02-01T14:30:32.413401+00:00",
-      "score": 47.5
+      "timestamp": "2026-02-01T15:01:19.518900+00:00",
+      "score": 41.6
     },
     {
-      "timestamp": "2026-02-01T15:28:37.021630+00:00",
-      "score": 46.7
+      "timestamp": "2026-02-01T15:53:56.626583+00:00",
+      "score": 40.5
     },
     {
-      "timestamp": "2026-02-01T16:26:41.629859+00:00",
-      "score": 45.9
+      "timestamp": "2026-02-01T16:46:33.734266+00:00",
+      "score": 39.4
     }
   ]
 }
