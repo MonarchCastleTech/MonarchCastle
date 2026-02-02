@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-02T10:02:24.608123+00:00",
+  "fetched_at": "2026-02-02T10:59:20.823404+00:00",
   "window_hours": 72,
-  "score": 12.7,
-  "risk_level": "LOW",
+  "score": 20.1,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 22.9,
-    "civilian_risk": 6.2
+    "conflict_intensity": 35.3,
+    "civilian_risk": 12.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 46
+      "items": 44
     },
     {
       "name": "ActuNiger",
@@ -94,6 +94,21 @@
   ],
   "top_headlines": [
     {
+      "title": "Islamic State group claims responsibility for deadly attack on airport in Niger's capital",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260130-islamic-state-group-claims-responsibility-for-deadly-attack-on-airport-in-niger-s-capital",
+      "source": "France 24 - Africa",
+      "published_at": "2026-01-30T21:43:12+00:00",
+      "score": 1.47,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "Islamic State group claims deadly attack on Niamey airport in Niger",
       "link": "https://www.france24.com/en/africa/20260130-islamic-state-group-claims-deadly-attack-on-niamey-airport-in-niger",
       "source": "France 24 - Africa",
@@ -138,28 +153,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-02T11:07:35.564836+00:00",
-      "score": 9.6
+      "timestamp": "2026-02-02T11:56:17.038685+00:00",
+      "score": 9.7
     },
     {
-      "timestamp": "2026-02-02T12:12:46.521549+00:00",
-      "score": 7.7
+      "timestamp": "2026-02-02T12:53:13.253966+00:00",
+      "score": 8.0
     },
     {
-      "timestamp": "2026-02-02T13:17:57.478262+00:00",
-      "score": 5.8
+      "timestamp": "2026-02-02T13:50:09.469247+00:00",
+      "score": 6.3
     },
     {
-      "timestamp": "2026-02-02T14:23:08.434975+00:00",
-      "score": 4.0
+      "timestamp": "2026-02-02T14:47:05.684528+00:00",
+      "score": 4.5
     },
     {
-      "timestamp": "2026-02-02T15:28:19.391688+00:00",
-      "score": 2.1
+      "timestamp": "2026-02-02T15:44:01.899809+00:00",
+      "score": 2.8
     },
     {
-      "timestamp": "2026-02-02T16:33:30.348401+00:00",
-      "score": 0.2
+      "timestamp": "2026-02-02T16:40:58.115090+00:00",
+      "score": 1.1
     }
   ]
 }
