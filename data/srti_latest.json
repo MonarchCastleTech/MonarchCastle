@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-02T05:05:25.370301+00:00",
+  "fetched_at": "2026-02-02T07:14:36.231736+00:00",
   "window_hours": 72,
-  "score": 17.3,
+  "score": 16.2,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 30.0,
-    "civilian_risk": 11.5
+    "civilian_risk": 6.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -135,20 +135,6 @@
       ]
     },
     {
-      "title": "Deutsche Welle Correspondent Arrested in Niamey",
-      "link": "https://allafrica.com/stories/202601300045.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-01-30T05:07:34+00:00",
-      "score": 0.38,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
       "title": "Niger Accuses France, Benin and Cote d'Ivoire of Sponsoring Airport Attack",
       "link": "https://allafrica.com/stories/202601300375.html",
       "source": "AllAfrica - Niger",
@@ -165,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-02T07:14:41.337998+00:00",
-      "score": 13.7
+      "timestamp": "2026-02-02T09:23:47.093171+00:00",
+      "score": 12.1
     },
     {
-      "timestamp": "2026-02-02T09:23:57.305695+00:00",
-      "score": 11.7
+      "timestamp": "2026-02-02T11:32:57.954606+00:00",
+      "score": 10.1
     },
     {
-      "timestamp": "2026-02-02T11:33:13.273392+00:00",
-      "score": 9.7
+      "timestamp": "2026-02-02T13:42:08.816041+00:00",
+      "score": 8.1
     },
     {
-      "timestamp": "2026-02-02T13:42:29.241089+00:00",
-      "score": 7.7
+      "timestamp": "2026-02-02T15:51:19.677476+00:00",
+      "score": 6.1
     },
     {
-      "timestamp": "2026-02-02T15:51:45.208786+00:00",
-      "score": 5.7
+      "timestamp": "2026-02-02T18:00:30.538911+00:00",
+      "score": 4.1
     },
     {
-      "timestamp": "2026-02-02T18:01:01.176483+00:00",
-      "score": 3.7
+      "timestamp": "2026-02-02T20:09:41.400346+00:00",
+      "score": 2.1
     }
   ]
 }
