@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-01T23:34:49.106814+00:00",
+  "fetched_at": "2026-02-02T02:56:09.402604+00:00",
   "window_hours": 72,
   "score": 17.3,
   "risk_level": "LOW",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "UN News Africa",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 8
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -165,28 +165,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-02T00:33:36.351060+00:00",
-      "score": 18.0
+      "timestamp": "2026-02-02T06:17:29.698394+00:00",
+      "score": 15.6
     },
     {
-      "timestamp": "2026-02-02T01:32:23.595306+00:00",
-      "score": 16.0
+      "timestamp": "2026-02-02T09:38:49.994184+00:00",
+      "score": 13.6
     },
     {
-      "timestamp": "2026-02-02T02:31:10.839552+00:00",
-      "score": 14.0
+      "timestamp": "2026-02-02T13:00:10.289974+00:00",
+      "score": 11.6
     },
     {
-      "timestamp": "2026-02-02T03:29:58.083798+00:00",
-      "score": 12.1
+      "timestamp": "2026-02-02T16:21:30.585764+00:00",
+      "score": 9.6
     },
     {
-      "timestamp": "2026-02-02T04:28:45.328044+00:00",
-      "score": 10.1
+      "timestamp": "2026-02-02T19:42:50.881554+00:00",
+      "score": 7.6
     },
     {
-      "timestamp": "2026-02-02T05:27:32.572290+00:00",
-      "score": 8.2
+      "timestamp": "2026-02-02T23:04:11.177344+00:00",
+      "score": 5.6
     }
   ]
 }
