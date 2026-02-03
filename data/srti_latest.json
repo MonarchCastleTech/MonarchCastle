@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-03T09:55:01.702280+00:00",
+  "fetched_at": "2026-02-03T10:53:52.299463+00:00",
   "window_hours": 72,
-  "score": 19.4,
+  "score": 19.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 26.5,
-    "civilian_risk": 30.5
+    "conflict_intensity": 26.1,
+    "civilian_risk": 30.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/niger-who-attacked-niamey-s-airport-and-what-it-reveals",
       "source": "France 24 - Africa",
       "published_at": "2026-02-02T16:04:12+00:00",
-      "score": 2.21,
+      "score": 2.17,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "title": "Campagne nationale de solidarit\u00e9 DEM\u00c8 SIRA : Plus de 1,3 million de FCFA mobilis\u00e9s dans la province du Nayala",
       "link": "https://lefaso.net/spip.php?article144153",
       "source": "LeFaso",
-      "published_at": "2026-02-03T09:55:01.702280+00:00",
+      "published_at": "2026-02-03T10:53:52.299463+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "link": "https://www.bbc.com/news/articles/c4g3v4pjwgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-02T11:15:35+00:00",
-      "score": 0.74,
+      "score": 0.73,
       "tags": [
         "civilian_risk"
       ],
@@ -134,28 +134,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-03T10:57:22.437335+00:00",
-      "score": 20.5
+      "timestamp": "2026-02-03T11:52:42.896646+00:00",
+      "score": 20.9
     },
     {
-      "timestamp": "2026-02-03T11:59:43.172390+00:00",
-      "score": 20.4
+      "timestamp": "2026-02-03T12:51:33.493829+00:00",
+      "score": 20.9
     },
     {
-      "timestamp": "2026-02-03T13:02:03.907445+00:00",
-      "score": 20.4
+      "timestamp": "2026-02-03T13:50:24.091012+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-02-03T14:04:24.642500+00:00",
-      "score": 20.3
+      "timestamp": "2026-02-03T14:49:14.688195+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-02-03T15:06:45.377555+00:00",
-      "score": 20.2
+      "timestamp": "2026-02-03T15:48:05.285378+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-02-03T16:09:06.112610+00:00",
-      "score": 20.2
+      "timestamp": "2026-02-03T16:46:55.882561+00:00",
+      "score": 20.8
     }
   ]
 }
