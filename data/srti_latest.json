@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-04T11:40:26.027646+00:00",
+  "fetched_at": "2026-02-04T13:21:07.185462+00:00",
   "window_hours": 72,
-  "score": 40.4,
+  "score": 46.5,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 47.9,
-    "civilian_risk": 82.0
+    "conflict_intensity": 61.1,
+    "civilian_risk": 79.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 77
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 34
+      "items": 35
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/niger/islamic-state-assault-niger-airport-tests-military-rulers",
       "source": "Crisis Group",
       "published_at": "2026-02-03T13:41:33+00:00",
-      "score": 4.0,
+      "score": 3.87,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -118,7 +118,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/ethiopia-eritrea/flare-tigray-highlights-risk-more-war-northern-ethiopia",
       "source": "Crisis Group",
       "published_at": "2026-02-03T10:11:33+00:00",
-      "score": 2.48,
+      "score": 2.39,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -131,7 +131,7 @@
       "title": "Campagne nationale de solidarit\u00e9 DEM\u00c8 SIRA : Plus de 1,3 million de FCFA mobilis\u00e9s dans la province du Nayala",
       "link": "https://lefaso.net/spip.php?article144153",
       "source": "LeFaso",
-      "published_at": "2026-02-04T11:40:26.027646+00:00",
+      "published_at": "2026-02-04T13:21:07.185462+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -139,11 +139,24 @@
       "regions": []
     },
     {
+      "title": "Niger - Key Message Update: Crisis (IPC Phase 3) outcomes persist in conflict-affected areas, January 2026",
+      "link": "https://reliefweb.int/report/niger/niger-key-message-update-crisis-ipc-phase-3-outcomes-persist-conflict-affected-areas-january-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-02-04T13:21:07.185462+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Niger: Who attacked Niamey\u2019s airport and what it reveals?",
       "link": "https://www.france24.com/en/niger-who-attacked-niamey-s-airport-and-what-it-reveals",
       "source": "France 24 - Africa",
       "published_at": "2026-02-02T16:04:12+00:00",
-      "score": 1.16,
+      "score": 1.09,
       "tags": [
         "conflict_intensity"
       ],
@@ -157,7 +170,7 @@
       "link": "https://allafrica.com/stories/202602030533.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-03T15:11:52+00:00",
-      "score": 0.77,
+      "score": 0.75,
       "tags": [
         "civilian_risk"
       ],
@@ -168,28 +181,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-04T12:27:26.260008+00:00",
-      "score": 54.2
+      "timestamp": "2026-02-04T15:01:48.343278+00:00",
+      "score": 52.8
     },
     {
-      "timestamp": "2026-02-04T13:14:26.492370+00:00",
+      "timestamp": "2026-02-04T16:42:29.501094+00:00",
+      "score": 53.6
+    },
+    {
+      "timestamp": "2026-02-04T18:23:10.658910+00:00",
+      "score": 54.3
+    },
+    {
+      "timestamp": "2026-02-04T20:03:51.816726+00:00",
       "score": 55.1
     },
     {
-      "timestamp": "2026-02-04T14:01:26.724732+00:00",
-      "score": 56.1
+      "timestamp": "2026-02-04T21:44:32.974542+00:00",
+      "score": 55.8
     },
     {
-      "timestamp": "2026-02-04T14:48:26.957094+00:00",
-      "score": 57.0
-    },
-    {
-      "timestamp": "2026-02-04T15:35:27.189456+00:00",
-      "score": 58.0
-    },
-    {
-      "timestamp": "2026-02-04T16:22:27.421818+00:00",
-      "score": 59.0
+      "timestamp": "2026-02-04T23:25:14.132358+00:00",
+      "score": 56.6
     }
   ]
 }
