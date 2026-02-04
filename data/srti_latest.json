@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-04T17:55:21.901220+00:00",
+  "fetched_at": "2026-02-04T19:02:22.870484+00:00",
   "window_hours": 72,
-  "score": 56.7,
-  "risk_level": "ELEVATED",
+  "score": 63.4,
+  "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 75.6,
-    "civilian_risk": 94.3
+    "conflict_intensity": 89.6,
+    "civilian_risk": 92.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 87
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/niger/islamic-state-assault-niger-airport-tests-military-rulers",
       "source": "Crisis Group",
       "published_at": "2026-02-03T13:41:33+00:00",
-      "score": 3.5,
+      "score": 3.41,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -117,7 +117,7 @@
       "title": "Burkkina/\u00ab D\u025bm\u025b Sira \u00bb : Le patronat burkinab\u00e8 engag\u00e9 en faveur de la solidarit\u00e9 nationale et la coh\u00e9sion sociale",
       "link": "https://lefaso.net/spip.php?article144209",
       "source": "LeFaso",
-      "published_at": "2026-02-04T17:55:21.901220+00:00",
+      "published_at": "2026-02-04T19:02:22.870484+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -134,7 +134,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/ethiopia-eritrea/flare-tigray-highlights-risk-more-war-northern-ethiopia",
       "source": "Crisis Group",
       "published_at": "2026-02-03T10:11:33+00:00",
-      "score": 2.15,
+      "score": 2.09,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -148,7 +148,7 @@
       "link": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-04T17:50:20+00:00",
-      "score": 1.68,
+      "score": 1.65,
       "tags": [
         "conflict_intensity"
       ],
@@ -160,12 +160,25 @@
       "title": "Campagne nationale de solidarit\u00e9 DEM\u00c8 SIRA : Plus de 1,3 million de FCFA mobilis\u00e9s dans la province du Nayala",
       "link": "https://lefaso.net/spip.php?article144153",
       "source": "LeFaso",
-      "published_at": "2026-02-04T17:55:21.901220+00:00",
+      "published_at": "2026-02-04T19:02:22.870484+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": []
+    },
+    {
+      "title": "Niger - Key Message Update: Crisis (IPC Phase 3) outcomes persist in conflict-affected areas, January 2026",
+      "link": "https://reliefweb.int/report/niger/niger-key-message-update-crisis-ipc-phase-3-outcomes-persist-conflict-affected-areas-january-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-02-04T19:02:22.870484+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
     },
     {
       "title": "Niger: Who attacked Niamey\u2019s airport and what it reveals?",
@@ -186,7 +199,7 @@
       "link": "https://allafrica.com/stories/202602030533.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-03T15:11:52+00:00",
-      "score": 0.68,
+      "score": 0.66,
       "tags": [
         "civilian_risk"
       ],
@@ -197,28 +210,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-04T18:49:23.609241+00:00",
-      "score": 50.4
+      "timestamp": "2026-02-04T20:09:23.839748+00:00",
+      "score": 51.5
     },
     {
-      "timestamp": "2026-02-04T19:43:25.317262+00:00",
-      "score": 50.6
+      "timestamp": "2026-02-04T21:16:24.809012+00:00",
+      "score": 51.7
     },
     {
-      "timestamp": "2026-02-04T20:37:27.025283+00:00",
-      "score": 50.7
+      "timestamp": "2026-02-04T22:23:25.778276+00:00",
+      "score": 51.8
     },
     {
-      "timestamp": "2026-02-04T21:31:28.733304+00:00",
-      "score": 50.9
+      "timestamp": "2026-02-04T23:30:26.747540+00:00",
+      "score": 52.0
     },
     {
-      "timestamp": "2026-02-04T22:25:30.441325+00:00",
-      "score": 51.1
+      "timestamp": "2026-02-05T00:37:27.716804+00:00",
+      "score": 52.1
     },
     {
-      "timestamp": "2026-02-04T23:19:32.149346+00:00",
-      "score": 51.2
+      "timestamp": "2026-02-05T01:44:28.686068+00:00",
+      "score": 52.3
     }
   ]
 }
