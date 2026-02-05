@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-05T21:39:14.401928+00:00",
+  "fetched_at": "2026-02-05T22:39:33.441960+00:00",
   "window_hours": 72,
-  "score": 62.8,
+  "score": 67.4,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 85.5,
+    "conflict_intensity": 94.8,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 91
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/us-military-dispatches-troops-to-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T21:17:27+00:00",
-      "score": 3.2,
+      "score": 3.16,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T01:19:13+00:00",
-      "score": 3.01,
+      "score": 2.96,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkkina/\u00ab D\u025bm\u025b Sira \u00bb : Le patronat burkinab\u00e8 engag\u00e9 en faveur de la solidarit\u00e9 nationale et la coh\u00e9sion sociale",
       "link": "https://lefaso.net/spip.php?article144209",
       "source": "LeFaso",
-      "published_at": "2026-02-05T21:39:14.401928+00:00",
+      "published_at": "2026-02-05T22:39:33.441960+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -142,7 +142,7 @@
       "link": "https://www.france24.com/en/gunmen-kill-over-160-in-new-nigeria-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-02-04T21:23:19+00:00",
-      "score": 2.13,
+      "score": 2.09,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -152,11 +152,31 @@
       ]
     },
     {
+      "title": "Islamic State Assault on Niger Airport Tests Military Rulers",
+      "link": "https://www.crisisgroup.org/anb/africa/niger/islamic-state-assault-niger-airport-tests-military-rulers",
+      "source": "Crisis Group",
+      "published_at": "2026-02-03T13:41:33+00:00",
+      "score": 2.02,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "sahel",
+        "mali",
+        "niger",
+        "burkina",
+        "burkina faso",
+        "bamako",
+        "niamey"
+      ]
+    },
+    {
       "title": "Dozens of Muslims 'massacred' in Nigeria for refusing to join jihadists, says governor",
       "link": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T14:37:14+00:00",
-      "score": 1.95,
+      "score": 1.92,
       "tags": [
         "civilian_risk"
       ],
@@ -169,7 +189,7 @@
       "link": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T17:15:30+00:00",
-      "score": 1.01,
+      "score": 1.0,
       "tags": [
         "civilian_risk"
       ],
@@ -182,53 +202,39 @@
       "link": "https://www.bbc.com/news/articles/c4g3v4pjwgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T17:05:51+00:00",
-      "score": 1.01,
+      "score": 1.0,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "Arrests and Red Tape - How Burkina Faso's Junta Is Throttling Humanitarian Aid",
-      "link": "https://allafrica.com/stories/202602050008.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-02-05T04:42:10+00:00",
-      "score": 0.64,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-05T22:32:05.572037+00:00",
-      "score": 67.3
+      "timestamp": "2026-02-05T23:39:52.481992+00:00",
+      "score": 67.0
     },
     {
-      "timestamp": "2026-02-05T23:24:56.742146+00:00",
+      "timestamp": "2026-02-06T00:40:11.522024+00:00",
+      "score": 67.1
+    },
+    {
+      "timestamp": "2026-02-06T01:40:30.562056+00:00",
+      "score": 67.2
+    },
+    {
+      "timestamp": "2026-02-06T02:40:49.602088+00:00",
+      "score": 67.4
+    },
+    {
+      "timestamp": "2026-02-06T03:41:08.642120+00:00",
       "score": 67.5
     },
     {
-      "timestamp": "2026-02-06T00:17:47.912255+00:00",
-      "score": 67.7
-    },
-    {
-      "timestamp": "2026-02-06T01:10:39.082364+00:00",
-      "score": 67.9
-    },
-    {
-      "timestamp": "2026-02-06T02:03:30.252473+00:00",
-      "score": 68.1
-    },
-    {
-      "timestamp": "2026-02-06T02:56:21.422582+00:00",
-      "score": 68.3
+      "timestamp": "2026-02-06T04:41:27.682152+00:00",
+      "score": 67.6
     }
   ]
 }
