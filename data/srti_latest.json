@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-05T15:52:19.234102+00:00",
+  "fetched_at": "2026-02-05T17:01:30.319270+00:00",
   "window_hours": 72,
-  "score": 68.8,
+  "score": 62.0,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 97.6,
+    "conflict_intensity": 84.1,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T01:19:13+00:00",
-      "score": 3.35,
+      "score": 3.28,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkkina/\u00ab D\u025bm\u025b Sira \u00bb : Le patronat burkinab\u00e8 engag\u00e9 en faveur de la solidarit\u00e9 nationale et la coh\u00e9sion sociale",
       "link": "https://lefaso.net/spip.php?article144209",
       "source": "LeFaso",
-      "published_at": "2026-02-05T15:52:19.234102+00:00",
+      "published_at": "2026-02-05T17:01:30.319270+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -128,7 +128,7 @@
       "link": "https://www.france24.com/en/gunmen-kill-over-160-in-new-nigeria-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-02-04T21:23:19+00:00",
-      "score": 2.39,
+      "score": 2.34,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -142,7 +142,7 @@
       "link": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T14:37:14+00:00",
-      "score": 2.12,
+      "score": 2.09,
       "tags": [
         "civilian_risk"
       ],
@@ -185,25 +185,11 @@
       ]
     },
     {
-      "title": "Niger: Who attacked Niamey\u2019s airport and what it reveals?",
-      "link": "https://www.france24.com/en/niger-who-attacked-niamey-s-airport-and-what-it-reveals",
-      "source": "France 24 - Africa",
-      "published_at": "2026-02-02T16:04:12+00:00",
-      "score": 1.03,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
       "title": "Arrests and Red Tape - How Burkina Faso's Junta Is Throttling Humanitarian Aid",
       "link": "https://allafrica.com/stories/202602050008.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-05T04:42:10+00:00",
-      "score": 0.71,
+      "score": 0.7,
       "tags": [
         "conflict_intensity"
       ],
@@ -211,32 +197,45 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "MSF Provides Care to Malian Refugees in Mauritania",
+      "link": "https://allafrica.com/stories/202602030533.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-02-03T15:11:52+00:00",
+      "score": 0.38,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-05T16:48:59.837940+00:00",
-      "score": 77.0
+      "timestamp": "2026-02-05T18:10:41.404438+00:00",
+      "score": 75.2
     },
     {
-      "timestamp": "2026-02-05T17:45:40.441778+00:00",
+      "timestamp": "2026-02-05T19:19:52.489606+00:00",
+      "score": 76.2
+    },
+    {
+      "timestamp": "2026-02-05T20:29:03.574774+00:00",
+      "score": 77.3
+    },
+    {
+      "timestamp": "2026-02-05T21:38:14.659942+00:00",
       "score": 78.3
     },
     {
-      "timestamp": "2026-02-05T18:42:21.045616+00:00",
-      "score": 79.5
+      "timestamp": "2026-02-05T22:47:25.745110+00:00",
+      "score": 79.3
     },
     {
-      "timestamp": "2026-02-05T19:39:01.649454+00:00",
-      "score": 80.8
-    },
-    {
-      "timestamp": "2026-02-05T20:35:42.253292+00:00",
-      "score": 82.0
-    },
-    {
-      "timestamp": "2026-02-05T21:32:22.857130+00:00",
-      "score": 83.3
+      "timestamp": "2026-02-05T23:56:36.830278+00:00",
+      "score": 80.4
     }
   ]
 }
