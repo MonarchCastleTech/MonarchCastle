@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-06T11:41:23.087820+00:00",
+  "fetched_at": "2026-02-06T13:20:17.148959+00:00",
   "window_hours": 72,
-  "score": 53.7,
-  "risk_level": "ELEVATED",
+  "score": 64.2,
+  "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 67.4,
+    "conflict_intensity": 88.5,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 87
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "UN News Africa",
@@ -94,11 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "Operation Savannah Shield launched as US troops confirmed in Nigeria",
-      "link": "https://www.france24.com/en/us-military-dispatches-troops-to-nigeria",
+      "title": "US sends group troops to Nigeria to address terrorism threat",
+      "link": "https://www.france24.com/en/us-sends-group-troops-to-nigeria-to-address-terrorism-threat",
       "source": "France 24 - Africa",
-      "published_at": "2026-02-05T21:17:27+00:00",
-      "score": 2.58,
+      "published_at": "2026-02-06T12:06:55+00:00",
+      "score": 3.17,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkkina/\u00ab D\u025bm\u025b Sira \u00bb : Le patronat burkinab\u00e8 engag\u00e9 en faveur de la solidarit\u00e9 nationale et la coh\u00e9sion sociale",
       "link": "https://lefaso.net/spip.php?article144209",
       "source": "LeFaso",
-      "published_at": "2026-02-06T11:41:23.087820+00:00",
+      "published_at": "2026-02-06T13:20:17.148959+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -124,11 +124,25 @@
       ]
     },
     {
+      "title": "Operation Savannah Shield launched as US troops confirmed in Nigeria",
+      "link": "https://www.france24.com/en/us-military-dispatches-troops-to-nigeria",
+      "source": "France 24 - Africa",
+      "published_at": "2026-02-05T21:17:27+00:00",
+      "score": 2.5,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Armed Islamist extremists kill at least 162 in western Nigeria villages",
       "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T01:19:13+00:00",
-      "score": 2.2,
+      "score": 2.1,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -142,7 +156,7 @@
       "link": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T14:37:14+00:00",
-      "score": 1.53,
+      "score": 1.48,
       "tags": [
         "civilian_risk"
       ],
@@ -155,7 +169,7 @@
       "link": "https://www.france24.com/en/gunmen-kill-over-160-in-new-nigeria-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-02-04T21:23:19+00:00",
-      "score": 1.51,
+      "score": 1.43,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -169,7 +183,7 @@
       "link": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T17:15:30+00:00",
-      "score": 0.8,
+      "score": 0.78,
       "tags": [
         "civilian_risk"
       ],
@@ -182,53 +196,39 @@
       "link": "https://www.bbc.com/news/articles/c4g3v4pjwgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T17:05:51+00:00",
-      "score": 0.8,
+      "score": 0.78,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "Arrests and Red Tape - How Burkina Faso's Junta Is Throttling Humanitarian Aid",
-      "link": "https://allafrica.com/stories/202602050008.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-02-05T04:42:10+00:00",
-      "score": 0.48,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-06T12:29:08.622826+00:00",
-      "score": 53.6
+      "timestamp": "2026-02-06T14:59:11.210098+00:00",
+      "score": 54.5
     },
     {
-      "timestamp": "2026-02-06T13:16:54.157832+00:00",
-      "score": 52.9
+      "timestamp": "2026-02-06T16:38:05.271237+00:00",
+      "score": 53.8
     },
     {
-      "timestamp": "2026-02-06T14:04:39.692838+00:00",
-      "score": 52.1
+      "timestamp": "2026-02-06T18:16:59.332376+00:00",
+      "score": 53.1
     },
     {
-      "timestamp": "2026-02-06T14:52:25.227844+00:00",
-      "score": 51.3
+      "timestamp": "2026-02-06T19:55:53.393515+00:00",
+      "score": 52.4
     },
     {
-      "timestamp": "2026-02-06T15:40:10.762850+00:00",
-      "score": 50.6
+      "timestamp": "2026-02-06T21:34:47.454654+00:00",
+      "score": 51.8
     },
     {
-      "timestamp": "2026-02-06T16:27:56.297856+00:00",
-      "score": 49.8
+      "timestamp": "2026-02-06T23:13:41.515793+00:00",
+      "score": 51.1
     }
   ]
 }
