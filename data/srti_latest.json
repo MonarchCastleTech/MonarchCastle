@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-06T04:54:56.141112+00:00",
+  "fetched_at": "2026-02-06T06:01:26.673470+00:00",
   "window_hours": 72,
-  "score": 58.0,
+  "score": 57.4,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 76.1,
+    "conflict_intensity": 74.7,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -98,21 +98,7 @@
       "link": "https://www.france24.com/en/us-military-dispatches-troops-to-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T21:17:27+00:00",
-      "score": 2.88,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Armed Islamist extremists kill at least 162 in western Nigeria villages",
-      "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
-      "source": "France 24 - Africa",
-      "published_at": "2026-02-05T01:19:13+00:00",
-      "score": 2.59,
+      "score": 2.83,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +111,7 @@
       "title": "Burkkina/\u00ab D\u025bm\u025b Sira \u00bb : Le patronat burkinab\u00e8 engag\u00e9 en faveur de la solidarit\u00e9 nationale et la coh\u00e9sion sociale",
       "link": "https://lefaso.net/spip.php?article144209",
       "source": "LeFaso",
-      "published_at": "2026-02-06T04:54:56.141112+00:00",
+      "published_at": "2026-02-06T06:01:26.673470+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -138,11 +124,25 @@
       ]
     },
     {
+      "title": "Armed Islamist extremists kill at least 162 in western Nigeria villages",
+      "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
+      "source": "France 24 - Africa",
+      "published_at": "2026-02-05T01:19:13+00:00",
+      "score": 2.53,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Dozens die in Nigeria's deadliest attack in months",
       "link": "https://www.france24.com/en/gunmen-kill-over-160-in-new-nigeria-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-02-04T21:23:19+00:00",
-      "score": 1.81,
+      "score": 1.76,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -156,7 +156,7 @@
       "link": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T14:37:14+00:00",
-      "score": 1.73,
+      "score": 1.7,
       "tags": [
         "civilian_risk"
       ],
@@ -169,7 +169,7 @@
       "link": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T17:15:30+00:00",
-      "score": 0.91,
+      "score": 0.89,
       "tags": [
         "civilian_risk"
       ],
@@ -182,7 +182,7 @@
       "link": "https://www.bbc.com/news/articles/c4g3v4pjwgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T17:05:51+00:00",
-      "score": 0.9,
+      "score": 0.89,
       "tags": [
         "civilian_risk"
       ],
@@ -195,7 +195,7 @@
       "link": "https://allafrica.com/stories/202602050008.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-05T04:42:10+00:00",
-      "score": 0.56,
+      "score": 0.54,
       "tags": [
         "conflict_intensity"
       ],
@@ -207,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-06T07:00:08.443652+00:00",
-      "score": 62.7
+      "timestamp": "2026-02-06T07:07:57.205828+00:00",
+      "score": 59.6
     },
     {
-      "timestamp": "2026-02-06T09:05:20.746192+00:00",
-      "score": 62.5
+      "timestamp": "2026-02-06T08:14:27.738186+00:00",
+      "score": 59.1
     },
     {
-      "timestamp": "2026-02-06T11:10:33.048732+00:00",
-      "score": 62.3
+      "timestamp": "2026-02-06T09:20:58.270544+00:00",
+      "score": 58.6
     },
     {
-      "timestamp": "2026-02-06T13:15:45.351272+00:00",
-      "score": 62.0
+      "timestamp": "2026-02-06T10:27:28.802902+00:00",
+      "score": 58.0
     },
     {
-      "timestamp": "2026-02-06T15:20:57.653812+00:00",
-      "score": 61.8
+      "timestamp": "2026-02-06T11:33:59.335260+00:00",
+      "score": 57.5
     },
     {
-      "timestamp": "2026-02-06T17:26:09.956352+00:00",
-      "score": 61.5
+      "timestamp": "2026-02-06T12:40:29.867618+00:00",
+      "score": 57.0
     }
   ]
 }
