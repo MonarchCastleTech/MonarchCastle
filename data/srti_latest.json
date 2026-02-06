@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-06T06:01:26.673470+00:00",
+  "fetched_at": "2026-02-06T07:08:10.545205+00:00",
   "window_hours": 72,
-  "score": 57.4,
+  "score": 56.6,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 74.7,
+    "conflict_intensity": 73.3,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/us-military-dispatches-troops-to-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T21:17:27+00:00",
-      "score": 2.83,
+      "score": 2.78,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkkina/\u00ab D\u025bm\u025b Sira \u00bb : Le patronat burkinab\u00e8 engag\u00e9 en faveur de la solidarit\u00e9 nationale et la coh\u00e9sion sociale",
       "link": "https://lefaso.net/spip.php?article144209",
       "source": "LeFaso",
-      "published_at": "2026-02-06T06:01:26.673470+00:00",
+      "published_at": "2026-02-06T07:08:10.545205+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -128,7 +128,7 @@
       "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T01:19:13+00:00",
-      "score": 2.53,
+      "score": 2.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -142,7 +142,7 @@
       "link": "https://www.france24.com/en/gunmen-kill-over-160-in-new-nigeria-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-02-04T21:23:19+00:00",
-      "score": 1.76,
+      "score": 1.71,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -156,7 +156,7 @@
       "link": "https://www.bbc.com/news/articles/ckgvllk3lx9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T14:37:14+00:00",
-      "score": 1.7,
+      "score": 1.66,
       "tags": [
         "civilian_risk"
       ],
@@ -169,7 +169,7 @@
       "link": "https://www.bbc.com/news/videos/czej7xpx0x9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T17:15:30+00:00",
-      "score": 0.89,
+      "score": 0.87,
       "tags": [
         "civilian_risk"
       ],
@@ -182,7 +182,7 @@
       "link": "https://www.bbc.com/news/articles/c4g3v4pjwgjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-05T17:05:51+00:00",
-      "score": 0.89,
+      "score": 0.87,
       "tags": [
         "civilian_risk"
       ],
@@ -195,7 +195,7 @@
       "link": "https://allafrica.com/stories/202602050008.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-05T04:42:10+00:00",
-      "score": 0.54,
+      "score": 0.53,
       "tags": [
         "conflict_intensity"
       ],
@@ -207,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-06T07:07:57.205828+00:00",
-      "score": 59.6
+      "timestamp": "2026-02-06T08:14:54.416940+00:00",
+      "score": 58.4
     },
     {
-      "timestamp": "2026-02-06T08:14:27.738186+00:00",
-      "score": 59.1
+      "timestamp": "2026-02-06T09:21:38.288675+00:00",
+      "score": 57.8
     },
     {
-      "timestamp": "2026-02-06T09:20:58.270544+00:00",
-      "score": 58.6
+      "timestamp": "2026-02-06T10:28:22.160410+00:00",
+      "score": 57.2
     },
     {
-      "timestamp": "2026-02-06T10:27:28.802902+00:00",
-      "score": 58.0
+      "timestamp": "2026-02-06T11:35:06.032145+00:00",
+      "score": 56.6
     },
     {
-      "timestamp": "2026-02-06T11:33:59.335260+00:00",
-      "score": 57.5
+      "timestamp": "2026-02-06T12:41:49.903880+00:00",
+      "score": 56.1
     },
     {
-      "timestamp": "2026-02-06T12:40:29.867618+00:00",
-      "score": 57.0
+      "timestamp": "2026-02-06T13:48:33.775615+00:00",
+      "score": 55.5
     }
   ]
 }
