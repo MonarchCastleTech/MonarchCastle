@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-06T19:03:08.709000+00:00",
+  "fetched_at": "2026-02-06T19:45:12.872084+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 93
+      "items": 96
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/us-sends-group-troops-to-nigeria-to-address-terrorism-threat",
       "source": "France 24 - Africa",
       "published_at": "2026-02-06T12:06:55+00:00",
-      "score": 2.91,
+      "score": 2.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkkina/\u00ab D\u025bm\u025b Sira \u00bb : Le patronat burkinab\u00e8 engag\u00e9 en faveur de la solidarit\u00e9 nationale et la coh\u00e9sion sociale",
       "link": "https://lefaso.net/spip.php?article144209",
       "source": "LeFaso",
-      "published_at": "2026-02-06T19:03:08.709000+00:00",
+      "published_at": "2026-02-06T19:45:12.872084+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -128,7 +128,7 @@
       "link": "https://www.france24.com/en/us-military-dispatches-troops-to-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T21:17:27+00:00",
-      "score": 2.25,
+      "score": 2.22,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -142,7 +142,7 @@
       "link": "https://www.bbc.com/news/articles/c1dkd3llw1lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-06T15:58:43+00:00",
-      "score": 1.84,
+      "score": 1.82,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -156,7 +156,7 @@
       "link": "https://www.france24.com/en/africa/20260205-armed-islamist-extremists-kill-162-in-western-nigeria-villages",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T01:19:13+00:00",
-      "score": 1.77,
+      "score": 1.72,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -169,7 +169,7 @@
       "title": "Renforcement des Forces arm\u00e9es : 351 nouvelles recrues issues des VDP pr\u00eates \u00e0 servir le Burkina Faso",
       "link": "https://lefaso.net/spip.php?article144266",
       "source": "LeFaso",
-      "published_at": "2026-02-06T19:03:08.709000+00:00",
+      "published_at": "2026-02-06T19:45:12.872084+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -185,7 +185,7 @@
       "link": "https://www.france24.com/en/gunmen-kill-over-160-in-new-nigeria-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-02-04T21:23:19+00:00",
-      "score": 1.18,
+      "score": 1.15,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -198,7 +198,7 @@
       "title": "Burkina/Trafic illicite : Plus de 12 millions de francs CFA de produits de contrebande dont 923 kg de drogue incin\u00e9r\u00e9s \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article144272",
       "source": "LeFaso",
-      "published_at": "2026-02-06T19:03:08.709000+00:00",
+      "published_at": "2026-02-06T19:45:12.872084+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -210,28 +210,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-06T20:14:30.069867+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-06T20:27:17.035168+00:00",
+      "score": 64.6
     },
     {
-      "timestamp": "2026-02-06T21:25:51.430734+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-06T21:09:21.198252+00:00",
+      "score": 64.7
     },
     {
-      "timestamp": "2026-02-06T22:37:12.791601+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-06T21:51:25.361336+00:00",
+      "score": 64.9
     },
     {
-      "timestamp": "2026-02-06T23:48:34.152468+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-06T22:33:29.524420+00:00",
+      "score": 65.0
     },
     {
-      "timestamp": "2026-02-07T00:59:55.513335+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-06T23:15:33.687504+00:00",
+      "score": 65.2
     },
     {
-      "timestamp": "2026-02-07T02:11:16.874202+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-06T23:57:37.850588+00:00",
+      "score": 65.4
     }
   ]
 }
