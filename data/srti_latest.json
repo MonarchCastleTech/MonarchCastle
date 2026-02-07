@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-07T15:35:01.954330+00:00",
+  "fetched_at": "2026-02-07T16:42:26.232796+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 14,
+  "items_count": 13,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 85
+      "items": 83
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/nigeria/massacre-kwara-state-heightens-nigerias-security-challenges",
       "source": "Crisis Group",
       "published_at": "2026-02-06T17:59:57+00:00",
-      "score": 4.03,
+      "score": 3.94,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,27 +109,11 @@
       ]
     },
     {
-      "title": "Burkkina/\u00ab D\u025bm\u025b Sira \u00bb : Le patronat burkinab\u00e8 engag\u00e9 en faveur de la solidarit\u00e9 nationale et la coh\u00e9sion sociale",
-      "link": "https://lefaso.net/spip.php?article144209",
-      "source": "LeFaso",
-      "published_at": "2026-02-07T15:35:01.954330+00:00",
-      "score": 2.56,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso",
-        "ouagadougou"
-      ]
-    },
-    {
       "title": "US sends group troops to Nigeria to address terrorism threat",
       "link": "https://www.france24.com/en/us-sends-group-troops-to-nigeria-to-address-terrorism-threat",
       "source": "France 24 - Africa",
       "published_at": "2026-02-06T12:06:55+00:00",
-      "score": 1.99,
+      "score": 1.94,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -156,7 +140,7 @@
       "title": "Renforcement des Forces arm\u00e9es : 351 nouvelles recrues issues des VDP pr\u00eates \u00e0 servir le Burkina Faso",
       "link": "https://lefaso.net/spip.php?article144266",
       "source": "LeFaso",
-      "published_at": "2026-02-07T15:35:01.954330+00:00",
+      "published_at": "2026-02-07T16:42:26.232796+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -172,7 +156,7 @@
       "link": "https://www.france24.com/en/us-military-dispatches-troops-to-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-02-05T21:17:27+00:00",
-      "score": 1.33,
+      "score": 1.28,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -186,7 +170,7 @@
       "link": "https://www.bbc.com/news/articles/c1dkd3llw1lo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-06T15:58:43+00:00",
-      "score": 1.29,
+      "score": 1.26,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -208,32 +192,45 @@
       "regions": [
         "niger"
       ]
+    },
+    {
+      "title": "Burkina/ Lutte contre la Fraude : De la tomate et des oignons d'une valeur de plus de 100 millions FCFA saisis",
+      "link": "https://lefaso.net/spip.php?article144292",
+      "source": "LeFaso",
+      "published_at": "2026-02-07T16:42:26.232796+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-07T16:33:49.787515+00:00",
-      "score": 72.2
+      "timestamp": "2026-02-07T17:49:50.511262+00:00",
+      "score": 71.0
     },
     {
-      "timestamp": "2026-02-07T17:32:37.620700+00:00",
-      "score": 72.5
+      "timestamp": "2026-02-07T18:57:14.789728+00:00",
+      "score": 71.2
     },
     {
-      "timestamp": "2026-02-07T18:31:25.453885+00:00",
-      "score": 72.8
+      "timestamp": "2026-02-07T20:04:39.068194+00:00",
+      "score": 71.3
     },
     {
-      "timestamp": "2026-02-07T19:30:13.287070+00:00",
-      "score": 73.1
+      "timestamp": "2026-02-07T21:12:03.346660+00:00",
+      "score": 71.4
     },
     {
-      "timestamp": "2026-02-07T20:29:01.120255+00:00",
-      "score": 73.4
+      "timestamp": "2026-02-07T22:19:27.625126+00:00",
+      "score": 71.6
     },
     {
-      "timestamp": "2026-02-07T21:27:48.953440+00:00",
-      "score": 73.7
+      "timestamp": "2026-02-07T23:26:51.903592+00:00",
+      "score": 71.7
     }
   ]
 }
