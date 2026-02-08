@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-08T11:32:15.775981+00:00",
+  "fetched_at": "2026-02-08T13:09:35.687089+00:00",
   "window_hours": 72,
-  "score": 66.1,
+  "score": 64.6,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 80.4
+    "civilian_risk": 72.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 13,
+  "items_count": 12,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 70
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/nigeria/massacre-kwara-state-heightens-nigerias-security-challenges",
       "source": "Crisis Group",
       "published_at": "2026-02-06T17:59:57+00:00",
-      "score": 2.44,
+      "score": 2.31,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,24 +109,10 @@
       ]
     },
     {
-      "title": "Deadly Attacks Stall Trade in Key Corridor Between Senegal and Mali",
-      "link": "https://allafrica.com/stories/202602070216.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-02-07T18:25:58+00:00",
-      "score": 1.46,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Renforcement des Forces arm\u00e9es : 351 nouvelles recrues issues des VDP pr\u00eates \u00e0 servir le Burkina Faso",
       "link": "https://lefaso.net/spip.php?article144266",
       "source": "LeFaso",
-      "published_at": "2026-02-08T11:32:15.775981+00:00",
+      "published_at": "2026-02-08T13:09:35.687089+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,6 +121,20 @@
         "burkina",
         "burkina faso",
         "ouagadougou"
+      ]
+    },
+    {
+      "title": "Deadly Attacks Stall Trade in Key Corridor Between Senegal and Mali",
+      "link": "https://allafrica.com/stories/202602070216.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-02-07T18:25:58+00:00",
+      "score": 1.42,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
       ]
     },
     {
@@ -169,7 +169,7 @@
       "title": "Gaoua : Plus de 6 000 poussins import\u00e9s frauduleusement saisis par la Gendarmerie",
       "link": "https://lefaso.net/spip.php?article144299",
       "source": "LeFaso",
-      "published_at": "2026-02-08T11:32:15.775981+00:00",
+      "published_at": "2026-02-08T13:09:35.687089+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -182,7 +182,7 @@
       "title": "Burkina/ Lutte contre la Fraude : De la tomate et des oignons d'une valeur de plus de 100 millions FCFA saisis",
       "link": "https://lefaso.net/spip.php?article144292",
       "source": "LeFaso",
-      "published_at": "2026-02-08T11:32:15.775981+00:00",
+      "published_at": "2026-02-08T13:09:35.687089+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -195,7 +195,7 @@
       "title": "Burkina/Trafic illicite : Plus de 12 millions de francs CFA de produits de contrebande dont 923 kg de drogue incin\u00e9r\u00e9s \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article144272",
       "source": "LeFaso",
-      "published_at": "2026-02-08T11:32:15.775981+00:00",
+      "published_at": "2026-02-08T13:09:35.687089+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -207,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-08T12:25:20.470672+00:00",
-      "score": 63.9
+      "timestamp": "2026-02-08T14:46:55.598197+00:00",
+      "score": 63.5
     },
     {
-      "timestamp": "2026-02-08T13:18:25.165363+00:00",
-      "score": 63.6
-    },
-    {
-      "timestamp": "2026-02-08T14:11:29.860054+00:00",
+      "timestamp": "2026-02-08T16:24:15.509305+00:00",
       "score": 63.2
     },
     {
-      "timestamp": "2026-02-08T15:04:34.554745+00:00",
+      "timestamp": "2026-02-08T18:01:35.420413+00:00",
       "score": 62.9
     },
     {
-      "timestamp": "2026-02-08T15:57:39.249436+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-08T19:38:55.331521+00:00",
+      "score": 62.5
     },
     {
-      "timestamp": "2026-02-08T16:50:43.944127+00:00",
-      "score": 62.3
+      "timestamp": "2026-02-08T21:16:15.242629+00:00",
+      "score": 62.2
+    },
+    {
+      "timestamp": "2026-02-08T22:53:35.153737+00:00",
+      "score": 61.9
     }
   ]
 }
