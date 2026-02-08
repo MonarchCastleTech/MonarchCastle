@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-08T03:29:09.937936+00:00",
+  "fetched_at": "2026-02-08T05:36:10.755214+00:00",
   "window_hours": 72,
-  "score": 56.8,
-  "risk_level": "ELEVATED",
+  "score": 66.0,
+  "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 86.3,
-    "civilian_risk": 68.1
+    "conflict_intensity": 96.4,
+    "civilian_risk": 89.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -94,11 +94,26 @@
   ],
   "top_headlines": [
     {
+      "title": "Massacre in Kwara State Heightens Nigeria\u2019s Security Challenges",
+      "link": "https://www.crisisgroup.org/anb/africa/nigeria/massacre-kwara-state-heightens-nigerias-security-challenges",
+      "source": "Crisis Group",
+      "published_at": "2026-02-06T17:59:57+00:00",
+      "score": 2.91,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "sahel",
+        "niger"
+      ]
+    },
+    {
       "title": "Deadly Attacks Stall Trade in Key Corridor Between Senegal and Mali",
       "link": "https://allafrica.com/stories/202602070216.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-07T18:25:58+00:00",
-      "score": 1.68,
+      "score": 1.62,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,24 +123,10 @@
       ]
     },
     {
-      "title": "US sends group troops to Nigeria to address terrorism threat",
-      "link": "https://www.france24.com/en/us-sends-group-troops-to-nigeria-to-address-terrorism-threat",
-      "source": "France 24 - Africa",
-      "published_at": "2026-02-06T12:06:55+00:00",
-      "score": 1.46,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Renforcement des Forces arm\u00e9es : 351 nouvelles recrues issues des VDP pr\u00eates \u00e0 servir le Burkina Faso",
       "link": "https://lefaso.net/spip.php?article144266",
       "source": "LeFaso",
-      "published_at": "2026-02-08T03:29:09.937936+00:00",
+      "published_at": "2026-02-08T05:36:10.755214+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,6 +135,20 @@
         "burkina",
         "burkina faso",
         "ouagadougou"
+      ]
+    },
+    {
+      "title": "US sends group troops to Nigeria to address terrorism threat",
+      "link": "https://www.france24.com/en/us-sends-group-troops-to-nigeria-to-address-terrorism-threat",
+      "source": "France 24 - Africa",
+      "published_at": "2026-02-06T12:06:55+00:00",
+      "score": 1.36,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
       ]
     },
     {
@@ -154,7 +169,7 @@
       "title": "Burkina/ Lutte contre la Fraude : De la tomate et des oignons d'une valeur de plus de 100 millions FCFA saisis",
       "link": "https://lefaso.net/spip.php?article144292",
       "source": "LeFaso",
-      "published_at": "2026-02-08T03:29:09.937936+00:00",
+      "published_at": "2026-02-08T05:36:10.755214+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,7 +182,7 @@
       "title": "Burkina/Trafic illicite : Plus de 12 millions de francs CFA de produits de contrebande dont 923 kg de drogue incin\u00e9r\u00e9s \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article144272",
       "source": "LeFaso",
-      "published_at": "2026-02-08T03:29:09.937936+00:00",
+      "published_at": "2026-02-08T05:36:10.755214+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -180,7 +195,7 @@
       "title": "R\u00e9gion de Bankui : Des acteurs se concertent pour une meilleure appropriation du projet ARISE",
       "link": "https://lefaso.net/spip.php?article144268",
       "source": "LeFaso",
-      "published_at": "2026-02-08T03:29:09.937936+00:00",
+      "published_at": "2026-02-08T05:36:10.755214+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -190,46 +205,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "'They sent a letter asking to preach. Then they massacred us' - Nigerians on jihadist attack",
-      "link": "https://www.bbc.com/news/articles/c1dkd3llw1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-02-06T15:58:43+00:00",
-      "score": 0.97,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-08T07:18:29.436545+00:00",
-      "score": 67.9
+      "timestamp": "2026-02-08T07:43:11.572492+00:00",
+      "score": 67.3
     },
     {
-      "timestamp": "2026-02-08T11:07:48.935154+00:00",
-      "score": 67.7
-    },
-    {
-      "timestamp": "2026-02-08T14:57:08.433763+00:00",
-      "score": 67.6
-    },
-    {
-      "timestamp": "2026-02-08T18:46:27.932372+00:00",
-      "score": 67.5
-    },
-    {
-      "timestamp": "2026-02-08T22:35:47.430981+00:00",
-      "score": 67.4
-    },
-    {
-      "timestamp": "2026-02-09T02:25:06.929590+00:00",
+      "timestamp": "2026-02-08T09:50:12.389770+00:00",
       "score": 67.2
+    },
+    {
+      "timestamp": "2026-02-08T11:57:13.207048+00:00",
+      "score": 67.0
+    },
+    {
+      "timestamp": "2026-02-08T14:04:14.024326+00:00",
+      "score": 66.9
+    },
+    {
+      "timestamp": "2026-02-08T16:11:14.841604+00:00",
+      "score": 66.7
+    },
+    {
+      "timestamp": "2026-02-08T18:18:15.658882+00:00",
+      "score": 66.6
     }
   ]
 }
