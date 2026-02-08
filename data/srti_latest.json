@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-08T09:39:37.746304+00:00",
+  "fetched_at": "2026-02-08T10:39:11.081290+00:00",
   "window_hours": 72,
-  "score": 62.5,
+  "score": 66.3,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 91.7,
-    "civilian_risk": 83.1
+    "conflict_intensity": 100.0,
+    "civilian_risk": 81.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 12,
+  "items_count": 13,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/nigeria/massacre-kwara-state-heightens-nigerias-security-challenges",
       "source": "Crisis Group",
       "published_at": "2026-02-06T17:59:57+00:00",
-      "score": 2.59,
+      "score": 2.51,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://allafrica.com/stories/202602070216.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-07T18:25:58+00:00",
-      "score": 1.51,
+      "score": 1.49,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Renforcement des Forces arm\u00e9es : 351 nouvelles recrues issues des VDP pr\u00eates \u00e0 servir le Burkina Faso",
       "link": "https://lefaso.net/spip.php?article144266",
       "source": "LeFaso",
-      "published_at": "2026-02-08T09:39:37.746304+00:00",
+      "published_at": "2026-02-08T10:39:11.081290+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -142,7 +142,7 @@
       "link": "https://www.france24.com/en/us-sends-group-troops-to-nigeria-to-address-terrorism-threat",
       "source": "France 24 - Africa",
       "published_at": "2026-02-06T12:06:55+00:00",
-      "score": 1.18,
+      "score": 1.14,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -166,10 +166,23 @@
       ]
     },
     {
+      "title": "Gaoua : Plus de 6 000 poussins import\u00e9s frauduleusement saisis par la Gendarmerie",
+      "link": "https://lefaso.net/spip.php?article144299",
+      "source": "LeFaso",
+      "published_at": "2026-02-08T10:39:11.081290+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "gao"
+      ]
+    },
+    {
       "title": "Burkina/ Lutte contre la Fraude : De la tomate et des oignons d'une valeur de plus de 100 millions FCFA saisis",
       "link": "https://lefaso.net/spip.php?article144292",
       "source": "LeFaso",
-      "published_at": "2026-02-08T09:39:37.746304+00:00",
+      "published_at": "2026-02-08T10:39:11.081290+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -182,7 +195,7 @@
       "title": "Burkina/Trafic illicite : Plus de 12 millions de francs CFA de produits de contrebande dont 923 kg de drogue incin\u00e9r\u00e9s \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article144272",
       "source": "LeFaso",
-      "published_at": "2026-02-08T09:39:37.746304+00:00",
+      "published_at": "2026-02-08T10:39:11.081290+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -190,47 +203,32 @@
       "regions": [
         "burkina"
       ]
-    },
-    {
-      "title": "R\u00e9gion de Bankui : Des acteurs se concertent pour une meilleure appropriation du projet ARISE",
-      "link": "https://lefaso.net/spip.php?article144268",
-      "source": "LeFaso",
-      "published_at": "2026-02-08T09:39:37.746304+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel",
-        "burkina",
-        "burkina faso"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-08T10:34:06.505549+00:00",
-      "score": 64.2
+      "timestamp": "2026-02-08T11:38:44.416276+00:00",
+      "score": 64.0
     },
     {
-      "timestamp": "2026-02-08T11:28:35.264794+00:00",
-      "score": 63.9
+      "timestamp": "2026-02-08T12:38:17.751262+00:00",
+      "score": 63.7
     },
     {
-      "timestamp": "2026-02-08T12:23:04.024039+00:00",
-      "score": 63.5
+      "timestamp": "2026-02-08T13:37:51.086248+00:00",
+      "score": 63.4
     },
     {
-      "timestamp": "2026-02-08T13:17:32.783284+00:00",
-      "score": 63.2
+      "timestamp": "2026-02-08T14:37:24.421234+00:00",
+      "score": 63.1
     },
     {
-      "timestamp": "2026-02-08T14:12:01.542529+00:00",
-      "score": 62.9
+      "timestamp": "2026-02-08T15:36:57.756220+00:00",
+      "score": 62.7
     },
     {
-      "timestamp": "2026-02-08T15:06:30.301774+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-08T16:36:31.091206+00:00",
+      "score": 62.4
     }
   ]
 }
