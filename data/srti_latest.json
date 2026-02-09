@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-09T21:51:08.567402+00:00",
+  "fetched_at": "2026-02-09T22:50:52.456840+00:00",
   "window_hours": 72,
-  "score": 61.7,
+  "score": 60.9,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 96.3,
-    "civilian_risk": 67.6
+    "conflict_intensity": 95.1,
+    "civilian_risk": 66.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 53
+      "items": 50
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/brf/africa/b209-seven-peace-and-security-priorities-africa-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-09T11:25:40+00:00",
-      "score": 4.93,
+      "score": 4.85,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -119,7 +119,7 @@
       "link": "https://allafrica.com/stories/202602090097.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-09T06:22:09+00:00",
-      "score": 1.51,
+      "score": 1.48,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -130,7 +130,7 @@
       "title": "Gaoua : Plus de 6 000 poussins import\u00e9s frauduleusement saisis par la Gendarmerie",
       "link": "https://lefaso.net/spip.php?article144299",
       "source": "LeFaso",
-      "published_at": "2026-02-09T21:51:08.567402+00:00",
+      "published_at": "2026-02-09T22:50:52.456840+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -143,7 +143,7 @@
       "title": "Burkina/ Lutte contre la Fraude : De la tomate et des oignons d'une valeur de plus de 100 millions FCFA saisis",
       "link": "https://lefaso.net/spip.php?article144292",
       "source": "LeFaso",
-      "published_at": "2026-02-09T21:51:08.567402+00:00",
+      "published_at": "2026-02-09T22:50:52.456840+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -157,7 +157,7 @@
       "link": "https://allafrica.com/stories/202602090065.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-09T05:23:44+00:00",
-      "score": 0.83,
+      "score": 0.82,
       "tags": [
         "civilian_risk"
       ],
@@ -171,7 +171,7 @@
       "link": "https://allafrica.com/stories/202602090741.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.79,
+      "score": 0.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,7 +182,7 @@
       "link": "https://allafrica.com/stories/202602090741.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.79,
+      "score": 0.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -193,7 +193,7 @@
       "link": "https://allafrica.com/stories/202602090741.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.79,
+      "score": 0.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-09T22:47:57.425945+00:00",
-      "score": 60.5
+      "timestamp": "2026-02-09T23:50:36.346278+00:00",
+      "score": 60.8
     },
     {
-      "timestamp": "2026-02-09T23:44:46.284488+00:00",
-      "score": 60.4
+      "timestamp": "2026-02-10T00:50:20.235716+00:00",
+      "score": 60.8
     },
     {
-      "timestamp": "2026-02-10T00:41:35.143031+00:00",
-      "score": 60.4
+      "timestamp": "2026-02-10T01:50:04.125154+00:00",
+      "score": 60.8
     },
     {
-      "timestamp": "2026-02-10T01:38:24.001574+00:00",
-      "score": 60.4
+      "timestamp": "2026-02-10T02:49:48.014592+00:00",
+      "score": 60.8
     },
     {
-      "timestamp": "2026-02-10T02:35:12.860117+00:00",
-      "score": 60.3
+      "timestamp": "2026-02-10T03:49:31.904030+00:00",
+      "score": 60.8
     },
     {
-      "timestamp": "2026-02-10T03:32:01.718660+00:00",
-      "score": 60.3
+      "timestamp": "2026-02-10T04:49:15.793468+00:00",
+      "score": 60.8
     }
   ]
 }
