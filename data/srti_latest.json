@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-09T11:52:53.605510+00:00",
+  "fetched_at": "2026-02-09T13:41:00.462242+00:00",
   "window_hours": 72,
-  "score": 63.7,
-  "risk_level": "HIGH",
+  "score": 57.8,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 94.7,
-    "civilian_risk": 81.6
+    "conflict_intensity": 85.8,
+    "civilian_risk": 74.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 12,
+  "items_count": 11,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 58
+      "items": 55
     },
     {
       "name": "ActuNiger",
@@ -113,7 +113,7 @@
       "link": "https://allafrica.com/stories/202602090097.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-09T06:22:09+00:00",
-      "score": 1.77,
+      "score": 1.72,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Renforcement des Forces arm\u00e9es : 351 nouvelles recrues issues des VDP pr\u00eates \u00e0 servir le Burkina Faso",
       "link": "https://lefaso.net/spip.php?article144266",
       "source": "LeFaso",
-      "published_at": "2026-02-09T11:52:53.605510+00:00",
+      "published_at": "2026-02-09T13:41:00.462242+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,24 +136,10 @@
       ]
     },
     {
-      "title": "US sends group troops to Nigeria to address terrorism threat",
-      "link": "https://www.france24.com/en/us-sends-group-troops-to-nigeria-to-address-terrorism-threat",
-      "source": "France 24 - Africa",
-      "published_at": "2026-02-06T12:06:55+00:00",
-      "score": 1.13,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Gaoua : Plus de 6 000 poussins import\u00e9s frauduleusement saisis par la Gendarmerie",
       "link": "https://lefaso.net/spip.php?article144299",
       "source": "LeFaso",
-      "published_at": "2026-02-09T11:52:53.605510+00:00",
+      "published_at": "2026-02-09T13:41:00.462242+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -166,7 +152,7 @@
       "title": "Burkina/ Lutte contre la Fraude : De la tomate et des oignons d'une valeur de plus de 100 millions FCFA saisis",
       "link": "https://lefaso.net/spip.php?article144292",
       "source": "LeFaso",
-      "published_at": "2026-02-09T11:52:53.605510+00:00",
+      "published_at": "2026-02-09T13:41:00.462242+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -179,7 +165,7 @@
       "title": "Burkina/Trafic illicite : Plus de 12 millions de francs CFA de produits de contrebande dont 923 kg de drogue incin\u00e9r\u00e9s \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article144272",
       "source": "LeFaso",
-      "published_at": "2026-02-09T11:52:53.605510+00:00",
+      "published_at": "2026-02-09T13:41:00.462242+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -192,7 +178,7 @@
       "title": "R\u00e9gion de Bankui : Des acteurs se concertent pour une meilleure appropriation du projet ARISE",
       "link": "https://lefaso.net/spip.php?article144268",
       "source": "LeFaso",
-      "published_at": "2026-02-09T11:52:53.605510+00:00",
+      "published_at": "2026-02-09T13:41:00.462242+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -202,32 +188,46 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "DW Correspondent Arrested After Report On Nigerian Refugees",
+      "link": "https://allafrica.com/stories/202602090065.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-02-09T05:23:44+00:00",
+      "score": 0.96,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-09T13:32:04.527922+00:00",
-      "score": 59.5
-    },
-    {
-      "timestamp": "2026-02-09T15:11:15.450334+00:00",
-      "score": 59.3
-    },
-    {
-      "timestamp": "2026-02-09T16:50:26.372746+00:00",
+      "timestamp": "2026-02-09T15:29:07.318974+00:00",
       "score": 59.1
     },
     {
-      "timestamp": "2026-02-09T18:29:37.295158+00:00",
+      "timestamp": "2026-02-09T17:17:14.175706+00:00",
       "score": 58.9
     },
     {
-      "timestamp": "2026-02-09T20:08:48.217570+00:00",
+      "timestamp": "2026-02-09T19:05:21.032438+00:00",
       "score": 58.7
     },
     {
-      "timestamp": "2026-02-09T21:47:59.139982+00:00",
-      "score": 58.4
+      "timestamp": "2026-02-09T20:53:27.889170+00:00",
+      "score": 58.5
+    },
+    {
+      "timestamp": "2026-02-09T22:41:34.745902+00:00",
+      "score": 58.2
+    },
+    {
+      "timestamp": "2026-02-10T00:29:41.602634+00:00",
+      "score": 58.0
     }
   ]
 }
