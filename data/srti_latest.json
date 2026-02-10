@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-10T13:45:58.283524+00:00",
+  "fetched_at": "2026-02-10T15:11:34.603888+00:00",
   "window_hours": 72,
-  "score": 57.2,
-  "risk_level": "ELEVATED",
+  "score": 60.2,
+  "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 94.0,
-    "civilian_risk": 50.9
+    "conflict_intensity": 92.6,
+    "civilian_risk": 69.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 11,
+  "items_count": 12,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 53
+      "items": 57
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 14
+      "items": 15
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/brf/africa/b209-seven-peace-and-security-priorities-africa-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-09T11:25:40+00:00",
-      "score": 3.65,
+      "score": 3.54,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -115,10 +115,34 @@
       ]
     },
     {
+      "title": "Bobo-Dioulasso : Les commer\u00e7ants appel\u00e9s \u00e0 s'approprier les valeurs de la R\u00e9volution progressiste populaire",
+      "link": "https://lefaso.net/spip.php?article144346",
+      "source": "LeFaso",
+      "published_at": "2026-02-10T15:11:34.603888+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
+      "title": "M\u00e9dias/Culture : L'Agence burkinab\u00e8 de la cin\u00e9matographie et de l'audiovisuel (ABCA) propose des contenus plus endog\u00e8nes aux responsables de t\u00e9l\u00e9visions",
+      "link": "https://lefaso.net/spip.php?article144348",
+      "source": "LeFaso",
+      "published_at": "2026-02-10T15:11:34.603888+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "S\u00e9curit\u00e9 routi\u00e8re \u00e0 Niangoloko : L'ONASER et la police \u00e0 l'offensive contre le non-port du casque et les comportements \u00e0 risque",
       "link": "https://lefaso.net/spip.php?article144342",
       "source": "LeFaso",
-      "published_at": "2026-02-10T13:45:58.283524+00:00",
+      "published_at": "2026-02-10T15:11:34.603888+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -129,7 +153,7 @@
       "title": "Gaoua : Plus de 6 000 poussins import\u00e9s frauduleusement saisis par la Gendarmerie",
       "link": "https://lefaso.net/spip.php?article144299",
       "source": "LeFaso",
-      "published_at": "2026-02-10T13:45:58.283524+00:00",
+      "published_at": "2026-02-10T15:11:34.603888+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,24 +163,11 @@
       ]
     },
     {
-      "title": "Burkina/ Lutte contre la Fraude : De la tomate et des oignons d'une valeur de plus de 100 millions FCFA saisis",
-      "link": "https://lefaso.net/spip.php?article144292",
-      "source": "LeFaso",
-      "published_at": "2026-02-10T13:45:58.283524+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
       "title": "Military Drone Strike Kills 17 Civilians",
       "link": "https://allafrica.com/stories/202602090097.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-09T06:22:09+00:00",
-      "score": 1.08,
+      "score": 1.04,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -182,18 +193,7 @@
       "link": "https://allafrica.com/stories/202602090741.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.6,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Seven Peace and Security Priorities for Africa in 2026",
-      "link": "https://allafrica.com/stories/202602090741.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.6,
+      "score": 0.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-10T15:34:41.012231+00:00",
+      "timestamp": "2026-02-10T16:37:10.924252+00:00",
       "score": 56.3
     },
     {
-      "timestamp": "2026-02-10T17:23:23.740938+00:00",
+      "timestamp": "2026-02-10T18:02:47.244616+00:00",
       "score": 56.1
     },
     {
-      "timestamp": "2026-02-10T19:12:06.469645+00:00",
-      "score": 55.9
+      "timestamp": "2026-02-10T19:28:23.564980+00:00",
+      "score": 55.8
     },
     {
-      "timestamp": "2026-02-10T21:00:49.198352+00:00",
-      "score": 55.7
+      "timestamp": "2026-02-10T20:53:59.885344+00:00",
+      "score": 55.6
     },
     {
-      "timestamp": "2026-02-10T22:49:31.927059+00:00",
-      "score": 55.5
+      "timestamp": "2026-02-10T22:19:36.205708+00:00",
+      "score": 55.4
     },
     {
-      "timestamp": "2026-02-11T00:38:14.655766+00:00",
-      "score": 55.3
+      "timestamp": "2026-02-10T23:45:12.526072+00:00",
+      "score": 55.2
     }
   ]
 }
