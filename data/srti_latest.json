@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-10T05:42:08.208854+00:00",
+  "fetched_at": "2026-02-10T07:18:34.683730+00:00",
   "window_hours": 72,
-  "score": 56.1,
+  "score": 54.9,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 88.4,
-    "civilian_risk": 59.4
+    "conflict_intensity": 86.8,
+    "civilian_risk": 57.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/brf/africa/b209-seven-peace-and-security-priorities-africa-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-09T11:25:40+00:00",
-      "score": 4.3,
+      "score": 4.17,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -119,7 +119,7 @@
       "link": "https://allafrica.com/stories/202602090097.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-09T06:22:09+00:00",
-      "score": 1.3,
+      "score": 1.25,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -130,7 +130,7 @@
       "title": "Gaoua : Plus de 6 000 poussins import\u00e9s frauduleusement saisis par la Gendarmerie",
       "link": "https://lefaso.net/spip.php?article144299",
       "source": "LeFaso",
-      "published_at": "2026-02-10T05:42:08.208854+00:00",
+      "published_at": "2026-02-10T07:18:34.683730+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -143,7 +143,7 @@
       "title": "Burkina/ Lutte contre la Fraude : De la tomate et des oignons d'une valeur de plus de 100 millions FCFA saisis",
       "link": "https://lefaso.net/spip.php?article144292",
       "source": "LeFaso",
-      "published_at": "2026-02-10T05:42:08.208854+00:00",
+      "published_at": "2026-02-10T07:18:34.683730+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -157,7 +157,7 @@
       "link": "https://allafrica.com/stories/202602090065.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-09T05:23:44+00:00",
-      "score": 0.72,
+      "score": 0.69,
       "tags": [
         "civilian_risk"
       ],
@@ -171,7 +171,7 @@
       "link": "https://allafrica.com/stories/202602090741.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.7,
+      "score": 0.68,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,7 +182,7 @@
       "link": "https://allafrica.com/stories/202602090741.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.7,
+      "score": 0.68,
       "tags": [
         "conflict_intensity"
       ],
@@ -193,7 +193,7 @@
       "link": "https://allafrica.com/stories/202602090741.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.7,
+      "score": 0.68,
       "tags": [
         "conflict_intensity"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-10T08:02:00.148656+00:00",
-      "score": 60.3
+      "timestamp": "2026-02-10T08:55:01.158606+00:00",
+      "score": 59.6
     },
     {
-      "timestamp": "2026-02-10T10:21:52.088458+00:00",
-      "score": 60.3
+      "timestamp": "2026-02-10T10:31:27.633482+00:00",
+      "score": 59.6
     },
     {
-      "timestamp": "2026-02-10T12:41:44.028260+00:00",
-      "score": 60.4
+      "timestamp": "2026-02-10T12:07:54.108358+00:00",
+      "score": 59.6
     },
     {
-      "timestamp": "2026-02-10T15:01:35.968062+00:00",
-      "score": 60.4
+      "timestamp": "2026-02-10T13:44:20.583234+00:00",
+      "score": 59.6
     },
     {
-      "timestamp": "2026-02-10T17:21:27.907864+00:00",
-      "score": 60.4
+      "timestamp": "2026-02-10T15:20:47.058110+00:00",
+      "score": 59.6
     },
     {
-      "timestamp": "2026-02-10T19:41:19.847666+00:00",
-      "score": 60.4
+      "timestamp": "2026-02-10T16:57:13.532986+00:00",
+      "score": 59.5
     }
   ]
 }
