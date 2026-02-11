@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-11T13:41:50.965979+00:00",
+  "fetched_at": "2026-02-11T15:05:11.066796+00:00",
   "window_hours": 72,
-  "score": 44.2,
+  "score": 43.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 61.6,
+    "conflict_intensity": 60.8,
     "civilian_risk": 66.8
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 59
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -118,7 +118,7 @@
       "title": "Campagne nationale de Solidarit\u00e9 \u00ab D\u025bm\u025b Sira \u00bb : La 6\u00e8 R\u00e9gion militaire de Fada N'Gourma fait une contribution de plus d'un million de FCFA",
       "link": "https://lefaso.net/spip.php?article144359",
       "source": "LeFaso",
-      "published_at": "2026-02-11T13:41:50.965979+00:00",
+      "published_at": "2026-02-11T15:05:11.066796+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -129,7 +129,7 @@
       "title": "Bobo-Dioulasso : Les commer\u00e7ants appel\u00e9s \u00e0 s'approprier les valeurs de la R\u00e9volution progressiste populaire",
       "link": "https://lefaso.net/spip.php?article144346",
       "source": "LeFaso",
-      "published_at": "2026-02-11T13:41:50.965979+00:00",
+      "published_at": "2026-02-11T15:05:11.066796+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "M\u00e9dias/Culture : L'Agence burkinab\u00e8 de la cin\u00e9matographie et de l'audiovisuel (ABCA) propose des contenus plus endog\u00e8nes aux responsables de t\u00e9l\u00e9visions",
       "link": "https://lefaso.net/spip.php?article144348",
       "source": "LeFaso",
-      "published_at": "2026-02-11T13:41:50.965979+00:00",
+      "published_at": "2026-02-11T15:05:11.066796+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,7 +153,7 @@
       "title": "S\u00e9curit\u00e9 routi\u00e8re \u00e0 Niangoloko : L'ONASER et la police \u00e0 l'offensive contre le non-port du casque et les comportements \u00e0 risque",
       "link": "https://lefaso.net/spip.php?article144342",
       "source": "LeFaso",
-      "published_at": "2026-02-11T13:41:50.965979+00:00",
+      "published_at": "2026-02-11T15:05:11.066796+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,7 +165,7 @@
       "link": "https://allafrica.com/stories/202602110074.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-11T05:38:56+00:00",
-      "score": 0.75,
+      "score": 0.73,
       "tags": [
         "conflict_intensity"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-11T15:29:27.038618+00:00",
-      "score": 44.0
-    },
-    {
-      "timestamp": "2026-02-11T17:17:03.111257+00:00",
+      "timestamp": "2026-02-11T16:28:31.167613+00:00",
       "score": 43.4
     },
     {
-      "timestamp": "2026-02-11T19:04:39.183896+00:00",
+      "timestamp": "2026-02-11T17:51:51.268430+00:00",
       "score": 42.7
     },
     {
-      "timestamp": "2026-02-11T20:52:15.256535+00:00",
-      "score": 42.0
+      "timestamp": "2026-02-11T19:15:11.369247+00:00",
+      "score": 42.1
     },
     {
-      "timestamp": "2026-02-11T22:39:51.329174+00:00",
+      "timestamp": "2026-02-11T20:38:31.470064+00:00",
       "score": 41.4
     },
     {
-      "timestamp": "2026-02-12T00:27:27.401813+00:00",
-      "score": 40.7
+      "timestamp": "2026-02-11T22:01:51.570881+00:00",
+      "score": 40.8
+    },
+    {
+      "timestamp": "2026-02-11T23:25:11.671698+00:00",
+      "score": 40.1
     }
   ]
 }
