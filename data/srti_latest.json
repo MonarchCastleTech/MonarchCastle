@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-11T15:05:11.066796+00:00",
+  "fetched_at": "2026-02-11T16:13:26.007182+00:00",
   "window_hours": 72,
-  "score": 43.8,
+  "score": 47.5,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 60.8,
-    "civilian_risk": 66.8
+    "conflict_intensity": 60.2,
+    "civilian_risk": 86.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 11,
+  "items_count": 12,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -115,10 +115,23 @@
       ]
     },
     {
+      "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
+      "link": "https://lefaso.net/spip.php?article144365",
+      "source": "LeFaso",
+      "published_at": "2026-02-11T16:13:26.007182+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Campagne nationale de Solidarit\u00e9 \u00ab D\u025bm\u025b Sira \u00bb : La 6\u00e8 R\u00e9gion militaire de Fada N'Gourma fait une contribution de plus d'un million de FCFA",
       "link": "https://lefaso.net/spip.php?article144359",
       "source": "LeFaso",
-      "published_at": "2026-02-11T15:05:11.066796+00:00",
+      "published_at": "2026-02-11T16:13:26.007182+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -129,7 +142,7 @@
       "title": "Bobo-Dioulasso : Les commer\u00e7ants appel\u00e9s \u00e0 s'approprier les valeurs de la R\u00e9volution progressiste populaire",
       "link": "https://lefaso.net/spip.php?article144346",
       "source": "LeFaso",
-      "published_at": "2026-02-11T15:05:11.066796+00:00",
+      "published_at": "2026-02-11T16:13:26.007182+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +153,7 @@
       "title": "M\u00e9dias/Culture : L'Agence burkinab\u00e8 de la cin\u00e9matographie et de l'audiovisuel (ABCA) propose des contenus plus endog\u00e8nes aux responsables de t\u00e9l\u00e9visions",
       "link": "https://lefaso.net/spip.php?article144348",
       "source": "LeFaso",
-      "published_at": "2026-02-11T15:05:11.066796+00:00",
+      "published_at": "2026-02-11T16:13:26.007182+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,7 +166,7 @@
       "title": "S\u00e9curit\u00e9 routi\u00e8re \u00e0 Niangoloko : L'ONASER et la police \u00e0 l'offensive contre le non-port du casque et les comportements \u00e0 risque",
       "link": "https://lefaso.net/spip.php?article144342",
       "source": "LeFaso",
-      "published_at": "2026-02-11T15:05:11.066796+00:00",
+      "published_at": "2026-02-11T16:13:26.007182+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,7 +178,7 @@
       "link": "https://allafrica.com/stories/202602110074.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-11T05:38:56+00:00",
-      "score": 0.73,
+      "score": 0.72,
       "tags": [
         "conflict_intensity"
       ],
@@ -184,46 +197,32 @@
         "civilian_risk"
       ],
       "regions": []
-    },
-    {
-      "title": "DW Correspondent Arrested After Report On Nigerian Refugees",
-      "link": "https://allafrica.com/stories/202602090065.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-02-09T05:23:44+00:00",
-      "score": 0.38,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-11T16:28:31.167613+00:00",
-      "score": 43.4
+      "timestamp": "2026-02-11T17:21:40.947568+00:00",
+      "score": 43.5
     },
     {
-      "timestamp": "2026-02-11T17:51:51.268430+00:00",
-      "score": 42.7
+      "timestamp": "2026-02-11T18:29:55.887954+00:00",
+      "score": 42.9
     },
     {
-      "timestamp": "2026-02-11T19:15:11.369247+00:00",
-      "score": 42.1
+      "timestamp": "2026-02-11T19:38:10.828340+00:00",
+      "score": 42.3
     },
     {
-      "timestamp": "2026-02-11T20:38:31.470064+00:00",
-      "score": 41.4
+      "timestamp": "2026-02-11T20:46:25.768726+00:00",
+      "score": 41.7
     },
     {
-      "timestamp": "2026-02-11T22:01:51.570881+00:00",
-      "score": 40.8
+      "timestamp": "2026-02-11T21:54:40.709112+00:00",
+      "score": 41.1
     },
     {
-      "timestamp": "2026-02-11T23:25:11.671698+00:00",
-      "score": 40.1
+      "timestamp": "2026-02-11T23:02:55.649498+00:00",
+      "score": 40.5
     }
   ]
 }
