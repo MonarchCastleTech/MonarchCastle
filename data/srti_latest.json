@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-12T11:49:11.599275+00:00",
+  "fetched_at": "2026-02-12T13:39:53.708110+00:00",
   "window_hours": 72,
-  "score": 33.8,
+  "score": 33.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 43.3,
+    "conflict_intensity": 43.1,
     "civilian_risk": 60.5
   },
   "weights": {
@@ -97,7 +97,7 @@
       "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
       "link": "https://lefaso.net/spip.php?article144365",
       "source": "LeFaso",
-      "published_at": "2026-02-12T11:49:11.599275+00:00",
+      "published_at": "2026-02-12T13:39:53.708110+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Campagne nationale de Solidarit\u00e9 \u00ab D\u025bm\u025b Sira \u00bb : La 6\u00e8 R\u00e9gion militaire de Fada N'Gourma fait une contribution de plus d'un million de FCFA",
       "link": "https://lefaso.net/spip.php?article144359",
       "source": "LeFaso",
-      "published_at": "2026-02-12T11:49:11.599275+00:00",
+      "published_at": "2026-02-12T13:39:53.708110+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Bobo-Dioulasso : Les commer\u00e7ants appel\u00e9s \u00e0 s'approprier les valeurs de la R\u00e9volution progressiste populaire",
       "link": "https://lefaso.net/spip.php?article144346",
       "source": "LeFaso",
-      "published_at": "2026-02-12T11:49:11.599275+00:00",
+      "published_at": "2026-02-12T13:39:53.708110+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +132,7 @@
       "title": "M\u00e9dias/Culture : L'Agence burkinab\u00e8 de la cin\u00e9matographie et de l'audiovisuel (ABCA) propose des contenus plus endog\u00e8nes aux responsables de t\u00e9l\u00e9visions",
       "link": "https://lefaso.net/spip.php?article144348",
       "source": "LeFaso",
-      "published_at": "2026-02-12T11:49:11.599275+00:00",
+      "published_at": "2026-02-12T13:39:53.708110+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -145,7 +145,7 @@
       "title": "S\u00e9curit\u00e9 routi\u00e8re \u00e0 Niangoloko : L'ONASER et la police \u00e0 l'offensive contre le non-port du casque et les comportements \u00e0 risque",
       "link": "https://lefaso.net/spip.php?article144342",
       "source": "LeFaso",
-      "published_at": "2026-02-12T11:49:11.599275+00:00",
+      "published_at": "2026-02-12T13:39:53.708110+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -157,7 +157,7 @@
       "link": "https://allafrica.com/stories/202602110074.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-11T05:38:56+00:00",
-      "score": 0.49,
+      "score": 0.47,
       "tags": [
         "conflict_intensity"
       ],
@@ -190,28 +190,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-12T12:40:12.975817+00:00",
-      "score": 37.2
-    },
-    {
-      "timestamp": "2026-02-12T13:31:14.352359+00:00",
-      "score": 36.7
-    },
-    {
-      "timestamp": "2026-02-12T14:22:15.728901+00:00",
+      "timestamp": "2026-02-12T15:30:35.816945+00:00",
       "score": 36.1
     },
     {
-      "timestamp": "2026-02-12T15:13:17.105443+00:00",
+      "timestamp": "2026-02-12T17:21:17.925780+00:00",
       "score": 35.5
     },
     {
-      "timestamp": "2026-02-12T16:04:18.481985+00:00",
+      "timestamp": "2026-02-12T19:12:00.034615+00:00",
       "score": 34.9
     },
     {
-      "timestamp": "2026-02-12T16:55:19.858527+00:00",
-      "score": 34.4
+      "timestamp": "2026-02-12T21:02:42.143450+00:00",
+      "score": 34.3
+    },
+    {
+      "timestamp": "2026-02-12T22:53:24.252285+00:00",
+      "score": 33.6
+    },
+    {
+      "timestamp": "2026-02-13T00:44:06.361120+00:00",
+      "score": 33.0
     }
   ]
 }
