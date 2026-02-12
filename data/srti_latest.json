@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-12T03:15:39.387835+00:00",
+  "fetched_at": "2026-02-12T05:38:01.322772+00:00",
   "window_hours": 72,
-  "score": 38.2,
+  "score": 37.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 48.0,
-    "civilian_risk": 71.1
+    "conflict_intensity": 47.7,
+    "civilian_risk": 65.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 11,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -97,7 +97,7 @@
       "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
       "link": "https://lefaso.net/spip.php?article144365",
       "source": "LeFaso",
-      "published_at": "2026-02-12T03:15:39.387835+00:00",
+      "published_at": "2026-02-12T05:38:01.322772+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Campagne nationale de Solidarit\u00e9 \u00ab D\u025bm\u025b Sira \u00bb : La 6\u00e8 R\u00e9gion militaire de Fada N'Gourma fait une contribution de plus d'un million de FCFA",
       "link": "https://lefaso.net/spip.php?article144359",
       "source": "LeFaso",
-      "published_at": "2026-02-12T03:15:39.387835+00:00",
+      "published_at": "2026-02-12T05:38:01.322772+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Bobo-Dioulasso : Les commer\u00e7ants appel\u00e9s \u00e0 s'approprier les valeurs de la R\u00e9volution progressiste populaire",
       "link": "https://lefaso.net/spip.php?article144346",
       "source": "LeFaso",
-      "published_at": "2026-02-12T03:15:39.387835+00:00",
+      "published_at": "2026-02-12T05:38:01.322772+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +132,7 @@
       "title": "M\u00e9dias/Culture : L'Agence burkinab\u00e8 de la cin\u00e9matographie et de l'audiovisuel (ABCA) propose des contenus plus endog\u00e8nes aux responsables de t\u00e9l\u00e9visions",
       "link": "https://lefaso.net/spip.php?article144348",
       "source": "LeFaso",
-      "published_at": "2026-02-12T03:15:39.387835+00:00",
+      "published_at": "2026-02-12T05:38:01.322772+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -145,7 +145,7 @@
       "title": "S\u00e9curit\u00e9 routi\u00e8re \u00e0 Niangoloko : L'ONASER et la police \u00e0 l'offensive contre le non-port du casque et les comportements \u00e0 risque",
       "link": "https://lefaso.net/spip.php?article144342",
       "source": "LeFaso",
-      "published_at": "2026-02-12T03:15:39.387835+00:00",
+      "published_at": "2026-02-12T05:38:01.322772+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -169,7 +169,7 @@
       "link": "https://allafrica.com/stories/202602110074.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-11T05:38:56+00:00",
-      "score": 0.59,
+      "score": 0.56,
       "tags": [
         "conflict_intensity"
       ],
@@ -178,44 +178,41 @@
       ]
     },
     {
-      "title": "DW Correspondent Arrested After Report On Nigerian Refugees",
-      "link": "https://allafrica.com/stories/202602090065.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-02-09T05:23:44+00:00",
-      "score": 0.38,
+      "title": "Seven Peace and Security Priorities for Africa in 2026",
+      "link": "https://allafrica.com/stories/202602090741.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-02-09T17:28:50+00:00",
+      "score": 0.29,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
+      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-12T06:49:41.575562+00:00",
-      "score": 45.7
+      "timestamp": "2026-02-12T08:00:23.257709+00:00",
+      "score": 44.6
     },
     {
-      "timestamp": "2026-02-12T10:23:43.763289+00:00",
-      "score": 45.4
+      "timestamp": "2026-02-12T10:22:45.192646+00:00",
+      "score": 44.3
     },
     {
-      "timestamp": "2026-02-12T13:57:45.951016+00:00",
-      "score": 45.1
+      "timestamp": "2026-02-12T12:45:07.127583+00:00",
+      "score": 43.9
     },
     {
-      "timestamp": "2026-02-12T17:31:48.138743+00:00",
-      "score": 44.8
+      "timestamp": "2026-02-12T15:07:29.062520+00:00",
+      "score": 43.6
     },
     {
-      "timestamp": "2026-02-12T21:05:50.326470+00:00",
-      "score": 44.5
+      "timestamp": "2026-02-12T17:29:50.997457+00:00",
+      "score": 43.3
     },
     {
-      "timestamp": "2026-02-13T00:39:52.514197+00:00",
-      "score": 44.1
+      "timestamp": "2026-02-12T19:52:12.932394+00:00",
+      "score": 43.0
     }
   ]
 }
