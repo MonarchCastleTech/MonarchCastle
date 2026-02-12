@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-12T17:11:58.814211+00:00",
+  "fetched_at": "2026-02-12T19:15:44.784403+00:00",
   "window_hours": 72,
-  "score": 33.4,
+  "score": 33.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 42.6,
+    "conflict_intensity": 41.7,
     "civilian_risk": 60.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86
+      "items": 89
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
       "link": "https://lefaso.net/spip.php?article144365",
       "source": "LeFaso",
-      "published_at": "2026-02-12T17:11:58.814211+00:00",
+      "published_at": "2026-02-12T19:15:44.784403+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Campagne nationale de Solidarit\u00e9 \u00ab D\u025bm\u025b Sira \u00bb : La 6\u00e8 R\u00e9gion militaire de Fada N'Gourma fait une contribution de plus d'un million de FCFA",
       "link": "https://lefaso.net/spip.php?article144359",
       "source": "LeFaso",
-      "published_at": "2026-02-12T17:11:58.814211+00:00",
+      "published_at": "2026-02-12T19:15:44.784403+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Bobo-Dioulasso : Les commer\u00e7ants appel\u00e9s \u00e0 s'approprier les valeurs de la R\u00e9volution progressiste populaire",
       "link": "https://lefaso.net/spip.php?article144346",
       "source": "LeFaso",
-      "published_at": "2026-02-12T17:11:58.814211+00:00",
+      "published_at": "2026-02-12T19:15:44.784403+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +132,7 @@
       "title": "M\u00e9dias/Culture : L'Agence burkinab\u00e8 de la cin\u00e9matographie et de l'audiovisuel (ABCA) propose des contenus plus endog\u00e8nes aux responsables de t\u00e9l\u00e9visions",
       "link": "https://lefaso.net/spip.php?article144348",
       "source": "LeFaso",
-      "published_at": "2026-02-12T17:11:58.814211+00:00",
+      "published_at": "2026-02-12T19:15:44.784403+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -145,7 +145,7 @@
       "title": "S\u00e9curit\u00e9 routi\u00e8re \u00e0 Niangoloko : L'ONASER et la police \u00e0 l'offensive contre le non-port du casque et les comportements \u00e0 risque",
       "link": "https://lefaso.net/spip.php?article144342",
       "source": "LeFaso",
-      "published_at": "2026-02-12T17:11:58.814211+00:00",
+      "published_at": "2026-02-12T19:15:44.784403+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,11 +153,11 @@
       "regions": []
     },
     {
-      "title": "Mali's Military Junta Escalates Assault On Free Expression",
-      "link": "https://allafrica.com/stories/202602110074.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-02-11T05:38:56+00:00",
-      "score": 0.43,
+      "title": "Kenya's border with Somalia set to re-open after almost 15 years",
+      "link": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-02-12T18:34:31+00:00",
+      "score": 0.83,
       "tags": [
         "conflict_intensity"
       ],
@@ -166,52 +166,43 @@
       ]
     },
     {
-      "title": "Seven Peace and Security Priorities for Africa in 2026",
-      "link": "https://allafrica.com/stories/202602090741.html",
+      "title": "Mali's Military Junta Escalates Assault On Free Expression",
+      "link": "https://allafrica.com/stories/202602110074.html",
       "source": "AllAfrica - Mali",
-      "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.29,
+      "published_at": "2026-02-11T05:38:56+00:00",
+      "score": 0.4,
       "tags": [
         "conflict_intensity"
       ],
-      "regions": []
-    },
-    {
-      "title": "Seven Peace and Security Priorities for Africa in 2026",
-      "link": "https://allafrica.com/stories/202602090741.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-02-09T17:28:50+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": []
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-12T18:19:31.079990+00:00",
-      "score": 32.4
+      "timestamp": "2026-02-12T21:19:30.754595+00:00",
+      "score": 31.5
     },
     {
-      "timestamp": "2026-02-12T19:27:03.345769+00:00",
-      "score": 31.7
+      "timestamp": "2026-02-12T23:23:16.724787+00:00",
+      "score": 30.8
     },
     {
-      "timestamp": "2026-02-12T20:34:35.611548+00:00",
-      "score": 30.9
+      "timestamp": "2026-02-13T01:27:02.694979+00:00",
+      "score": 30.0
     },
     {
-      "timestamp": "2026-02-12T21:42:07.877327+00:00",
-      "score": 30.1
+      "timestamp": "2026-02-13T03:30:48.665171+00:00",
+      "score": 29.2
     },
     {
-      "timestamp": "2026-02-12T22:49:40.143106+00:00",
-      "score": 29.4
+      "timestamp": "2026-02-13T05:34:34.635363+00:00",
+      "score": 28.4
     },
     {
-      "timestamp": "2026-02-12T23:57:12.408885+00:00",
-      "score": 28.6
+      "timestamp": "2026-02-13T07:38:20.605555+00:00",
+      "score": 27.6
     }
   ]
 }
