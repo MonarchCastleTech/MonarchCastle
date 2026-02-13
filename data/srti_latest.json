@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-13T10:53:39.651510+00:00",
+  "fetched_at": "2026-02-13T11:38:54.057833+00:00",
   "window_hours": 72,
   "score": 50.5,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 61.1,
+    "conflict_intensity": 60.9,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 94
+      "items": 96
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202602130086.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-13T06:13:57+00:00",
-      "score": 2.81,
+      "score": 2.77,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,7 +109,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-13T10:53:39.651510+00:00",
+      "published_at": "2026-02-13T11:38:54.057833+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -123,7 +123,7 @@
       "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
       "link": "https://lefaso.net/spip.php?article144365",
       "source": "LeFaso",
-      "published_at": "2026-02-13T10:53:39.651510+00:00",
+      "published_at": "2026-02-13T11:38:54.057833+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Campagne nationale de Solidarit\u00e9 \u00ab D\u025bm\u025b Sira \u00bb : La 6\u00e8 R\u00e9gion militaire de Fada N'Gourma fait une contribution de plus d'un million de FCFA",
       "link": "https://lefaso.net/spip.php?article144359",
       "source": "LeFaso",
-      "published_at": "2026-02-13T10:53:39.651510+00:00",
+      "published_at": "2026-02-13T11:38:54.057833+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -147,7 +147,7 @@
       "title": "Bobo-Dioulasso : Les commer\u00e7ants appel\u00e9s \u00e0 s'approprier les valeurs de la R\u00e9volution progressiste populaire",
       "link": "https://lefaso.net/spip.php?article144346",
       "source": "LeFaso",
-      "published_at": "2026-02-13T10:53:39.651510+00:00",
+      "published_at": "2026-02-13T11:38:54.057833+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -158,7 +158,7 @@
       "title": "M\u00e9dias/Culture : L'Agence burkinab\u00e8 de la cin\u00e9matographie et de l'audiovisuel (ABCA) propose des contenus plus endog\u00e8nes aux responsables de t\u00e9l\u00e9visions",
       "link": "https://lefaso.net/spip.php?article144348",
       "source": "LeFaso",
-      "published_at": "2026-02-13T10:53:39.651510+00:00",
+      "published_at": "2026-02-13T11:38:54.057833+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -171,7 +171,7 @@
       "title": "S\u00e9curit\u00e9 routi\u00e8re \u00e0 Niangoloko : L'ONASER et la police \u00e0 l'offensive contre le non-port du casque et les comportements \u00e0 risque",
       "link": "https://lefaso.net/spip.php?article144342",
       "source": "LeFaso",
-      "published_at": "2026-02-13T10:53:39.651510+00:00",
+      "published_at": "2026-02-13T11:38:54.057833+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -183,7 +183,7 @@
       "link": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-12T18:34:31+00:00",
-      "score": 0.65,
+      "score": 0.64,
       "tags": [
         "conflict_intensity"
       ],
@@ -194,28 +194,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-13T11:50:24.063590+00:00",
-      "score": 41.9
+      "timestamp": "2026-02-13T12:24:08.464156+00:00",
+      "score": 45.2
     },
     {
-      "timestamp": "2026-02-13T12:47:08.475670+00:00",
-      "score": 42.1
+      "timestamp": "2026-02-13T13:09:22.870479+00:00",
+      "score": 45.7
     },
     {
-      "timestamp": "2026-02-13T13:43:52.887750+00:00",
-      "score": 42.3
+      "timestamp": "2026-02-13T13:54:37.276802+00:00",
+      "score": 46.2
     },
     {
-      "timestamp": "2026-02-13T14:40:37.299830+00:00",
-      "score": 42.5
+      "timestamp": "2026-02-13T14:39:51.683125+00:00",
+      "score": 46.7
     },
     {
-      "timestamp": "2026-02-13T15:37:21.711910+00:00",
-      "score": 42.8
+      "timestamp": "2026-02-13T15:25:06.089448+00:00",
+      "score": 47.2
     },
     {
-      "timestamp": "2026-02-13T16:34:06.123990+00:00",
-      "score": 43.0
+      "timestamp": "2026-02-13T16:10:20.495771+00:00",
+      "score": 47.7
     }
   ]
 }
