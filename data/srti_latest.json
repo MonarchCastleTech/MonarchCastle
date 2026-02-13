@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-13T14:53:51.353424+00:00",
+  "fetched_at": "2026-02-13T15:53:58.298714+00:00",
   "window_hours": 72,
-  "score": 51.2,
+  "score": 51.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 62.4,
+    "conflict_intensity": 62.1,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 100
+      "items": 102
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202602130086.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-13T06:13:57+00:00",
-      "score": 2.64,
+      "score": 2.6,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,7 +109,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-13T14:53:51.353424+00:00",
+      "published_at": "2026-02-13T15:53:58.298714+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -123,7 +123,7 @@
       "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
       "link": "https://lefaso.net/spip.php?article144365",
       "source": "LeFaso",
-      "published_at": "2026-02-13T14:53:51.353424+00:00",
+      "published_at": "2026-02-13T15:53:58.298714+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Campagne nationale de Solidarit\u00e9 \u00ab D\u025bm\u025b Sira \u00bb : La 6\u00e8 R\u00e9gion militaire de Fada N'Gourma fait une contribution de plus d'un million de FCFA",
       "link": "https://lefaso.net/spip.php?article144359",
       "source": "LeFaso",
-      "published_at": "2026-02-13T14:53:51.353424+00:00",
+      "published_at": "2026-02-13T15:53:58.298714+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -147,7 +147,7 @@
       "title": "Bobo-Dioulasso : Les commer\u00e7ants appel\u00e9s \u00e0 s'approprier les valeurs de la R\u00e9volution progressiste populaire",
       "link": "https://lefaso.net/spip.php?article144346",
       "source": "LeFaso",
-      "published_at": "2026-02-13T14:53:51.353424+00:00",
+      "published_at": "2026-02-13T15:53:58.298714+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -158,7 +158,7 @@
       "title": "M\u00e9dias/Culture : L'Agence burkinab\u00e8 de la cin\u00e9matographie et de l'audiovisuel (ABCA) propose des contenus plus endog\u00e8nes aux responsables de t\u00e9l\u00e9visions",
       "link": "https://lefaso.net/spip.php?article144348",
       "source": "LeFaso",
-      "published_at": "2026-02-13T14:53:51.353424+00:00",
+      "published_at": "2026-02-13T15:53:58.298714+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -171,7 +171,7 @@
       "title": "S\u00e9curit\u00e9 routi\u00e8re \u00e0 Niangoloko : L'ONASER et la police \u00e0 l'offensive contre le non-port du casque et les comportements \u00e0 risque",
       "link": "https://lefaso.net/spip.php?article144342",
       "source": "LeFaso",
-      "published_at": "2026-02-13T14:53:51.353424+00:00",
+      "published_at": "2026-02-13T15:53:58.298714+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -183,7 +183,7 @@
       "link": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-13T11:56:08+00:00",
-      "score": 0.81,
+      "score": 0.79,
       "tags": [
         "conflict_intensity"
       ],
@@ -194,28 +194,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-13T16:26:29.744478+00:00",
-      "score": 50.7
+      "timestamp": "2026-02-13T16:54:05.244004+00:00",
+      "score": 52.4
     },
     {
-      "timestamp": "2026-02-13T17:59:08.135532+00:00",
-      "score": 51.6
-    },
-    {
-      "timestamp": "2026-02-13T19:31:46.526586+00:00",
-      "score": 52.5
-    },
-    {
-      "timestamp": "2026-02-13T21:04:24.917640+00:00",
+      "timestamp": "2026-02-13T17:54:12.189294+00:00",
       "score": 53.4
     },
     {
-      "timestamp": "2026-02-13T22:37:03.308694+00:00",
-      "score": 54.3
+      "timestamp": "2026-02-13T18:54:19.134584+00:00",
+      "score": 54.4
     },
     {
-      "timestamp": "2026-02-14T00:09:41.699748+00:00",
-      "score": 55.2
+      "timestamp": "2026-02-13T19:54:26.079874+00:00",
+      "score": 55.4
+    },
+    {
+      "timestamp": "2026-02-13T20:54:33.025164+00:00",
+      "score": 56.4
+    },
+    {
+      "timestamp": "2026-02-13T21:54:39.970454+00:00",
+      "score": 57.4
     }
   ]
 }
