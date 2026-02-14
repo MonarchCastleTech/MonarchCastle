@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-14T15:35:01.600988+00:00",
+  "fetched_at": "2026-02-14T16:41:44.185627+00:00",
   "window_hours": 72,
-  "score": 29.6,
+  "score": 29.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 28.6,
-    "civilian_risk": 76.7
+    "conflict_intensity": 28.3,
+    "civilian_risk": 76.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 93
+      "items": 94
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-14T15:35:01.600988+00:00",
+      "published_at": "2026-02-14T16:41:44.185627+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202602130086.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-13T06:13:57+00:00",
-      "score": 1.61,
+      "score": 1.56,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina : Le CSC alerte sur une campagne de d\u00e9nigrement des hautes autorit\u00e9s de l'\u00c9tat",
       "link": "https://lefaso.net/spip.php?article144454",
       "source": "LeFaso",
-      "published_at": "2026-02-14T15:35:01.600988+00:00",
+      "published_at": "2026-02-14T16:41:44.185627+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
       "link": "https://lefaso.net/spip.php?article144365",
       "source": "LeFaso",
-      "published_at": "2026-02-14T15:35:01.600988+00:00",
+      "published_at": "2026-02-14T16:41:44.185627+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,7 +150,7 @@
       "link": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-13T11:56:08+00:00",
-      "score": 0.52,
+      "score": 0.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -174,28 +174,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-14T16:33:24.690356+00:00",
-      "score": 23.4
+      "timestamp": "2026-02-14T17:48:26.770266+00:00",
+      "score": 22.7
     },
     {
-      "timestamp": "2026-02-14T17:31:47.779724+00:00",
-      "score": 22.1
+      "timestamp": "2026-02-14T18:55:09.354905+00:00",
+      "score": 21.4
     },
     {
-      "timestamp": "2026-02-14T18:30:10.869092+00:00",
-      "score": 20.8
+      "timestamp": "2026-02-14T20:01:51.939544+00:00",
+      "score": 20.1
     },
     {
-      "timestamp": "2026-02-14T19:28:33.958460+00:00",
-      "score": 19.5
+      "timestamp": "2026-02-14T21:08:34.524183+00:00",
+      "score": 18.8
     },
     {
-      "timestamp": "2026-02-14T20:26:57.047828+00:00",
-      "score": 18.2
+      "timestamp": "2026-02-14T22:15:17.108822+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-02-14T21:25:20.137196+00:00",
-      "score": 16.9
+      "timestamp": "2026-02-14T23:21:59.693461+00:00",
+      "score": 16.2
     }
   ]
 }
