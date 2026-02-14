@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-14T19:32:01.890488+00:00",
+  "fetched_at": "2026-02-14T20:37:12.660306+00:00",
   "window_hours": 72,
-  "score": 33.8,
+  "score": 31.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 27.5,
+    "conflict_intensity": 23.6,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 98
+      "items": 97
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-14T19:32:01.890488+00:00",
+      "published_at": "2026-02-14T20:37:12.660306+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -108,22 +108,10 @@
       ]
     },
     {
-      "title": "Islamist Armed Group Massacres Villagers in West",
-      "link": "https://allafrica.com/stories/202602130086.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-02-13T06:13:57+00:00",
-      "score": 1.45,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-14T19:32:01.890488+00:00",
+      "published_at": "2026-02-14T20:37:12.660306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +125,7 @@
       "title": "Burkina : Horizon FM organise une campagne de don de sang pour les forces combattantes",
       "link": "https://lefaso.net/spip.php?article144460",
       "source": "LeFaso",
-      "published_at": "2026-02-14T19:32:01.890488+00:00",
+      "published_at": "2026-02-14T20:37:12.660306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +139,7 @@
       "title": "Burkina : Le CSC alerte sur une campagne de d\u00e9nigrement des hautes autorit\u00e9s de l'\u00c9tat",
       "link": "https://lefaso.net/spip.php?article144454",
       "source": "LeFaso",
-      "published_at": "2026-02-14T19:32:01.890488+00:00",
+      "published_at": "2026-02-14T20:37:12.660306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,7 +152,7 @@
       "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
       "link": "https://lefaso.net/spip.php?article144365",
       "source": "LeFaso",
-      "published_at": "2026-02-14T19:32:01.890488+00:00",
+      "published_at": "2026-02-14T20:37:12.660306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -174,24 +162,23 @@
       ]
     },
     {
+      "title": "Islamist Armed Group Massacres Villagers in West",
+      "link": "https://allafrica.com/stories/202602130086.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-02-13T06:13:57+00:00",
+      "score": 1.4,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Kenya's border with Somalia set to re-open after almost 15 years",
       "link": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-13T11:56:08+00:00",
-      "score": 0.47,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
-      "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
-      "source": "Crisis Group",
-      "published_at": "2026-02-12T15:08:39+00:00",
-      "score": 0.29,
+      "score": 0.46,
       "tags": [
         "conflict_intensity"
       ],
@@ -202,28 +189,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-14T20:14:28.432872+00:00",
-      "score": 23.5
+      "timestamp": "2026-02-14T21:42:23.430124+00:00",
+      "score": 24.1
     },
     {
-      "timestamp": "2026-02-14T20:56:54.975256+00:00",
-      "score": 22.5
+      "timestamp": "2026-02-14T22:47:34.199942+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-02-14T21:39:21.517640+00:00",
-      "score": 21.5
+      "timestamp": "2026-02-14T23:52:44.969760+00:00",
+      "score": 22.2
     },
     {
-      "timestamp": "2026-02-14T22:21:48.060024+00:00",
+      "timestamp": "2026-02-15T00:57:55.739578+00:00",
+      "score": 21.3
+    },
+    {
+      "timestamp": "2026-02-15T02:03:06.509396+00:00",
       "score": 20.4
     },
     {
-      "timestamp": "2026-02-14T23:04:14.602408+00:00",
+      "timestamp": "2026-02-15T03:08:17.279214+00:00",
       "score": 19.4
-    },
-    {
-      "timestamp": "2026-02-14T23:46:41.144792+00:00",
-      "score": 18.3
     }
   ]
 }
