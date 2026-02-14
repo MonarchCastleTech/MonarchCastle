@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-14T05:54:04.751737+00:00",
+  "fetched_at": "2026-02-14T06:58:57.885293+00:00",
   "window_hours": 72,
-  "score": 32.4,
+  "score": 32.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 32.4,
-    "civilian_risk": 80.8
+    "conflict_intensity": 32.0,
+    "civilian_risk": 80.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-14T05:54:04.751737+00:00",
+      "published_at": "2026-02-14T06:58:57.885293+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202602130086.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-13T06:13:57+00:00",
-      "score": 2.01,
+      "score": 1.97,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina : Une campagne massive de fake-news en cours (alerte de la BCLCC)",
       "link": "https://lefaso.net/spip.php?article144365",
       "source": "LeFaso",
-      "published_at": "2026-02-14T05:54:04.751737+00:00",
+      "published_at": "2026-02-14T06:58:57.885293+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Campagne nationale de Solidarit\u00e9 \u00ab D\u025bm\u025b Sira \u00bb : La 6\u00e8 R\u00e9gion militaire de Fada N'Gourma fait une contribution de plus d'un million de FCFA",
       "link": "https://lefaso.net/spip.php?article144359",
       "source": "LeFaso",
-      "published_at": "2026-02-14T05:54:04.751737+00:00",
+      "published_at": "2026-02-14T06:58:57.885293+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,7 +148,7 @@
       "link": "https://www.bbc.com/news/articles/c70k4yw049yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-13T11:56:08+00:00",
-      "score": 0.63,
+      "score": 0.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -161,7 +161,7 @@
       "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-12T15:08:39+00:00",
-      "score": 0.39,
+      "score": 0.38,
       "tags": [
         "conflict_intensity"
       ],
@@ -172,28 +172,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-14T06:59:33.138009+00:00",
-      "score": 44.0
+      "timestamp": "2026-02-14T08:03:51.018849+00:00",
+      "score": 40.8
     },
     {
-      "timestamp": "2026-02-14T08:05:01.524281+00:00",
-      "score": 43.9
+      "timestamp": "2026-02-14T09:08:44.152405+00:00",
+      "score": 40.5
     },
     {
-      "timestamp": "2026-02-14T09:10:29.910553+00:00",
-      "score": 43.9
+      "timestamp": "2026-02-14T10:13:37.285961+00:00",
+      "score": 40.2
     },
     {
-      "timestamp": "2026-02-14T10:15:58.296825+00:00",
-      "score": 43.9
+      "timestamp": "2026-02-14T11:18:30.419517+00:00",
+      "score": 39.9
     },
     {
-      "timestamp": "2026-02-14T11:21:26.683097+00:00",
-      "score": 43.8
+      "timestamp": "2026-02-14T12:23:23.553073+00:00",
+      "score": 39.6
     },
     {
-      "timestamp": "2026-02-14T12:26:55.069369+00:00",
-      "score": 43.8
+      "timestamp": "2026-02-14T13:28:16.686629+00:00",
+      "score": 39.3
     }
   ]
 }
