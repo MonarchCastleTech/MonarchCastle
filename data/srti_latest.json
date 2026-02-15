@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-15T14:37:36.376780+00:00",
+  "fetched_at": "2026-02-15T15:34:30.277599+00:00",
   "window_hours": 72,
-  "score": 34.1,
+  "score": 32.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 28.3,
+    "conflict_intensity": 24.7,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 67
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-15T14:37:36.376780+00:00",
+      "published_at": "2026-02-15T15:34:30.277599+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -111,7 +111,7 @@
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-15T14:37:36.376780+00:00",
+      "published_at": "2026-02-15T15:34:30.277599+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-15T14:37:36.376780+00:00",
+      "published_at": "2026-02-15T15:34:30.277599+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina : Horizon FM organise une campagne de don de sang pour les forces combattantes",
       "link": "https://lefaso.net/spip.php?article144460",
       "source": "LeFaso",
-      "published_at": "2026-02-15T14:37:36.376780+00:00",
+      "published_at": "2026-02-15T15:34:30.277599+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,7 +150,7 @@
       "title": "Burkina : Le CSC alerte sur une campagne de d\u00e9nigrement des hautes autorit\u00e9s de l'\u00c9tat",
       "link": "https://lefaso.net/spip.php?article144454",
       "source": "LeFaso",
-      "published_at": "2026-02-15T14:37:36.376780+00:00",
+      "published_at": "2026-02-15T15:34:30.277599+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -176,52 +176,39 @@
       "link": "https://allafrica.com/stories/202602140227.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-14T22:37:25+00:00",
-      "score": 0.65,
+      "score": 0.64,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "Sudan, South Sudan and Somalia: Key Peace and Security Priorities for Africa in 2026",
-      "link": "https://www.crisisgroup.org/evt/africa/sudan-south-sudan-and-somalia-key-peace-and-security-priorities-africa-2026",
-      "source": "Crisis Group",
-      "published_at": "2026-02-12T15:08:39+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-15T16:04:42.332488+00:00",
+      "timestamp": "2026-02-15T16:31:24.178418+00:00",
+      "score": 37.5
+    },
+    {
+      "timestamp": "2026-02-15T17:28:18.079237+00:00",
       "score": 37.8
     },
     {
-      "timestamp": "2026-02-15T17:31:48.288196+00:00",
-      "score": 38.2
+      "timestamp": "2026-02-15T18:25:11.980056+00:00",
+      "score": 38.1
     },
     {
-      "timestamp": "2026-02-15T18:58:54.243904+00:00",
+      "timestamp": "2026-02-15T19:22:05.880875+00:00",
       "score": 38.5
     },
     {
-      "timestamp": "2026-02-15T20:26:00.199612+00:00",
-      "score": 38.9
+      "timestamp": "2026-02-15T20:18:59.781694+00:00",
+      "score": 38.8
     },
     {
-      "timestamp": "2026-02-15T21:53:06.155320+00:00",
-      "score": 39.3
-    },
-    {
-      "timestamp": "2026-02-15T23:20:12.111028+00:00",
-      "score": 39.6
+      "timestamp": "2026-02-15T21:15:53.682513+00:00",
+      "score": 39.1
     }
   ]
 }
