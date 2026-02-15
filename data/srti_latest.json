@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-15T18:50:27.251230+00:00",
+  "fetched_at": "2026-02-15T19:34:31.853155+00:00",
   "window_hours": 72,
-  "score": 32.1,
+  "score": 38.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 24.2,
+    "conflict_intensity": 37.6,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 65
+      "items": 70
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-15T18:50:27.251230+00:00",
+      "published_at": "2026-02-15T19:34:31.853155+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -108,10 +108,23 @@
       ]
     },
     {
+      "title": "Burkina/Kabinou : Un forage inaugur\u00e9 et une campagne lanc\u00e9e pour b\u00e2tir l'\u00c9cole de paix",
+      "link": "https://lefaso.net/spip.php?article144467",
+      "source": "LeFaso",
+      "published_at": "2026-02-15T19:34:31.853155+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-15T18:50:27.251230+00:00",
+      "published_at": "2026-02-15T19:34:31.853155+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +135,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-15T18:50:27.251230+00:00",
+      "published_at": "2026-02-15T19:34:31.853155+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +149,7 @@
       "title": "Burkina : Horizon FM organise une campagne de don de sang pour les forces combattantes",
       "link": "https://lefaso.net/spip.php?article144460",
       "source": "LeFaso",
-      "published_at": "2026-02-15T18:50:27.251230+00:00",
+      "published_at": "2026-02-15T19:34:31.853155+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,13 +163,27 @@
       "title": "Burkina : Le CSC alerte sur une campagne de d\u00e9nigrement des hautes autorit\u00e9s de l'\u00c9tat",
       "link": "https://lefaso.net/spip.php?article144454",
       "source": "LeFaso",
-      "published_at": "2026-02-15T18:50:27.251230+00:00",
+      "published_at": "2026-02-15T19:34:31.853155+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "burkina"
+      ]
+    },
+    {
+      "title": "Burkina / Premi\u00e8re Nuit Bayiri Baor\u00ea : Les acteurs du d\u00e9veloppement de la r\u00e9gion du Yaadga honor\u00e9s",
+      "link": "https://lefaso.net/spip.php?article144466",
+      "source": "LeFaso",
+      "published_at": "2026-02-15T19:34:31.853155+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
       ]
     },
     {
@@ -170,45 +197,32 @@
         "civilian_risk"
       ],
       "regions": []
-    },
-    {
-      "title": "France Denies Role in Niger Airport Attack As Junta Doubles Down On Accusations",
-      "link": "https://allafrica.com/stories/202602140227.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-02-14T22:37:25+00:00",
-      "score": 0.6,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-15T20:06:02.925323+00:00",
-      "score": 35.3
-    },
-    {
-      "timestamp": "2026-02-15T21:21:38.599416+00:00",
-      "score": 35.5
-    },
-    {
-      "timestamp": "2026-02-15T22:37:14.273509+00:00",
-      "score": 35.6
-    },
-    {
-      "timestamp": "2026-02-15T23:52:49.947602+00:00",
-      "score": 35.7
-    },
-    {
-      "timestamp": "2026-02-16T01:08:25.621695+00:00",
+      "timestamp": "2026-02-15T20:18:36.455080+00:00",
       "score": 35.8
     },
     {
-      "timestamp": "2026-02-16T02:24:01.295788+00:00",
-      "score": 36.0
+      "timestamp": "2026-02-15T21:02:41.057005+00:00",
+      "score": 35.9
+    },
+    {
+      "timestamp": "2026-02-15T21:46:45.658930+00:00",
+      "score": 36.1
+    },
+    {
+      "timestamp": "2026-02-15T22:30:50.260855+00:00",
+      "score": 36.2
+    },
+    {
+      "timestamp": "2026-02-15T23:14:54.862780+00:00",
+      "score": 36.3
+    },
+    {
+      "timestamp": "2026-02-15T23:58:59.464705+00:00",
+      "score": 36.5
     }
   ]
 }
