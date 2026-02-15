@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-15T11:31:26.989167+00:00",
+  "fetched_at": "2026-02-15T13:10:30.421072+00:00",
   "window_hours": 72,
-  "score": 34.4,
+  "score": 34.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 28.8,
+    "conflict_intensity": 28.5,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-15T11:31:26.989167+00:00",
+      "published_at": "2026-02-15T13:10:30.421072+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -111,7 +111,7 @@
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-15T11:31:26.989167+00:00",
+      "published_at": "2026-02-15T13:10:30.421072+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-15T11:31:26.989167+00:00",
+      "published_at": "2026-02-15T13:10:30.421072+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina : Horizon FM organise une campagne de don de sang pour les forces combattantes",
       "link": "https://lefaso.net/spip.php?article144460",
       "source": "LeFaso",
-      "published_at": "2026-02-15T11:31:26.989167+00:00",
+      "published_at": "2026-02-15T13:10:30.421072+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,7 +150,7 @@
       "title": "Burkina : Le CSC alerte sur une campagne de d\u00e9nigrement des hautes autorit\u00e9s de l'\u00c9tat",
       "link": "https://lefaso.net/spip.php?article144454",
       "source": "LeFaso",
-      "published_at": "2026-02-15T11:31:26.989167+00:00",
+      "published_at": "2026-02-15T13:10:30.421072+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -176,7 +176,7 @@
       "link": "https://allafrica.com/stories/202602140227.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-14T22:37:25+00:00",
-      "score": 0.69,
+      "score": 0.67,
       "tags": [
         "conflict_intensity"
       ],
@@ -200,27 +200,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-15T12:24:19.931438+00:00",
-      "score": 37.7
+      "timestamp": "2026-02-15T14:49:33.852977+00:00",
+      "score": 37.8
     },
     {
-      "timestamp": "2026-02-15T13:17:12.873709+00:00",
-      "score": 38.1
+      "timestamp": "2026-02-15T16:28:37.284882+00:00",
+      "score": 38.2
     },
     {
-      "timestamp": "2026-02-15T14:10:05.815980+00:00",
-      "score": 38.4
+      "timestamp": "2026-02-15T18:07:40.716787+00:00",
+      "score": 38.5
     },
     {
-      "timestamp": "2026-02-15T15:02:58.758251+00:00",
-      "score": 38.8
+      "timestamp": "2026-02-15T19:46:44.148692+00:00",
+      "score": 38.9
     },
     {
-      "timestamp": "2026-02-15T15:55:51.700522+00:00",
-      "score": 39.2
+      "timestamp": "2026-02-15T21:25:47.580597+00:00",
+      "score": 39.3
     },
     {
-      "timestamp": "2026-02-15T16:48:44.642793+00:00",
+      "timestamp": "2026-02-15T23:04:51.012502+00:00",
       "score": 39.6
     }
   ]
