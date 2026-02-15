@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-15T17:34:51.577137+00:00",
+  "fetched_at": "2026-02-15T18:50:27.251230+00:00",
   "window_hours": 72,
-  "score": 32.2,
+  "score": 32.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 24.4,
+    "conflict_intensity": 24.2,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -97,7 +97,7 @@
       "title": "C\u00e9r\u00e9monie des b\u00e2tisseurs : Le conseil r\u00e9gional des organisations de la soci\u00e9t\u00e9 civile du Kadiogo soutient la campagne D\u00eam\u00e8 Sira et Faso M\u00eabo",
       "link": "https://lefaso.net/spip.php?article144421",
       "source": "LeFaso",
-      "published_at": "2026-02-15T17:34:51.577137+00:00",
+      "published_at": "2026-02-15T18:50:27.251230+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -111,7 +111,7 @@
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-15T17:34:51.577137+00:00",
+      "published_at": "2026-02-15T18:50:27.251230+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-15T17:34:51.577137+00:00",
+      "published_at": "2026-02-15T18:50:27.251230+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina : Horizon FM organise une campagne de don de sang pour les forces combattantes",
       "link": "https://lefaso.net/spip.php?article144460",
       "source": "LeFaso",
-      "published_at": "2026-02-15T17:34:51.577137+00:00",
+      "published_at": "2026-02-15T18:50:27.251230+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,7 +150,7 @@
       "title": "Burkina : Le CSC alerte sur une campagne de d\u00e9nigrement des hautes autorit\u00e9s de l'\u00c9tat",
       "link": "https://lefaso.net/spip.php?article144454",
       "source": "LeFaso",
-      "published_at": "2026-02-15T17:34:51.577137+00:00",
+      "published_at": "2026-02-15T18:50:27.251230+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -176,7 +176,7 @@
       "link": "https://allafrica.com/stories/202602140227.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-14T22:37:25+00:00",
-      "score": 0.62,
+      "score": 0.6,
       "tags": [
         "conflict_intensity"
       ],
@@ -187,28 +187,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-15T18:27:21.467910+00:00",
-      "score": 36.3
+      "timestamp": "2026-02-15T20:06:02.925323+00:00",
+      "score": 35.3
     },
     {
-      "timestamp": "2026-02-15T19:19:51.358683+00:00",
-      "score": 36.5
+      "timestamp": "2026-02-15T21:21:38.599416+00:00",
+      "score": 35.5
     },
     {
-      "timestamp": "2026-02-15T20:12:21.249456+00:00",
-      "score": 36.7
+      "timestamp": "2026-02-15T22:37:14.273509+00:00",
+      "score": 35.6
     },
     {
-      "timestamp": "2026-02-15T21:04:51.140229+00:00",
-      "score": 36.9
+      "timestamp": "2026-02-15T23:52:49.947602+00:00",
+      "score": 35.7
     },
     {
-      "timestamp": "2026-02-15T21:57:21.031002+00:00",
-      "score": 37.1
+      "timestamp": "2026-02-16T01:08:25.621695+00:00",
+      "score": 35.8
     },
     {
-      "timestamp": "2026-02-15T22:49:50.921775+00:00",
-      "score": 37.4
+      "timestamp": "2026-02-16T02:24:01.295788+00:00",
+      "score": 36.0
     }
   ]
 }
