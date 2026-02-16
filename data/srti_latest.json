@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-16T14:54:25.100681+00:00",
+  "fetched_at": "2026-02-16T15:52:06.681994+00:00",
   "window_hours": 72,
-  "score": 42.4,
+  "score": 52.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 44.7,
+    "conflict_intensity": 64.0,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 11,
+  "items_count": 12,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     {
       "name": "UN News Africa",
@@ -94,11 +94,26 @@
   ],
   "top_headlines": [
     {
+      "title": "Ghana tomato traders among dead in Burkina Faso attack",
+      "link": "https://www.bbc.com/news/articles/cjd9edyllnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-02-16T14:56:55+00:00",
+      "score": 2.72,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Motorbike raids on villages kill dozens in Nigeria",
       "link": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-15T15:29:26+00:00",
-      "score": 2.02,
+      "score": 1.98,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +126,7 @@
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-16T14:54:25.100681+00:00",
+      "published_at": "2026-02-16T15:52:06.681994+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +137,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-16T14:54:25.100681+00:00",
+      "published_at": "2026-02-16T15:52:06.681994+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +151,7 @@
       "title": "Burkina/Kabinou : Un forage inaugur\u00e9 et une campagne lanc\u00e9e pour b\u00e2tir l'\u00c9cole de paix",
       "link": "https://lefaso.net/spip.php?article144467",
       "source": "LeFaso",
-      "published_at": "2026-02-16T14:54:25.100681+00:00",
+      "published_at": "2026-02-16T15:52:06.681994+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +164,7 @@
       "title": "Burkina : Horizon FM organise une campagne de don de sang pour les forces combattantes",
       "link": "https://lefaso.net/spip.php?article144460",
       "source": "LeFaso",
-      "published_at": "2026-02-16T14:54:25.100681+00:00",
+      "published_at": "2026-02-16T15:52:06.681994+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,7 +178,7 @@
       "title": "Burkina : Le CSC alerte sur une campagne de d\u00e9nigrement des hautes autorit\u00e9s de l'\u00c9tat",
       "link": "https://lefaso.net/spip.php?article144454",
       "source": "LeFaso",
-      "published_at": "2026-02-16T14:54:25.100681+00:00",
+      "published_at": "2026-02-16T15:52:06.681994+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -176,7 +191,7 @@
       "title": "Burkina / Premi\u00e8re Nuit Bayiri Baor\u00ea : Les acteurs du d\u00e9veloppement de la r\u00e9gion du Yaadga honor\u00e9s",
       "link": "https://lefaso.net/spip.php?article144466",
       "source": "LeFaso",
-      "published_at": "2026-02-16T14:54:25.100681+00:00",
+      "published_at": "2026-02-16T15:52:06.681994+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -185,45 +200,32 @@
         "burkina",
         "ouagadougou"
       ]
-    },
-    {
-      "title": "Mali Kicks Off Sugar Campaign As Import Gap Persists",
-      "link": "https://allafrica.com/stories/202602160021.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-02-16T04:45:48+00:00",
-      "score": 0.93,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-16T16:25:28.809334+00:00",
-      "score": 35.7
+      "timestamp": "2026-02-16T16:49:48.263307+00:00",
+      "score": 38.5
     },
     {
-      "timestamp": "2026-02-16T17:56:32.517987+00:00",
-      "score": 35.7
+      "timestamp": "2026-02-16T17:47:29.844620+00:00",
+      "score": 38.7
     },
     {
-      "timestamp": "2026-02-16T19:27:36.226640+00:00",
-      "score": 35.7
+      "timestamp": "2026-02-16T18:45:11.425933+00:00",
+      "score": 38.9
     },
     {
-      "timestamp": "2026-02-16T20:58:39.935293+00:00",
-      "score": 35.8
+      "timestamp": "2026-02-16T19:42:53.007246+00:00",
+      "score": 39.1
     },
     {
-      "timestamp": "2026-02-16T22:29:43.643946+00:00",
-      "score": 35.8
+      "timestamp": "2026-02-16T20:40:34.588559+00:00",
+      "score": 39.3
     },
     {
-      "timestamp": "2026-02-17T00:00:47.352599+00:00",
-      "score": 35.8
+      "timestamp": "2026-02-16T21:38:16.169872+00:00",
+      "score": 39.5
     }
   ]
 }
