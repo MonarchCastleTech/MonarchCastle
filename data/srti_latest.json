@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-16T21:38:02.382794+00:00",
+  "fetched_at": "2026-02-16T22:39:59.722499+00:00",
   "window_hours": 72,
-  "score": 49.6,
+  "score": 49.2,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 59.2,
+    "conflict_intensity": 58.5,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 54
+      "items": 60
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cjd9edyllnro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-16T14:56:55+00:00",
-      "score": 2.5,
+      "score": 2.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.bbc.com/news/articles/ckg1y0nk641o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-15T15:29:26+00:00",
-      "score": 1.74,
+      "score": 1.7,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-16T21:38:02.382794+00:00",
+      "published_at": "2026-02-16T22:39:59.722499+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-16T21:38:02.382794+00:00",
+      "published_at": "2026-02-16T22:39:59.722499+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "Burkina/Kabinou : Un forage inaugur\u00e9 et une campagne lanc\u00e9e pour b\u00e2tir l'\u00c9cole de paix",
       "link": "https://lefaso.net/spip.php?article144467",
       "source": "LeFaso",
-      "published_at": "2026-02-16T21:38:02.382794+00:00",
+      "published_at": "2026-02-16T22:39:59.722499+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,7 +164,7 @@
       "title": "Burkina : Horizon FM organise une campagne de don de sang pour les forces combattantes",
       "link": "https://lefaso.net/spip.php?article144460",
       "source": "LeFaso",
-      "published_at": "2026-02-16T21:38:02.382794+00:00",
+      "published_at": "2026-02-16T22:39:59.722499+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -178,7 +178,7 @@
       "title": "Burkina : Le CSC alerte sur une campagne de d\u00e9nigrement des hautes autorit\u00e9s de l'\u00c9tat",
       "link": "https://lefaso.net/spip.php?article144454",
       "source": "LeFaso",
-      "published_at": "2026-02-16T21:38:02.382794+00:00",
+      "published_at": "2026-02-16T22:39:59.722499+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -191,7 +191,7 @@
       "title": "Burkina / Premi\u00e8re Nuit Bayiri Baor\u00ea : Les acteurs du d\u00e9veloppement de la r\u00e9gion du Yaadga honor\u00e9s",
       "link": "https://lefaso.net/spip.php?article144466",
       "source": "LeFaso",
-      "published_at": "2026-02-16T21:38:02.382794+00:00",
+      "published_at": "2026-02-16T22:39:59.722499+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -204,28 +204,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-16T22:34:52.265380+00:00",
-      "score": 49.6
-    },
-    {
-      "timestamp": "2026-02-16T23:31:42.147966+00:00",
+      "timestamp": "2026-02-16T23:41:57.062204+00:00",
       "score": 50.3
     },
     {
-      "timestamp": "2026-02-17T00:28:32.030552+00:00",
+      "timestamp": "2026-02-17T00:43:54.401909+00:00",
       "score": 51.1
     },
     {
-      "timestamp": "2026-02-17T01:25:21.913138+00:00",
-      "score": 51.8
+      "timestamp": "2026-02-17T01:45:51.741614+00:00",
+      "score": 51.9
     },
     {
-      "timestamp": "2026-02-17T02:22:11.795724+00:00",
+      "timestamp": "2026-02-17T02:47:49.081319+00:00",
       "score": 52.6
     },
     {
-      "timestamp": "2026-02-17T03:19:01.678310+00:00",
+      "timestamp": "2026-02-17T03:49:46.421024+00:00",
       "score": 53.4
+    },
+    {
+      "timestamp": "2026-02-17T04:51:43.760729+00:00",
+      "score": 54.1
     }
   ]
 }
