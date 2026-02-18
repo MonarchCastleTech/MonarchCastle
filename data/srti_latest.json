@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-18T09:59:49.157953+00:00",
+  "fetched_at": "2026-02-18T10:56:47.777733+00:00",
   "window_hours": 72,
-  "score": 28.4,
+  "score": 23.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 21.4,
-    "civilian_risk": 88.5
+    "conflict_intensity": 21.1,
+    "civilian_risk": 65.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -94,26 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "UNHCR Mali: Situation of refugees from Burkina Faso and Niger (Prima facie) as of 31 Janvier 2026",
-      "link": "https://reliefweb.int/report/mali/unhcr-mali-situation-refugees-burkina-faso-and-niger-prima-facie-31-janvier-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-02-18T09:59:49.157953+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-18T09:59:49.157953+00:00",
+      "published_at": "2026-02-18T10:56:47.777733+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +108,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-18T09:59:49.157953+00:00",
+      "published_at": "2026-02-18T10:56:47.777733+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +122,7 @@
       "title": "Burkina/Kabinou : Un forage inaugur\u00e9 et une campagne lanc\u00e9e pour b\u00e2tir l'\u00c9cole de paix",
       "link": "https://lefaso.net/spip.php?article144467",
       "source": "LeFaso",
-      "published_at": "2026-02-18T09:59:49.157953+00:00",
+      "published_at": "2026-02-18T10:56:47.777733+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +135,7 @@
       "title": "Burkina / Premi\u00e8re Nuit Bayiri Baor\u00ea : Les acteurs du d\u00e9veloppement de la r\u00e9gion du Yaadga honor\u00e9s",
       "link": "https://lefaso.net/spip.php?article144466",
       "source": "LeFaso",
-      "published_at": "2026-02-18T09:59:49.157953+00:00",
+      "published_at": "2026-02-18T10:56:47.777733+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -179,7 +163,7 @@
       "link": "https://allafrica.com/stories/202602160452.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-02-16T14:19:56+00:00",
-      "score": 0.33,
+      "score": 0.32,
       "tags": [
         "conflict_intensity"
       ],
@@ -194,7 +178,7 @@
       "link": "https://allafrica.com/stories/202602160452.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-02-16T14:19:56+00:00",
-      "score": 0.33,
+      "score": 0.32,
       "tags": [
         "conflict_intensity"
       ],
@@ -207,28 +191,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-18T11:01:11.675955+00:00",
-      "score": 28.4
+      "timestamp": "2026-02-18T11:53:46.397513+00:00",
+      "score": 26.7
     },
     {
-      "timestamp": "2026-02-18T12:02:34.193957+00:00",
-      "score": 27.5
-    },
-    {
-      "timestamp": "2026-02-18T13:03:56.711959+00:00",
-      "score": 26.6
-    },
-    {
-      "timestamp": "2026-02-18T14:05:19.229961+00:00",
+      "timestamp": "2026-02-18T12:50:45.017293+00:00",
       "score": 25.7
     },
     {
-      "timestamp": "2026-02-18T15:06:41.747963+00:00",
-      "score": 24.9
+      "timestamp": "2026-02-18T13:47:43.637073+00:00",
+      "score": 24.8
     },
     {
-      "timestamp": "2026-02-18T16:08:04.265965+00:00",
-      "score": 24.0
+      "timestamp": "2026-02-18T14:44:42.256853+00:00",
+      "score": 23.9
+    },
+    {
+      "timestamp": "2026-02-18T15:41:40.876633+00:00",
+      "score": 23.0
+    },
+    {
+      "timestamp": "2026-02-18T16:38:39.496413+00:00",
+      "score": 22.0
     }
   ]
 }
