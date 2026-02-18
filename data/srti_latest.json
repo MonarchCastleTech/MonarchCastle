@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-18T17:15:06.937315+00:00",
+  "fetched_at": "2026-02-18T19:08:30.840363+00:00",
   "window_hours": 72,
-  "score": 53.0,
+  "score": 52.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 65.9,
+    "conflict_intensity": 64.6,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 11,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 75
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 35
+      "items": 36
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
       "source": "Crisis Group",
       "published_at": "2026-02-18T09:20:56+00:00",
-      "score": 5.13,
+      "score": 4.98,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://allafrica.com/stories/202602180330.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:19:23+00:00",
-      "score": 1.76,
+      "score": 1.71,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +128,7 @@
       "link": "https://allafrica.com/stories/202602180329.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:15:15+00:00",
-      "score": 1.76,
+      "score": 1.71,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,26 +139,10 @@
       ]
     },
     {
-      "title": "UNHCR Mali: Situation of refugees from Burkina Faso and Niger (Prima facie) as of 31 Janvier 2026",
-      "link": "https://reliefweb.int/report/mali/unhcr-mali-situation-refugees-burkina-faso-and-niger-prima-facie-31-janvier-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-02-18T17:15:06.937315+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-18T17:15:06.937315+00:00",
+      "published_at": "2026-02-18T19:08:30.840363+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -169,7 +153,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-18T17:15:06.937315+00:00",
+      "published_at": "2026-02-18T19:08:30.840363+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -183,7 +167,7 @@
       "title": "Burkina/Kabinou : Un forage inaugur\u00e9 et une campagne lanc\u00e9e pour b\u00e2tir l'\u00c9cole de paix",
       "link": "https://lefaso.net/spip.php?article144467",
       "source": "LeFaso",
-      "published_at": "2026-02-18T17:15:06.937315+00:00",
+      "published_at": "2026-02-18T19:08:30.840363+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -196,7 +180,7 @@
       "title": "Burkina / Premi\u00e8re Nuit Bayiri Baor\u00ea : Les acteurs du d\u00e9veloppement de la r\u00e9gion du Yaadga honor\u00e9s",
       "link": "https://lefaso.net/spip.php?article144466",
       "source": "LeFaso",
-      "published_at": "2026-02-18T17:15:06.937315+00:00",
+      "published_at": "2026-02-18T19:08:30.840363+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -205,32 +189,45 @@
         "burkina",
         "ouagadougou"
       ]
+    },
+    {
+      "title": "Mali Kicks Off Sugar Campaign As Import Gap Persists",
+      "link": "https://allafrica.com/stories/202602160021.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-02-16T04:45:48+00:00",
+      "score": 0.38,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-18T18:28:30.301298+00:00",
-      "score": 41.1
+      "timestamp": "2026-02-18T21:01:54.743411+00:00",
+      "score": 43.6
     },
     {
-      "timestamp": "2026-02-18T19:41:53.665281+00:00",
-      "score": 41.2
+      "timestamp": "2026-02-18T22:55:18.646459+00:00",
+      "score": 43.9
     },
     {
-      "timestamp": "2026-02-18T20:55:17.029264+00:00",
-      "score": 41.4
+      "timestamp": "2026-02-19T00:48:42.549507+00:00",
+      "score": 44.3
     },
     {
-      "timestamp": "2026-02-18T22:08:40.393247+00:00",
-      "score": 41.5
+      "timestamp": "2026-02-19T02:42:06.452555+00:00",
+      "score": 44.6
     },
     {
-      "timestamp": "2026-02-18T23:22:03.757230+00:00",
-      "score": 41.7
+      "timestamp": "2026-02-19T04:35:30.355603+00:00",
+      "score": 44.9
     },
     {
-      "timestamp": "2026-02-19T00:35:27.121213+00:00",
-      "score": 41.8
+      "timestamp": "2026-02-19T06:28:54.258651+00:00",
+      "score": 45.2
     }
   ]
 }
