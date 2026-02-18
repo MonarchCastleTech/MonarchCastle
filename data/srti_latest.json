@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-18T11:48:32.230616+00:00",
+  "fetched_at": "2026-02-18T13:26:13.361313+00:00",
   "window_hours": 72,
-  "score": 40.5,
+  "score": 54.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 40.9,
+    "conflict_intensity": 68.6,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,13 +41,13 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 71
     },
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 5
     },
     {
       "name": "BBC Africa",
@@ -94,11 +94,26 @@
   ],
   "top_headlines": [
     {
+      "title": "Ethiopia, Eritrea and  Tigray: A Powder Keg in the Horn of Africa",
+      "link": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
+      "source": "Crisis Group",
+      "published_at": "2026-02-18T09:20:56+00:00",
+      "score": 5.43,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "niger"
+      ]
+    },
+    {
       "title": "Burkina Faso Fatal Attack - Pres Mahama Orders Evacuation of Injured Traders",
       "link": "https://allafrica.com/stories/202602180330.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:19:23+00:00",
-      "score": 1.91,
+      "score": 1.86,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +128,7 @@
       "link": "https://allafrica.com/stories/202602180329.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:15:15+00:00",
-      "score": 1.91,
+      "score": 1.86,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -124,26 +139,10 @@
       ]
     },
     {
-      "title": "UNHCR Mali: Situation of refugees from Burkina Faso and Niger (Prima facie) as of 31 Janvier 2026",
-      "link": "https://reliefweb.int/report/mali/unhcr-mali-situation-refugees-burkina-faso-and-niger-prima-facie-31-janvier-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-02-18T11:48:32.230616+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-18T11:48:32.230616+00:00",
+      "published_at": "2026-02-18T13:26:13.361313+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,7 +153,7 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-18T11:48:32.230616+00:00",
+      "published_at": "2026-02-18T13:26:13.361313+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -168,7 +167,7 @@
       "title": "Burkina/Kabinou : Un forage inaugur\u00e9 et une campagne lanc\u00e9e pour b\u00e2tir l'\u00c9cole de paix",
       "link": "https://lefaso.net/spip.php?article144467",
       "source": "LeFaso",
-      "published_at": "2026-02-18T11:48:32.230616+00:00",
+      "published_at": "2026-02-18T13:26:13.361313+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -181,7 +180,7 @@
       "title": "Burkina / Premi\u00e8re Nuit Bayiri Baor\u00ea : Les acteurs du d\u00e9veloppement de la r\u00e9gion du Yaadga honor\u00e9s",
       "link": "https://lefaso.net/spip.php?article144466",
       "source": "LeFaso",
-      "published_at": "2026-02-18T11:48:32.230616+00:00",
+      "published_at": "2026-02-18T13:26:13.361313+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -207,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-18T12:40:16.683499+00:00",
-      "score": 27.9
+      "timestamp": "2026-02-18T15:03:54.492010+00:00",
+      "score": 31.5
     },
     {
-      "timestamp": "2026-02-18T13:32:01.136382+00:00",
-      "score": 27.1
+      "timestamp": "2026-02-18T16:41:35.622707+00:00",
+      "score": 31.0
     },
     {
-      "timestamp": "2026-02-18T14:23:45.589265+00:00",
-      "score": 26.3
+      "timestamp": "2026-02-18T18:19:16.753404+00:00",
+      "score": 30.4
     },
     {
-      "timestamp": "2026-02-18T15:15:30.042148+00:00",
-      "score": 25.5
+      "timestamp": "2026-02-18T19:56:57.884101+00:00",
+      "score": 29.9
     },
     {
-      "timestamp": "2026-02-18T16:07:14.495031+00:00",
-      "score": 24.7
+      "timestamp": "2026-02-18T21:34:39.014798+00:00",
+      "score": 29.4
     },
     {
-      "timestamp": "2026-02-18T16:58:58.947914+00:00",
-      "score": 23.9
+      "timestamp": "2026-02-18T23:12:20.145495+00:00",
+      "score": 28.8
     }
   ]
 }
