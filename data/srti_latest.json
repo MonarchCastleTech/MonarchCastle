@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-18T21:43:28.144589+00:00",
+  "fetched_at": "2026-02-18T22:44:24.600657+00:00",
   "window_hours": 72,
-  "score": 51.4,
+  "score": 44.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 62.8,
+    "conflict_intensity": 48.6,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 10,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
       "source": "Crisis Group",
       "published_at": "2026-02-18T09:20:56+00:00",
-      "score": 4.77,
+      "score": 4.69,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,11 +109,27 @@
       ]
     },
     {
+      "title": "UNHCR Mali: Situation of refugees from Burkina Faso and Niger (Prima facie) as of 31 Janvier 2026",
+      "link": "https://reliefweb.int/report/mali/unhcr-mali-situation-refugees-burkina-faso-and-niger-prima-facie-31-janvier-2026",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-02-18T22:44:24.600657+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "niger",
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Burkina Faso Fatal Attack - Pres Mahama Orders Evacuation of Injured Traders",
       "link": "https://allafrica.com/stories/202602180330.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:19:23+00:00",
-      "score": 1.64,
+      "score": 1.62,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +144,7 @@
       "link": "https://allafrica.com/stories/202602180329.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:15:15+00:00",
-      "score": 1.64,
+      "score": 1.61,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,26 +155,10 @@
       ]
     },
     {
-      "title": "UNHCR Mali: Situation of refugees from Burkina Faso and Niger (Prima facie) as of 31 Janvier 2026",
-      "link": "https://reliefweb.int/report/mali/unhcr-mali-situation-refugees-burkina-faso-and-niger-prima-facie-31-janvier-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-02-18T21:43:28.144589+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Affaire corruption de magistrats : Le verdict attendu pour le 24 f\u00e9vrier 2026",
       "link": "https://lefaso.net/spip.php?article144463",
       "source": "LeFaso",
-      "published_at": "2026-02-18T21:43:28.144589+00:00",
+      "published_at": "2026-02-18T22:44:24.600657+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -169,24 +169,10 @@
       "title": "Burkina : La campagne nationale \u00ab D\u025bm\u025b Sira \u00bb a connu son \u00e9pilogue, avec plus de 900 millions FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article144459",
       "source": "LeFaso",
-      "published_at": "2026-02-18T21:43:28.144589+00:00",
+      "published_at": "2026-02-18T22:44:24.600657+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Burkina / Premi\u00e8re Nuit Bayiri Baor\u00ea : Les acteurs du d\u00e9veloppement de la r\u00e9gion du Yaadga honor\u00e9s",
-      "link": "https://lefaso.net/spip.php?article144466",
-      "source": "LeFaso",
-      "published_at": "2026-02-18T21:43:28.144589+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
       ],
       "regions": [
         "burkina",
@@ -205,32 +191,47 @@
       "regions": [
         "mali"
       ]
+    },
+    {
+      "title": "Mali - Journalist Arrested for Criticising Foreign President",
+      "link": "https://allafrica.com/stories/202602160452.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-02-16T14:19:56+00:00",
+      "score": 0.29,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "niger",
+        "niamey"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-18T22:35:05.001219+00:00",
-      "score": 48.1
+      "timestamp": "2026-02-18T23:45:21.056725+00:00",
+      "score": 49.0
     },
     {
-      "timestamp": "2026-02-18T23:26:41.857849+00:00",
-      "score": 48.8
+      "timestamp": "2026-02-19T00:46:17.512793+00:00",
+      "score": 49.7
     },
     {
-      "timestamp": "2026-02-19T00:18:18.714479+00:00",
-      "score": 49.4
+      "timestamp": "2026-02-19T01:47:13.968861+00:00",
+      "score": 50.4
     },
     {
-      "timestamp": "2026-02-19T01:09:55.571109+00:00",
-      "score": 50.0
+      "timestamp": "2026-02-19T02:48:10.424929+00:00",
+      "score": 51.1
     },
     {
-      "timestamp": "2026-02-19T02:01:32.427739+00:00",
-      "score": 50.7
+      "timestamp": "2026-02-19T03:49:06.880997+00:00",
+      "score": 51.8
     },
     {
-      "timestamp": "2026-02-19T02:53:09.284369+00:00",
-      "score": 51.3
+      "timestamp": "2026-02-19T04:50:03.337065+00:00",
+      "score": 52.4
     }
   ]
 }
