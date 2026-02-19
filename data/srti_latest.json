@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-19T22:42:32.291508+00:00",
+  "fetched_at": "2026-02-19T23:39:34.960430+00:00",
   "window_hours": 72,
-  "score": 61.3,
-  "risk_level": "HIGH",
+  "score": 55.8,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 93.3,
-    "civilian_risk": 73.4
+    "conflict_intensity": 91.8,
+    "civilian_risk": 49.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
       "source": "Crisis Group",
       "published_at": "2026-02-18T09:20:56+00:00",
-      "score": 2.77,
+      "score": 2.7,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.bbc.com/news/articles/cgrzgk57r9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-19T14:33:19+00:00",
-      "score": 2.23,
+      "score": 2.2,
       "tags": [
         "conflict_intensity"
       ],
@@ -126,7 +126,7 @@
       "link": "https://allafrica.com/stories/202602190585.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-19T15:22:43+00:00",
-      "score": 1.72,
+      "score": 1.7,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -137,26 +137,10 @@
       ]
     },
     {
-      "title": "UNHCR Mali: Situation of refugees from Burkina Faso and Niger (Prima facie) as of 31 Janvier 2026",
-      "link": "https://reliefweb.int/report/mali/unhcr-mali-situation-refugees-burkina-faso-and-niger-prima-facie-31-janvier-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-02-19T22:42:32.291508+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-19T22:42:32.291508+00:00",
+      "published_at": "2026-02-19T23:39:34.960430+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,11 +148,24 @@
       "regions": []
     },
     {
+      "title": "UN's probe finds 'hallmarks of genocide' in El-Fasher",
+      "link": "https://www.france24.com/en/un-s-probe-finds-hallmarks-of-genocide-in-el-fasher",
+      "source": "France 24 - Africa",
+      "published_at": "2026-02-19T21:23:42+00:00",
+      "score": 0.95,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Burkina Faso Fatal Attack - Pres Mahama Orders Evacuation of Injured Traders",
       "link": "https://allafrica.com/stories/202602180330.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:19:23+00:00",
-      "score": 0.98,
+      "score": 0.95,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -183,7 +180,7 @@
       "link": "https://allafrica.com/stories/202602180329.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:15:15+00:00",
-      "score": 0.97,
+      "score": 0.95,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -194,43 +191,44 @@
       ]
     },
     {
-      "title": "UN's probe finds 'hallmarks of genocide' in El-Fasher",
-      "link": "https://www.france24.com/en/un-s-probe-finds-hallmarks-of-genocide-in-el-fasher",
-      "source": "France 24 - Africa",
-      "published_at": "2026-02-19T21:23:42+00:00",
-      "score": 0.96,
+      "title": "President Mahama Visits Two Survivors of Burkina Faso Terror Attack",
+      "link": "https://allafrica.com/stories/202602190054.html",
+      "source": "AllAfrica - Burkina Faso",
+      "published_at": "2026-02-19T05:06:07+00:00",
+      "score": 0.62,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
-        "niger"
+        "burkina",
+        "burkina faso"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-19T23:42:34.041825+00:00",
-      "score": 50.9
+      "timestamp": "2026-02-20T00:36:37.629352+00:00",
+      "score": 53.2
     },
     {
-      "timestamp": "2026-02-20T00:42:35.792142+00:00",
-      "score": 51.3
+      "timestamp": "2026-02-20T01:33:40.298274+00:00",
+      "score": 53.8
     },
     {
-      "timestamp": "2026-02-20T01:42:37.542459+00:00",
-      "score": 51.7
+      "timestamp": "2026-02-20T02:30:42.967196+00:00",
+      "score": 54.4
     },
     {
-      "timestamp": "2026-02-20T02:42:39.292776+00:00",
-      "score": 52.1
+      "timestamp": "2026-02-20T03:27:45.636118+00:00",
+      "score": 55.0
     },
     {
-      "timestamp": "2026-02-20T03:42:41.043093+00:00",
-      "score": 52.5
+      "timestamp": "2026-02-20T04:24:48.305040+00:00",
+      "score": 55.5
     },
     {
-      "timestamp": "2026-02-20T04:42:42.793410+00:00",
-      "score": 52.9
+      "timestamp": "2026-02-20T05:21:50.973962+00:00",
+      "score": 56.1
     }
   ]
 }
