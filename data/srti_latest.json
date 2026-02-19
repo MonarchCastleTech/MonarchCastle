@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-19T07:54:54.056793+00:00",
+  "fetched_at": "2026-02-19T08:57:46.070454+00:00",
   "window_hours": 72,
-  "score": 41.0,
-  "risk_level": "ELEVATED",
+  "score": 35.8,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 51.9,
-    "civilian_risk": 75.4
+    "conflict_intensity": 51.0,
+    "civilian_risk": 51.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 36
+      "items": 31
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/brf/africa/ethiopia-eritrea/b210-ethiopia-eritrea-and-tigray-powder-keg-horn-africa",
       "source": "Crisis Group",
       "published_at": "2026-02-18T09:20:56+00:00",
-      "score": 3.95,
+      "score": 3.87,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,27 +109,11 @@
       ]
     },
     {
-      "title": "UNHCR Mali: Situation of refugees from Burkina Faso and Niger (Prima facie) as of 31 Janvier 2026",
-      "link": "https://reliefweb.int/report/mali/unhcr-mali-situation-refugees-burkina-faso-and-niger-prima-facie-31-janvier-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-02-19T07:54:54.056793+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Burkina Faso Fatal Attack - Pres Mahama Orders Evacuation of Injured Traders",
       "link": "https://allafrica.com/stories/202602180330.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:19:23+00:00",
-      "score": 1.37,
+      "score": 1.34,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -144,7 +128,7 @@
       "link": "https://allafrica.com/stories/202602180329.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:15:15+00:00",
-      "score": 1.37,
+      "score": 1.34,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -159,7 +143,7 @@
       "link": "https://allafrica.com/stories/202602190054.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-19T05:06:07+00:00",
-      "score": 0.81,
+      "score": 0.79,
       "tags": [
         "conflict_intensity"
       ],
@@ -201,28 +185,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-19T09:41:37.280109+00:00",
-      "score": 47.8
+      "timestamp": "2026-02-19T10:00:38.084115+00:00",
+      "score": 46.6
     },
     {
-      "timestamp": "2026-02-19T11:28:20.503425+00:00",
-      "score": 48.4
+      "timestamp": "2026-02-19T11:03:30.097776+00:00",
+      "score": 47.1
     },
     {
-      "timestamp": "2026-02-19T13:15:03.726741+00:00",
-      "score": 49.0
+      "timestamp": "2026-02-19T12:06:22.111437+00:00",
+      "score": 47.6
     },
     {
-      "timestamp": "2026-02-19T15:01:46.950057+00:00",
-      "score": 49.6
+      "timestamp": "2026-02-19T13:09:14.125098+00:00",
+      "score": 48.1
     },
     {
-      "timestamp": "2026-02-19T16:48:30.173373+00:00",
-      "score": 50.2
+      "timestamp": "2026-02-19T14:12:06.138759+00:00",
+      "score": 48.7
     },
     {
-      "timestamp": "2026-02-19T18:35:13.396689+00:00",
-      "score": 50.8
+      "timestamp": "2026-02-19T15:14:58.152420+00:00",
+      "score": 49.2
     }
   ]
 }
