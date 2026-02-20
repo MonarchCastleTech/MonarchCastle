@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-20T10:50:54.598174+00:00",
+  "fetched_at": "2026-02-20T11:39:30.322864+00:00",
   "window_hours": 72,
-  "score": 66.6,
+  "score": 66.5,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 82.9
+    "civilian_risk": 82.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -135,7 +135,7 @@
       "link": "https://www.bbc.com/news/articles/cgrzgk57r9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-19T14:33:19+00:00",
-      "score": 1.81,
+      "score": 1.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,7 +148,7 @@
       "link": "https://allafrica.com/stories/202602190585.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-19T15:22:43+00:00",
-      "score": 1.4,
+      "score": 1.38,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -162,7 +162,7 @@
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-20T10:50:54.598174+00:00",
+      "published_at": "2026-02-20T11:39:30.322864+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,7 +174,7 @@
       "link": "https://www.france24.com/en/un-s-probe-finds-hallmarks-of-genocide-in-el-fasher",
       "source": "France 24 - Africa",
       "published_at": "2026-02-19T21:23:42+00:00",
-      "score": 0.8,
+      "score": 0.79,
       "tags": [
         "conflict_intensity"
       ],
@@ -215,28 +215,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-20T11:48:36.644424+00:00",
-      "score": 64.6
+      "timestamp": "2026-02-20T12:28:06.047554+00:00",
+      "score": 66.3
     },
     {
-      "timestamp": "2026-02-20T12:46:18.690674+00:00",
-      "score": 65.8
+      "timestamp": "2026-02-20T13:16:41.772244+00:00",
+      "score": 67.5
     },
     {
-      "timestamp": "2026-02-20T13:44:00.736924+00:00",
-      "score": 67.0
+      "timestamp": "2026-02-20T14:05:17.496934+00:00",
+      "score": 68.8
     },
     {
-      "timestamp": "2026-02-20T14:41:42.783174+00:00",
-      "score": 68.2
+      "timestamp": "2026-02-20T14:53:53.221624+00:00",
+      "score": 70.0
     },
     {
-      "timestamp": "2026-02-20T15:39:24.829424+00:00",
-      "score": 69.4
+      "timestamp": "2026-02-20T15:42:28.946314+00:00",
+      "score": 71.3
     },
     {
-      "timestamp": "2026-02-20T16:37:06.875674+00:00",
-      "score": 70.6
+      "timestamp": "2026-02-20T16:31:04.671004+00:00",
+      "score": 72.5
     }
   ]
 }
