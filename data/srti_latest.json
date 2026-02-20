@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-20T17:48:16.638599+00:00",
+  "fetched_at": "2026-02-20T19:00:57.769919+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -114,7 +114,7 @@
       "link": "https://www.crisisgroup.org/fr/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
       "source": "Crisis Group",
       "published_at": "2026-02-20T16:32:24+00:00",
-      "score": 5.66,
+      "score": 5.56,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,7 +151,7 @@
       "link": "https://www.bbc.com/news/articles/cgrzgk57r9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-19T14:33:19+00:00",
-      "score": 1.57,
+      "score": 1.52,
       "tags": [
         "conflict_intensity"
       ],
@@ -163,7 +163,7 @@
       "title": "Burkina / Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-20T17:48:16.638599+00:00",
+      "published_at": "2026-02-20T19:00:57.769919+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +179,7 @@
       "link": "https://allafrica.com/stories/202602190585.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-19T15:22:43+00:00",
-      "score": 1.22,
+      "score": 1.18,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -193,7 +193,7 @@
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-20T17:48:16.638599+00:00",
+      "published_at": "2026-02-20T19:00:57.769919+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -205,7 +205,7 @@
       "link": "https://www.france24.com/en/un-s-probe-finds-hallmarks-of-genocide-in-el-fasher",
       "source": "France 24 - Africa",
       "published_at": "2026-02-19T21:23:42+00:00",
-      "score": 0.7,
+      "score": 0.69,
       "tags": [
         "conflict_intensity"
       ],
@@ -216,28 +216,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-20T18:43:29.408425+00:00",
-      "score": 71.0
+      "timestamp": "2026-02-20T20:13:38.901239+00:00",
+      "score": 71.2
     },
     {
-      "timestamp": "2026-02-20T19:38:42.178251+00:00",
-      "score": 72.1
+      "timestamp": "2026-02-20T21:26:20.032559+00:00",
+      "score": 72.3
     },
     {
-      "timestamp": "2026-02-20T20:33:54.948077+00:00",
-      "score": 73.2
+      "timestamp": "2026-02-20T22:39:01.163879+00:00",
+      "score": 73.3
     },
     {
-      "timestamp": "2026-02-20T21:29:07.717903+00:00",
+      "timestamp": "2026-02-20T23:51:42.295199+00:00",
       "score": 74.3
     },
     {
-      "timestamp": "2026-02-20T22:24:20.487729+00:00",
-      "score": 75.4
+      "timestamp": "2026-02-21T01:04:23.426519+00:00",
+      "score": 75.3
     },
     {
-      "timestamp": "2026-02-20T23:19:33.257555+00:00",
-      "score": 76.5
+      "timestamp": "2026-02-21T02:17:04.557839+00:00",
+      "score": 76.3
     }
   ]
 }
