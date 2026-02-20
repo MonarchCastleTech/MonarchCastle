@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-20T09:53:12.551924+00:00",
+  "fetched_at": "2026-02-20T10:50:54.598174+00:00",
   "window_hours": 72,
   "score": 66.6,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 83.1
+    "civilian_risk": 82.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -135,7 +135,7 @@
       "link": "https://www.bbc.com/news/articles/cgrzgk57r9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-19T14:33:19+00:00",
-      "score": 1.84,
+      "score": 1.81,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,7 +148,7 @@
       "link": "https://allafrica.com/stories/202602190585.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-19T15:22:43+00:00",
-      "score": 1.43,
+      "score": 1.4,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -162,7 +162,7 @@
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-20T09:53:12.551924+00:00",
+      "published_at": "2026-02-20T10:50:54.598174+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,7 +174,7 @@
       "link": "https://www.france24.com/en/un-s-probe-finds-hallmarks-of-genocide-in-el-fasher",
       "source": "France 24 - Africa",
       "published_at": "2026-02-19T21:23:42+00:00",
-      "score": 0.81,
+      "score": 0.8,
       "tags": [
         "conflict_intensity"
       ],
@@ -187,7 +187,7 @@
       "link": "https://allafrica.com/stories/202602180330.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:19:23+00:00",
-      "score": 0.68,
+      "score": 0.67,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -202,7 +202,7 @@
       "link": "https://allafrica.com/stories/202602180329.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-18T11:15:15+00:00",
-      "score": 0.68,
+      "score": 0.67,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -215,28 +215,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-20T10:52:41.252622+00:00",
-      "score": 62.6
+      "timestamp": "2026-02-20T11:48:36.644424+00:00",
+      "score": 64.6
     },
     {
-      "timestamp": "2026-02-20T11:52:09.953320+00:00",
-      "score": 63.7
+      "timestamp": "2026-02-20T12:46:18.690674+00:00",
+      "score": 65.8
     },
     {
-      "timestamp": "2026-02-20T12:51:38.654018+00:00",
-      "score": 64.8
+      "timestamp": "2026-02-20T13:44:00.736924+00:00",
+      "score": 67.0
     },
     {
-      "timestamp": "2026-02-20T13:51:07.354716+00:00",
-      "score": 66.0
+      "timestamp": "2026-02-20T14:41:42.783174+00:00",
+      "score": 68.2
     },
     {
-      "timestamp": "2026-02-20T14:50:36.055414+00:00",
-      "score": 67.1
+      "timestamp": "2026-02-20T15:39:24.829424+00:00",
+      "score": 69.4
     },
     {
-      "timestamp": "2026-02-20T15:50:04.756112+00:00",
-      "score": 68.3
+      "timestamp": "2026-02-20T16:37:06.875674+00:00",
+      "score": 70.6
     }
   ]
 }
