@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-20T19:40:22.807259+00:00",
+  "fetched_at": "2026-02-20T20:43:54.219998+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 89
+      "items": 91
     },
     {
       "name": "ActuNiger",
@@ -114,7 +114,7 @@
       "link": "https://www.crisisgroup.org/fr/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
       "source": "Crisis Group",
       "published_at": "2026-02-20T16:32:24+00:00",
-      "score": 5.51,
+      "score": 5.42,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,7 +151,7 @@
       "link": "https://www.bbc.com/news/articles/cgrzgk57r9vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-19T14:33:19+00:00",
-      "score": 1.5,
+      "score": 1.46,
       "tags": [
         "conflict_intensity"
       ],
@@ -163,7 +163,7 @@
       "title": "Burkina / Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-20T19:40:22.807259+00:00",
+      "published_at": "2026-02-20T20:43:54.219998+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +179,7 @@
       "link": "https://allafrica.com/stories/202602190585.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-19T15:22:43+00:00",
-      "score": 1.17,
+      "score": 1.14,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -193,7 +193,7 @@
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-20T19:40:22.807259+00:00",
+      "published_at": "2026-02-20T20:43:54.219998+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -201,43 +201,45 @@
       "regions": []
     },
     {
-      "title": "UN probe finds 'hallmarks of genocide' in Sudan's El-Fasher",
-      "link": "https://www.france24.com/en/un-s-probe-finds-hallmarks-of-genocide-in-el-fasher",
-      "source": "France 24 - Africa",
-      "published_at": "2026-02-19T21:23:42+00:00",
-      "score": 0.68,
+      "title": "Burkina Faso Fatal Attack - Pres Mahama Orders Evacuation of Injured Traders",
+      "link": "https://allafrica.com/stories/202602180330.html",
+      "source": "AllAfrica - Burkina Faso",
+      "published_at": "2026-02-18T11:19:23+00:00",
+      "score": 0.67,
       "tags": [
-        "conflict_intensity"
+        "conflict_intensity",
+        "civilian_risk"
       ],
       "regions": [
-        "niger"
+        "burkina",
+        "burkina faso"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-20T20:19:47.844599+00:00",
-      "score": 72.2
+      "timestamp": "2026-02-20T21:47:25.632737+00:00",
+      "score": 73.1
     },
     {
-      "timestamp": "2026-02-20T20:59:12.881939+00:00",
-      "score": 73.2
+      "timestamp": "2026-02-20T22:50:57.045476+00:00",
+      "score": 74.1
     },
     {
-      "timestamp": "2026-02-20T21:38:37.919279+00:00",
-      "score": 74.2
+      "timestamp": "2026-02-20T23:54:28.458215+00:00",
+      "score": 75.1
     },
     {
-      "timestamp": "2026-02-20T22:18:02.956619+00:00",
-      "score": 75.2
-    },
-    {
-      "timestamp": "2026-02-20T22:57:27.993959+00:00",
+      "timestamp": "2026-02-21T00:57:59.870954+00:00",
       "score": 76.2
     },
     {
-      "timestamp": "2026-02-20T23:36:53.031299+00:00",
+      "timestamp": "2026-02-21T02:01:31.283693+00:00",
       "score": 77.2
+    },
+    {
+      "timestamp": "2026-02-21T03:05:02.696432+00:00",
+      "score": 78.2
     }
   ]
 }
