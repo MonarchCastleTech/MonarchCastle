@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-21T10:36:56.297974+00:00",
+  "fetched_at": "2026-02-21T11:30:51.665182+00:00",
   "window_hours": 72,
-  "score": 70.0,
+  "score": 68.0,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 100.0,
+    "conflict_intensity": 96.1,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 10,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 81
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/oth/benin-colombia-ethiopia-israelpalestine/horizon-february-july-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-20T21:44:47+00:00",
-      "score": 4.73,
+      "score": 4.66,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -114,7 +114,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-20T18:07:09+00:00",
-      "score": 4.44,
+      "score": 4.37,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +128,7 @@
       "link": "https://www.crisisgroup.org/fr/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
       "source": "Crisis Group",
       "published_at": "2026-02-20T16:32:24+00:00",
-      "score": 4.31,
+      "score": 4.24,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -149,7 +149,7 @@
       "title": "Burkina/Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-21T10:36:56.297974+00:00",
+      "published_at": "2026-02-21T11:30:51.665182+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,7 +164,7 @@
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-21T10:36:56.297974+00:00",
+      "published_at": "2026-02-21T11:30:51.665182+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +176,7 @@
       "link": "https://allafrica.com/stories/202602190585.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-19T15:22:43+00:00",
-      "score": 0.77,
+      "score": 0.74,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -187,29 +187,26 @@
       ]
     },
     {
-      "title": "Burkina Faso Fatal Attack - Pres Mahama Orders Evacuation of Injured Traders",
-      "link": "https://allafrica.com/stories/202602180330.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-02-18T11:19:23+00:00",
-      "score": 0.67,
+      "title": "UN probe finds 'hallmarks of genocide' in Sudan's El-Fasher",
+      "link": "https://www.france24.com/en/un-s-probe-finds-hallmarks-of-genocide-in-el-fasher",
+      "source": "France 24 - Africa",
+      "published_at": "2026-02-19T21:23:42+00:00",
+      "score": 0.46,
       "tags": [
-        "conflict_intensity",
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "burkina",
-        "burkina faso"
+        "niger"
       ]
     },
     {
-      "title": "Tomato Traders Suspend Burkina Faso Imports ...After Deadly Attack",
-      "link": "https://allafrica.com/stories/202602180329.html",
+      "title": "President Mahama Visits Two Survivors of Burkina Faso Terror Attack",
+      "link": "https://allafrica.com/stories/202602190054.html",
       "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-02-18T11:15:15+00:00",
-      "score": 0.67,
+      "published_at": "2026-02-19T05:06:07+00:00",
+      "score": 0.29,
       "tags": [
-        "conflict_intensity",
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
         "burkina",
@@ -219,28 +216,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-21T11:34:39.104823+00:00",
-      "score": 72.8
+      "timestamp": "2026-02-21T12:24:47.032390+00:00",
+      "score": 70.9
     },
     {
-      "timestamp": "2026-02-21T12:32:21.911672+00:00",
-      "score": 73.2
+      "timestamp": "2026-02-21T13:18:42.399598+00:00",
+      "score": 71.1
     },
     {
-      "timestamp": "2026-02-21T13:30:04.718521+00:00",
-      "score": 73.6
+      "timestamp": "2026-02-21T14:12:37.766806+00:00",
+      "score": 71.2
     },
     {
-      "timestamp": "2026-02-21T14:27:47.525370+00:00",
-      "score": 74.0
+      "timestamp": "2026-02-21T15:06:33.134014+00:00",
+      "score": 71.4
     },
     {
-      "timestamp": "2026-02-21T15:25:30.332219+00:00",
-      "score": 74.3
+      "timestamp": "2026-02-21T16:00:28.501222+00:00",
+      "score": 71.6
     },
     {
-      "timestamp": "2026-02-21T16:23:13.139068+00:00",
-      "score": 74.7
+      "timestamp": "2026-02-21T16:54:23.868430+00:00",
+      "score": 71.7
     }
   ]
 }
