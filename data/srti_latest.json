@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-21T20:35:45.934278+00:00",
+  "fetched_at": "2026-02-21T21:33:07.019082+00:00",
   "window_hours": 72,
-  "score": 61.4,
+  "score": 60.8,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 82.8,
+    "conflict_intensity": 81.6,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/oth/benin-colombia-ethiopia-israelpalestine/horizon-february-july-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-20T21:44:47+00:00",
-      "score": 3.93,
+      "score": 3.86,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -114,7 +114,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-20T18:07:09+00:00",
-      "score": 3.64,
+      "score": 3.57,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +128,7 @@
       "link": "https://www.crisisgroup.org/fr/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
       "source": "Crisis Group",
       "published_at": "2026-02-20T16:32:24+00:00",
-      "score": 3.52,
+      "score": 3.44,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -146,10 +146,21 @@
       ]
     },
     {
+      "title": "Congo-Brazzaville : Ouverture d'un campus scolaire d\u00e9di\u00e9 aux apprentissages traditionnels, \u00e0 la gestion rationnelle de l'environnement et aux comp\u00e9tences li\u00e9es \u00e0 la terre",
+      "link": "https://lefaso.net/spip.php?article144607",
+      "source": "LeFaso",
+      "published_at": "2026-02-21T21:33:07.019082+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Burkina/Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-21T20:35:45.934278+00:00",
+      "published_at": "2026-02-21T21:33:07.019082+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,7 +175,7 @@
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-21T20:35:45.934278+00:00",
+      "published_at": "2026-02-21T21:33:07.019082+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -198,46 +209,32 @@
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "President Mahama Visits Two Survivors of Burkina Faso Terror Attack",
-      "link": "https://allafrica.com/stories/202602190054.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-02-19T05:06:07+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-21T21:38:52.402541+00:00",
-      "score": 63.2
+      "timestamp": "2026-02-21T22:30:28.103886+00:00",
+      "score": 62.2
     },
     {
-      "timestamp": "2026-02-21T22:41:58.870804+00:00",
-      "score": 62.9
+      "timestamp": "2026-02-21T23:27:49.188690+00:00",
+      "score": 61.8
     },
     {
-      "timestamp": "2026-02-21T23:45:05.339067+00:00",
-      "score": 62.5
-    },
-    {
-      "timestamp": "2026-02-22T00:48:11.807330+00:00",
-      "score": 62.1
-    },
-    {
-      "timestamp": "2026-02-22T01:51:18.275593+00:00",
-      "score": 61.7
-    },
-    {
-      "timestamp": "2026-02-22T02:54:24.743856+00:00",
+      "timestamp": "2026-02-22T00:25:10.273494+00:00",
       "score": 61.4
+    },
+    {
+      "timestamp": "2026-02-22T01:22:31.358298+00:00",
+      "score": 61.0
+    },
+    {
+      "timestamp": "2026-02-22T02:19:52.443102+00:00",
+      "score": 60.6
+    },
+    {
+      "timestamp": "2026-02-22T03:17:13.527906+00:00",
+      "score": 60.1
     }
   ]
 }
