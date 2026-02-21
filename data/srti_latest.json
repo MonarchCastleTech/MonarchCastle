@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-21T05:51:16.393410+00:00",
+  "fetched_at": "2026-02-21T06:56:07.460437+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/oth/benin-colombia-ethiopia-israelpalestine/horizon-february-july-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-20T21:44:47+00:00",
-      "score": 5.11,
+      "score": 5.02,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -114,7 +114,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-20T18:07:09+00:00",
-      "score": 4.82,
+      "score": 4.73,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +128,7 @@
       "link": "https://www.crisisgroup.org/fr/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
       "source": "Crisis Group",
       "published_at": "2026-02-20T16:32:24+00:00",
-      "score": 4.69,
+      "score": 4.61,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -149,7 +149,7 @@
       "title": "Burkina/Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-21T05:51:16.393410+00:00",
+      "published_at": "2026-02-21T06:56:07.460437+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,7 +164,7 @@
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-21T05:51:16.393410+00:00",
+      "published_at": "2026-02-21T06:56:07.460437+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +176,7 @@
       "link": "https://allafrica.com/stories/202602190585.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-19T15:22:43+00:00",
-      "score": 0.89,
+      "score": 0.87,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -219,28 +219,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-21T06:58:48.766334+00:00",
-      "score": 75.2
+      "timestamp": "2026-02-21T08:00:58.527464+00:00",
+      "score": 75.8
     },
     {
-      "timestamp": "2026-02-21T08:06:21.139258+00:00",
-      "score": 76.0
+      "timestamp": "2026-02-21T09:05:49.594491+00:00",
+      "score": 76.6
     },
     {
-      "timestamp": "2026-02-21T09:13:53.512182+00:00",
-      "score": 76.9
+      "timestamp": "2026-02-21T10:10:40.661518+00:00",
+      "score": 77.5
     },
     {
-      "timestamp": "2026-02-21T10:21:25.885106+00:00",
-      "score": 77.7
+      "timestamp": "2026-02-21T11:15:31.728545+00:00",
+      "score": 78.3
     },
     {
-      "timestamp": "2026-02-21T11:28:58.258030+00:00",
-      "score": 78.5
+      "timestamp": "2026-02-21T12:20:22.795572+00:00",
+      "score": 79.2
     },
     {
-      "timestamp": "2026-02-21T12:36:30.630954+00:00",
-      "score": 79.4
+      "timestamp": "2026-02-21T13:25:13.862599+00:00",
+      "score": 80.0
     }
   ]
 }
