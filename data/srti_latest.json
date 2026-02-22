@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-22T22:35:56.909582+00:00",
+  "fetched_at": "2026-02-22T23:35:24.496406+00:00",
   "window_hours": 72,
   "score": 35.9,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -149,7 +149,7 @@
       "title": "Burkina/Fili\u00e8res mangue et anacarde : C'est parti pour la campagne de commercialisation",
       "link": "https://lefaso.net/spip.php?article144611",
       "source": "LeFaso",
-      "published_at": "2026-02-22T22:35:56.909582+00:00",
+      "published_at": "2026-02-22T23:35:24.496406+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -162,7 +162,7 @@
       "title": "Campagne fruiti\u00e8re 2026 : Le prix plancher de l'anacarde fix\u00e9 \u00e0 385 FCFA et celui de la mangue \u00e0 95 FCFA le Kg",
       "link": "https://lefaso.net/spip.php?article144610",
       "source": "LeFaso",
-      "published_at": "2026-02-22T22:35:56.909582+00:00",
+      "published_at": "2026-02-22T23:35:24.496406+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -175,7 +175,7 @@
       "title": "Congo-Brazzaville : Ouverture d'un campus scolaire d\u00e9di\u00e9 aux apprentissages traditionnels, \u00e0 la gestion rationnelle de l'environnement et aux comp\u00e9tences li\u00e9es \u00e0 la terre",
       "link": "https://lefaso.net/spip.php?article144607",
       "source": "LeFaso",
-      "published_at": "2026-02-22T22:35:56.909582+00:00",
+      "published_at": "2026-02-22T23:35:24.496406+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -186,7 +186,7 @@
       "title": "Burkina/Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-22T22:35:56.909582+00:00",
+      "published_at": "2026-02-22T23:35:24.496406+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-22T23:38:29.450427+00:00",
-      "score": 38.5
+      "timestamp": "2026-02-23T00:34:52.083230+00:00",
+      "score": 37.1
     },
     {
-      "timestamp": "2026-02-23T00:41:01.991272+00:00",
-      "score": 37.5
+      "timestamp": "2026-02-23T01:34:19.670054+00:00",
+      "score": 36.0
     },
     {
-      "timestamp": "2026-02-23T01:43:34.532117+00:00",
-      "score": 36.5
+      "timestamp": "2026-02-23T02:33:47.256878+00:00",
+      "score": 35.0
     },
     {
-      "timestamp": "2026-02-23T02:46:07.072962+00:00",
-      "score": 35.5
+      "timestamp": "2026-02-23T03:33:14.843702+00:00",
+      "score": 34.0
     },
     {
-      "timestamp": "2026-02-23T03:48:39.613807+00:00",
-      "score": 34.5
+      "timestamp": "2026-02-23T04:32:42.430526+00:00",
+      "score": 33.0
     },
     {
-      "timestamp": "2026-02-23T04:51:12.154652+00:00",
-      "score": 33.5
+      "timestamp": "2026-02-23T05:32:10.017350+00:00",
+      "score": 32.0
     }
   ]
 }
