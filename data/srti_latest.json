@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-22T13:09:33.764936+00:00",
+  "fetched_at": "2026-02-22T14:36:27.259586+00:00",
   "window_hours": 72,
-  "score": 49.2,
-  "risk_level": "ELEVATED",
+  "score": 37.3,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 58.4,
-    "civilian_risk": 100.0
+    "conflict_intensity": 43.2,
+    "civilian_risk": 78.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60
+      "items": 12
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/oth/benin-colombia-ethiopia-israelpalestine/horizon-february-july-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-20T21:44:47+00:00",
-      "score": 2.61,
+      "score": 2.49,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -114,7 +114,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-20T18:07:09+00:00",
-      "score": 2.32,
+      "score": 2.2,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +128,7 @@
       "link": "https://www.crisisgroup.org/fr/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
       "source": "Crisis Group",
       "published_at": "2026-02-20T16:32:24+00:00",
-      "score": 2.19,
+      "score": 2.07,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -146,39 +146,13 @@
       ]
     },
     {
-      "title": "Congo-Brazzaville : Ouverture d'un campus scolaire d\u00e9di\u00e9 aux apprentissages traditionnels, \u00e0 la gestion rationnelle de l'environnement et aux comp\u00e9tences li\u00e9es \u00e0 la terre",
-      "link": "https://lefaso.net/spip.php?article144607",
+      "title": "Campagne fruiti\u00e8re 2026\u00a0: Le prix plancher de l\u2019anacarde fix\u00e9 \u00e0 385 FCFA et celui de la mangue \u00e0 95 FCFA le Kg",
+      "link": "https://lefaso.net/spip.php?article144610",
       "source": "LeFaso",
-      "published_at": "2026-02-22T13:09:33.764936+00:00",
+      "published_at": "2026-02-22T14:36:27.259586+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Burkina/Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
-      "link": "https://lefaso.net/spip.php?article144589",
-      "source": "LeFaso",
-      "published_at": "2026-02-22T13:09:33.764936+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
-      "link": "https://lefaso.net/spip.php?article144569",
-      "source": "LeFaso",
-      "published_at": "2026-02-22T13:09:33.764936+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
       ],
       "regions": []
     },
@@ -213,28 +187,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-22T14:49:11.525785+00:00",
-      "score": 47.8
-    },
-    {
-      "timestamp": "2026-02-22T16:28:49.286634+00:00",
-      "score": 46.9
-    },
-    {
-      "timestamp": "2026-02-22T18:08:27.047483+00:00",
-      "score": 46.0
-    },
-    {
-      "timestamp": "2026-02-22T19:48:04.808332+00:00",
+      "timestamp": "2026-02-22T16:03:20.754236+00:00",
       "score": 45.1
     },
     {
-      "timestamp": "2026-02-22T21:27:42.569181+00:00",
+      "timestamp": "2026-02-22T17:30:14.248886+00:00",
       "score": 44.1
     },
     {
-      "timestamp": "2026-02-22T23:07:20.330030+00:00",
-      "score": 43.2
+      "timestamp": "2026-02-22T18:57:07.743536+00:00",
+      "score": 43.1
+    },
+    {
+      "timestamp": "2026-02-22T20:24:01.238186+00:00",
+      "score": 42.0
+    },
+    {
+      "timestamp": "2026-02-22T21:50:54.732836+00:00",
+      "score": 41.0
+    },
+    {
+      "timestamp": "2026-02-22T23:17:48.227486+00:00",
+      "score": 40.0
     }
   ]
 }
