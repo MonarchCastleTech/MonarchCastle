@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-02-22T02:55:35.535721+00:00",
+  "fetched_at": "2026-02-22T04:57:02.958801+00:00",
   "window_hours": 72,
-  "score": 57.5,
+  "score": 56.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 74.9,
+    "conflict_intensity": 72.3,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/oth/benin-colombia-ethiopia-israelpalestine/horizon-february-july-2026",
       "source": "Crisis Group",
       "published_at": "2026-02-20T21:44:47+00:00",
-      "score": 3.43,
+      "score": 3.26,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -114,7 +114,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-20T18:07:09+00:00",
-      "score": 3.14,
+      "score": 2.97,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +128,7 @@
       "link": "https://www.crisisgroup.org/fr/rpt/africa/sahel-west-africa/321-le-jnim-et-le-dilemme-de-lexpansion-au-dela-du-sahel",
       "source": "Crisis Group",
       "published_at": "2026-02-20T16:32:24+00:00",
-      "score": 3.01,
+      "score": 2.85,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -149,7 +149,7 @@
       "title": "Congo-Brazzaville : Ouverture d'un campus scolaire d\u00e9di\u00e9 aux apprentissages traditionnels, \u00e0 la gestion rationnelle de l'environnement et aux comp\u00e9tences li\u00e9es \u00e0 la terre",
       "link": "https://lefaso.net/spip.php?article144607",
       "source": "LeFaso",
-      "published_at": "2026-02-22T02:55:35.535721+00:00",
+      "published_at": "2026-02-22T04:57:02.958801+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,7 +160,7 @@
       "title": "Burkina/Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-22T02:55:35.535721+00:00",
+      "published_at": "2026-02-22T04:57:02.958801+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -175,7 +175,7 @@
       "title": "Lutte contre la cybercriminalit\u00e9 : Arrestation de 651 personnes dans seize pays africains, 1 247 victimes, 45 millions de dollars de pertes financi\u00e8res",
       "link": "https://lefaso.net/spip.php?article144569",
       "source": "LeFaso",
-      "published_at": "2026-02-22T02:55:35.535721+00:00",
+      "published_at": "2026-02-22T04:57:02.958801+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -213,28 +213,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-22T06:17:27.201660+00:00",
-      "score": 59.0
+      "timestamp": "2026-02-22T06:58:30.381881+00:00",
+      "score": 57.7
     },
     {
-      "timestamp": "2026-02-22T09:39:18.867599+00:00",
-      "score": 58.5
+      "timestamp": "2026-02-22T08:59:57.804961+00:00",
+      "score": 57.1
     },
     {
-      "timestamp": "2026-02-22T13:01:10.533538+00:00",
-      "score": 57.9
+      "timestamp": "2026-02-22T11:01:25.228041+00:00",
+      "score": 56.5
     },
     {
-      "timestamp": "2026-02-22T16:23:02.199477+00:00",
-      "score": 57.3
+      "timestamp": "2026-02-22T13:02:52.651121+00:00",
+      "score": 55.9
     },
     {
-      "timestamp": "2026-02-22T19:44:53.865416+00:00",
-      "score": 56.8
+      "timestamp": "2026-02-22T15:04:20.074201+00:00",
+      "score": 55.2
     },
     {
-      "timestamp": "2026-02-22T23:06:45.531355+00:00",
-      "score": 56.2
+      "timestamp": "2026-02-22T17:05:47.497281+00:00",
+      "score": 54.6
     }
   ]
 }
