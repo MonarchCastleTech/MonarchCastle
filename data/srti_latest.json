@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-23T14:58:40.989592+00:00",
+  "fetched_at": "2026-02-23T15:56:21.030511+00:00",
   "window_hours": 72,
   "score": 35.9,
   "risk_level": "GUARDED",
@@ -149,7 +149,7 @@
       "title": "Burkina/Fili\u00e8res mangue et anacarde : C'est parti pour la campagne de commercialisation",
       "link": "https://lefaso.net/spip.php?article144611",
       "source": "LeFaso",
-      "published_at": "2026-02-23T14:58:40.989592+00:00",
+      "published_at": "2026-02-23T15:56:21.030511+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -162,7 +162,7 @@
       "title": "Campagne fruiti\u00e8re 2026 : Le prix plancher de l'anacarde fix\u00e9 \u00e0 385 FCFA et celui de la mangue \u00e0 95 FCFA le Kg",
       "link": "https://lefaso.net/spip.php?article144610",
       "source": "LeFaso",
-      "published_at": "2026-02-23T14:58:40.989592+00:00",
+      "published_at": "2026-02-23T15:56:21.030511+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -175,7 +175,7 @@
       "title": "Congo-Brazzaville : Ouverture d'un campus scolaire d\u00e9di\u00e9 aux apprentissages traditionnels, \u00e0 la gestion rationnelle de l'environnement et aux comp\u00e9tences li\u00e9es \u00e0 la terre",
       "link": "https://lefaso.net/spip.php?article144607",
       "source": "LeFaso",
-      "published_at": "2026-02-23T14:58:40.989592+00:00",
+      "published_at": "2026-02-23T15:56:21.030511+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -186,7 +186,7 @@
       "title": "Burkina/Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-23T14:58:40.989592+00:00",
+      "published_at": "2026-02-23T15:56:21.030511+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-23T16:31:39.333497+00:00",
-      "score": 32.1
+      "timestamp": "2026-02-23T16:54:01.071430+00:00",
+      "score": 32.0
     },
     {
-      "timestamp": "2026-02-23T18:04:37.677402+00:00",
-      "score": 31.3
+      "timestamp": "2026-02-23T17:51:41.112349+00:00",
+      "score": 31.2
     },
     {
-      "timestamp": "2026-02-23T19:37:36.021307+00:00",
-      "score": 30.5
+      "timestamp": "2026-02-23T18:49:21.153268+00:00",
+      "score": 30.4
     },
     {
-      "timestamp": "2026-02-23T21:10:34.365212+00:00",
-      "score": 29.6
+      "timestamp": "2026-02-23T19:47:01.194187+00:00",
+      "score": 29.7
     },
     {
-      "timestamp": "2026-02-23T22:43:32.709117+00:00",
-      "score": 28.8
+      "timestamp": "2026-02-23T20:44:41.235106+00:00",
+      "score": 28.9
     },
     {
-      "timestamp": "2026-02-24T00:16:31.053022+00:00",
-      "score": 28.0
+      "timestamp": "2026-02-23T21:42:21.276025+00:00",
+      "score": 28.1
     }
   ]
 }
