@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-02-23T11:47:42.632468+00:00",
+  "fetched_at": "2026-02-23T13:25:42.645687+00:00",
   "window_hours": 72,
   "score": 35.9,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 50
+      "items": 54
     },
     {
       "name": "ActuNiger",
@@ -149,7 +149,7 @@
       "title": "Burkina/Fili\u00e8res mangue et anacarde : C'est parti pour la campagne de commercialisation",
       "link": "https://lefaso.net/spip.php?article144611",
       "source": "LeFaso",
-      "published_at": "2026-02-23T11:47:42.632468+00:00",
+      "published_at": "2026-02-23T13:25:42.645687+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -162,7 +162,7 @@
       "title": "Campagne fruiti\u00e8re 2026 : Le prix plancher de l'anacarde fix\u00e9 \u00e0 385 FCFA et celui de la mangue \u00e0 95 FCFA le Kg",
       "link": "https://lefaso.net/spip.php?article144610",
       "source": "LeFaso",
-      "published_at": "2026-02-23T11:47:42.632468+00:00",
+      "published_at": "2026-02-23T13:25:42.645687+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -175,7 +175,7 @@
       "title": "Congo-Brazzaville : Ouverture d'un campus scolaire d\u00e9di\u00e9 aux apprentissages traditionnels, \u00e0 la gestion rationnelle de l'environnement et aux comp\u00e9tences li\u00e9es \u00e0 la terre",
       "link": "https://lefaso.net/spip.php?article144607",
       "source": "LeFaso",
-      "published_at": "2026-02-23T11:47:42.632468+00:00",
+      "published_at": "2026-02-23T13:25:42.645687+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -186,7 +186,7 @@
       "title": "Burkina/Lutte contre le paludisme : Plus de 14 millions de moustiquaires distribu\u00e9es en 2025",
       "link": "https://lefaso.net/spip.php?article144589",
       "source": "LeFaso",
-      "published_at": "2026-02-23T11:47:42.632468+00:00",
+      "published_at": "2026-02-23T13:25:42.645687+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-23T13:29:18.259666+00:00",
-      "score": 32.7
+      "timestamp": "2026-02-23T15:03:42.658906+00:00",
+      "score": 32.4
     },
     {
-      "timestamp": "2026-02-23T15:10:53.886864+00:00",
-      "score": 31.8
+      "timestamp": "2026-02-23T16:41:42.672125+00:00",
+      "score": 31.5
     },
     {
-      "timestamp": "2026-02-23T16:52:29.514062+00:00",
-      "score": 31.0
+      "timestamp": "2026-02-23T18:19:42.685344+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-02-23T18:34:05.141260+00:00",
-      "score": 30.1
+      "timestamp": "2026-02-23T19:57:42.698563+00:00",
+      "score": 29.8
     },
     {
-      "timestamp": "2026-02-23T20:15:40.768458+00:00",
-      "score": 29.2
+      "timestamp": "2026-02-23T21:35:42.711782+00:00",
+      "score": 28.9
     },
     {
-      "timestamp": "2026-02-23T21:57:16.395656+00:00",
-      "score": 28.3
+      "timestamp": "2026-02-23T23:13:42.725001+00:00",
+      "score": 28.1
     }
   ]
 }
