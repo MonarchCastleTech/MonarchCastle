@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-25T07:58:26.384805+00:00",
+  "fetched_at": "2026-02-25T09:01:15.230921+00:00",
   "window_hours": 72,
-  "score": 32.8,
+  "score": 32.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 27.1,
-    "civilian_risk": 96.1
+    "conflict_intensity": 26.8,
+    "civilian_risk": 95.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "La LONAB d\u00e9ment les rumeurs WhatsApp et explique sa campagne de sensibilisation contre le blanchiment",
       "link": "https://lefaso.net/spip.php?article144634",
       "source": "LeFaso",
-      "published_at": "2026-02-25T07:58:26.384805+00:00",
+      "published_at": "2026-02-25T09:01:15.230921+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina/Fili\u00e8res mangue et anacarde : C'est parti pour la campagne de commercialisation",
       "link": "https://lefaso.net/spip.php?article144611",
       "source": "LeFaso",
-      "published_at": "2026-02-25T07:58:26.384805+00:00",
+      "published_at": "2026-02-25T09:01:15.230921+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Campagne fruiti\u00e8re 2026 : Le prix plancher de l'anacarde fix\u00e9 \u00e0 385 FCFA et celui de la mangue \u00e0 95 FCFA le Kg",
       "link": "https://lefaso.net/spip.php?article144610",
       "source": "LeFaso",
-      "published_at": "2026-02-25T07:58:26.384805+00:00",
+      "published_at": "2026-02-25T09:01:15.230921+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "link": "https://allafrica.com/stories/202602240537.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-24T13:32:59+00:00",
-      "score": 1.43,
+      "score": 1.4,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,7 +151,7 @@
       "link": "https://www.france24.com/en/dr-congo-burundi-border-reopens",
       "source": "France 24 - Africa",
       "published_at": "2026-02-23T21:45:56+00:00",
-      "score": 1.18,
+      "score": 1.14,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -165,7 +165,7 @@
       "title": "\u00ab Op\u00e9ration F\u00f4l\u00f4koto \u00bb : Plus de 1,5 million de comprim\u00e9s de Tapentadol saisis dans des cartons de biscuits par la Douane",
       "link": "https://lefaso.net/spip.php?article144659",
       "source": "LeFaso",
-      "published_at": "2026-02-25T07:58:26.384805+00:00",
+      "published_at": "2026-02-25T09:01:15.230921+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -177,7 +177,7 @@
       "link": "https://www.france24.com/en/south-africa-secures-release-of-more-nationals-lured-to-ukraine-war",
       "source": "France 24 - Africa",
       "published_at": "2026-02-24T21:42:51+00:00",
-      "score": 1.08,
+      "score": 1.06,
       "tags": [
         "civilian_risk"
       ],
@@ -188,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-25T09:46:37.556004+00:00",
-      "score": 35.5
+      "timestamp": "2026-02-25T10:04:04.077037+00:00",
+      "score": 35.8
     },
     {
-      "timestamp": "2026-02-25T11:34:48.727203+00:00",
-      "score": 36.0
+      "timestamp": "2026-02-25T11:06:52.923153+00:00",
+      "score": 36.3
     },
     {
-      "timestamp": "2026-02-25T13:22:59.898402+00:00",
-      "score": 36.5
+      "timestamp": "2026-02-25T12:09:41.769269+00:00",
+      "score": 36.9
     },
     {
-      "timestamp": "2026-02-25T15:11:11.069601+00:00",
-      "score": 37.1
+      "timestamp": "2026-02-25T13:12:30.615385+00:00",
+      "score": 37.4
     },
     {
-      "timestamp": "2026-02-25T16:59:22.240800+00:00",
-      "score": 37.6
+      "timestamp": "2026-02-25T14:15:19.461501+00:00",
+      "score": 38.0
     },
     {
-      "timestamp": "2026-02-25T18:47:33.411999+00:00",
-      "score": 38.2
+      "timestamp": "2026-02-25T15:18:08.307617+00:00",
+      "score": 38.5
     }
   ]
 }
