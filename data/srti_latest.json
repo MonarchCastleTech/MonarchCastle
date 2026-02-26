@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-26T19:51:17.156773+00:00",
+  "fetched_at": "2026-02-26T20:50:01.371134+00:00",
   "window_hours": 72,
-  "score": 20.3,
-  "risk_level": "GUARDED",
+  "score": 15.7,
+  "risk_level": "LOW",
   "components": {
     "conflict_intensity": 21.1,
-    "civilian_risk": 48.6
+    "civilian_risk": 25.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "CERF support helps restore dignity and hope for displaced women in Burkina Faso",
-      "link": "https://reliefweb.int/report/burkina-faso/cerf-support-helps-restore-dignity-and-hope-displaced-women-burkina-faso",
-      "source": "ReliefWeb - Burkina Faso",
-      "published_at": "2026-02-26T19:51:17.156773+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "\u00ab Op\u00e9ration F\u00f4l\u00f4koto \u00bb : Plus de 1,5 million de comprim\u00e9s de Tapentadol saisis dans des cartons de biscuits par la Douane",
       "link": "https://lefaso.net/spip.php?article144659",
       "source": "LeFaso",
-      "published_at": "2026-02-26T19:51:17.156773+00:00",
+      "published_at": "2026-02-26T20:50:01.371134+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +140,7 @@
       "link": "https://www.bbc.com/sport/boxing/articles/cq6q5209q09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-25T10:32:39+00:00",
-      "score": 0.58,
+      "score": 0.57,
       "tags": [
         "civilian_risk"
       ],
@@ -167,7 +153,7 @@
       "link": "https://www.france24.com/en/south-africa-secures-release-of-more-nationals-lured-to-ukraine-war",
       "source": "France 24 - Africa",
       "published_at": "2026-02-24T21:42:51+00:00",
-      "score": 0.45,
+      "score": 0.44,
       "tags": [
         "civilian_risk"
       ],
@@ -178,28 +164,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-26T20:37:47.872436+00:00",
-      "score": 19.4
+      "timestamp": "2026-02-26T21:48:45.585495+00:00",
+      "score": 18.6
     },
     {
-      "timestamp": "2026-02-26T21:24:18.588099+00:00",
-      "score": 19.0
-    },
-    {
-      "timestamp": "2026-02-26T22:10:49.303762+00:00",
-      "score": 18.5
-    },
-    {
-      "timestamp": "2026-02-26T22:57:20.019425+00:00",
+      "timestamp": "2026-02-26T22:47:29.799856+00:00",
       "score": 18.1
     },
     {
-      "timestamp": "2026-02-26T23:43:50.735088+00:00",
-      "score": 17.6
+      "timestamp": "2026-02-26T23:46:14.014217+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-02-27T00:30:21.450751+00:00",
-      "score": 17.1
+      "timestamp": "2026-02-27T00:44:58.228578+00:00",
+      "score": 17.2
+    },
+    {
+      "timestamp": "2026-02-27T01:43:42.442939+00:00",
+      "score": 16.7
+    },
+    {
+      "timestamp": "2026-02-27T02:42:26.657300+00:00",
+      "score": 16.3
     }
   ]
 }
