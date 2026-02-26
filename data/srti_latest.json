@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-26T19:04:46.441110+00:00",
+  "fetched_at": "2026-02-26T19:51:17.156773+00:00",
   "window_hours": 72,
-  "score": 20.4,
+  "score": 20.3,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 21.1,
-    "civilian_risk": 49.0
+    "civilian_risk": 48.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "CERF support helps restore dignity and hope for displaced women in Burkina Faso",
       "link": "https://reliefweb.int/report/burkina-faso/cerf-support-helps-restore-dignity-and-hope-displaced-women-burkina-faso",
       "source": "ReliefWeb - Burkina Faso",
-      "published_at": "2026-02-26T19:04:46.441110+00:00",
+      "published_at": "2026-02-26T19:51:17.156773+00:00",
       "score": 1.62,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u00ab Op\u00e9ration F\u00f4l\u00f4koto \u00bb : Plus de 1,5 million de comprim\u00e9s de Tapentadol saisis dans des cartons de biscuits par la Douane",
       "link": "https://lefaso.net/spip.php?article144659",
       "source": "LeFaso",
-      "published_at": "2026-02-26T19:04:46.441110+00:00",
+      "published_at": "2026-02-26T19:51:17.156773+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "link": "https://www.bbc.com/sport/boxing/articles/cq6q5209q09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-25T10:32:39+00:00",
-      "score": 0.59,
+      "score": 0.58,
       "tags": [
         "civilian_risk"
       ],
@@ -167,7 +167,7 @@
       "link": "https://www.france24.com/en/south-africa-secures-release-of-more-nationals-lured-to-ukraine-war",
       "source": "France 24 - Africa",
       "published_at": "2026-02-24T21:42:51+00:00",
-      "score": 0.47,
+      "score": 0.45,
       "tags": [
         "civilian_risk"
       ],
@@ -178,28 +178,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-26T20:58:18.509428+00:00",
-      "score": 19.6
+      "timestamp": "2026-02-26T20:37:47.872436+00:00",
+      "score": 19.4
     },
     {
-      "timestamp": "2026-02-26T22:51:50.577746+00:00",
-      "score": 19.1
+      "timestamp": "2026-02-26T21:24:18.588099+00:00",
+      "score": 19.0
     },
     {
-      "timestamp": "2026-02-27T00:45:22.646064+00:00",
-      "score": 18.6
+      "timestamp": "2026-02-26T22:10:49.303762+00:00",
+      "score": 18.5
     },
     {
-      "timestamp": "2026-02-27T02:38:54.714382+00:00",
-      "score": 18.2
+      "timestamp": "2026-02-26T22:57:20.019425+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-02-27T04:32:26.782700+00:00",
-      "score": 17.7
+      "timestamp": "2026-02-26T23:43:50.735088+00:00",
+      "score": 17.6
     },
     {
-      "timestamp": "2026-02-27T06:25:58.851018+00:00",
-      "score": 17.2
+      "timestamp": "2026-02-27T00:30:21.450751+00:00",
+      "score": 17.1
     }
   ]
 }
