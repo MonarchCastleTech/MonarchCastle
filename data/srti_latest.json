@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-26T10:57:25.545483+00:00",
+  "fetched_at": "2026-02-26T11:48:32.132843+00:00",
   "window_hours": 72,
-  "score": 20.7,
+  "score": 25.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 21.3,
-    "civilian_risk": 50.4
+    "conflict_intensity": 21.2,
+    "civilian_risk": 72.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "CERF support helps restore dignity and hope for displaced women in Burkina Faso",
+      "link": "https://reliefweb.int/report/burkina-faso/cerf-support-helps-restore-dignity-and-hope-displaced-women-burkina-faso",
+      "source": "ReliefWeb - Burkina Faso",
+      "published_at": "2026-02-26T11:48:32.132843+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "La LONAB d\u00e9ment les rumeurs WhatsApp et explique sa campagne de sensibilisation contre le blanchiment",
       "link": "https://lefaso.net/spip.php?article144634",
       "source": "LeFaso",
-      "published_at": "2026-02-26T10:57:25.545483+00:00",
+      "published_at": "2026-02-26T11:48:32.132843+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +122,7 @@
       "title": "\u00ab Op\u00e9ration F\u00f4l\u00f4koto \u00bb : Plus de 1,5 million de comprim\u00e9s de Tapentadol saisis dans des cartons de biscuits par la Douane",
       "link": "https://lefaso.net/spip.php?article144659",
       "source": "LeFaso",
-      "published_at": "2026-02-26T10:57:25.545483+00:00",
+      "published_at": "2026-02-26T11:48:32.132843+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,7 +149,7 @@
       "link": "https://www.bbc.com/sport/boxing/articles/cq6q5209q09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-25T10:32:39+00:00",
-      "score": 0.71,
+      "score": 0.7,
       "tags": [
         "civilian_risk"
       ],
@@ -148,7 +162,7 @@
       "link": "https://allafrica.com/stories/202602240537.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-02-24T13:32:59+00:00",
-      "score": 0.71,
+      "score": 0.69,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -164,7 +178,7 @@
       "link": "https://www.france24.com/en/south-africa-secures-release-of-more-nationals-lured-to-ukraine-war",
       "source": "France 24 - Africa",
       "published_at": "2026-02-24T21:42:51+00:00",
-      "score": 0.61,
+      "score": 0.59,
       "tags": [
         "civilian_risk"
       ],
@@ -175,28 +189,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-26T11:54:30.587444+00:00",
+      "timestamp": "2026-02-26T12:39:38.720203+00:00",
       "score": 20.9
     },
     {
-      "timestamp": "2026-02-26T12:51:35.629405+00:00",
+      "timestamp": "2026-02-26T13:30:45.307563+00:00",
       "score": 20.3
     },
     {
-      "timestamp": "2026-02-26T13:48:40.671366+00:00",
-      "score": 19.7
+      "timestamp": "2026-02-26T14:21:51.894923+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-02-26T14:45:45.713327+00:00",
-      "score": 19.1
+      "timestamp": "2026-02-26T15:12:58.482283+00:00",
+      "score": 19.2
     },
     {
-      "timestamp": "2026-02-26T15:42:50.755288+00:00",
-      "score": 18.5
+      "timestamp": "2026-02-26T16:04:05.069643+00:00",
+      "score": 18.7
     },
     {
-      "timestamp": "2026-02-26T16:39:55.797249+00:00",
-      "score": 17.9
+      "timestamp": "2026-02-26T16:55:11.657003+00:00",
+      "score": 18.1
     }
   ]
 }
