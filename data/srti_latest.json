@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-02-27T02:47:21.079994+00:00",
+  "fetched_at": "2026-02-27T04:52:42.661307+00:00",
   "window_hours": 72,
-  "score": 12.1,
+  "score": 16.6,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 17.0,
-    "civilian_risk": 18.1
+    "civilian_risk": 40.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -94,10 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "CERF support helps restore dignity and hope for displaced women in Burkina Faso",
+      "link": "https://reliefweb.int/report/burkina-faso/cerf-support-helps-restore-dignity-and-hope-displaced-women-burkina-faso",
+      "source": "ReliefWeb - Burkina Faso",
+      "published_at": "2026-02-27T04:52:42.661307+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "\u00ab Op\u00e9ration F\u00f4l\u00f4koto \u00bb : Plus de 1,5 million de comprim\u00e9s de Tapentadol saisis dans des cartons de biscuits par la Douane",
       "link": "https://lefaso.net/spip.php?article144659",
       "source": "LeFaso",
-      "published_at": "2026-02-27T02:47:21.079994+00:00",
+      "published_at": "2026-02-27T04:52:42.661307+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +139,7 @@
       "link": "https://www.bbc.com/sport/boxing/articles/cq6q5209q09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-25T10:32:39+00:00",
-      "score": 0.48,
+      "score": 0.44,
       "tags": [
         "civilian_risk"
       ],
@@ -149,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-27T05:55:10.195592+00:00",
-      "score": 16.0
+      "timestamp": "2026-02-27T06:58:04.242620+00:00",
+      "score": 15.3
     },
     {
-      "timestamp": "2026-02-27T09:02:59.311190+00:00",
-      "score": 15.5
+      "timestamp": "2026-02-27T09:03:25.823933+00:00",
+      "score": 14.8
     },
     {
-      "timestamp": "2026-02-27T12:10:48.426788+00:00",
-      "score": 15.0
+      "timestamp": "2026-02-27T11:08:47.405246+00:00",
+      "score": 14.3
     },
     {
-      "timestamp": "2026-02-27T15:18:37.542386+00:00",
-      "score": 14.6
+      "timestamp": "2026-02-27T13:14:08.986559+00:00",
+      "score": 13.8
     },
     {
-      "timestamp": "2026-02-27T18:26:26.657984+00:00",
-      "score": 14.1
+      "timestamp": "2026-02-27T15:19:30.567872+00:00",
+      "score": 13.3
     },
     {
-      "timestamp": "2026-02-27T21:34:15.773582+00:00",
-      "score": 13.6
+      "timestamp": "2026-02-27T17:24:52.149185+00:00",
+      "score": 12.8
     }
   ]
 }
