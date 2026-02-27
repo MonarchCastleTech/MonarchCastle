@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-27T20:38:28.798477+00:00",
+  "fetched_at": "2026-02-27T21:37:44.506939+00:00",
   "window_hours": 72,
-  "score": 41.8,
-  "risk_level": "ELEVATED",
+  "score": 38.6,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 61.0,
-    "civilian_risk": 56.4
+    "conflict_intensity": 46.8,
+    "civilian_risk": 75.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 83
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/pakistan-afghanistan/354-pakistan-responding-militant-surge-afghan-border",
       "source": "Crisis Group",
       "published_at": "2026-02-26T23:00:00+00:00",
-      "score": 4.03,
+      "score": 3.95,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/africa-russia-ukraine/recruits-duped-joining-russian-war-effort-spark-african-outcry",
       "source": "Crisis Group",
       "published_at": "2026-02-27T11:38:10+00:00",
-      "score": 3.15,
+      "score": 3.1,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -122,15 +122,17 @@
       ]
     },
     {
-      "title": "\u00ab Op\u00e9ration F\u00f4l\u00f4koto \u00bb : Plus de 1,5 million de comprim\u00e9s de Tapentadol saisis dans des cartons de biscuits par la Douane",
-      "link": "https://lefaso.net/spip.php?article144659",
+      "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
+      "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-02-27T20:38:28.798477+00:00",
-      "score": 1.12,
+      "published_at": "2026-02-27T21:37:44.506939+00:00",
+      "score": 1.44,
       "tags": [
-        "conflict_intensity"
+        "civilian_risk"
       ],
-      "regions": []
+      "regions": [
+        "ouagadougou"
+      ]
     },
     {
       "title": "South Africa secures release of more nationals lured to Ukraine war",
@@ -161,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-27T21:37:05.187648+00:00",
-      "score": 46.5
+      "timestamp": "2026-02-27T22:37:00.215401+00:00",
+      "score": 47.5
     },
     {
-      "timestamp": "2026-02-27T22:35:41.576819+00:00",
-      "score": 47.9
+      "timestamp": "2026-02-27T23:36:15.923863+00:00",
+      "score": 48.9
     },
     {
-      "timestamp": "2026-02-27T23:34:17.965990+00:00",
-      "score": 49.2
+      "timestamp": "2026-02-28T00:35:31.632325+00:00",
+      "score": 50.3
     },
     {
-      "timestamp": "2026-02-28T00:32:54.355161+00:00",
-      "score": 50.6
+      "timestamp": "2026-02-28T01:34:47.340787+00:00",
+      "score": 51.7
     },
     {
-      "timestamp": "2026-02-28T01:31:30.744332+00:00",
-      "score": 51.9
+      "timestamp": "2026-02-28T02:34:03.049249+00:00",
+      "score": 53.1
     },
     {
-      "timestamp": "2026-02-28T02:30:07.133503+00:00",
-      "score": 53.3
+      "timestamp": "2026-02-28T03:33:18.757711+00:00",
+      "score": 54.5
     }
   ]
 }
