@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-27T10:51:36.777886+00:00",
+  "fetched_at": "2026-02-27T11:39:40.880441+00:00",
   "window_hours": 72,
-  "score": 32.0,
+  "score": 31.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 42.2,
-    "civilian_risk": 54.6
+    "conflict_intensity": 41.9,
+    "civilian_risk": 54.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/pakistan-afghanistan/354-pakistan-responding-militant-surge-afghan-border",
       "source": "Crisis Group",
       "published_at": "2026-02-26T23:00:00+00:00",
-      "score": 4.81,
+      "score": 4.75,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u00ab Op\u00e9ration F\u00f4l\u00f4koto \u00bb : Plus de 1,5 million de comprim\u00e9s de Tapentadol saisis dans des cartons de biscuits par la Douane",
       "link": "https://lefaso.net/spip.php?article144659",
       "source": "LeFaso",
-      "published_at": "2026-02-27T10:51:36.777886+00:00",
+      "published_at": "2026-02-27T11:39:40.880441+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-27T11:48:17.708410+00:00",
-      "score": 25.9
+      "timestamp": "2026-02-27T12:27:44.982996+00:00",
+      "score": 27.3
     },
     {
-      "timestamp": "2026-02-27T12:44:58.638934+00:00",
-      "score": 26.2
+      "timestamp": "2026-02-27T13:15:49.085551+00:00",
+      "score": 27.6
     },
     {
-      "timestamp": "2026-02-27T13:41:39.569458+00:00",
-      "score": 26.4
+      "timestamp": "2026-02-27T14:03:53.188106+00:00",
+      "score": 27.9
     },
     {
-      "timestamp": "2026-02-27T14:38:20.499982+00:00",
-      "score": 26.6
+      "timestamp": "2026-02-27T14:51:57.290661+00:00",
+      "score": 28.2
     },
     {
-      "timestamp": "2026-02-27T15:35:01.430506+00:00",
-      "score": 26.9
+      "timestamp": "2026-02-27T15:40:01.393216+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-02-27T16:31:42.361030+00:00",
-      "score": 27.1
+      "timestamp": "2026-02-27T16:28:05.495771+00:00",
+      "score": 28.9
     }
   ]
 }
