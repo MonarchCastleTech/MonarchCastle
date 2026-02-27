@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-26T23:39:31.964396+00:00",
+  "fetched_at": "2026-02-27T02:47:21.079994+00:00",
   "window_hours": 72,
-  "score": 12.3,
+  "score": 12.1,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 17.0,
-    "civilian_risk": 18.8
+    "civilian_risk": 18.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "\u00ab Op\u00e9ration F\u00f4l\u00f4koto \u00bb : Plus de 1,5 million de comprim\u00e9s de Tapentadol saisis dans des cartons de biscuits par la Douane",
       "link": "https://lefaso.net/spip.php?article144659",
       "source": "LeFaso",
-      "published_at": "2026-02-26T23:39:31.964396+00:00",
+      "published_at": "2026-02-27T02:47:21.079994+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "link": "https://www.bbc.com/sport/boxing/articles/cq6q5209q09o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-02-25T10:32:39+00:00",
-      "score": 0.52,
+      "score": 0.48,
       "tags": [
         "civilian_risk"
       ],
@@ -149,28 +149,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-27T00:34:32.454033+00:00",
-      "score": 17.1
+      "timestamp": "2026-02-27T05:55:10.195592+00:00",
+      "score": 16.0
     },
     {
-      "timestamp": "2026-02-27T01:29:32.943670+00:00",
-      "score": 16.7
+      "timestamp": "2026-02-27T09:02:59.311190+00:00",
+      "score": 15.5
     },
     {
-      "timestamp": "2026-02-27T02:24:33.433307+00:00",
-      "score": 16.2
+      "timestamp": "2026-02-27T12:10:48.426788+00:00",
+      "score": 15.0
     },
     {
-      "timestamp": "2026-02-27T03:19:33.922944+00:00",
-      "score": 15.8
+      "timestamp": "2026-02-27T15:18:37.542386+00:00",
+      "score": 14.6
     },
     {
-      "timestamp": "2026-02-27T04:14:34.412581+00:00",
-      "score": 15.4
+      "timestamp": "2026-02-27T18:26:26.657984+00:00",
+      "score": 14.1
     },
     {
-      "timestamp": "2026-02-27T05:09:34.902218+00:00",
-      "score": 14.9
+      "timestamp": "2026-02-27T21:34:15.773582+00:00",
+      "score": 13.6
     }
   ]
 }
