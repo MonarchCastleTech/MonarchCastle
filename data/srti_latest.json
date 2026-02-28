@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-02-28T21:30:32.960386+00:00",
+  "fetched_at": "2026-02-28T22:32:49.467292+00:00",
   "window_hours": 72,
-  "score": 37.2,
-  "risk_level": "GUARDED",
+  "score": 43.2,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 45.5,
-    "civilian_risk": 72.3
+    "conflict_intensity": 57.9,
+    "civilian_risk": 71.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-27T18:07:09+00:00",
-      "score": 3.57,
+      "score": 3.49,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/pakistan-afghanistan/354-pakistan-responding-militant-surge-afghan-border",
       "source": "Crisis Group",
       "published_at": "2026-02-26T23:00:00+00:00",
-      "score": 2.04,
+      "score": 2.02,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/africa-russia-ukraine/recruits-duped-joining-russian-war-effort-spark-african-outcry",
       "source": "Crisis Group",
       "published_at": "2026-02-27T11:38:10+00:00",
-      "score": 1.91,
+      "score": 1.85,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-02-28T21:30:32.960386+00:00",
+      "published_at": "2026-02-28T22:32:49.467292+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -147,32 +147,46 @@
       "regions": [
         "ouagadougou"
       ]
+    },
+    {
+      "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
+      "link": "https://lefaso.net/spip.php?article144744",
+      "source": "LeFaso",
+      "published_at": "2026-02-28T22:32:49.467292+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-28T22:25:48.709851+00:00",
-      "score": 41.5
+      "timestamp": "2026-02-28T23:35:05.974198+00:00",
+      "score": 41.1
     },
     {
-      "timestamp": "2026-02-28T23:21:04.459316+00:00",
-      "score": 41.2
-    },
-    {
-      "timestamp": "2026-03-01T00:16:20.208781+00:00",
-      "score": 41.0
-    },
-    {
-      "timestamp": "2026-03-01T01:11:35.958246+00:00",
+      "timestamp": "2026-03-01T00:37:22.481104+00:00",
       "score": 40.8
     },
     {
-      "timestamp": "2026-03-01T02:06:51.707711+00:00",
-      "score": 40.5
+      "timestamp": "2026-03-01T01:39:38.988010+00:00",
+      "score": 40.6
     },
     {
-      "timestamp": "2026-03-01T03:02:07.457176+00:00",
+      "timestamp": "2026-03-01T02:41:55.494916+00:00",
       "score": 40.3
+    },
+    {
+      "timestamp": "2026-03-01T03:44:12.001822+00:00",
+      "score": 40.0
+    },
+    {
+      "timestamp": "2026-03-01T04:46:28.508728+00:00",
+      "score": 39.8
     }
   ]
 }
