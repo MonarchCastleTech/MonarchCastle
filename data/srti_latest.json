@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-28T18:46:48.205305+00:00",
+  "fetched_at": "2026-02-28T19:28:23.311615+00:00",
   "window_hours": 72,
-  "score": 39.7,
+  "score": 39.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 48.9,
-    "civilian_risk": 76.3
+    "conflict_intensity": 48.0,
+    "civilian_risk": 75.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -46,8 +46,8 @@
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 5
     },
     {
       "name": "BBC Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-27T18:07:09+00:00",
-      "score": 3.79,
+      "score": 3.73,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/pakistan-afghanistan/354-pakistan-responding-militant-surge-afghan-border",
       "source": "Crisis Group",
       "published_at": "2026-02-26T23:00:00+00:00",
-      "score": 2.26,
+      "score": 2.2,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/africa-russia-ukraine/recruits-duped-joining-russian-war-effort-spark-african-outcry",
       "source": "Crisis Group",
       "published_at": "2026-02-27T11:38:10+00:00",
-      "score": 2.04,
+      "score": 2.01,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-02-28T18:46:48.205305+00:00",
+      "published_at": "2026-02-28T19:28:23.311615+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-28T20:03:40.514345+00:00",
-      "score": 45.2
+      "timestamp": "2026-02-28T20:09:58.417925+00:00",
+      "score": 44.1
     },
     {
-      "timestamp": "2026-02-28T21:20:32.823385+00:00",
-      "score": 45.2
+      "timestamp": "2026-02-28T20:51:33.524235+00:00",
+      "score": 44.1
     },
     {
-      "timestamp": "2026-02-28T22:37:25.132425+00:00",
-      "score": 45.3
+      "timestamp": "2026-02-28T21:33:08.630545+00:00",
+      "score": 44.0
     },
     {
-      "timestamp": "2026-02-28T23:54:17.441465+00:00",
-      "score": 45.3
+      "timestamp": "2026-02-28T22:14:43.736855+00:00",
+      "score": 44.0
     },
     {
-      "timestamp": "2026-03-01T01:11:09.750505+00:00",
-      "score": 45.3
+      "timestamp": "2026-02-28T22:56:18.843165+00:00",
+      "score": 43.9
     },
     {
-      "timestamp": "2026-03-01T02:28:02.059545+00:00",
-      "score": 45.3
+      "timestamp": "2026-02-28T23:37:53.949475+00:00",
+      "score": 43.9
     }
   ]
 }
