@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-02-28T14:32:10.135233+00:00",
+  "fetched_at": "2026-02-28T15:31:55.451032+00:00",
   "window_hours": 72,
-  "score": 43.6,
+  "score": 42.7,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 54.2,
-    "civilian_risk": 82.6
+    "conflict_intensity": 53.0,
+    "civilian_risk": 81.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-27T18:07:09+00:00",
-      "score": 4.13,
+      "score": 4.05,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/pakistan-afghanistan/354-pakistan-responding-militant-surge-afghan-border",
       "source": "Crisis Group",
       "published_at": "2026-02-26T23:00:00+00:00",
-      "score": 2.6,
+      "score": 2.52,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/africa-russia-ukraine/recruits-duped-joining-russian-war-effort-spark-african-outcry",
       "source": "Crisis Group",
       "published_at": "2026-02-27T11:38:10+00:00",
-      "score": 2.25,
+      "score": 2.21,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-02-28T14:32:10.135233+00:00",
+      "published_at": "2026-02-28T15:31:55.451032+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-02-28T15:19:34.948739+00:00",
-      "score": 50.3
+      "timestamp": "2026-02-28T16:31:40.766831+00:00",
+      "score": 48.8
     },
     {
-      "timestamp": "2026-02-28T16:06:59.762245+00:00",
-      "score": 50.8
+      "timestamp": "2026-02-28T17:31:26.082630+00:00",
+      "score": 49.1
     },
     {
-      "timestamp": "2026-02-28T16:54:24.575751+00:00",
-      "score": 51.3
+      "timestamp": "2026-02-28T18:31:11.398429+00:00",
+      "score": 49.4
     },
     {
-      "timestamp": "2026-02-28T17:41:49.389257+00:00",
-      "score": 51.7
+      "timestamp": "2026-02-28T19:30:56.714228+00:00",
+      "score": 49.7
     },
     {
-      "timestamp": "2026-02-28T18:29:14.202763+00:00",
-      "score": 52.2
+      "timestamp": "2026-02-28T20:30:42.030027+00:00",
+      "score": 50.1
     },
     {
-      "timestamp": "2026-02-28T19:16:39.016269+00:00",
-      "score": 52.7
+      "timestamp": "2026-02-28T21:30:27.345826+00:00",
+      "score": 50.4
     }
   ]
 }
