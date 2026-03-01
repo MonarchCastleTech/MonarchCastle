@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-01T09:38:55.760860+00:00",
+  "fetched_at": "2026-03-01T10:35:49.446544+00:00",
   "window_hours": 72,
-  "score": 36.7,
+  "score": 36.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 48.6,
-    "civilian_risk": 61.9
+    "conflict_intensity": 47.8,
+    "civilian_risk": 61.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-27T18:07:09+00:00",
-      "score": 2.6,
+      "score": 2.52,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-01T09:38:55.760860+00:00",
+      "published_at": "2026-03-01T10:35:49.446544+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -139,7 +139,7 @@
       "link": "https://www.crisisgroup.org/anb/africa/africa-russia-ukraine/recruits-duped-joining-russian-war-effort-spark-african-outcry",
       "source": "Crisis Group",
       "published_at": "2026-02-27T11:38:10+00:00",
-      "score": 1.3,
+      "score": 1.26,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-01T09:38:55.760860+00:00",
+      "published_at": "2026-03-01T10:35:49.446544+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,28 +165,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-01T10:35:25.874739+00:00",
+      "timestamp": "2026-03-01T11:32:43.132228+00:00",
       "score": 31.3
     },
     {
-      "timestamp": "2026-03-01T11:31:55.988618+00:00",
-      "score": 30.4
+      "timestamp": "2026-03-01T12:29:36.817912+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-03-01T12:28:26.102497+00:00",
-      "score": 29.6
+      "timestamp": "2026-03-01T13:26:30.503596+00:00",
+      "score": 29.8
     },
     {
-      "timestamp": "2026-03-01T13:24:56.216376+00:00",
-      "score": 28.8
+      "timestamp": "2026-03-01T14:23:24.189280+00:00",
+      "score": 29.0
     },
     {
-      "timestamp": "2026-03-01T14:21:26.330255+00:00",
-      "score": 28.0
+      "timestamp": "2026-03-01T15:20:17.874964+00:00",
+      "score": 28.3
     },
     {
-      "timestamp": "2026-03-01T15:17:56.444134+00:00",
-      "score": 27.1
+      "timestamp": "2026-03-01T16:17:11.560648+00:00",
+      "score": 27.5
     }
   ]
 }
