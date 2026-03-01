@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-01T07:38:17.113739+00:00",
+  "fetched_at": "2026-03-01T08:42:25.646981+00:00",
   "window_hours": 72,
-  "score": 10.7,
-  "risk_level": "LOW",
+  "score": 37.2,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 13.4,
-    "civilian_risk": 20.2
+    "conflict_intensity": 49.4,
+    "civilian_risk": 62.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -94,10 +94,38 @@
   ],
   "top_headlines": [
     {
+      "title": "On Our Radar",
+      "link": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "Crisis Group",
+      "published_at": "2026-02-27T18:07:09+00:00",
+      "score": 2.67,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Pakistan: Responding to the Militant Surge on the Afghan Border",
+      "link": "https://www.crisisgroup.org/rpt/asia-pacific/pakistan-afghanistan/354-pakistan-responding-militant-surge-afghan-border",
+      "source": "Crisis Group",
+      "published_at": "2026-02-26T23:00:00+00:00",
+      "score": 2.02,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-01T07:38:17.113739+00:00",
+      "published_at": "2026-03-01T08:42:25.646981+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,10 +135,24 @@
       ]
     },
     {
+      "title": "Recruits Duped into Joining Russian War Effort Spark African Outcry",
+      "link": "https://www.crisisgroup.org/anb/africa/africa-russia-ukraine/recruits-duped-joining-russian-war-effort-spark-african-outcry",
+      "source": "Crisis Group",
+      "published_at": "2026-02-27T11:38:10+00:00",
+      "score": 1.35,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-01T07:38:17.113739+00:00",
+      "published_at": "2026-03-01T08:42:25.646981+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,28 +165,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-01T08:17:58.498127+00:00",
-      "score": 31.1
+      "timestamp": "2026-03-01T09:46:34.180223+00:00",
+      "score": 31.2
     },
     {
-      "timestamp": "2026-03-01T08:57:39.882515+00:00",
-      "score": 30.2
+      "timestamp": "2026-03-01T10:50:42.713465+00:00",
+      "score": 30.3
     },
     {
-      "timestamp": "2026-03-01T09:37:21.266903+00:00",
-      "score": 29.2
+      "timestamp": "2026-03-01T11:54:51.246707+00:00",
+      "score": 29.4
     },
     {
-      "timestamp": "2026-03-01T10:17:02.651291+00:00",
-      "score": 28.3
+      "timestamp": "2026-03-01T12:58:59.779949+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-03-01T10:56:44.035679+00:00",
-      "score": 27.4
+      "timestamp": "2026-03-01T14:03:08.313191+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-03-01T11:36:25.420067+00:00",
-      "score": 26.4
+      "timestamp": "2026-03-01T15:07:16.846433+00:00",
+      "score": 26.8
     }
   ]
 }
