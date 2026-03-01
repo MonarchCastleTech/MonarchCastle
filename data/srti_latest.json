@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-01T05:20:59.106026+00:00",
+  "fetched_at": "2026-03-01T06:58:35.729351+00:00",
   "window_hours": 72,
-  "score": 39.2,
+  "score": 38.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 52.2,
-    "civilian_risk": 65.6
+    "conflict_intensity": 50.8,
+    "civilian_risk": 64.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-02-27T18:07:09+00:00",
-      "score": 2.94,
+      "score": 2.81,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -122,24 +122,10 @@
       ]
     },
     {
-      "title": "Recruits Duped into Joining Russian War Effort Spark African Outcry",
-      "link": "https://www.crisisgroup.org/anb/africa/africa-russia-ukraine/recruits-duped-joining-russian-war-effort-spark-african-outcry",
-      "source": "Crisis Group",
-      "published_at": "2026-02-27T11:38:10+00:00",
-      "score": 1.51,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-01T05:20:59.106026+00:00",
+      "published_at": "2026-03-01T06:58:35.729351+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,10 +135,24 @@
       ]
     },
     {
+      "title": "Recruits Duped into Joining Russian War Effort Spark African Outcry",
+      "link": "https://www.crisisgroup.org/anb/africa/africa-russia-ukraine/recruits-duped-joining-russian-war-effort-spark-african-outcry",
+      "source": "Crisis Group",
+      "published_at": "2026-02-27T11:38:10+00:00",
+      "score": 1.43,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-01T05:20:59.106026+00:00",
+      "published_at": "2026-03-01T06:58:35.729351+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,28 +165,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-01T07:22:24.291010+00:00",
-      "score": 37.7
+      "timestamp": "2026-03-01T08:36:12.352676+00:00",
+      "score": 35.9
     },
     {
-      "timestamp": "2026-03-01T09:23:49.475994+00:00",
-      "score": 37.2
+      "timestamp": "2026-03-01T10:13:48.976001+00:00",
+      "score": 35.2
     },
     {
-      "timestamp": "2026-03-01T11:25:14.660978+00:00",
-      "score": 36.6
+      "timestamp": "2026-03-01T11:51:25.599326+00:00",
+      "score": 34.4
     },
     {
-      "timestamp": "2026-03-01T13:26:39.845962+00:00",
-      "score": 36.1
+      "timestamp": "2026-03-01T13:29:02.222651+00:00",
+      "score": 33.7
     },
     {
-      "timestamp": "2026-03-01T15:28:05.030946+00:00",
-      "score": 35.5
+      "timestamp": "2026-03-01T15:06:38.845976+00:00",
+      "score": 33.0
     },
     {
-      "timestamp": "2026-03-01T17:29:30.215930+00:00",
-      "score": 35.0
+      "timestamp": "2026-03-01T16:44:15.469301+00:00",
+      "score": 32.3
     }
   ]
 }
