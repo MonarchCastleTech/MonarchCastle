@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T10:01:20.317204+00:00",
+  "fetched_at": "2026-03-02T10:55:58.320143+00:00",
   "window_hours": 72,
   "score": 25.6,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 58
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 20
+      "items": 21
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -111,7 +111,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-02T10:01:20.317204+00:00",
+      "published_at": "2026-03-02T10:55:58.320143+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-02T10:01:20.317204+00:00",
+      "published_at": "2026-03-02T10:55:58.320143+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-02T11:05:33.768170+00:00",
+      "timestamp": "2026-03-02T11:50:36.323082+00:00",
       "score": 25.4
     },
     {
-      "timestamp": "2026-03-02T12:09:47.219136+00:00",
-      "score": 24.9
+      "timestamp": "2026-03-02T12:45:14.326021+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-03-02T13:14:00.670102+00:00",
-      "score": 24.5
+      "timestamp": "2026-03-02T13:39:52.328960+00:00",
+      "score": 24.6
     },
     {
-      "timestamp": "2026-03-02T14:18:14.121068+00:00",
-      "score": 24.1
+      "timestamp": "2026-03-02T14:34:30.331899+00:00",
+      "score": 24.2
     },
     {
-      "timestamp": "2026-03-02T15:22:27.572034+00:00",
-      "score": 23.7
+      "timestamp": "2026-03-02T15:29:08.334838+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-03-02T16:26:41.023000+00:00",
-      "score": 23.3
+      "timestamp": "2026-03-02T16:23:46.337777+00:00",
+      "score": 23.5
     }
   ]
 }
