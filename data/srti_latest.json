@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T15:51:47.014661+00:00",
+  "fetched_at": "2026-03-02T17:01:00.291916+00:00",
   "window_hours": 72,
   "score": 23.2,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-02T15:51:47.014661+00:00",
+      "published_at": "2026-03-02T17:01:00.291916+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-02T15:51:47.014661+00:00",
+      "published_at": "2026-03-02T17:01:00.291916+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-02T15:51:47.014661+00:00",
+      "published_at": "2026-03-02T17:01:00.291916+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,27 +150,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-02T16:49:24.571084+00:00",
-      "score": 21.0
+      "timestamp": "2026-03-02T18:10:13.569171+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-03-02T17:47:02.127507+00:00",
-      "score": 20.4
+      "timestamp": "2026-03-02T19:19:26.846426+00:00",
+      "score": 20.2
     },
     {
-      "timestamp": "2026-03-02T18:44:39.683930+00:00",
-      "score": 19.7
+      "timestamp": "2026-03-02T20:28:40.123681+00:00",
+      "score": 19.6
     },
     {
-      "timestamp": "2026-03-02T19:42:17.240353+00:00",
-      "score": 19.1
+      "timestamp": "2026-03-02T21:37:53.400936+00:00",
+      "score": 19.0
     },
     {
-      "timestamp": "2026-03-02T20:39:54.796776+00:00",
+      "timestamp": "2026-03-02T22:47:06.678191+00:00",
       "score": 18.5
     },
     {
-      "timestamp": "2026-03-02T21:37:32.353199+00:00",
+      "timestamp": "2026-03-02T23:56:19.955446+00:00",
       "score": 17.9
     }
   ]
