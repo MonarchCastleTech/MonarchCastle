@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-02T17:01:00.291916+00:00",
+  "fetched_at": "2026-03-02T17:53:46.702082+00:00",
   "window_hours": 72,
-  "score": 23.2,
-  "risk_level": "GUARDED",
+  "score": 42.5,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 24.0,
-    "civilian_risk": 56.2
+    "conflict_intensity": 51.5,
+    "civilian_risk": 83.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 67
     },
     {
       "name": "ActuNiger",
@@ -94,6 +94,20 @@
   ],
   "top_headlines": [
     {
+      "title": "Hunger in Havana: Can the U.S. Cutoff Bring Change to Cuba?",
+      "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/cuba-united-states/hunger-havana-can-us-cutoff-bring-change-cuba",
+      "source": "Crisis Group",
+      "published_at": "2026-03-02T11:24:19+00:00",
+      "score": 4.26,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "On Our Radar",
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
@@ -111,7 +125,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-02T17:01:00.291916+00:00",
+      "published_at": "2026-03-02T17:53:46.702082+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +138,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-02T17:01:00.291916+00:00",
+      "published_at": "2026-03-02T17:53:46.702082+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +151,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-02T17:01:00.291916+00:00",
+      "published_at": "2026-03-02T17:53:46.702082+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +164,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-02T18:10:13.569171+00:00",
-      "score": 20.8
+      "timestamp": "2026-03-02T18:46:33.112248+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-03-02T19:19:26.846426+00:00",
-      "score": 20.2
+      "timestamp": "2026-03-02T19:39:19.522414+00:00",
+      "score": 23.6
     },
     {
-      "timestamp": "2026-03-02T20:28:40.123681+00:00",
-      "score": 19.6
+      "timestamp": "2026-03-02T20:32:05.932580+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-03-02T21:37:53.400936+00:00",
-      "score": 19.0
+      "timestamp": "2026-03-02T21:24:52.342746+00:00",
+      "score": 22.9
     },
     {
-      "timestamp": "2026-03-02T22:47:06.678191+00:00",
-      "score": 18.5
+      "timestamp": "2026-03-02T22:17:38.752912+00:00",
+      "score": 22.6
     },
     {
-      "timestamp": "2026-03-02T23:56:19.955446+00:00",
-      "score": 17.9
+      "timestamp": "2026-03-02T23:10:25.163078+00:00",
+      "score": 22.2
     }
   ]
 }
