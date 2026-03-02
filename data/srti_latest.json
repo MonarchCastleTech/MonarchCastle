@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-01T23:33:20.220054+00:00",
+  "fetched_at": "2026-03-02T02:49:48.815482+00:00",
   "window_hours": 72,
   "score": 25.6,
   "risk_level": "GUARDED",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 21
+      "items": 20
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -111,7 +111,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-01T23:33:20.220054+00:00",
+      "published_at": "2026-03-02T02:49:48.815482+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-01T23:33:20.220054+00:00",
+      "published_at": "2026-03-02T02:49:48.815482+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-02T00:31:52.434674+00:00",
-      "score": 28.3
-    },
-    {
-      "timestamp": "2026-03-02T01:30:24.649294+00:00",
-      "score": 27.9
-    },
-    {
-      "timestamp": "2026-03-02T02:28:56.863914+00:00",
+      "timestamp": "2026-03-02T06:06:17.410910+00:00",
       "score": 27.4
     },
     {
-      "timestamp": "2026-03-02T03:27:29.078534+00:00",
+      "timestamp": "2026-03-02T09:22:46.006338+00:00",
       "score": 26.9
     },
     {
-      "timestamp": "2026-03-02T04:26:01.293154+00:00",
-      "score": 26.5
+      "timestamp": "2026-03-02T12:39:14.601766+00:00",
+      "score": 26.4
     },
     {
-      "timestamp": "2026-03-02T05:24:33.507774+00:00",
-      "score": 26.0
+      "timestamp": "2026-03-02T15:55:43.197194+00:00",
+      "score": 25.9
+    },
+    {
+      "timestamp": "2026-03-02T19:12:11.792622+00:00",
+      "score": 25.4
+    },
+    {
+      "timestamp": "2026-03-02T22:28:40.388050+00:00",
+      "score": 24.9
     }
   ]
 }
