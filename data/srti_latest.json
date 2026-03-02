@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T13:20:05.735855+00:00",
+  "fetched_at": "2026-03-02T14:54:09.458238+00:00",
   "window_hours": 72,
   "score": 23.2,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-02T13:20:05.735855+00:00",
+      "published_at": "2026-03-02T14:54:09.458238+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-02T13:20:05.735855+00:00",
+      "published_at": "2026-03-02T14:54:09.458238+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-02T13:20:05.735855+00:00",
+      "published_at": "2026-03-02T14:54:09.458238+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-02T15:00:06.854208+00:00",
-      "score": 21.6
+      "timestamp": "2026-03-02T16:28:13.180621+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-03-02T16:40:07.972561+00:00",
-      "score": 21.0
+      "timestamp": "2026-03-02T18:02:16.903004+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-03-02T18:20:09.090914+00:00",
-      "score": 20.3
+      "timestamp": "2026-03-02T19:36:20.625387+00:00",
+      "score": 20.0
     },
     {
-      "timestamp": "2026-03-02T20:00:10.209267+00:00",
-      "score": 19.7
+      "timestamp": "2026-03-02T21:10:24.347770+00:00",
+      "score": 19.3
     },
     {
-      "timestamp": "2026-03-02T21:40:11.327620+00:00",
-      "score": 19.0
+      "timestamp": "2026-03-02T22:44:28.070153+00:00",
+      "score": 18.7
     },
     {
-      "timestamp": "2026-03-02T23:20:12.445973+00:00",
-      "score": 18.4
+      "timestamp": "2026-03-03T00:18:31.792536+00:00",
+      "score": 18.1
     }
   ]
 }
