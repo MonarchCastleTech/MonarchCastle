@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T08:57:06.866238+00:00",
+  "fetched_at": "2026-03-02T10:01:20.317204+00:00",
   "window_hours": 72,
   "score": 25.6,
   "risk_level": "GUARDED",
@@ -111,7 +111,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-02T08:57:06.866238+00:00",
+      "published_at": "2026-03-02T10:01:20.317204+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-02T08:57:06.866238+00:00",
+      "published_at": "2026-03-02T10:01:20.317204+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-02T10:43:14.563471+00:00",
+      "timestamp": "2026-03-02T11:05:33.768170+00:00",
       "score": 25.4
     },
     {
-      "timestamp": "2026-03-02T12:29:22.260704+00:00",
+      "timestamp": "2026-03-02T12:09:47.219136+00:00",
       "score": 24.9
     },
     {
-      "timestamp": "2026-03-02T14:15:29.957937+00:00",
+      "timestamp": "2026-03-02T13:14:00.670102+00:00",
       "score": 24.5
     },
     {
-      "timestamp": "2026-03-02T16:01:37.655170+00:00",
-      "score": 24.0
+      "timestamp": "2026-03-02T14:18:14.121068+00:00",
+      "score": 24.1
     },
     {
-      "timestamp": "2026-03-02T17:47:45.352403+00:00",
-      "score": 23.6
+      "timestamp": "2026-03-02T15:22:27.572034+00:00",
+      "score": 23.7
     },
     {
-      "timestamp": "2026-03-02T19:33:53.049636+00:00",
-      "score": 23.1
+      "timestamp": "2026-03-02T16:26:41.023000+00:00",
+      "score": 23.3
     }
   ]
 }
