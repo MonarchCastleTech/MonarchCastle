@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T04:55:33.239799+00:00",
+  "fetched_at": "2026-03-02T06:00:10.490091+00:00",
   "window_hours": 72,
   "score": 25.6,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -111,7 +111,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-02T04:55:33.239799+00:00",
+      "published_at": "2026-03-02T06:00:10.490091+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-02T04:55:33.239799+00:00",
+      "published_at": "2026-03-02T06:00:10.490091+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-02T07:01:17.664116+00:00",
-      "score": 26.4
+      "timestamp": "2026-03-02T07:04:47.740383+00:00",
+      "score": 25.6
     },
     {
-      "timestamp": "2026-03-02T09:07:02.088433+00:00",
-      "score": 25.9
+      "timestamp": "2026-03-02T08:09:24.990675+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-03-02T11:12:46.512750+00:00",
-      "score": 25.4
+      "timestamp": "2026-03-02T09:14:02.240967+00:00",
+      "score": 24.5
     },
     {
-      "timestamp": "2026-03-02T13:18:30.937067+00:00",
-      "score": 24.9
+      "timestamp": "2026-03-02T10:18:39.491259+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-03-02T15:24:15.361384+00:00",
-      "score": 24.3
+      "timestamp": "2026-03-02T11:23:16.741551+00:00",
+      "score": 23.4
     },
     {
-      "timestamp": "2026-03-02T17:29:59.785701+00:00",
-      "score": 23.8
+      "timestamp": "2026-03-02T12:27:53.991843+00:00",
+      "score": 22.8
     }
   ]
 }
