@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-02T06:00:10.490091+00:00",
+  "fetched_at": "2026-03-02T07:10:59.169005+00:00",
   "window_hours": 72,
   "score": 25.6,
   "risk_level": "GUARDED",
@@ -111,7 +111,7 @@
       "title": "Institut international d'ing\u00e9nierie de l'eau et de l'environnement (2iE) : Un FabLab, un Smart Grid et un mini-r\u00e9seau \u00e9lectrique inaugur\u00e9s \u00e0 Kamboinsin",
       "link": "https://lefaso.net/spip.php?article144732",
       "source": "LeFaso",
-      "published_at": "2026-03-02T06:00:10.490091+00:00",
+      "published_at": "2026-03-02T07:10:59.169005+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-02T06:00:10.490091+00:00",
+      "published_at": "2026-03-02T07:10:59.169005+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-02T07:04:47.740383+00:00",
-      "score": 25.6
+      "timestamp": "2026-03-02T08:21:47.847919+00:00",
+      "score": 25.4
     },
     {
-      "timestamp": "2026-03-02T08:09:24.990675+00:00",
-      "score": 25.0
+      "timestamp": "2026-03-02T09:32:36.526833+00:00",
+      "score": 24.9
     },
     {
-      "timestamp": "2026-03-02T09:14:02.240967+00:00",
-      "score": 24.5
+      "timestamp": "2026-03-02T10:43:25.205747+00:00",
+      "score": 24.4
     },
     {
-      "timestamp": "2026-03-02T10:18:39.491259+00:00",
+      "timestamp": "2026-03-02T11:54:13.884661+00:00",
       "score": 23.9
     },
     {
-      "timestamp": "2026-03-02T11:23:16.741551+00:00",
+      "timestamp": "2026-03-02T13:05:02.563575+00:00",
       "score": 23.4
     },
     {
-      "timestamp": "2026-03-02T12:27:53.991843+00:00",
-      "score": 22.8
+      "timestamp": "2026-03-02T14:15:51.242489+00:00",
+      "score": 22.9
     }
   ]
 }
