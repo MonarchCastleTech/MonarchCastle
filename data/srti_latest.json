@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-03T19:48:28.852616+00:00",
+  "fetched_at": "2026-03-03T20:41:28.813080+00:00",
   "window_hours": 72,
-  "score": 29.1,
+  "score": 28.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 43.5,
-    "civilian_risk": 36.8
+    "conflict_intensity": 43.1,
+    "civilian_risk": 36.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/cuba-united-states/hunger-havana-can-us-cutoff-bring-change-cuba",
       "source": "Crisis Group",
       "published_at": "2026-03-02T11:24:19+00:00",
-      "score": 2.57,
+      "score": 2.52,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-03T19:48:28.852616+00:00",
+      "published_at": "2026-03-03T20:41:28.813080+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-03T19:48:28.852616+00:00",
+      "published_at": "2026-03-03T20:41:28.813080+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-03T19:48:28.852616+00:00",
+      "published_at": "2026-03-03T20:41:28.813080+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-03T20:31:08.516262+00:00",
-      "score": 26.5
-    },
-    {
-      "timestamp": "2026-03-03T21:13:48.179908+00:00",
-      "score": 26.3
-    },
-    {
-      "timestamp": "2026-03-03T21:56:27.843554+00:00",
-      "score": 26.1
-    },
-    {
-      "timestamp": "2026-03-03T22:39:07.507200+00:00",
+      "timestamp": "2026-03-03T21:34:28.773544+00:00",
       "score": 26.0
     },
     {
-      "timestamp": "2026-03-03T23:21:47.170846+00:00",
-      "score": 25.8
+      "timestamp": "2026-03-03T22:27:28.734008+00:00",
+      "score": 25.7
     },
     {
-      "timestamp": "2026-03-04T00:04:26.834492+00:00",
-      "score": 25.6
+      "timestamp": "2026-03-03T23:20:28.694472+00:00",
+      "score": 25.5
+    },
+    {
+      "timestamp": "2026-03-04T00:13:28.654936+00:00",
+      "score": 25.3
+    },
+    {
+      "timestamp": "2026-03-04T01:06:28.615400+00:00",
+      "score": 25.0
+    },
+    {
+      "timestamp": "2026-03-04T01:59:28.575864+00:00",
+      "score": 24.8
     }
   ]
 }
