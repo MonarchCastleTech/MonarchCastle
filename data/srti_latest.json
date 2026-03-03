@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-03T21:42:42.488824+00:00",
+  "fetched_at": "2026-03-03T22:40:18.968938+00:00",
   "window_hours": 72,
-  "score": 28.6,
+  "score": 21.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 42.7,
-    "civilian_risk": 36.0
+    "conflict_intensity": 28.9,
+    "civilian_risk": 35.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/cuba-united-states/hunger-havana-can-us-cutoff-bring-change-cuba",
       "source": "Crisis Group",
       "published_at": "2026-03-02T11:24:19+00:00",
-      "score": 2.45,
+      "score": 2.39,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-03T21:42:42.488824+00:00",
+      "published_at": "2026-03-03T22:40:18.968938+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-03T21:42:42.488824+00:00",
+      "published_at": "2026-03-03T22:40:18.968938+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -132,46 +132,32 @@
       "regions": [
         "burkina"
       ]
-    },
-    {
-      "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
-      "link": "https://lefaso.net/spip.php?article144744",
-      "source": "LeFaso",
-      "published_at": "2026-03-03T21:42:42.488824+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-03T22:43:56.164568+00:00",
-      "score": 27.2
+      "timestamp": "2026-03-03T23:37:55.449052+00:00",
+      "score": 26.6
     },
     {
-      "timestamp": "2026-03-03T23:45:09.840312+00:00",
-      "score": 27.1
+      "timestamp": "2026-03-04T00:35:31.929166+00:00",
+      "score": 26.5
     },
     {
-      "timestamp": "2026-03-04T00:46:23.516056+00:00",
-      "score": 27.0
+      "timestamp": "2026-03-04T01:33:08.409280+00:00",
+      "score": 26.4
     },
     {
-      "timestamp": "2026-03-04T01:47:37.191800+00:00",
-      "score": 26.9
+      "timestamp": "2026-03-04T02:30:44.889394+00:00",
+      "score": 26.3
     },
     {
-      "timestamp": "2026-03-04T02:48:50.867544+00:00",
-      "score": 26.8
+      "timestamp": "2026-03-04T03:28:21.369508+00:00",
+      "score": 26.2
     },
     {
-      "timestamp": "2026-03-04T03:50:04.543288+00:00",
-      "score": 26.8
+      "timestamp": "2026-03-04T04:25:57.849622+00:00",
+      "score": 26.1
     }
   ]
 }
