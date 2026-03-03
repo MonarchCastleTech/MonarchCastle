@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-03T14:56:48.737137+00:00",
+  "fetched_at": "2026-03-03T15:55:19.892774+00:00",
   "window_hours": 72,
-  "score": 30.6,
+  "score": 30.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 45.6,
-    "civilian_risk": 38.8
+    "conflict_intensity": 45.1,
+    "civilian_risk": 38.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/cuba-united-states/hunger-havana-can-us-cutoff-bring-change-cuba",
       "source": "Crisis Group",
       "published_at": "2026-03-02T11:24:19+00:00",
-      "score": 2.89,
+      "score": 2.83,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-03T14:56:48.737137+00:00",
+      "published_at": "2026-03-03T15:55:19.892774+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,10 +121,10 @@
       ]
     },
     {
-      "title": "Burkina/ Lutte contre le terrorisme : Une certaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
+      "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-03T14:56:48.737137+00:00",
+      "published_at": "2026-03-03T15:55:19.892774+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-03T14:56:48.737137+00:00",
+      "published_at": "2026-03-03T15:55:19.892774+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-03T16:35:09.013885+00:00",
-      "score": 27.3
+      "timestamp": "2026-03-03T16:53:51.048411+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-03-03T18:13:29.290633+00:00",
-      "score": 27.3
+      "timestamp": "2026-03-03T17:52:22.204048+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-03-03T19:51:49.567381+00:00",
-      "score": 27.3
+      "timestamp": "2026-03-03T18:50:53.359685+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-03-03T21:30:09.844129+00:00",
-      "score": 27.3
+      "timestamp": "2026-03-03T19:49:24.515322+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-03-03T23:08:30.120877+00:00",
-      "score": 27.3
+      "timestamp": "2026-03-03T20:47:55.670959+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-03-04T00:46:50.397625+00:00",
-      "score": 27.3
+      "timestamp": "2026-03-03T21:46:26.826596+00:00",
+      "score": 27.7
     }
   ]
 }
