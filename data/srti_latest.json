@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-03T04:54:17.677148+00:00",
+  "fetched_at": "2026-03-03T05:58:03.963760+00:00",
   "window_hours": 72,
-  "score": 26.8,
+  "score": 26.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 36.3,
-    "civilian_risk": 43.1
+    "conflict_intensity": 35.9,
+    "civilian_risk": 42.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/cuba-united-states/hunger-havana-can-us-cutoff-bring-change-cuba",
       "source": "Crisis Group",
       "published_at": "2026-03-02T11:24:19+00:00",
-      "score": 3.54,
+      "score": 3.47,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-03T04:54:17.677148+00:00",
+      "published_at": "2026-03-03T05:58:03.963760+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina : 180 000 \u0153ufs impropres \u00e0 la consommation saisis, d\u00e9truits et recycl\u00e9s en engrais organique",
       "link": "https://lefaso.net/spip.php?article144744",
       "source": "LeFaso",
-      "published_at": "2026-03-03T04:54:17.677148+00:00",
+      "published_at": "2026-03-03T05:58:03.963760+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,28 +137,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-03T06:55:45.821415+00:00",
-      "score": 29.1
-    },
-    {
-      "timestamp": "2026-03-03T08:57:13.965682+00:00",
-      "score": 29.2
-    },
-    {
-      "timestamp": "2026-03-03T10:58:42.109949+00:00",
-      "score": 29.3
-    },
-    {
-      "timestamp": "2026-03-03T13:00:10.254216+00:00",
+      "timestamp": "2026-03-03T07:01:50.250372+00:00",
       "score": 29.4
     },
     {
-      "timestamp": "2026-03-03T15:01:38.398483+00:00",
-      "score": 29.4
+      "timestamp": "2026-03-03T08:05:36.536984+00:00",
+      "score": 29.6
     },
     {
-      "timestamp": "2026-03-03T17:03:06.542750+00:00",
-      "score": 29.5
+      "timestamp": "2026-03-03T09:09:22.823596+00:00",
+      "score": 29.7
+    },
+    {
+      "timestamp": "2026-03-03T10:13:09.110208+00:00",
+      "score": 29.9
+    },
+    {
+      "timestamp": "2026-03-03T11:16:55.396820+00:00",
+      "score": 30.0
+    },
+    {
+      "timestamp": "2026-03-03T12:20:41.683432+00:00",
+      "score": 30.2
     }
   ]
 }
