@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-04T22:41:51.072323+00:00",
+  "fetched_at": "2026-03-04T23:38:43.195374+00:00",
   "window_hours": 72,
   "score": 17.5,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76
+      "items": 72
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-04T22:41:51.072323+00:00",
+      "published_at": "2026-03-04T23:38:43.195374+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-04T22:41:51.072323+00:00",
+      "published_at": "2026-03-04T23:38:43.195374+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-04T22:41:51.072323+00:00",
+      "published_at": "2026-03-04T23:38:43.195374+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-04T23:39:24.643609+00:00",
-      "score": 14.5
+      "timestamp": "2026-03-05T00:35:35.318425+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-03-05T00:36:58.214895+00:00",
-      "score": 14.3
+      "timestamp": "2026-03-05T01:32:27.441476+00:00",
+      "score": 15.6
     },
     {
-      "timestamp": "2026-03-05T01:34:31.786181+00:00",
-      "score": 14.1
+      "timestamp": "2026-03-05T02:29:19.564527+00:00",
+      "score": 15.5
     },
     {
-      "timestamp": "2026-03-05T02:32:05.357467+00:00",
-      "score": 13.8
+      "timestamp": "2026-03-05T03:26:11.687578+00:00",
+      "score": 15.4
     },
     {
-      "timestamp": "2026-03-05T03:29:38.928753+00:00",
-      "score": 13.6
+      "timestamp": "2026-03-05T04:23:03.810629+00:00",
+      "score": 15.3
     },
     {
-      "timestamp": "2026-03-05T04:27:12.500039+00:00",
-      "score": 13.4
+      "timestamp": "2026-03-05T05:19:55.933680+00:00",
+      "score": 15.2
     }
   ]
 }
