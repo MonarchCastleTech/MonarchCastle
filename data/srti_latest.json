@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-04T08:52:45.583402+00:00",
+  "fetched_at": "2026-03-04T09:53:20.333600+00:00",
   "window_hours": 72,
   "score": 10.7,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-04T08:52:45.583402+00:00",
+      "published_at": "2026-03-04T09:53:20.333600+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-04T08:52:45.583402+00:00",
+      "published_at": "2026-03-04T09:53:20.333600+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -122,28 +122,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-04T09:59:05.918237+00:00",
-      "score": 13.4
+      "timestamp": "2026-03-04T10:53:55.083798+00:00",
+      "score": 11.8
     },
     {
-      "timestamp": "2026-03-04T11:05:26.253072+00:00",
-      "score": 12.7
+      "timestamp": "2026-03-04T11:54:29.833996+00:00",
+      "score": 10.9
     },
     {
-      "timestamp": "2026-03-04T12:11:46.587907+00:00",
-      "score": 11.9
+      "timestamp": "2026-03-04T12:55:04.584194+00:00",
+      "score": 10.1
     },
     {
-      "timestamp": "2026-03-04T13:18:06.922742+00:00",
-      "score": 11.2
+      "timestamp": "2026-03-04T13:55:39.334392+00:00",
+      "score": 9.3
     },
     {
-      "timestamp": "2026-03-04T14:24:27.257577+00:00",
-      "score": 10.4
+      "timestamp": "2026-03-04T14:56:14.084590+00:00",
+      "score": 8.5
     },
     {
-      "timestamp": "2026-03-04T15:30:47.592412+00:00",
-      "score": 9.7
+      "timestamp": "2026-03-04T15:56:48.834788+00:00",
+      "score": 7.6
     }
   ]
 }
