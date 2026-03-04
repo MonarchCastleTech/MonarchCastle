@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-04T20:41:47.381165+00:00",
+  "fetched_at": "2026-03-04T21:44:17.501037+00:00",
   "window_hours": 72,
   "score": 17.5,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 78
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-04T20:41:47.381165+00:00",
+      "published_at": "2026-03-04T21:44:17.501037+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-04T20:41:47.381165+00:00",
+      "published_at": "2026-03-04T21:44:17.501037+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-04T20:41:47.381165+00:00",
+      "published_at": "2026-03-04T21:44:17.501037+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-04T21:36:14.946507+00:00",
-      "score": 12.5
+      "timestamp": "2026-03-04T22:46:47.620909+00:00",
+      "score": 13.5
     },
     {
-      "timestamp": "2026-03-04T22:30:42.511849+00:00",
-      "score": 12.0
+      "timestamp": "2026-03-04T23:49:17.740781+00:00",
+      "score": 13.1
     },
     {
-      "timestamp": "2026-03-04T23:25:10.077191+00:00",
-      "score": 11.6
+      "timestamp": "2026-03-05T00:51:47.860653+00:00",
+      "score": 12.8
     },
     {
-      "timestamp": "2026-03-05T00:19:37.642533+00:00",
-      "score": 11.1
+      "timestamp": "2026-03-05T01:54:17.980525+00:00",
+      "score": 12.4
     },
     {
-      "timestamp": "2026-03-05T01:14:05.207875+00:00",
-      "score": 10.7
+      "timestamp": "2026-03-05T02:56:48.100397+00:00",
+      "score": 12.1
     },
     {
-      "timestamp": "2026-03-05T02:08:32.773217+00:00",
-      "score": 10.2
+      "timestamp": "2026-03-05T03:59:18.220269+00:00",
+      "score": 11.7
     }
   ]
 }
