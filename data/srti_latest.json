@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-05T07:51:08.663106+00:00",
+  "fetched_at": "2026-03-05T08:56:10.767348+00:00",
   "window_hours": 72,
   "score": 17.5,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Journ\u00e9e portes ouvertes 2iE : 900 \u00e9l\u00e8ves dans les coulisses de l'ing\u00e9nierie africaine",
       "link": "https://lefaso.net/spip.php?article144767",
       "source": "LeFaso",
-      "published_at": "2026-03-05T07:51:08.663106+00:00",
+      "published_at": "2026-03-05T08:56:10.767348+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-05T07:51:08.663106+00:00",
+      "published_at": "2026-03-05T08:56:10.767348+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-05T07:51:08.663106+00:00",
+      "published_at": "2026-03-05T08:56:10.767348+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-05T08:37:25.368411+00:00",
-      "score": 19.8
+      "timestamp": "2026-03-05T10:01:12.871590+00:00",
+      "score": 19.6
     },
     {
-      "timestamp": "2026-03-05T09:23:42.073716+00:00",
-      "score": 20.1
+      "timestamp": "2026-03-05T11:06:14.975832+00:00",
+      "score": 19.9
     },
     {
-      "timestamp": "2026-03-05T10:09:58.779021+00:00",
+      "timestamp": "2026-03-05T12:11:17.080074+00:00",
+      "score": 20.2
+    },
+    {
+      "timestamp": "2026-03-05T13:16:19.184316+00:00",
       "score": 20.4
     },
     {
-      "timestamp": "2026-03-05T10:56:15.484326+00:00",
+      "timestamp": "2026-03-05T14:21:21.288558+00:00",
       "score": 20.7
     },
     {
-      "timestamp": "2026-03-05T11:42:32.189631+00:00",
-      "score": 21.1
-    },
-    {
-      "timestamp": "2026-03-05T12:28:48.894936+00:00",
-      "score": 21.4
+      "timestamp": "2026-03-05T15:26:23.392800+00:00",
+      "score": 21.0
     }
   ]
 }
