@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-05T19:57:01.065952+00:00",
+  "fetched_at": "2026-03-05T20:48:48.853425+00:00",
   "window_hours": 72,
-  "score": 18.1,
+  "score": 17.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 36.1,
+    "conflict_intensity": 35.9,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-05T19:57:01.065952+00:00",
+      "published_at": "2026-03-05T20:48:48.853425+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,7 +110,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-05T19:57:01.065952+00:00",
+      "published_at": "2026-03-05T20:48:48.853425+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "link": "https://www.crisisgroup.org/pod/middle-east-north-africa/saudi-arabia/behind-saudi-emirati-rift",
       "source": "Crisis Group",
       "published_at": "2026-03-05T13:29:01+00:00",
-      "score": 0.76,
+      "score": 0.75,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-05T21:40:34.135888+00:00",
+      "timestamp": "2026-03-05T21:40:36.640898+00:00",
+      "score": 16.2
+    },
+    {
+      "timestamp": "2026-03-05T22:32:24.428371+00:00",
+      "score": 16.2
+    },
+    {
+      "timestamp": "2026-03-05T23:24:12.215844+00:00",
+      "score": 16.1
+    },
+    {
+      "timestamp": "2026-03-06T00:16:00.003317+00:00",
       "score": 16.0
     },
     {
-      "timestamp": "2026-03-05T23:24:07.205824+00:00",
+      "timestamp": "2026-03-06T01:07:47.790790+00:00",
       "score": 16.0
     },
     {
-      "timestamp": "2026-03-06T01:07:40.275760+00:00",
+      "timestamp": "2026-03-06T01:59:35.578263+00:00",
       "score": 15.9
-    },
-    {
-      "timestamp": "2026-03-06T02:51:13.345696+00:00",
-      "score": 15.8
-    },
-    {
-      "timestamp": "2026-03-06T04:34:46.415632+00:00",
-      "score": 15.7
-    },
-    {
-      "timestamp": "2026-03-06T06:18:19.485568+00:00",
-      "score": 15.6
     }
   ]
 }
