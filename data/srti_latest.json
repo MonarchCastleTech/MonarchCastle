@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-05T15:57:48.920910+00:00",
+  "fetched_at": "2026-03-05T18:13:27.996016+00:00",
   "window_hours": 72,
-  "score": 13.4,
+  "score": 18.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 26.9,
+    "conflict_intensity": 36.3,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 77
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-05T15:57:48.920910+00:00",
+      "published_at": "2026-03-05T18:13:27.996016+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,7 +110,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-05T15:57:48.920910+00:00",
+      "published_at": "2026-03-05T18:13:27.996016+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -118,32 +118,45 @@
       "regions": [
         "burkina"
       ]
+    },
+    {
+      "title": "Behind the Saudi-Emirati Rift",
+      "link": "https://www.crisisgroup.org/pod/middle-east-north-africa/saudi-arabia/behind-saudi-emirati-rift",
+      "source": "Crisis Group",
+      "published_at": "2026-03-05T13:29:01+00:00",
+      "score": 0.78,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-05T16:58:13.897348+00:00",
+      "timestamp": "2026-03-05T20:29:07.071122+00:00",
+      "score": 15.8
+    },
+    {
+      "timestamp": "2026-03-05T22:44:46.146228+00:00",
+      "score": 15.7
+    },
+    {
+      "timestamp": "2026-03-06T01:00:25.221334+00:00",
       "score": 15.6
     },
     {
-      "timestamp": "2026-03-05T17:58:38.873786+00:00",
+      "timestamp": "2026-03-06T03:16:04.296440+00:00",
       "score": 15.5
     },
     {
-      "timestamp": "2026-03-05T18:59:03.850224+00:00",
+      "timestamp": "2026-03-06T05:31:43.371546+00:00",
       "score": 15.4
     },
     {
-      "timestamp": "2026-03-05T19:59:28.826662+00:00",
-      "score": 15.2
-    },
-    {
-      "timestamp": "2026-03-05T20:59:53.803100+00:00",
-      "score": 15.1
-    },
-    {
-      "timestamp": "2026-03-05T22:00:18.779538+00:00",
-      "score": 15.0
+      "timestamp": "2026-03-06T07:47:22.446652+00:00",
+      "score": 15.3
     }
   ]
 }
