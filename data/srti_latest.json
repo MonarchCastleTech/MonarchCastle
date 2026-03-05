@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-05T21:46:11.228456+00:00",
+  "fetched_at": "2026-03-05T23:15:08.094066+00:00",
   "window_hours": 72,
-  "score": 24.9,
+  "score": 24.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.8,
-    "civilian_risk": 35.1
+    "conflict_intensity": 35.6,
+    "civilian_risk": 34.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 79
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mine-collapse-in-eastern-congo-leaves-200-dead",
       "source": "France 24 - Africa",
       "published_at": "2026-03-05T21:26:17+00:00",
-      "score": 2.51,
+      "score": 2.46,
       "tags": [
         "civilian_risk"
       ],
@@ -110,7 +110,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-05T21:46:11.228456+00:00",
+      "published_at": "2026-03-05T23:15:08.094066+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-05T21:46:11.228456+00:00",
+      "published_at": "2026-03-05T23:15:08.094066+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "link": "https://www.crisisgroup.org/pod/middle-east-north-africa/saudi-arabia/behind-saudi-emirati-rift",
       "source": "Crisis Group",
       "published_at": "2026-03-05T13:29:01+00:00",
-      "score": 0.74,
+      "score": 0.73,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-05T22:43:33.603487+00:00",
-      "score": 17.6
+      "timestamp": "2026-03-06T00:44:04.959676+00:00",
+      "score": 18.8
     },
     {
-      "timestamp": "2026-03-05T23:40:55.978518+00:00",
-      "score": 17.6
+      "timestamp": "2026-03-06T02:13:01.825286+00:00",
+      "score": 18.9
     },
     {
-      "timestamp": "2026-03-06T00:38:18.353549+00:00",
-      "score": 17.6
+      "timestamp": "2026-03-06T03:41:58.690896+00:00",
+      "score": 19.0
     },
     {
-      "timestamp": "2026-03-06T01:35:40.728580+00:00",
-      "score": 17.6
+      "timestamp": "2026-03-06T05:10:55.556506+00:00",
+      "score": 19.1
     },
     {
-      "timestamp": "2026-03-06T02:33:03.103611+00:00",
-      "score": 17.7
+      "timestamp": "2026-03-06T06:39:52.422116+00:00",
+      "score": 19.2
     },
     {
-      "timestamp": "2026-03-06T03:30:25.478642+00:00",
-      "score": 17.7
+      "timestamp": "2026-03-06T08:08:49.287726+00:00",
+      "score": 19.3
     }
   ]
 }
