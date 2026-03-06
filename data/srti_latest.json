@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-06T05:54:20.618277+00:00",
+  "fetched_at": "2026-03-06T07:03:05.547155+00:00",
   "window_hours": 72,
-  "score": 19.7,
+  "score": 19.6,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 31.1
+    "civilian_risk": 30.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mine-collapse-in-eastern-congo-leaves-200-dead",
       "source": "France 24 - Africa",
       "published_at": "2026-03-05T21:26:17+00:00",
-      "score": 2.22,
+      "score": 2.18,
       "tags": [
         "civilian_risk"
       ],
@@ -110,7 +110,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-06T05:54:20.618277+00:00",
+      "published_at": "2026-03-06T07:03:05.547155+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-06T05:54:20.618277+00:00",
+      "published_at": "2026-03-06T07:03:05.547155+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-06T06:59:51.266978+00:00",
-      "score": 19.8
+      "timestamp": "2026-03-06T08:11:50.476033+00:00",
+      "score": 20.0
     },
     {
-      "timestamp": "2026-03-06T08:05:21.915679+00:00",
-      "score": 19.9
-    },
-    {
-      "timestamp": "2026-03-06T09:10:52.564380+00:00",
-      "score": 20.1
-    },
-    {
-      "timestamp": "2026-03-06T10:16:23.213081+00:00",
+      "timestamp": "2026-03-06T09:20:35.404911+00:00",
       "score": 20.2
     },
     {
-      "timestamp": "2026-03-06T11:21:53.861782+00:00",
-      "score": 20.4
+      "timestamp": "2026-03-06T10:29:20.333789+00:00",
+      "score": 20.3
     },
     {
-      "timestamp": "2026-03-06T12:27:24.510483+00:00",
+      "timestamp": "2026-03-06T11:38:05.262667+00:00",
       "score": 20.5
+    },
+    {
+      "timestamp": "2026-03-06T12:46:50.191545+00:00",
+      "score": 20.6
+    },
+    {
+      "timestamp": "2026-03-06T13:55:35.120423+00:00",
+      "score": 20.8
     }
   ]
 }
