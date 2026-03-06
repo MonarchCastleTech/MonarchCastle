@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-06T10:49:17.379031+00:00",
+  "fetched_at": "2026-03-06T11:37:53.559639+00:00",
   "window_hours": 72,
-  "score": 19.2,
+  "score": 19.1,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 28.7
+    "civilian_risk": 28.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76
+      "items": 77
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "Mine collapse in eastern Congo leaves 200 dead",
+      "title": "Mine collapse in eastern DR Congo leaves 200 dead",
       "link": "https://www.france24.com/en/mine-collapse-in-eastern-congo-leaves-200-dead",
       "source": "France 24 - Africa",
       "published_at": "2026-03-05T21:26:17+00:00",
-      "score": 2.05,
+      "score": 2.02,
       "tags": [
         "civilian_risk"
       ],
@@ -110,7 +110,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-06T10:49:17.379031+00:00",
+      "published_at": "2026-03-06T11:37:53.559639+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-06T10:49:17.379031+00:00",
+      "published_at": "2026-03-06T11:37:53.559639+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-06T11:46:20.858640+00:00",
+      "timestamp": "2026-03-06T12:26:29.740247+00:00",
       "score": 20.6
     },
     {
-      "timestamp": "2026-03-06T12:43:24.338249+00:00",
-      "score": 20.7
+      "timestamp": "2026-03-06T13:15:05.920855+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-03-06T13:40:27.817858+00:00",
+      "timestamp": "2026-03-06T14:03:42.101463+00:00",
       "score": 20.9
     },
     {
-      "timestamp": "2026-03-06T14:37:31.297467+00:00",
+      "timestamp": "2026-03-06T14:52:18.282071+00:00",
       "score": 21.1
     },
     {
-      "timestamp": "2026-03-06T15:34:34.777076+00:00",
+      "timestamp": "2026-03-06T15:40:54.462679+00:00",
       "score": 21.3
     },
     {
-      "timestamp": "2026-03-06T16:31:38.256685+00:00",
-      "score": 21.4
+      "timestamp": "2026-03-06T16:29:30.643287+00:00",
+      "score": 21.5
     }
   ]
 }
