@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-06T19:39:42.691062+00:00",
+  "fetched_at": "2026-03-06T20:43:00.825136+00:00",
   "window_hours": 72,
-  "score": 48.5,
+  "score": 47.9,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 75.5,
-    "civilian_risk": 53.5
+    "conflict_intensity": 74.7,
+    "civilian_risk": 52.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/venezuela/us-snaps-venezuelas-oil-and-rare-minerals-race-supplies",
       "source": "Crisis Group",
       "published_at": "2026-03-06T17:04:14+00:00",
-      "score": 3.47,
+      "score": 3.42,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-06T17:06:14+00:00",
-      "score": 2.66,
+      "score": 2.62,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/mine-collapse-in-eastern-congo-leaves-200-dead",
       "source": "France 24 - Africa",
       "published_at": "2026-03-05T21:26:17+00:00",
-      "score": 1.74,
+      "score": 1.71,
       "tags": [
         "civilian_risk"
       ],
@@ -138,7 +138,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-06T19:39:42.691062+00:00",
+      "published_at": "2026-03-06T20:43:00.825136+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,7 +151,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-06T19:39:42.691062+00:00",
+      "published_at": "2026-03-06T20:43:00.825136+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-06T20:20:18.238833+00:00",
-      "score": 34.2
+      "timestamp": "2026-03-06T21:46:18.959210+00:00",
+      "score": 37.5
     },
     {
-      "timestamp": "2026-03-06T21:00:53.786604+00:00",
-      "score": 35.1
+      "timestamp": "2026-03-06T22:49:37.093284+00:00",
+      "score": 38.6
     },
     {
-      "timestamp": "2026-03-06T21:41:29.334375+00:00",
-      "score": 36.0
+      "timestamp": "2026-03-06T23:52:55.227358+00:00",
+      "score": 39.7
     },
     {
-      "timestamp": "2026-03-06T22:22:04.882146+00:00",
-      "score": 37.0
+      "timestamp": "2026-03-07T00:56:13.361432+00:00",
+      "score": 40.8
     },
     {
-      "timestamp": "2026-03-06T23:02:40.429917+00:00",
-      "score": 37.9
+      "timestamp": "2026-03-07T01:59:31.495506+00:00",
+      "score": 41.9
     },
     {
-      "timestamp": "2026-03-06T23:43:15.977688+00:00",
-      "score": 38.8
+      "timestamp": "2026-03-07T03:02:49.629580+00:00",
+      "score": 43.0
     }
   ]
 }
