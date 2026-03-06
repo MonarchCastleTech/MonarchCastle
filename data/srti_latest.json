@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-06T15:49:27.067426+00:00",
+  "fetched_at": "2026-03-06T16:54:55.500865+00:00",
   "window_hours": 72,
-  "score": 18.7,
+  "score": 18.6,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 26.3
+    "civilian_risk": 25.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 85
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mine-collapse-in-eastern-congo-leaves-200-dead",
       "source": "France 24 - Africa",
       "published_at": "2026-03-05T21:26:17+00:00",
-      "score": 1.88,
+      "score": 1.84,
       "tags": [
         "civilian_risk"
       ],
@@ -110,7 +110,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-06T15:49:27.067426+00:00",
+      "published_at": "2026-03-06T16:54:55.500865+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Burkina/ Lutte contre le terrorisme : Une centaine de terroristes tu\u00e9s et un important arsenal r\u00e9cup\u00e9r\u00e9",
       "link": "https://lefaso.net/spip.php?article144798",
       "source": "LeFaso",
-      "published_at": "2026-03-06T15:49:27.067426+00:00",
+      "published_at": "2026-03-06T16:54:55.500865+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-06T16:49:20.070427+00:00",
+      "timestamp": "2026-03-06T18:00:23.934304+00:00",
+      "score": 20.4
+    },
+    {
+      "timestamp": "2026-03-06T19:05:52.367743+00:00",
       "score": 20.5
     },
     {
-      "timestamp": "2026-03-06T17:49:13.073428+00:00",
-      "score": 20.6
+      "timestamp": "2026-03-06T20:11:20.801182+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-03-06T18:49:06.076429+00:00",
+      "timestamp": "2026-03-06T21:16:49.234621+00:00",
       "score": 20.8
     },
     {
-      "timestamp": "2026-03-06T19:48:59.079430+00:00",
+      "timestamp": "2026-03-06T22:22:17.668060+00:00",
       "score": 20.9
     },
     {
-      "timestamp": "2026-03-06T20:48:52.082431+00:00",
+      "timestamp": "2026-03-06T23:27:46.101499+00:00",
       "score": 21.1
-    },
-    {
-      "timestamp": "2026-03-06T21:48:45.085432+00:00",
-      "score": 21.2
     }
   ]
 }
