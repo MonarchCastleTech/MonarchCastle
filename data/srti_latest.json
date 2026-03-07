@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-07T21:30:33.476135+00:00",
+  "fetched_at": "2026-03-07T22:33:36.466141+00:00",
   "window_hours": 72,
-  "score": 47.3,
-  "risk_level": "ELEVATED",
+  "score": 10.2,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 63.4,
-    "civilian_risk": 78.2
+    "conflict_intensity": 11.9,
+    "civilian_risk": 21.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -94,58 +94,17 @@
   ],
   "top_headlines": [
     {
-      "title": "A Sprawling Middle East War Explodes",
-      "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states/sprawling-middle-east-war-explodes",
-      "source": "Crisis Group",
-      "published_at": "2026-03-06T18:51:29+00:00",
-      "score": 3.63,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "On Our Radar",
-      "link": "https://www.crisisgroup.org/sco/global/our-radar",
-      "source": "Crisis Group",
-      "published_at": "2026-03-06T18:07:09+00:00",
-      "score": 3.57,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
       "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-06T17:06:14+00:00",
-      "score": 1.67,
+      "score": 1.63,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
       ],
       "regions": [
         "niger"
-      ]
-    },
-    {
-      "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
-      "link": "https://lefaso.net/spip.php?article144813",
-      "source": "LeFaso",
-      "published_at": "2026-03-07T21:30:33.476135+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina"
       ]
     },
     {
@@ -164,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-07T22:25:30.622749+00:00",
-      "score": 57.6
+      "timestamp": "2026-03-07T23:36:39.456147+00:00",
+      "score": 47.7
     },
     {
-      "timestamp": "2026-03-07T23:20:27.769363+00:00",
-      "score": 57.2
+      "timestamp": "2026-03-08T00:39:42.446153+00:00",
+      "score": 46.7
     },
     {
-      "timestamp": "2026-03-08T00:15:24.915977+00:00",
-      "score": 56.9
+      "timestamp": "2026-03-08T01:42:45.436159+00:00",
+      "score": 45.6
     },
     {
-      "timestamp": "2026-03-08T01:10:22.062591+00:00",
-      "score": 56.5
+      "timestamp": "2026-03-08T02:45:48.426165+00:00",
+      "score": 44.6
     },
     {
-      "timestamp": "2026-03-08T02:05:19.209205+00:00",
-      "score": 56.1
+      "timestamp": "2026-03-08T03:48:51.416171+00:00",
+      "score": 43.6
     },
     {
-      "timestamp": "2026-03-08T03:00:16.355819+00:00",
-      "score": 55.8
+      "timestamp": "2026-03-08T04:51:54.406177+00:00",
+      "score": 42.5
     }
   ]
 }
