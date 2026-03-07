@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-07T20:35:36.329521+00:00",
+  "fetched_at": "2026-03-07T21:30:33.476135+00:00",
   "window_hours": 72,
-  "score": 48.1,
+  "score": 47.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 64.5,
-    "civilian_risk": 79.5
+    "conflict_intensity": 63.4,
+    "civilian_risk": 78.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states/sprawling-middle-east-war-explodes",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:51:29+00:00",
-      "score": 3.7,
+      "score": 3.63,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:07:09+00:00",
-      "score": 3.64,
+      "score": 3.57,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-06T17:06:14+00:00",
-      "score": 1.71,
+      "score": 1.67,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-07T20:35:36.329521+00:00",
+      "published_at": "2026-03-07T21:30:33.476135+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,28 +164,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-07T21:41:46.484579+00:00",
-      "score": 61.3
+      "timestamp": "2026-03-07T22:25:30.622749+00:00",
+      "score": 57.6
     },
     {
-      "timestamp": "2026-03-07T22:47:56.639637+00:00",
-      "score": 61.2
+      "timestamp": "2026-03-07T23:20:27.769363+00:00",
+      "score": 57.2
     },
     {
-      "timestamp": "2026-03-07T23:54:06.794695+00:00",
-      "score": 61.1
+      "timestamp": "2026-03-08T00:15:24.915977+00:00",
+      "score": 56.9
     },
     {
-      "timestamp": "2026-03-08T01:00:16.949753+00:00",
-      "score": 61.1
+      "timestamp": "2026-03-08T01:10:22.062591+00:00",
+      "score": 56.5
     },
     {
-      "timestamp": "2026-03-08T02:06:27.104811+00:00",
-      "score": 61.0
+      "timestamp": "2026-03-08T02:05:19.209205+00:00",
+      "score": 56.1
     },
     {
-      "timestamp": "2026-03-08T03:12:37.259869+00:00",
-      "score": 60.9
+      "timestamp": "2026-03-08T03:00:16.355819+00:00",
+      "score": 55.8
     }
   ]
 }
