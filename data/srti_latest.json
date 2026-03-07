@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-07T08:43:28.511235+00:00",
+  "fetched_at": "2026-03-07T09:38:01.901601+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states/sprawling-middle-east-war-explodes",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:51:29+00:00",
-      "score": 4.65,
+      "score": 4.58,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:07:09+00:00",
-      "score": 4.59,
+      "score": 4.52,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.crisisgroup.org/qna/latin-america-caribbean/venezuela/us-snaps-venezuelas-oil-and-rare-minerals-race-supplies",
       "source": "Crisis Group",
       "published_at": "2026-03-06T17:04:14+00:00",
-      "score": 2.82,
+      "score": 2.77,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-06T17:06:14+00:00",
-      "score": 2.16,
+      "score": 2.13,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -154,7 +154,7 @@
       "link": "https://www.france24.com/en/mine-collapse-in-eastern-congo-leaves-200-dead",
       "source": "France 24 - Africa",
       "published_at": "2026-03-05T21:26:17+00:00",
-      "score": 1.28,
+      "score": 1.25,
       "tags": [
         "civilian_risk"
       ],
@@ -166,7 +166,7 @@
       "title": "Burkina / Lutte contre les crimes \u00e9conomiques : Plus de 5 milliards de francs CFA de biens et avoirs saisis, revers\u00e9s au tr\u00e9sor public",
       "link": "https://lefaso.net/spip.php?article144813",
       "source": "LeFaso",
-      "published_at": "2026-03-07T08:43:28.511235+00:00",
+      "published_at": "2026-03-07T09:38:01.901601+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -178,28 +178,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-07T09:50:00.815848+00:00",
-      "score": 81.6
+      "timestamp": "2026-03-07T10:32:35.291967+00:00",
+      "score": 83.8
     },
     {
-      "timestamp": "2026-03-07T10:56:33.120461+00:00",
-      "score": 84.6
+      "timestamp": "2026-03-07T11:27:08.682333+00:00",
+      "score": 86.9
     },
     {
-      "timestamp": "2026-03-07T12:03:05.425074+00:00",
-      "score": 87.7
+      "timestamp": "2026-03-07T12:21:42.072699+00:00",
+      "score": 90.0
     },
     {
-      "timestamp": "2026-03-07T13:09:37.729687+00:00",
-      "score": 90.8
+      "timestamp": "2026-03-07T13:16:15.463065+00:00",
+      "score": 93.1
     },
     {
-      "timestamp": "2026-03-07T14:16:10.034300+00:00",
-      "score": 93.9
+      "timestamp": "2026-03-07T14:10:48.853431+00:00",
+      "score": 96.2
     },
     {
-      "timestamp": "2026-03-07T15:22:42.338913+00:00",
-      "score": 96.9
+      "timestamp": "2026-03-07T15:05:22.243797+00:00",
+      "score": 99.3
     }
   ]
 }
