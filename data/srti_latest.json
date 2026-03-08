@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-08T19:31:35.787302+00:00",
+  "fetched_at": "2026-03-08T20:37:14.819346+00:00",
   "window_hours": 72,
   "score": 24.0,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -59,7 +59,7 @@
       "name": "UN News Africa",
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
-      "items": 12
+      "items": 30
     },
     {
       "name": "Crisis Group",
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-08T20:14:24.996009+00:00",
-      "score": 16.8
+      "timestamp": "2026-03-08T21:42:53.851390+00:00",
+      "score": 18.5
     },
     {
-      "timestamp": "2026-03-08T20:57:14.204716+00:00",
-      "score": 15.6
+      "timestamp": "2026-03-08T22:48:32.883434+00:00",
+      "score": 17.6
     },
     {
-      "timestamp": "2026-03-08T21:40:03.413423+00:00",
-      "score": 14.4
+      "timestamp": "2026-03-08T23:54:11.915478+00:00",
+      "score": 16.6
     },
     {
-      "timestamp": "2026-03-08T22:22:52.622130+00:00",
-      "score": 13.2
+      "timestamp": "2026-03-09T00:59:50.947522+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-03-08T23:05:41.830837+00:00",
-      "score": 12.0
+      "timestamp": "2026-03-09T02:05:29.979566+00:00",
+      "score": 14.7
     },
     {
-      "timestamp": "2026-03-08T23:48:31.039544+00:00",
-      "score": 10.7
+      "timestamp": "2026-03-09T03:11:09.011610+00:00",
+      "score": 13.7
     }
   ]
 }
