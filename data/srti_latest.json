@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-08T10:35:54.475787+00:00",
+  "fetched_at": "2026-03-08T11:30:17.495795+00:00",
   "window_hours": 72,
-  "score": 29.4,
+  "score": 28.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.3,
-    "civilian_risk": 58.9
+    "conflict_intensity": 34.3,
+    "civilian_risk": 57.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -76,20 +76,20 @@
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 14
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 16
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 19
     }
   ],
   "top_headlines": [
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states/sprawling-middle-east-war-explodes",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:51:29+00:00",
-      "score": 2.58,
+      "score": 2.51,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:07:09+00:00",
-      "score": 2.52,
+      "score": 2.45,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-06T17:06:14+00:00",
-      "score": 1.17,
+      "score": 1.13,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-08T11:32:59.925925+00:00",
-      "score": 15.1
+      "timestamp": "2026-03-08T12:24:40.515803+00:00",
+      "score": 14.4
     },
     {
-      "timestamp": "2026-03-08T12:30:05.376063+00:00",
-      "score": 12.6
+      "timestamp": "2026-03-08T13:19:03.535811+00:00",
+      "score": 12.0
     },
     {
-      "timestamp": "2026-03-08T13:27:10.826201+00:00",
-      "score": 10.1
+      "timestamp": "2026-03-08T14:13:26.555819+00:00",
+      "score": 9.5
     },
     {
-      "timestamp": "2026-03-08T14:24:16.276339+00:00",
-      "score": 7.6
+      "timestamp": "2026-03-08T15:07:49.575827+00:00",
+      "score": 7.1
     },
     {
-      "timestamp": "2026-03-08T15:21:21.726477+00:00",
-      "score": 5.1
+      "timestamp": "2026-03-08T16:02:12.595835+00:00",
+      "score": 4.7
     },
     {
-      "timestamp": "2026-03-08T16:18:27.176615+00:00",
-      "score": 2.6
+      "timestamp": "2026-03-08T16:56:35.615843+00:00",
+      "score": 2.3
     }
   ]
 }
