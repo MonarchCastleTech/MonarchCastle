@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-07T23:32:10.412130+00:00",
+  "fetched_at": "2026-03-08T02:52:14.297189+00:00",
   "window_hours": 72,
-  "score": 10.0,
-  "risk_level": "LOW",
+  "score": 36.1,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 11.6,
-    "civilian_risk": 21.1
+    "conflict_intensity": 44.0,
+    "civilian_risk": 70.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 15
+      "items": 14
     },
     {
       "name": "AllAfrica - Niger",
@@ -94,11 +94,39 @@
   ],
   "top_headlines": [
     {
+      "title": "A Sprawling Middle East War Explodes",
+      "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states/sprawling-middle-east-war-explodes",
+      "source": "Crisis Group",
+      "published_at": "2026-03-06T18:51:29+00:00",
+      "score": 3.2,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "On Our Radar",
+      "link": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "Crisis Group",
+      "published_at": "2026-03-06T18:07:09+00:00",
+      "score": 3.14,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "'Massive' numbers killed by gunmen in latest Nigeria attack, senator tells BBC",
       "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-06T17:06:14+00:00",
-      "score": 1.59,
+      "score": 1.47,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -123,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-08T00:30:44.358119+00:00",
-      "score": 38.1
+      "timestamp": "2026-03-08T06:12:18.182248+00:00",
+      "score": 33.3
     },
     {
-      "timestamp": "2026-03-08T01:29:18.304108+00:00",
-      "score": 36.5
+      "timestamp": "2026-03-08T09:32:22.067307+00:00",
+      "score": 31.3
     },
     {
-      "timestamp": "2026-03-08T02:27:52.250097+00:00",
-      "score": 34.8
+      "timestamp": "2026-03-08T12:52:25.952366+00:00",
+      "score": 29.3
     },
     {
-      "timestamp": "2026-03-08T03:26:26.196086+00:00",
-      "score": 33.1
+      "timestamp": "2026-03-08T16:12:29.837425+00:00",
+      "score": 27.2
     },
     {
-      "timestamp": "2026-03-08T04:25:00.142075+00:00",
-      "score": 31.5
+      "timestamp": "2026-03-08T19:32:33.722484+00:00",
+      "score": 25.2
     },
     {
-      "timestamp": "2026-03-08T05:23:34.088064+00:00",
-      "score": 29.8
+      "timestamp": "2026-03-08T22:52:37.607543+00:00",
+      "score": 23.2
     }
   ]
 }
