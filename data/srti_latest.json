@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-08T20:37:14.819346+00:00",
+  "fetched_at": "2026-03-08T21:33:08.069666+00:00",
   "window_hours": 72,
-  "score": 24.0,
+  "score": 21.5,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 28.2,
-    "civilian_risk": 49.4
+    "civilian_risk": 37.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -134,45 +134,32 @@
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "Mine collapse in eastern DR Congo leaves 200 dead",
-      "link": "https://www.france24.com/en/mine-collapse-in-eastern-congo-leaves-200-dead",
-      "source": "France 24 - Africa",
-      "published_at": "2026-03-05T21:26:17+00:00",
-      "score": 0.88,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-08T21:42:53.851390+00:00",
-      "score": 18.5
+      "timestamp": "2026-03-08T22:29:01.319986+00:00",
+      "score": 19.0
     },
     {
-      "timestamp": "2026-03-08T22:48:32.883434+00:00",
-      "score": 17.6
+      "timestamp": "2026-03-08T23:24:54.570306+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-03-08T23:54:11.915478+00:00",
-      "score": 16.6
+      "timestamp": "2026-03-09T00:20:47.820626+00:00",
+      "score": 17.3
     },
     {
-      "timestamp": "2026-03-09T00:59:50.947522+00:00",
+      "timestamp": "2026-03-09T01:16:41.070946+00:00",
+      "score": 16.5
+    },
+    {
+      "timestamp": "2026-03-09T02:12:34.321266+00:00",
       "score": 15.7
     },
     {
-      "timestamp": "2026-03-09T02:05:29.979566+00:00",
-      "score": 14.7
-    },
-    {
-      "timestamp": "2026-03-09T03:11:09.011610+00:00",
-      "score": 13.7
+      "timestamp": "2026-03-09T03:08:27.571586+00:00",
+      "score": 14.9
     }
   ]
 }
