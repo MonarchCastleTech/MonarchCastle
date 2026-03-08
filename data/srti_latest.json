@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-08T15:33:22.593798+00:00",
+  "fetched_at": "2026-03-08T16:40:05.792187+00:00",
   "window_hours": 72,
-  "score": 25.2,
+  "score": 24.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 29.8,
-    "civilian_risk": 51.6
+    "conflict_intensity": 28.7,
+    "civilian_risk": 50.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states/sprawling-middle-east-war-explodes",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:51:29+00:00",
-      "score": 2.18,
+      "score": 2.1,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:07:09+00:00",
-      "score": 2.13,
+      "score": 2.04,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-06T17:06:14+00:00",
-      "score": 0.98,
+      "score": 0.97,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-08T16:32:13.846260+00:00",
-      "score": 13.7
+      "timestamp": "2026-03-08T17:46:48.990576+00:00",
+      "score": 13.9
     },
     {
-      "timestamp": "2026-03-08T17:31:05.098722+00:00",
-      "score": 11.6
+      "timestamp": "2026-03-08T18:53:32.188965+00:00",
+      "score": 12.1
     },
     {
-      "timestamp": "2026-03-08T18:29:56.351184+00:00",
-      "score": 9.6
+      "timestamp": "2026-03-08T20:00:15.387354+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-03-08T19:28:47.603646+00:00",
-      "score": 7.5
+      "timestamp": "2026-03-08T21:06:58.585743+00:00",
+      "score": 8.3
     },
     {
-      "timestamp": "2026-03-08T20:27:38.856108+00:00",
-      "score": 5.5
+      "timestamp": "2026-03-08T22:13:41.784132+00:00",
+      "score": 6.4
     },
     {
-      "timestamp": "2026-03-08T21:26:30.108570+00:00",
-      "score": 3.4
+      "timestamp": "2026-03-08T23:20:24.982521+00:00",
+      "score": 4.6
     }
   ]
 }
