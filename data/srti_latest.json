@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-08T02:52:14.297189+00:00",
+  "fetched_at": "2026-03-08T04:50:37.060153+00:00",
   "window_hours": 72,
-  "score": 36.1,
+  "score": 34.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 44.0,
-    "civilian_risk": 70.3
+    "conflict_intensity": 41.8,
+    "civilian_risk": 67.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 30
+      "items": 31
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states/sprawling-middle-east-war-explodes",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:51:29+00:00",
-      "score": 3.2,
+      "score": 3.04,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-06T18:07:09+00:00",
-      "score": 3.14,
+      "score": 2.98,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.bbc.com/news/articles/c1d69z3p9g2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-06T17:06:14+00:00",
-      "score": 1.47,
+      "score": 1.39,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-08T06:12:18.182248+00:00",
-      "score": 33.3
+      "timestamp": "2026-03-08T06:48:59.823117+00:00",
+      "score": 30.4
     },
     {
-      "timestamp": "2026-03-08T09:32:22.067307+00:00",
-      "score": 31.3
+      "timestamp": "2026-03-08T08:47:22.586081+00:00",
+      "score": 28.2
     },
     {
-      "timestamp": "2026-03-08T12:52:25.952366+00:00",
-      "score": 29.3
+      "timestamp": "2026-03-08T10:45:45.349045+00:00",
+      "score": 26.1
     },
     {
-      "timestamp": "2026-03-08T16:12:29.837425+00:00",
-      "score": 27.2
+      "timestamp": "2026-03-08T12:44:08.112009+00:00",
+      "score": 24.0
     },
     {
-      "timestamp": "2026-03-08T19:32:33.722484+00:00",
-      "score": 25.2
+      "timestamp": "2026-03-08T14:42:30.874973+00:00",
+      "score": 21.9
     },
     {
-      "timestamp": "2026-03-08T22:52:37.607543+00:00",
-      "score": 23.2
+      "timestamp": "2026-03-08T16:40:53.637937+00:00",
+      "score": 19.7
     }
   ]
 }
