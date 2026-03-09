@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-09T06:04:54.191684+00:00",
+  "fetched_at": "2026-03-09T07:15:20.285272+00:00",
   "window_hours": 72,
   "score": 21.5,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-09T07:09:14.668563+00:00",
-      "score": 21.1
+      "timestamp": "2026-03-09T08:25:46.378860+00:00",
+      "score": 19.0
     },
     {
-      "timestamp": "2026-03-09T08:13:35.145442+00:00",
-      "score": 20.7
+      "timestamp": "2026-03-09T09:36:12.472448+00:00",
+      "score": 18.5
     },
     {
-      "timestamp": "2026-03-09T09:17:55.622321+00:00",
-      "score": 20.4
+      "timestamp": "2026-03-09T10:46:38.566036+00:00",
+      "score": 18.0
     },
     {
-      "timestamp": "2026-03-09T10:22:16.099200+00:00",
-      "score": 20.1
+      "timestamp": "2026-03-09T11:57:04.659624+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-03-09T11:26:36.576079+00:00",
-      "score": 19.8
+      "timestamp": "2026-03-09T13:07:30.753212+00:00",
+      "score": 16.9
     },
     {
-      "timestamp": "2026-03-09T12:30:57.052958+00:00",
-      "score": 19.4
+      "timestamp": "2026-03-09T14:17:56.846800+00:00",
+      "score": 16.4
     }
   ]
 }
