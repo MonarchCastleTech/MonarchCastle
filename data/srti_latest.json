@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-09T17:54:30.184799+00:00",
+  "fetched_at": "2026-03-09T19:04:20.476961+00:00",
   "window_hours": 72,
-  "score": 8.5,
+  "score": 0.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 10.6,
-    "civilian_risk": 15.9
+    "conflict_intensity": 0.0,
+    "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 1,
+  "items_count": 0,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,13 +41,13 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 66
     },
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "ok",
-      "items": 5
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "BBC Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -92,46 +92,31 @@
       "items": 16
     }
   ],
-  "top_headlines": [
-    {
-      "title": "A Sprawling Middle East War Explodes",
-      "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states/sprawling-middle-east-war-explodes",
-      "source": "Crisis Group",
-      "published_at": "2026-03-06T18:51:29+00:00",
-      "score": 2.02,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    }
-  ],
+  "top_headlines": [],
   "forecast": [
     {
-      "timestamp": "2026-03-09T19:40:45.820987+00:00",
-      "score": 17.6
+      "timestamp": "2026-03-09T20:14:10.769123+00:00",
+      "score": 14.5
     },
     {
-      "timestamp": "2026-03-09T21:27:01.457175+00:00",
-      "score": 17.2
+      "timestamp": "2026-03-09T21:24:01.061285+00:00",
+      "score": 13.9
     },
     {
-      "timestamp": "2026-03-09T23:13:17.093363+00:00",
-      "score": 16.8
+      "timestamp": "2026-03-09T22:33:51.353447+00:00",
+      "score": 13.4
     },
     {
-      "timestamp": "2026-03-10T00:59:32.729551+00:00",
-      "score": 16.4
+      "timestamp": "2026-03-09T23:43:41.645609+00:00",
+      "score": 12.8
     },
     {
-      "timestamp": "2026-03-10T02:45:48.365739+00:00",
-      "score": 16.1
+      "timestamp": "2026-03-10T00:53:31.937771+00:00",
+      "score": 12.3
     },
     {
-      "timestamp": "2026-03-10T04:32:04.001927+00:00",
-      "score": 15.7
+      "timestamp": "2026-03-10T02:03:22.229933+00:00",
+      "score": 11.8
     }
   ]
 }
