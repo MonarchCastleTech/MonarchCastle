@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-08T23:33:33.288798+00:00",
+  "fetched_at": "2026-03-09T02:53:36.133105+00:00",
   "window_hours": 72,
   "score": 21.5,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 14
+      "items": 13
     },
     {
       "name": "AllAfrica - Niger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 19
+      "items": 16
     }
   ],
   "top_headlines": [
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-09T00:32:21.402375+00:00",
-      "score": 20.5
+      "timestamp": "2026-03-09T06:13:38.977412+00:00",
+      "score": 21.6
     },
     {
-      "timestamp": "2026-03-09T01:31:09.515952+00:00",
+      "timestamp": "2026-03-09T09:33:41.821719+00:00",
+      "score": 21.3
+    },
+    {
+      "timestamp": "2026-03-09T12:53:44.666026+00:00",
+      "score": 21.0
+    },
+    {
+      "timestamp": "2026-03-09T16:13:47.510333+00:00",
+      "score": 20.7
+    },
+    {
+      "timestamp": "2026-03-09T19:33:50.354640+00:00",
+      "score": 20.3
+    },
+    {
+      "timestamp": "2026-03-09T22:53:53.198947+00:00",
       "score": 20.0
-    },
-    {
-      "timestamp": "2026-03-09T02:29:57.629529+00:00",
-      "score": 19.5
-    },
-    {
-      "timestamp": "2026-03-09T03:28:45.743106+00:00",
-      "score": 19.0
-    },
-    {
-      "timestamp": "2026-03-09T04:27:33.856683+00:00",
-      "score": 18.5
-    },
-    {
-      "timestamp": "2026-03-09T05:26:21.970260+00:00",
-      "score": 18.0
     }
   ]
 }
