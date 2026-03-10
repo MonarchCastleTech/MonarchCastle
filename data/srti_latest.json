@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-10T21:37:16.818324+00:00",
+  "fetched_at": "2026-03-10T22:39:19.655041+00:00",
   "window_hours": 72,
-  "score": 23.3,
+  "score": 23.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 34.2,
-    "civilian_risk": 31.1
+    "conflict_intensity": 33.7,
+    "civilian_risk": 30.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/philippines/355-peace-philippines-bangsamoros-moment-truth",
       "source": "Crisis Group",
       "published_at": "2026-03-09T23:00:00+00:00",
-      "score": 3.95,
+      "score": 3.87,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s au c\u0153ur des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-10T21:37:16.818324+00:00",
+      "published_at": "2026-03-10T22:39:19.655041+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-10T22:29:42.808770+00:00",
-      "score": 31.2
+      "timestamp": "2026-03-10T23:41:22.491758+00:00",
+      "score": 32.0
     },
     {
-      "timestamp": "2026-03-10T23:22:08.799216+00:00",
-      "score": 32.5
+      "timestamp": "2026-03-11T00:43:25.328475+00:00",
+      "score": 33.3
     },
     {
-      "timestamp": "2026-03-11T00:14:34.789662+00:00",
-      "score": 33.8
+      "timestamp": "2026-03-11T01:45:28.165192+00:00",
+      "score": 34.7
     },
     {
-      "timestamp": "2026-03-11T01:07:00.780108+00:00",
-      "score": 35.1
+      "timestamp": "2026-03-11T02:47:31.001909+00:00",
+      "score": 36.0
     },
     {
-      "timestamp": "2026-03-11T01:59:26.770554+00:00",
-      "score": 36.4
+      "timestamp": "2026-03-11T03:49:33.838626+00:00",
+      "score": 37.3
     },
     {
-      "timestamp": "2026-03-11T02:51:52.761000+00:00",
-      "score": 37.8
+      "timestamp": "2026-03-11T04:51:36.675343+00:00",
+      "score": 38.7
     }
   ]
 }
