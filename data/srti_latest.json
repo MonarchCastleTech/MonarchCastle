@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-10T13:21:53.981578+00:00",
+  "fetched_at": "2026-03-10T15:01:30.418014+00:00",
   "window_hours": 72,
-  "score": 26.1,
+  "score": 25.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 37.6,
-    "civilian_risk": 36.3
+    "conflict_intensity": 36.9,
+    "civilian_risk": 35.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/philippines/355-peace-philippines-bangsamoros-moment-truth",
       "source": "Crisis Group",
       "published_at": "2026-03-09T23:00:00+00:00",
-      "score": 4.61,
+      "score": 4.48,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s au c\u0153ur des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-10T13:21:53.981578+00:00",
+      "published_at": "2026-03-10T15:01:30.418014+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-10T15:03:12.068078+00:00",
-      "score": 14.6
+      "timestamp": "2026-03-10T16:41:06.854450+00:00",
+      "score": 17.2
     },
     {
-      "timestamp": "2026-03-10T16:44:30.154578+00:00",
-      "score": 14.6
+      "timestamp": "2026-03-10T18:20:43.290886+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-03-10T18:25:48.241078+00:00",
-      "score": 14.7
+      "timestamp": "2026-03-10T20:00:19.727322+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-03-10T20:07:06.327578+00:00",
-      "score": 14.7
+      "timestamp": "2026-03-10T21:39:56.163758+00:00",
+      "score": 18.0
     },
     {
-      "timestamp": "2026-03-10T21:48:24.414078+00:00",
-      "score": 14.8
+      "timestamp": "2026-03-10T23:19:32.600194+00:00",
+      "score": 18.3
     },
     {
-      "timestamp": "2026-03-10T23:29:42.500578+00:00",
-      "score": 14.9
+      "timestamp": "2026-03-11T00:59:09.036630+00:00",
+      "score": 18.5
     }
   ]
 }
