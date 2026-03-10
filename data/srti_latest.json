@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-10T10:53:59.558304+00:00",
+  "fetched_at": "2026-03-10T11:40:35.895078+00:00",
   "window_hours": 72,
-  "score": 20.2,
-  "risk_level": "GUARDED",
+  "score": 19.9,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 25.2,
-    "civilian_risk": 37.9
+    "conflict_intensity": 24.9,
+    "civilian_risk": 37.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 56
+      "items": 59
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/philippines/355-peace-philippines-bangsamoros-moment-truth",
       "source": "Crisis Group",
       "published_at": "2026-03-09T23:00:00+00:00",
-      "score": 4.81,
+      "score": 4.75,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,28 +111,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-10T11:52:09.432056+00:00",
-      "score": 10.0
+      "timestamp": "2026-03-10T12:27:12.231852+00:00",
+      "score": 11.7
     },
     {
-      "timestamp": "2026-03-10T12:50:19.305808+00:00",
-      "score": 9.7
+      "timestamp": "2026-03-10T13:13:48.568626+00:00",
+      "score": 11.6
     },
     {
-      "timestamp": "2026-03-10T13:48:29.179560+00:00",
-      "score": 9.4
+      "timestamp": "2026-03-10T14:00:24.905400+00:00",
+      "score": 11.4
     },
     {
-      "timestamp": "2026-03-10T14:46:39.053312+00:00",
-      "score": 9.1
+      "timestamp": "2026-03-10T14:47:01.242174+00:00",
+      "score": 11.3
     },
     {
-      "timestamp": "2026-03-10T15:44:48.927064+00:00",
-      "score": 8.8
+      "timestamp": "2026-03-10T15:33:37.578948+00:00",
+      "score": 11.1
     },
     {
-      "timestamp": "2026-03-10T16:42:58.800816+00:00",
-      "score": 8.5
+      "timestamp": "2026-03-10T16:20:13.915722+00:00",
+      "score": 11.0
     }
   ]
 }
