@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-10T04:49:21.048878+00:00",
+  "fetched_at": "2026-03-10T05:55:05.359479+00:00",
   "window_hours": 72,
-  "score": 0.0,
-  "risk_level": "LOW",
+  "score": 21.9,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 0.0,
-    "civilian_risk": 0.0
+    "conflict_intensity": 27.3,
+    "civilian_risk": 41.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 0,
+  "items_count": 1,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -92,30 +92,46 @@
       "items": 14
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "Peace in the Philippines: The Bangsamoro\u2019s Moment of Truth",
+      "link": "https://www.crisisgroup.org/rpt/asia-pacific/philippines/355-peace-philippines-bangsamoros-moment-truth",
+      "source": "Crisis Group",
+      "published_at": "2026-03-09T23:00:00+00:00",
+      "score": 5.21,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "gao"
+      ]
+    }
+  ],
   "forecast": [
     {
-      "timestamp": "2026-03-10T06:53:33.086334+00:00",
+      "timestamp": "2026-03-10T07:00:49.670080+00:00",
+      "score": 0.4
+    },
+    {
+      "timestamp": "2026-03-10T08:06:33.980681+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-03-10T08:57:45.123790+00:00",
+      "timestamp": "2026-03-10T09:12:18.291282+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-03-10T11:01:57.161246+00:00",
+      "timestamp": "2026-03-10T10:18:02.601883+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-03-10T13:06:09.198702+00:00",
+      "timestamp": "2026-03-10T11:23:46.912484+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-03-10T15:10:21.236158+00:00",
-      "score": 0.0
-    },
-    {
-      "timestamp": "2026-03-10T17:14:33.273614+00:00",
+      "timestamp": "2026-03-10T12:29:31.223085+00:00",
       "score": 0.0
     }
   ]
