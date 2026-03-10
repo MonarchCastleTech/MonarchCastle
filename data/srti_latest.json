@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-10T09:55:49.684552+00:00",
+  "fetched_at": "2026-03-10T10:53:59.558304+00:00",
   "window_hours": 72,
-  "score": 20.5,
+  "score": 20.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 25.6,
-    "civilian_risk": 38.5
+    "conflict_intensity": 25.2,
+    "civilian_risk": 37.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 58
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/rpt/asia-pacific/philippines/355-peace-philippines-bangsamoros-moment-truth",
       "source": "Crisis Group",
       "published_at": "2026-03-09T23:00:00+00:00",
-      "score": 4.89,
+      "score": 4.81,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,28 +111,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-10T10:55:08.556640+00:00",
-      "score": 8.1
+      "timestamp": "2026-03-10T11:52:09.432056+00:00",
+      "score": 10.0
     },
     {
-      "timestamp": "2026-03-10T11:54:27.428728+00:00",
-      "score": 7.7
+      "timestamp": "2026-03-10T12:50:19.305808+00:00",
+      "score": 9.7
     },
     {
-      "timestamp": "2026-03-10T12:53:46.300816+00:00",
-      "score": 7.2
+      "timestamp": "2026-03-10T13:48:29.179560+00:00",
+      "score": 9.4
     },
     {
-      "timestamp": "2026-03-10T13:53:05.172904+00:00",
-      "score": 6.8
+      "timestamp": "2026-03-10T14:46:39.053312+00:00",
+      "score": 9.1
     },
     {
-      "timestamp": "2026-03-10T14:52:24.044992+00:00",
-      "score": 6.4
+      "timestamp": "2026-03-10T15:44:48.927064+00:00",
+      "score": 8.8
     },
     {
-      "timestamp": "2026-03-10T15:51:42.917080+00:00",
-      "score": 5.9
+      "timestamp": "2026-03-10T16:42:58.800816+00:00",
+      "score": 8.5
     }
   ]
 }
