@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-11T19:48:02.956960+00:00",
+  "fetched_at": "2026-03-11T20:43:17.922607+00:00",
   "window_hours": 72,
   "score": 20.1,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 80
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-11T19:48:02.956960+00:00",
+      "published_at": "2026-03-11T20:43:17.922607+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,7 +110,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-11T19:48:02.956960+00:00",
+      "published_at": "2026-03-11T20:43:17.922607+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-11T19:48:02.956960+00:00",
+      "published_at": "2026-03-11T20:43:17.922607+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-11T20:31:11.758644+00:00",
+      "timestamp": "2026-03-11T21:38:32.888254+00:00",
+      "score": 12.2
+    },
+    {
+      "timestamp": "2026-03-11T22:33:47.853901+00:00",
+      "score": 11.9
+    },
+    {
+      "timestamp": "2026-03-11T23:29:02.819548+00:00",
+      "score": 11.6
+    },
+    {
+      "timestamp": "2026-03-12T00:24:17.785195+00:00",
+      "score": 11.3
+    },
+    {
+      "timestamp": "2026-03-12T01:19:32.750842+00:00",
+      "score": 11.0
+    },
+    {
+      "timestamp": "2026-03-12T02:14:47.716489+00:00",
       "score": 10.7
-    },
-    {
-      "timestamp": "2026-03-11T21:14:20.560328+00:00",
-      "score": 10.3
-    },
-    {
-      "timestamp": "2026-03-11T21:57:29.362012+00:00",
-      "score": 9.8
-    },
-    {
-      "timestamp": "2026-03-11T22:40:38.163696+00:00",
-      "score": 9.4
-    },
-    {
-      "timestamp": "2026-03-11T23:23:46.965380+00:00",
-      "score": 9.0
-    },
-    {
-      "timestamp": "2026-03-12T00:06:55.767064+00:00",
-      "score": 8.5
     }
   ]
 }
