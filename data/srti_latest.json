@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-11T13:21:38.464111+00:00",
+  "fetched_at": "2026-03-11T14:57:33.681792+00:00",
   "window_hours": 72,
-  "score": 6.7,
+  "score": 13.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 13.4,
+    "conflict_intensity": 26.9,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 1,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
+      "link": "https://lefaso.net/spip.php?article144969",
+      "source": "LeFaso",
+      "published_at": "2026-03-11T14:57:33.681792+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-11T13:21:38.464111+00:00",
+      "published_at": "2026-03-11T14:57:33.681792+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -109,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-11T15:02:15.048214+00:00",
-      "score": 5.6
+      "timestamp": "2026-03-11T16:33:28.899473+00:00",
+      "score": 5.4
     },
     {
-      "timestamp": "2026-03-11T16:42:51.632317+00:00",
-      "score": 4.6
+      "timestamp": "2026-03-11T18:09:24.117154+00:00",
+      "score": 4.5
     },
     {
-      "timestamp": "2026-03-11T18:23:28.216420+00:00",
-      "score": 3.7
+      "timestamp": "2026-03-11T19:45:19.334835+00:00",
+      "score": 3.6
     },
     {
-      "timestamp": "2026-03-11T20:04:04.800523+00:00",
-      "score": 2.8
+      "timestamp": "2026-03-11T21:21:14.552516+00:00",
+      "score": 2.7
     },
     {
-      "timestamp": "2026-03-11T21:44:41.384626+00:00",
-      "score": 1.9
+      "timestamp": "2026-03-11T22:57:09.770197+00:00",
+      "score": 1.8
     },
     {
-      "timestamp": "2026-03-11T23:25:17.968729+00:00",
-      "score": 1.0
+      "timestamp": "2026-03-12T00:33:04.987878+00:00",
+      "score": 0.9
     }
   ]
 }
