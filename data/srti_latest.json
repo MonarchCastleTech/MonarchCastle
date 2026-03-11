@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-11T08:55:25.381438+00:00",
+  "fetched_at": "2026-03-11T09:55:18.957746+00:00",
   "window_hours": 72,
   "score": 6.7,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 12
+      "items": 13
     },
     {
       "name": "AllAfrica - Niger",
@@ -97,7 +97,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-11T08:55:25.381438+00:00",
+      "published_at": "2026-03-11T09:55:18.957746+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -109,28 +109,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-11T10:44:03.827751+00:00",
-      "score": 15.5
+      "timestamp": "2026-03-11T10:55:12.534054+00:00",
+      "score": 12.1
     },
     {
-      "timestamp": "2026-03-11T12:32:42.274064+00:00",
-      "score": 15.4
+      "timestamp": "2026-03-11T11:55:06.110362+00:00",
+      "score": 11.6
     },
     {
-      "timestamp": "2026-03-11T14:21:20.720377+00:00",
-      "score": 15.2
+      "timestamp": "2026-03-11T12:54:59.686670+00:00",
+      "score": 11.1
     },
     {
-      "timestamp": "2026-03-11T16:09:59.166690+00:00",
-      "score": 15.0
+      "timestamp": "2026-03-11T13:54:53.262978+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-03-11T17:58:37.613003+00:00",
-      "score": 14.9
+      "timestamp": "2026-03-11T14:54:46.839286+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-03-11T19:47:16.059316+00:00",
-      "score": 14.7
+      "timestamp": "2026-03-11T15:54:40.415594+00:00",
+      "score": 9.8
     }
   ]
 }
