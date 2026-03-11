@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-10T23:36:27.237597+00:00",
+  "fetched_at": "2026-03-11T02:44:48.742839+00:00",
   "window_hours": 72,
-  "score": 22.6,
-  "risk_level": "GUARDED",
+  "score": 6.7,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 33.3,
-    "civilian_risk": 29.9
+    "conflict_intensity": 13.4,
+    "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 1,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 13
+      "items": 12
     },
     {
       "name": "AllAfrica - Niger",
@@ -94,25 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Peace in the Philippines: The Bangsamoro\u2019s Moment of Truth",
-      "link": "https://www.crisisgroup.org/rpt/asia-pacific/philippines/355-peace-philippines-bangsamoros-moment-truth",
-      "source": "Crisis Group",
-      "published_at": "2026-03-09T23:00:00+00:00",
-      "score": 3.79,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "gao"
-      ]
-    },
-    {
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s au c\u0153ur des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-10T23:36:27.237597+00:00",
+      "published_at": "2026-03-11T02:44:48.742839+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +109,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-11T00:33:34.820153+00:00",
-      "score": 31.8
+      "timestamp": "2026-03-11T05:53:10.248081+00:00",
+      "score": 28.7
     },
     {
-      "timestamp": "2026-03-11T01:30:42.402709+00:00",
-      "score": 33.0
+      "timestamp": "2026-03-11T09:01:31.753323+00:00",
+      "score": 29.6
     },
     {
-      "timestamp": "2026-03-11T02:27:49.985265+00:00",
-      "score": 34.3
+      "timestamp": "2026-03-11T12:09:53.258565+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-03-11T03:24:57.567821+00:00",
-      "score": 35.5
+      "timestamp": "2026-03-11T15:18:14.763807+00:00",
+      "score": 31.6
     },
     {
-      "timestamp": "2026-03-11T04:22:05.150377+00:00",
-      "score": 36.8
+      "timestamp": "2026-03-11T18:26:36.269049+00:00",
+      "score": 32.6
     },
     {
-      "timestamp": "2026-03-11T05:19:12.732933+00:00",
-      "score": 38.0
+      "timestamp": "2026-03-11T21:34:57.774291+00:00",
+      "score": 33.6
     }
   ]
 }
