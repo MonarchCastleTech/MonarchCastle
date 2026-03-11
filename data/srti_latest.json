@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-11T02:44:48.742839+00:00",
+  "fetched_at": "2026-03-11T04:50:18.702532+00:00",
   "window_hours": 72,
   "score": 6.7,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s au c\u0153ur des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-11T02:44:48.742839+00:00",
+      "published_at": "2026-03-11T04:50:18.702532+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -109,28 +109,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-11T05:53:10.248081+00:00",
-      "score": 28.7
+      "timestamp": "2026-03-11T06:55:48.662225+00:00",
+      "score": 25.5
     },
     {
-      "timestamp": "2026-03-11T09:01:31.753323+00:00",
-      "score": 29.6
+      "timestamp": "2026-03-11T09:01:18.621918+00:00",
+      "score": 26.2
     },
     {
-      "timestamp": "2026-03-11T12:09:53.258565+00:00",
-      "score": 30.6
+      "timestamp": "2026-03-11T11:06:48.581611+00:00",
+      "score": 26.9
     },
     {
-      "timestamp": "2026-03-11T15:18:14.763807+00:00",
-      "score": 31.6
+      "timestamp": "2026-03-11T13:12:18.541304+00:00",
+      "score": 27.6
     },
     {
-      "timestamp": "2026-03-11T18:26:36.269049+00:00",
-      "score": 32.6
+      "timestamp": "2026-03-11T15:17:48.500997+00:00",
+      "score": 28.3
     },
     {
-      "timestamp": "2026-03-11T21:34:57.774291+00:00",
-      "score": 33.6
+      "timestamp": "2026-03-11T17:23:18.460690+00:00",
+      "score": 29.0
     }
   ]
 }
