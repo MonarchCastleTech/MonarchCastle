@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-11T07:06:46.935125+00:00",
+  "fetched_at": "2026-03-11T08:55:25.381438+00:00",
   "window_hours": 72,
   "score": 6.7,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s au c\u0153ur des r\u00e9alisations de WaterAid",
+      "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-11T07:06:46.935125+00:00",
+      "published_at": "2026-03-11T08:55:25.381438+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -109,28 +109,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-11T08:16:04.617844+00:00",
-      "score": 18.9
+      "timestamp": "2026-03-11T10:44:03.827751+00:00",
+      "score": 15.5
     },
     {
-      "timestamp": "2026-03-11T09:25:22.300563+00:00",
-      "score": 19.1
+      "timestamp": "2026-03-11T12:32:42.274064+00:00",
+      "score": 15.4
     },
     {
-      "timestamp": "2026-03-11T10:34:39.983282+00:00",
-      "score": 19.2
+      "timestamp": "2026-03-11T14:21:20.720377+00:00",
+      "score": 15.2
     },
     {
-      "timestamp": "2026-03-11T11:43:57.666001+00:00",
-      "score": 19.3
+      "timestamp": "2026-03-11T16:09:59.166690+00:00",
+      "score": 15.0
     },
     {
-      "timestamp": "2026-03-11T12:53:15.348720+00:00",
-      "score": 19.4
+      "timestamp": "2026-03-11T17:58:37.613003+00:00",
+      "score": 14.9
     },
     {
-      "timestamp": "2026-03-11T14:02:33.031439+00:00",
-      "score": 19.6
+      "timestamp": "2026-03-11T19:47:16.059316+00:00",
+      "score": 14.7
     }
   ]
 }
