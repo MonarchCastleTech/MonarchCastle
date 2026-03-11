@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-11T14:57:33.681792+00:00",
+  "fetched_at": "2026-03-11T15:57:27.536591+00:00",
   "window_hours": 72,
-  "score": 13.4,
-  "risk_level": "LOW",
+  "score": 20.1,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 26.9,
+    "conflict_intensity": 40.3,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,23 @@
   ],
   "top_headlines": [
     {
+      "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
+      "link": "https://lefaso.net/spip.php?article144975",
+      "source": "LeFaso",
+      "published_at": "2026-03-11T15:57:27.536591+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-11T14:57:33.681792+00:00",
+      "published_at": "2026-03-11T15:57:27.536591+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -111,7 +124,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-11T14:57:33.681792+00:00",
+      "published_at": "2026-03-11T15:57:27.536591+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-11T16:33:28.899473+00:00",
-      "score": 5.4
+      "timestamp": "2026-03-11T16:57:21.391390+00:00",
+      "score": 6.4
     },
     {
-      "timestamp": "2026-03-11T18:09:24.117154+00:00",
-      "score": 4.5
+      "timestamp": "2026-03-11T17:57:15.246189+00:00",
+      "score": 5.6
     },
     {
-      "timestamp": "2026-03-11T19:45:19.334835+00:00",
-      "score": 3.6
+      "timestamp": "2026-03-11T18:57:09.100988+00:00",
+      "score": 4.8
     },
     {
-      "timestamp": "2026-03-11T21:21:14.552516+00:00",
-      "score": 2.7
+      "timestamp": "2026-03-11T19:57:02.955787+00:00",
+      "score": 4.0
     },
     {
-      "timestamp": "2026-03-11T22:57:09.770197+00:00",
-      "score": 1.8
+      "timestamp": "2026-03-11T20:56:56.810586+00:00",
+      "score": 3.1
     },
     {
-      "timestamp": "2026-03-12T00:33:04.987878+00:00",
-      "score": 0.9
+      "timestamp": "2026-03-11T21:56:50.665385+00:00",
+      "score": 2.3
     }
   ]
 }
