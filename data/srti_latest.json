@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-12T04:55:09.142445+00:00",
+  "fetched_at": "2026-03-12T05:59:26.801986+00:00",
   "window_hours": 72,
   "score": 20.1,
   "risk_level": "GUARDED",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 14
+      "items": 15
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-12T04:55:09.142445+00:00",
+      "published_at": "2026-03-12T05:59:26.801986+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,7 +110,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-12T04:55:09.142445+00:00",
+      "published_at": "2026-03-12T05:59:26.801986+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-12T04:55:09.142445+00:00",
+      "published_at": "2026-03-12T05:59:26.801986+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-12T07:00:05.552256+00:00",
-      "score": 20.0
-    },
-    {
-      "timestamp": "2026-03-12T09:05:01.962067+00:00",
-      "score": 20.4
-    },
-    {
-      "timestamp": "2026-03-12T11:09:58.371878+00:00",
-      "score": 20.8
-    },
-    {
-      "timestamp": "2026-03-12T13:14:54.781689+00:00",
-      "score": 21.2
-    },
-    {
-      "timestamp": "2026-03-12T15:19:51.191500+00:00",
+      "timestamp": "2026-03-12T07:03:44.461527+00:00",
       "score": 21.6
     },
     {
-      "timestamp": "2026-03-12T17:24:47.601311+00:00",
-      "score": 22.0
+      "timestamp": "2026-03-12T08:08:02.121068+00:00",
+      "score": 22.1
+    },
+    {
+      "timestamp": "2026-03-12T09:12:19.780609+00:00",
+      "score": 22.7
+    },
+    {
+      "timestamp": "2026-03-12T10:16:37.440150+00:00",
+      "score": 23.2
+    },
+    {
+      "timestamp": "2026-03-12T11:20:55.099691+00:00",
+      "score": 23.7
+    },
+    {
+      "timestamp": "2026-03-12T12:25:12.759232+00:00",
+      "score": 24.3
     }
   ]
 }
