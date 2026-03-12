@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-12T17:56:26.262098+00:00",
+  "fetched_at": "2026-03-12T19:05:38.322700+00:00",
   "window_hours": 72,
-  "score": 38.6,
-  "risk_level": "GUARDED",
+  "score": 42.9,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 62.1,
-    "civilian_risk": 37.7
+    "conflict_intensity": 62.0,
+    "civilian_risk": 59.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202603120104.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-03-12T05:48:55+00:00",
-      "score": 3.39,
+      "score": 3.33,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -106,10 +106,23 @@
       "regions": []
     },
     {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-12T19:05:38.322700+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-12T17:56:26.262098+00:00",
+      "published_at": "2026-03-12T19:05:38.322700+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -122,7 +135,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-12T17:56:26.262098+00:00",
+      "published_at": "2026-03-12T19:05:38.322700+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,7 +148,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-12T17:56:26.262098+00:00",
+      "published_at": "2026-03-12T19:05:38.322700+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,7 +162,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-12T17:56:26.262098+00:00",
+      "published_at": "2026-03-12T19:05:38.322700+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +174,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-12T19:44:48.368651+00:00",
-      "score": 40.5
+      "timestamp": "2026-03-12T20:14:50.383302+00:00",
+      "score": 41.9
     },
     {
-      "timestamp": "2026-03-12T21:33:10.475204+00:00",
-      "score": 41.8
+      "timestamp": "2026-03-12T21:24:02.443904+00:00",
+      "score": 43.2
     },
     {
-      "timestamp": "2026-03-12T23:21:32.581757+00:00",
-      "score": 43.1
-    },
-    {
-      "timestamp": "2026-03-13T01:09:54.688310+00:00",
+      "timestamp": "2026-03-12T22:33:14.504506+00:00",
       "score": 44.4
     },
     {
-      "timestamp": "2026-03-13T02:58:16.794863+00:00",
-      "score": 45.6
+      "timestamp": "2026-03-12T23:42:26.565108+00:00",
+      "score": 45.7
     },
     {
-      "timestamp": "2026-03-13T04:46:38.901416+00:00",
-      "score": 46.9
+      "timestamp": "2026-03-13T00:51:38.625710+00:00",
+      "score": 47.0
+    },
+    {
+      "timestamp": "2026-03-13T02:00:50.686312+00:00",
+      "score": 48.2
     }
   ]
 }
