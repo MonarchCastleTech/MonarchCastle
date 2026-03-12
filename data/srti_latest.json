@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-12T02:50:12.732634+00:00",
+  "fetched_at": "2026-03-12T04:55:09.142445+00:00",
   "window_hours": 72,
   "score": 20.1,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-12T02:50:12.732634+00:00",
+      "published_at": "2026-03-12T04:55:09.142445+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,7 +110,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-12T02:50:12.732634+00:00",
+      "published_at": "2026-03-12T04:55:09.142445+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-12T02:50:12.732634+00:00",
+      "published_at": "2026-03-12T04:55:09.142445+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-12T06:04:44.423707+00:00",
-      "score": 18.4
+      "timestamp": "2026-03-12T07:00:05.552256+00:00",
+      "score": 20.0
     },
     {
-      "timestamp": "2026-03-12T09:19:16.114780+00:00",
-      "score": 18.7
+      "timestamp": "2026-03-12T09:05:01.962067+00:00",
+      "score": 20.4
     },
     {
-      "timestamp": "2026-03-12T12:33:47.805853+00:00",
-      "score": 18.9
+      "timestamp": "2026-03-12T11:09:58.371878+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-03-12T15:48:19.496926+00:00",
-      "score": 19.2
+      "timestamp": "2026-03-12T13:14:54.781689+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-03-12T19:02:51.187999+00:00",
-      "score": 19.5
+      "timestamp": "2026-03-12T15:19:51.191500+00:00",
+      "score": 21.6
     },
     {
-      "timestamp": "2026-03-12T22:17:22.879072+00:00",
-      "score": 19.7
+      "timestamp": "2026-03-12T17:24:47.601311+00:00",
+      "score": 22.0
     }
   ]
 }
