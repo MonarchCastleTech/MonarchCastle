@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-12T15:00:56.505382+00:00",
+  "fetched_at": "2026-03-12T16:08:04.155545+00:00",
   "window_hours": 72,
-  "score": 43.7,
-  "risk_level": "ELEVATED",
+  "score": 39.0,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 62.6,
-    "civilian_risk": 62.2
+    "conflict_intensity": 62.4,
+    "civilian_risk": 38.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32
+      "items": 31
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202603120104.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-03-12T05:48:55+00:00",
-      "score": 3.56,
+      "score": 3.5,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -106,23 +106,10 @@
       "regions": []
     },
     {
-      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
-      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
-      "source": "ReliefWeb - Niger",
-      "published_at": "2026-03-12T15:00:56.505382+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-12T15:00:56.505382+00:00",
+      "published_at": "2026-03-12T16:08:04.155545+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,7 +122,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-12T15:00:56.505382+00:00",
+      "published_at": "2026-03-12T16:08:04.155545+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -148,7 +135,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-12T15:00:56.505382+00:00",
+      "published_at": "2026-03-12T16:08:04.155545+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -162,7 +149,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-12T15:00:56.505382+00:00",
+      "published_at": "2026-03-12T16:08:04.155545+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-12T16:39:50.329411+00:00",
-      "score": 38.1
+      "timestamp": "2026-03-12T17:15:11.805708+00:00",
+      "score": 39.5
     },
     {
-      "timestamp": "2026-03-12T18:18:44.153440+00:00",
-      "score": 39.4
+      "timestamp": "2026-03-12T18:22:19.455871+00:00",
+      "score": 40.8
     },
     {
-      "timestamp": "2026-03-12T19:57:37.977469+00:00",
-      "score": 40.7
+      "timestamp": "2026-03-12T19:29:27.106034+00:00",
+      "score": 42.1
     },
     {
-      "timestamp": "2026-03-12T21:36:31.801498+00:00",
-      "score": 42.0
+      "timestamp": "2026-03-12T20:36:34.756197+00:00",
+      "score": 43.4
     },
     {
-      "timestamp": "2026-03-12T23:15:25.625527+00:00",
-      "score": 43.3
+      "timestamp": "2026-03-12T21:43:42.406360+00:00",
+      "score": 44.7
     },
     {
-      "timestamp": "2026-03-13T00:54:19.449556+00:00",
-      "score": 44.6
+      "timestamp": "2026-03-12T22:50:50.056523+00:00",
+      "score": 46.0
     }
   ]
 }
