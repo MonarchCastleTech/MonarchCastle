@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-12T09:55:45.052082+00:00",
+  "fetched_at": "2026-03-12T10:53:05.001622+00:00",
   "window_hours": 72,
-  "score": 33.5,
+  "score": 33.3,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 49.8,
-    "civilian_risk": 42.8
+    "conflict_intensity": 49.7,
+    "civilian_risk": 42.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202603120104.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-03-12T05:48:55+00:00",
-      "score": 3.85,
+      "score": 3.79,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,7 +109,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-12T09:55:45.052082+00:00",
+      "published_at": "2026-03-12T10:53:05.001622+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -122,7 +122,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-12T09:55:45.052082+00:00",
+      "published_at": "2026-03-12T10:53:05.001622+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +136,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-12T09:55:45.052082+00:00",
+      "published_at": "2026-03-12T10:53:05.001622+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -148,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-12T10:55:22.335046+00:00",
-      "score": 31.3
+      "timestamp": "2026-03-12T11:50:24.951162+00:00",
+      "score": 33.0
     },
     {
-      "timestamp": "2026-03-12T11:54:59.618010+00:00",
-      "score": 32.4
+      "timestamp": "2026-03-12T12:47:44.900702+00:00",
+      "score": 34.2
     },
     {
-      "timestamp": "2026-03-12T12:54:36.900974+00:00",
-      "score": 33.6
+      "timestamp": "2026-03-12T13:45:04.850242+00:00",
+      "score": 35.4
     },
     {
-      "timestamp": "2026-03-12T13:54:14.183938+00:00",
-      "score": 34.7
+      "timestamp": "2026-03-12T14:42:24.799782+00:00",
+      "score": 36.6
     },
     {
-      "timestamp": "2026-03-12T14:53:51.466902+00:00",
-      "score": 35.9
+      "timestamp": "2026-03-12T15:39:44.749322+00:00",
+      "score": 37.8
     },
     {
-      "timestamp": "2026-03-12T15:53:28.749866+00:00",
-      "score": 37.0
+      "timestamp": "2026-03-12T16:37:04.698862+00:00",
+      "score": 39.0
     }
   ]
 }
