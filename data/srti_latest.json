@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-13T02:47:30.499333+00:00",
+  "fetched_at": "2026-03-13T04:52:21.729026+00:00",
   "window_hours": 72,
-  "score": 50.3,
+  "score": 53.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 76.5,
-    "civilian_risk": 60.1
+    "conflict_intensity": 75.3,
+    "civilian_risk": 81.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202603120104.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-03-12T05:48:55+00:00",
-      "score": 2.89,
+      "score": 2.77,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -110,7 +110,7 @@
       "link": "https://www.crisisgroup.org/opd/africa/sudan/sudans-devastating-war-rages-regional-rivalries-deepen",
       "source": "Crisis Group",
       "published_at": "2026-03-11T15:57:43+00:00",
-      "score": 1.86,
+      "score": 1.75,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -120,10 +120,23 @@
       ]
     },
     {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-13T04:52:21.729026+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-13T02:47:30.499333+00:00",
+      "published_at": "2026-03-13T04:52:21.729026+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +147,7 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-13T02:47:30.499333+00:00",
+      "published_at": "2026-03-13T04:52:21.729026+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +160,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-13T02:47:30.499333+00:00",
+      "published_at": "2026-03-13T04:52:21.729026+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +173,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-13T02:47:30.499333+00:00",
+      "published_at": "2026-03-13T04:52:21.729026+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,7 +187,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-13T02:47:30.499333+00:00",
+      "published_at": "2026-03-13T04:52:21.729026+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-13T05:57:52.822892+00:00",
-      "score": 56.4
+      "timestamp": "2026-03-13T06:57:12.958719+00:00",
+      "score": 58.3
     },
     {
-      "timestamp": "2026-03-13T09:08:15.146451+00:00",
-      "score": 58.2
+      "timestamp": "2026-03-13T09:02:04.188412+00:00",
+      "score": 60.2
     },
     {
-      "timestamp": "2026-03-13T12:18:37.470010+00:00",
-      "score": 60.0
+      "timestamp": "2026-03-13T11:06:55.418105+00:00",
+      "score": 62.0
     },
     {
-      "timestamp": "2026-03-13T15:28:59.793569+00:00",
-      "score": 61.7
+      "timestamp": "2026-03-13T13:11:46.647798+00:00",
+      "score": 63.8
     },
     {
-      "timestamp": "2026-03-13T18:39:22.117128+00:00",
-      "score": 63.5
+      "timestamp": "2026-03-13T15:16:37.877491+00:00",
+      "score": 65.7
     },
     {
-      "timestamp": "2026-03-13T21:49:44.440687+00:00",
-      "score": 65.3
+      "timestamp": "2026-03-13T17:21:29.107184+00:00",
+      "score": 67.5
     }
   ]
 }
