@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-13T17:46:01.787867+00:00",
+  "fetched_at": "2026-03-13T18:56:43.295899+00:00",
   "window_hours": 72,
-  "score": 38.0,
-  "risk_level": "GUARDED",
+  "score": 42.3,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 58.8,
-    "civilian_risk": 42.9
+    "conflict_intensity": 58.6,
+    "civilian_risk": 64.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202603120104.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-03-12T05:48:55+00:00",
-      "score": 2.04,
+      "score": 1.98,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -106,10 +106,23 @@
       "regions": []
     },
     {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-13T18:56:43.295899+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-13T17:46:01.787867+00:00",
+      "published_at": "2026-03-13T18:56:43.295899+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +133,7 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-13T17:46:01.787867+00:00",
+      "published_at": "2026-03-13T18:56:43.295899+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,7 +146,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-13T17:46:01.787867+00:00",
+      "published_at": "2026-03-13T18:56:43.295899+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +159,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-13T17:46:01.787867+00:00",
+      "published_at": "2026-03-13T18:56:43.295899+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +173,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-13T17:46:01.787867+00:00",
+      "published_at": "2026-03-13T18:56:43.295899+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -172,28 +185,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-13T18:38:53.993620+00:00",
-      "score": 49.1
+      "timestamp": "2026-03-13T20:07:24.803931+00:00",
+      "score": 47.4
     },
     {
-      "timestamp": "2026-03-13T19:31:46.199373+00:00",
-      "score": 49.4
+      "timestamp": "2026-03-13T21:18:06.311963+00:00",
+      "score": 47.5
     },
     {
-      "timestamp": "2026-03-13T20:24:38.405126+00:00",
-      "score": 49.7
+      "timestamp": "2026-03-13T22:28:47.819995+00:00",
+      "score": 47.6
     },
     {
-      "timestamp": "2026-03-13T21:17:30.610879+00:00",
-      "score": 49.9
+      "timestamp": "2026-03-13T23:39:29.328027+00:00",
+      "score": 47.7
     },
     {
-      "timestamp": "2026-03-13T22:10:22.816632+00:00",
-      "score": 50.2
+      "timestamp": "2026-03-14T00:50:10.836059+00:00",
+      "score": 47.8
     },
     {
-      "timestamp": "2026-03-13T23:03:15.022385+00:00",
-      "score": 50.5
+      "timestamp": "2026-03-14T02:00:52.344091+00:00",
+      "score": 47.9
     }
   ]
 }
