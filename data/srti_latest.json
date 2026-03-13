@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-13T05:58:04.467324+00:00",
+  "fetched_at": "2026-03-13T07:07:19.552348+00:00",
   "window_hours": 72,
-  "score": 48.8,
+  "score": 48.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 74.7,
-    "civilian_risk": 57.4
+    "conflict_intensity": 74.1,
+    "civilian_risk": 56.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202603120104.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-03-12T05:48:55+00:00",
-      "score": 2.71,
+      "score": 2.65,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -110,7 +110,7 @@
       "link": "https://www.crisisgroup.org/opd/africa/sudan/sudans-devastating-war-rages-regional-rivalries-deepen",
       "source": "Crisis Group",
       "published_at": "2026-03-11T15:57:43+00:00",
-      "score": 1.7,
+      "score": 1.64,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-13T05:58:04.467324+00:00",
+      "published_at": "2026-03-13T07:07:19.552348+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +134,7 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-13T05:58:04.467324+00:00",
+      "published_at": "2026-03-13T07:07:19.552348+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +147,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-13T05:58:04.467324+00:00",
+      "published_at": "2026-03-13T07:07:19.552348+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +160,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-13T05:58:04.467324+00:00",
+      "published_at": "2026-03-13T07:07:19.552348+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,7 +174,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-13T05:58:04.467324+00:00",
+      "published_at": "2026-03-13T07:07:19.552348+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,27 +186,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-13T07:03:47.205622+00:00",
-      "score": 59.1
+      "timestamp": "2026-03-13T08:16:34.637372+00:00",
+      "score": 59.5
     },
     {
-      "timestamp": "2026-03-13T08:09:29.943920+00:00",
-      "score": 60.9
+      "timestamp": "2026-03-13T09:25:49.722396+00:00",
+      "score": 61.2
     },
     {
-      "timestamp": "2026-03-13T09:15:12.682218+00:00",
-      "score": 62.7
+      "timestamp": "2026-03-13T10:35:04.807420+00:00",
+      "score": 62.9
     },
     {
-      "timestamp": "2026-03-13T10:20:55.420516+00:00",
-      "score": 64.5
+      "timestamp": "2026-03-13T11:44:19.892444+00:00",
+      "score": 64.7
     },
     {
-      "timestamp": "2026-03-13T11:26:38.158814+00:00",
-      "score": 66.3
+      "timestamp": "2026-03-13T12:53:34.977468+00:00",
+      "score": 66.4
     },
     {
-      "timestamp": "2026-03-13T12:32:20.897112+00:00",
+      "timestamp": "2026-03-13T14:02:50.062492+00:00",
       "score": 68.1
     }
   ]
