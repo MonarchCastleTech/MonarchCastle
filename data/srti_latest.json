@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-13T10:50:35.971805+00:00",
+  "fetched_at": "2026-03-13T11:38:45.537911+00:00",
   "window_hours": 72,
-  "score": 46.7,
+  "score": 50.9,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 72.0,
-    "civilian_risk": 53.3
+    "conflict_intensity": 71.6,
+    "civilian_risk": 75.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -98,9 +98,33 @@
       "link": "https://allafrica.com/stories/202603120104.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-03-12T05:48:55+00:00",
-      "score": 2.44,
+      "score": 2.39,
       "tags": [
         "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-13T11:38:45.537911+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
+      "link": "https://lefaso.net/spip.php?article145005",
+      "source": "LeFaso",
+      "published_at": "2026-03-13T11:38:45.537911+00:00",
+      "score": 1.44,
+      "tags": [
         "civilian_risk"
       ],
       "regions": []
@@ -110,7 +134,7 @@
       "link": "https://www.crisisgroup.org/opd/africa/sudan/sudans-devastating-war-rages-regional-rivalries-deepen",
       "source": "Crisis Group",
       "published_at": "2026-03-11T15:57:43+00:00",
-      "score": 1.46,
+      "score": 1.42,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -120,21 +144,10 @@
       ]
     },
     {
-      "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
-      "link": "https://lefaso.net/spip.php?article145005",
-      "source": "LeFaso",
-      "published_at": "2026-03-13T10:50:35.971805+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-13T10:50:35.971805+00:00",
+      "published_at": "2026-03-13T11:38:45.537911+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +160,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-13T10:50:35.971805+00:00",
+      "published_at": "2026-03-13T11:38:45.537911+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +173,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-13T10:50:35.971805+00:00",
+      "published_at": "2026-03-13T11:38:45.537911+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,7 +187,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-13T10:50:35.971805+00:00",
+      "published_at": "2026-03-13T11:38:45.537911+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-13T11:49:06.444394+00:00",
-      "score": 59.5
+      "timestamp": "2026-03-13T12:26:55.104017+00:00",
+      "score": 59.1
     },
     {
-      "timestamp": "2026-03-13T12:47:36.916983+00:00",
-      "score": 61.0
+      "timestamp": "2026-03-13T13:15:04.670123+00:00",
+      "score": 60.3
     },
     {
-      "timestamp": "2026-03-13T13:46:07.389572+00:00",
-      "score": 62.4
+      "timestamp": "2026-03-13T14:03:14.236229+00:00",
+      "score": 61.6
     },
     {
-      "timestamp": "2026-03-13T14:44:37.862161+00:00",
-      "score": 63.8
+      "timestamp": "2026-03-13T14:51:23.802335+00:00",
+      "score": 62.9
     },
     {
-      "timestamp": "2026-03-13T15:43:08.334750+00:00",
-      "score": 65.3
+      "timestamp": "2026-03-13T15:39:33.368441+00:00",
+      "score": 64.2
     },
     {
-      "timestamp": "2026-03-13T16:41:38.807339+00:00",
-      "score": 66.7
+      "timestamp": "2026-03-13T16:27:42.934547+00:00",
+      "score": 65.5
     }
   ]
 }
