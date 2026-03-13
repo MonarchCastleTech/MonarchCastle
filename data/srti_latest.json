@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-13T16:53:09.582114+00:00",
+  "fetched_at": "2026-03-13T17:46:01.787867+00:00",
   "window_hours": 72,
-  "score": 38.1,
+  "score": 38.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 58.9,
-    "civilian_risk": 43.4
+    "conflict_intensity": 58.8,
+    "civilian_risk": 42.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202603120104.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-03-12T05:48:55+00:00",
-      "score": 2.09,
+      "score": 2.04,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,7 +109,7 @@
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-13T16:53:09.582114+00:00",
+      "published_at": "2026-03-13T17:46:01.787867+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-13T16:53:09.582114+00:00",
+      "published_at": "2026-03-13T17:46:01.787867+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,7 +133,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-13T16:53:09.582114+00:00",
+      "published_at": "2026-03-13T17:46:01.787867+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-13T16:53:09.582114+00:00",
+      "published_at": "2026-03-13T17:46:01.787867+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +160,7 @@
       "title": "Burkina / Eau, hygi\u00e8ne et assainissement : Des d\u00e9put\u00e9s sur les traces des r\u00e9alisations de WaterAid",
       "link": "https://lefaso.net/spip.php?article144947",
       "source": "LeFaso",
-      "published_at": "2026-03-13T16:53:09.582114+00:00",
+      "published_at": "2026-03-13T17:46:01.787867+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -172,28 +172,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-13T17:52:45.479037+00:00",
-      "score": 51.5
+      "timestamp": "2026-03-13T18:38:53.993620+00:00",
+      "score": 49.1
     },
     {
-      "timestamp": "2026-03-13T18:52:21.375960+00:00",
-      "score": 52.0
+      "timestamp": "2026-03-13T19:31:46.199373+00:00",
+      "score": 49.4
     },
     {
-      "timestamp": "2026-03-13T19:51:57.272883+00:00",
-      "score": 52.5
+      "timestamp": "2026-03-13T20:24:38.405126+00:00",
+      "score": 49.7
     },
     {
-      "timestamp": "2026-03-13T20:51:33.169806+00:00",
-      "score": 53.0
+      "timestamp": "2026-03-13T21:17:30.610879+00:00",
+      "score": 49.9
     },
     {
-      "timestamp": "2026-03-13T21:51:09.066729+00:00",
-      "score": 53.4
+      "timestamp": "2026-03-13T22:10:22.816632+00:00",
+      "score": 50.2
     },
     {
-      "timestamp": "2026-03-13T22:50:44.963652+00:00",
-      "score": 53.9
+      "timestamp": "2026-03-13T23:03:15.022385+00:00",
+      "score": 50.5
     }
   ]
 }
