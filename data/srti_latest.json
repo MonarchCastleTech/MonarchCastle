@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-14T22:37:13.349607+00:00",
+  "fetched_at": "2026-03-14T23:36:31.006726+00:00",
   "window_hours": 72,
-  "score": 31.9,
-  "risk_level": "GUARDED",
+  "score": 15.7,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 37.3,
-    "civilian_risk": 66.5
+    "conflict_intensity": 17.0,
+    "civilian_risk": 36.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -94,28 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Conflict and Consequences: The Global Impact of the New Middle East War",
-      "link": "https://www.crisisgroup.org/cmt/middle-east-north-africa/iran-israelpalestine-united-states-global/conflict-and-consequences-global-impact-new-middle-east-war",
-      "source": "Crisis Group",
-      "published_at": "2026-03-13T23:00:00+00:00",
-      "score": 3.87,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "sahel",
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-14T22:37:13.349607+00:00",
+      "published_at": "2026-03-14T23:36:31.006726+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +120,7 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-14T22:37:13.349607+00:00",
+      "published_at": "2026-03-14T23:36:31.006726+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +132,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-14T23:39:32.718562+00:00",
-      "score": 32.1
+      "timestamp": "2026-03-15T00:35:48.663845+00:00",
+      "score": 29.9
     },
     {
-      "timestamp": "2026-03-15T00:41:52.087517+00:00",
-      "score": 32.1
+      "timestamp": "2026-03-15T01:35:06.320964+00:00",
+      "score": 29.9
     },
     {
-      "timestamp": "2026-03-15T01:44:11.456472+00:00",
-      "score": 32.1
+      "timestamp": "2026-03-15T02:34:23.978083+00:00",
+      "score": 29.8
     },
     {
-      "timestamp": "2026-03-15T02:46:30.825427+00:00",
-      "score": 32.1
+      "timestamp": "2026-03-15T03:33:41.635202+00:00",
+      "score": 29.7
     },
     {
-      "timestamp": "2026-03-15T03:48:50.194382+00:00",
-      "score": 32.2
+      "timestamp": "2026-03-15T04:32:59.292321+00:00",
+      "score": 29.7
     },
     {
-      "timestamp": "2026-03-15T04:51:09.563337+00:00",
-      "score": 32.2
+      "timestamp": "2026-03-15T05:32:16.949440+00:00",
+      "score": 29.6
     }
   ]
 }
