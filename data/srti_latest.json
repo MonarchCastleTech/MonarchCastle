@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-14T05:55:04.441231+00:00",
+  "fetched_at": "2026-03-14T07:01:24.166262+00:00",
   "window_hours": 72,
   "score": 33.6,
   "risk_level": "GUARDED",
@@ -97,7 +97,7 @@
       "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
       "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
       "source": "ReliefWeb - Niger",
-      "published_at": "2026-03-14T05:55:04.441231+00:00",
+      "published_at": "2026-03-14T07:01:24.166262+00:00",
       "score": 1.62,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-14T05:55:04.441231+00:00",
+      "published_at": "2026-03-14T07:01:24.166262+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-14T05:55:04.441231+00:00",
+      "published_at": "2026-03-14T07:01:24.166262+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-14T05:55:04.441231+00:00",
+      "published_at": "2026-03-14T07:01:24.166262+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +159,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-14T05:55:04.441231+00:00",
+      "published_at": "2026-03-14T07:01:24.166262+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -172,28 +172,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-14T07:00:32.503827+00:00",
-      "score": 27.2
+      "timestamp": "2026-03-14T08:07:43.891293+00:00",
+      "score": 27.0
     },
     {
-      "timestamp": "2026-03-14T08:06:00.566423+00:00",
-      "score": 26.0
+      "timestamp": "2026-03-14T09:14:03.616324+00:00",
+      "score": 25.8
     },
     {
-      "timestamp": "2026-03-14T09:11:28.629019+00:00",
+      "timestamp": "2026-03-14T10:20:23.341355+00:00",
       "score": 24.7
     },
     {
-      "timestamp": "2026-03-14T10:16:56.691615+00:00",
+      "timestamp": "2026-03-14T11:26:43.066386+00:00",
       "score": 23.5
     },
     {
-      "timestamp": "2026-03-14T11:22:24.754211+00:00",
+      "timestamp": "2026-03-14T12:33:02.791417+00:00",
       "score": 22.3
     },
     {
-      "timestamp": "2026-03-14T12:27:52.816807+00:00",
-      "score": 21.0
+      "timestamp": "2026-03-14T13:39:22.516448+00:00",
+      "score": 21.2
     }
   ]
 }
