@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-14T04:49:36.378635+00:00",
+  "fetched_at": "2026-03-14T05:55:04.441231+00:00",
   "window_hours": 72,
-  "score": 29.1,
+  "score": 33.6,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 43.8,
-    "civilian_risk": 36.0
+    "civilian_risk": 58.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -94,10 +94,23 @@
   ],
   "top_headlines": [
     {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-14T05:55:04.441231+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-14T04:49:36.378635+00:00",
+      "published_at": "2026-03-14T05:55:04.441231+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +133,7 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-14T04:49:36.378635+00:00",
+      "published_at": "2026-03-14T05:55:04.441231+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,7 +146,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-14T04:49:36.378635+00:00",
+      "published_at": "2026-03-14T05:55:04.441231+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +159,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-14T04:49:36.378635+00:00",
+      "published_at": "2026-03-14T05:55:04.441231+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,28 +172,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-14T06:53:14.218874+00:00",
-      "score": 27.6
+      "timestamp": "2026-03-14T07:00:32.503827+00:00",
+      "score": 27.2
     },
     {
-      "timestamp": "2026-03-14T08:56:52.059113+00:00",
-      "score": 26.3
+      "timestamp": "2026-03-14T08:06:00.566423+00:00",
+      "score": 26.0
     },
     {
-      "timestamp": "2026-03-14T11:00:29.899352+00:00",
-      "score": 25.0
+      "timestamp": "2026-03-14T09:11:28.629019+00:00",
+      "score": 24.7
     },
     {
-      "timestamp": "2026-03-14T13:04:07.739591+00:00",
-      "score": 23.8
+      "timestamp": "2026-03-14T10:16:56.691615+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-03-14T15:07:45.579830+00:00",
-      "score": 22.5
+      "timestamp": "2026-03-14T11:22:24.754211+00:00",
+      "score": 22.3
     },
     {
-      "timestamp": "2026-03-14T17:11:23.420069+00:00",
-      "score": 21.2
+      "timestamp": "2026-03-14T12:27:52.816807+00:00",
+      "score": 21.0
     }
   ]
 }
