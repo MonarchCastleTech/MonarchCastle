@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-14T14:39:26.595399+00:00",
+  "fetched_at": "2026-03-14T15:36:53.116656+00:00",
   "window_hours": 72,
-  "score": 29.1,
+  "score": 20.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 43.8,
-    "civilian_risk": 36.0
+    "conflict_intensity": 17.0,
+    "civilian_risk": 58.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,13 +41,13 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 77
     },
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 5
     },
     {
       "name": "BBC Africa",
@@ -94,10 +94,23 @@
   ],
   "top_headlines": [
     {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-14T15:36:53.116656+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-14T14:39:26.595399+00:00",
+      "published_at": "2026-03-14T15:36:53.116656+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,67 +133,40 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-14T14:39:26.595399+00:00",
+      "published_at": "2026-03-14T15:36:53.116656+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "burkina"
-      ]
-    },
-    {
-      "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
-      "link": "https://lefaso.net/spip.php?article144975",
-      "source": "LeFaso",
-      "published_at": "2026-03-14T14:39:26.595399+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
-      "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
-      "link": "https://lefaso.net/spip.php?article144969",
-      "source": "LeFaso",
-      "published_at": "2026-03-14T14:39:26.595399+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-14T16:07:15.645928+00:00",
-      "score": 24.7
+      "timestamp": "2026-03-14T16:34:19.637913+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-03-14T17:35:04.696457+00:00",
-      "score": 23.8
+      "timestamp": "2026-03-14T17:31:46.159170+00:00",
+      "score": 22.3
     },
     {
-      "timestamp": "2026-03-14T19:02:53.746986+00:00",
-      "score": 23.0
+      "timestamp": "2026-03-14T18:29:12.680427+00:00",
+      "score": 21.5
     },
     {
-      "timestamp": "2026-03-14T20:30:42.797515+00:00",
-      "score": 22.1
+      "timestamp": "2026-03-14T19:26:39.201684+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-03-14T21:58:31.848044+00:00",
-      "score": 21.3
+      "timestamp": "2026-03-14T20:24:05.722941+00:00",
+      "score": 19.7
     },
     {
-      "timestamp": "2026-03-14T23:26:20.898573+00:00",
-      "score": 20.4
+      "timestamp": "2026-03-14T21:21:32.244198+00:00",
+      "score": 18.8
     }
   ]
 }
