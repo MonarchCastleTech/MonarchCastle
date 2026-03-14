@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-14T13:11:37.544870+00:00",
+  "fetched_at": "2026-03-14T14:39:26.595399+00:00",
   "window_hours": 72,
   "score": 29.1,
   "risk_level": "GUARDED",
@@ -41,13 +41,13 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 80
     },
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "ok",
-      "items": 5
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "BBC Africa",
@@ -97,7 +97,7 @@
       "title": "S\u00e9n\u00e9gal : Diomaye et Sonko divorcent sans s\u00e9paration au gouvernement",
       "link": "https://lefaso.net/spip.php?article145005",
       "source": "LeFaso",
-      "published_at": "2026-03-14T13:11:37.544870+00:00",
+      "published_at": "2026-03-14T14:39:26.595399+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Football : La star de Sunderland de retour pour les qualifications de la Coupe du monde apr\u00e8s une blessure",
       "link": "https://lefaso.net/spip.php?article144998",
       "source": "LeFaso",
-      "published_at": "2026-03-14T13:11:37.544870+00:00",
+      "published_at": "2026-03-14T14:39:26.595399+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,7 +133,7 @@
       "title": "Burkina : L'explosion d'un camion-citerne fait une victime et d'importants d\u00e9g\u00e2ts mat\u00e9riels \u00e0 Koladougou",
       "link": "https://lefaso.net/spip.php?article144975",
       "source": "LeFaso",
-      "published_at": "2026-03-14T13:11:37.544870+00:00",
+      "published_at": "2026-03-14T14:39:26.595399+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Lutte contre la fraude : Des produits de consommation d'une valeur de plus de 63 millions de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article144969",
       "source": "LeFaso",
-      "published_at": "2026-03-14T13:11:37.544870+00:00",
+      "published_at": "2026-03-14T14:39:26.595399+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,28 +159,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-14T14:49:59.258084+00:00",
-      "score": 24.4
+      "timestamp": "2026-03-14T16:07:15.645928+00:00",
+      "score": 24.7
     },
     {
-      "timestamp": "2026-03-14T16:28:20.971298+00:00",
-      "score": 23.4
+      "timestamp": "2026-03-14T17:35:04.696457+00:00",
+      "score": 23.8
     },
     {
-      "timestamp": "2026-03-14T18:06:42.684512+00:00",
-      "score": 22.5
+      "timestamp": "2026-03-14T19:02:53.746986+00:00",
+      "score": 23.0
     },
     {
-      "timestamp": "2026-03-14T19:45:04.397726+00:00",
-      "score": 21.5
+      "timestamp": "2026-03-14T20:30:42.797515+00:00",
+      "score": 22.1
     },
     {
-      "timestamp": "2026-03-14T21:23:26.110940+00:00",
-      "score": 20.6
+      "timestamp": "2026-03-14T21:58:31.848044+00:00",
+      "score": 21.3
     },
     {
-      "timestamp": "2026-03-14T23:01:47.824154+00:00",
-      "score": 19.7
+      "timestamp": "2026-03-14T23:26:20.898573+00:00",
+      "score": 20.4
     }
   ]
 }
