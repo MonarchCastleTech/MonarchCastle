@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-16T03:28:18.313269+00:00",
+  "fetched_at": "2026-03-16T05:53:36.666873+00:00",
   "window_hours": 72,
-  "score": 8.5,
+  "score": 13.0,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 10.6,
-    "civilian_risk": 15.9
+    "civilian_risk": 38.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 1,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -110,32 +110,45 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-16T05:53:36.666873+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-16T07:18:12.923248+00:00",
-      "score": 8.7
+      "timestamp": "2026-03-16T08:18:55.020477+00:00",
+      "score": 8.9
     },
     {
-      "timestamp": "2026-03-16T11:08:07.533227+00:00",
-      "score": 7.7
+      "timestamp": "2026-03-16T10:44:13.374081+00:00",
+      "score": 8.0
     },
     {
-      "timestamp": "2026-03-16T14:58:02.143206+00:00",
-      "score": 6.7
+      "timestamp": "2026-03-16T13:09:31.727685+00:00",
+      "score": 7.1
     },
     {
-      "timestamp": "2026-03-16T18:47:56.753185+00:00",
-      "score": 5.7
+      "timestamp": "2026-03-16T15:34:50.081289+00:00",
+      "score": 6.2
     },
     {
-      "timestamp": "2026-03-16T22:37:51.363164+00:00",
-      "score": 4.7
+      "timestamp": "2026-03-16T18:00:08.434893+00:00",
+      "score": 5.3
     },
     {
-      "timestamp": "2026-03-17T02:27:45.973143+00:00",
-      "score": 3.7
+      "timestamp": "2026-03-16T20:25:26.788497+00:00",
+      "score": 4.4
     }
   ]
 }
