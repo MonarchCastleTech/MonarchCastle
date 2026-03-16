@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-16T15:11:57.567250+00:00",
+  "fetched_at": "2026-03-16T17:13:34.973461+00:00",
   "window_hours": 72,
   "score": 13.0,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 57
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 15
+      "items": 16
     }
   ],
   "top_headlines": [
@@ -115,7 +115,7 @@
       "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
       "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
       "source": "ReliefWeb - Niger",
-      "published_at": "2026-03-16T15:11:57.567250+00:00",
+      "published_at": "2026-03-16T17:13:34.973461+00:00",
       "score": 1.62,
       "tags": [
         "civilian_risk"
@@ -127,27 +127,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-16T16:36:30.081867+00:00",
-      "score": 7.6
+      "timestamp": "2026-03-16T19:15:12.379672+00:00",
+      "score": 7.5
     },
     {
-      "timestamp": "2026-03-16T18:01:02.596484+00:00",
-      "score": 7.0
+      "timestamp": "2026-03-16T21:16:49.785883+00:00",
+      "score": 6.8
     },
     {
-      "timestamp": "2026-03-16T19:25:35.111101+00:00",
-      "score": 6.3
+      "timestamp": "2026-03-16T23:18:27.192094+00:00",
+      "score": 6.2
     },
     {
-      "timestamp": "2026-03-16T20:50:07.625718+00:00",
-      "score": 5.6
+      "timestamp": "2026-03-17T01:20:04.598305+00:00",
+      "score": 5.5
     },
     {
-      "timestamp": "2026-03-16T22:14:40.140335+00:00",
-      "score": 4.9
+      "timestamp": "2026-03-17T03:21:42.004516+00:00",
+      "score": 4.8
     },
     {
-      "timestamp": "2026-03-16T23:39:12.654952+00:00",
+      "timestamp": "2026-03-17T05:23:19.410727+00:00",
       "score": 4.2
     }
   ]
