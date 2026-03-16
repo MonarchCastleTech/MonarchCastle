@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-16T09:09:08.126928+00:00",
+  "fetched_at": "2026-03-16T11:05:17.990646+00:00",
   "window_hours": 72,
-  "score": 8.5,
+  "score": 13.0,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 10.6,
-    "civilian_risk": 15.9
+    "civilian_risk": 38.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 1,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 51
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -110,32 +110,45 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-16T11:05:17.990646+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-16T10:34:19.092012+00:00",
-      "score": 7.0
+      "timestamp": "2026-03-16T13:01:27.854364+00:00",
+      "score": 7.5
     },
     {
-      "timestamp": "2026-03-16T11:59:30.057096+00:00",
-      "score": 6.1
+      "timestamp": "2026-03-16T14:57:37.718082+00:00",
+      "score": 6.7
     },
     {
-      "timestamp": "2026-03-16T13:24:41.022180+00:00",
-      "score": 5.2
+      "timestamp": "2026-03-16T16:53:47.581800+00:00",
+      "score": 5.9
     },
     {
-      "timestamp": "2026-03-16T14:49:51.987264+00:00",
-      "score": 4.3
+      "timestamp": "2026-03-16T18:49:57.445518+00:00",
+      "score": 5.1
     },
     {
-      "timestamp": "2026-03-16T16:15:02.952348+00:00",
-      "score": 3.5
+      "timestamp": "2026-03-16T20:46:07.309236+00:00",
+      "score": 4.4
     },
     {
-      "timestamp": "2026-03-16T17:40:13.917432+00:00",
-      "score": 2.6
+      "timestamp": "2026-03-16T22:42:17.172954+00:00",
+      "score": 3.6
     }
   ]
 }
