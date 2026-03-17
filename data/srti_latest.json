@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-16T23:38:56.891017+00:00",
+  "fetched_at": "2026-03-17T02:50:15.430523+00:00",
   "window_hours": 72,
-  "score": 21.8,
-  "risk_level": "GUARDED",
+  "score": 4.5,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 27.2,
-    "civilian_risk": 40.8
+    "conflict_intensity": 0.0,
+    "civilian_risk": 22.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 48
+      "items": 47
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31
+      "items": 32
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -94,44 +94,43 @@
   ],
   "top_headlines": [
     {
-      "title": "Finding an Off-ramp in the Middle East War",
-      "link": "https://www.crisisgroup.org/stm/middle-east-north-africa/iran-israelpalestine-united-states/finding-ramp-middle-east-war",
-      "source": "Crisis Group",
-      "published_at": "2026-03-16T16:24:46+00:00",
-      "score": 5.18,
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-17T02:50:15.430523+00:00",
+      "score": 1.62,
       "tags": [
-        "conflict_intensity",
         "civilian_risk"
       ],
       "regions": [
-        "mali"
+        "niger"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-17T00:32:32.392465+00:00",
-      "score": 19.5
+      "timestamp": "2026-03-17T06:01:33.970029+00:00",
+      "score": 18.0
     },
     {
-      "timestamp": "2026-03-17T01:26:07.893913+00:00",
-      "score": 19.7
+      "timestamp": "2026-03-17T09:12:52.509535+00:00",
+      "score": 18.2
     },
     {
-      "timestamp": "2026-03-17T02:19:43.395361+00:00",
-      "score": 20.0
+      "timestamp": "2026-03-17T12:24:11.049041+00:00",
+      "score": 18.3
     },
     {
-      "timestamp": "2026-03-17T03:13:18.896809+00:00",
-      "score": 20.2
+      "timestamp": "2026-03-17T15:35:29.588547+00:00",
+      "score": 18.5
     },
     {
-      "timestamp": "2026-03-17T04:06:54.398257+00:00",
-      "score": 20.4
+      "timestamp": "2026-03-17T18:46:48.128053+00:00",
+      "score": 18.7
     },
     {
-      "timestamp": "2026-03-17T05:00:29.899705+00:00",
-      "score": 20.7
+      "timestamp": "2026-03-17T21:58:06.667559+00:00",
+      "score": 18.8
     }
   ]
 }
