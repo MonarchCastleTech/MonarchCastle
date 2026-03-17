@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-17T17:13:57.347043+00:00",
+  "fetched_at": "2026-03-17T19:15:59.862687+00:00",
   "window_hours": 72,
-  "score": 11.4,
+  "score": 11.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 22.8,
+    "conflict_intensity": 22.5,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 11
+      "items": 12
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -97,7 +97,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-17T17:13:57.347043+00:00",
+      "published_at": "2026-03-17T19:15:59.862687+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-17T12:00:43+00:00",
-      "score": 0.78,
+      "score": 0.76,
       "tags": [
         "conflict_intensity"
       ],
@@ -123,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-17T19:18:40.288799+00:00",
-      "score": 10.3
+      "timestamp": "2026-03-17T21:18:02.378331+00:00",
+      "score": 9.7
     },
     {
-      "timestamp": "2026-03-17T21:23:23.230555+00:00",
-      "score": 10.1
+      "timestamp": "2026-03-17T23:20:04.893975+00:00",
+      "score": 9.5
     },
     {
-      "timestamp": "2026-03-17T23:28:06.172311+00:00",
-      "score": 10.0
+      "timestamp": "2026-03-18T01:22:07.409619+00:00",
+      "score": 9.3
     },
     {
-      "timestamp": "2026-03-18T01:32:49.114067+00:00",
-      "score": 9.8
+      "timestamp": "2026-03-18T03:24:09.925263+00:00",
+      "score": 9.0
     },
     {
-      "timestamp": "2026-03-18T03:37:32.055823+00:00",
-      "score": 9.6
+      "timestamp": "2026-03-18T05:26:12.440907+00:00",
+      "score": 8.8
     },
     {
-      "timestamp": "2026-03-18T05:42:14.997579+00:00",
-      "score": 9.4
+      "timestamp": "2026-03-18T07:28:14.956551+00:00",
+      "score": 8.6
     }
   ]
 }
