@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-17T11:51:53.152551+00:00",
+  "fetched_at": "2026-03-17T13:44:42.431120+00:00",
   "window_hours": 72,
   "score": 11.7,
   "risk_level": "LOW",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-17T11:51:53.152551+00:00",
+      "published_at": "2026-03-17T13:44:42.431120+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -111,7 +111,7 @@
       "title": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
       "link": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-03-17T10:24:29+00:00",
+      "published_at": "2026-03-17T12:00:43+00:00",
       "score": 0.82,
       "tags": [
         "conflict_intensity"
@@ -123,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-17T12:39:40.098756+00:00",
-      "score": 11.0
-    },
-    {
-      "timestamp": "2026-03-17T13:27:27.044961+00:00",
+      "timestamp": "2026-03-17T15:37:31.709689+00:00",
       "score": 10.9
     },
     {
-      "timestamp": "2026-03-17T14:15:13.991166+00:00",
+      "timestamp": "2026-03-17T17:30:20.988258+00:00",
       "score": 10.8
     },
     {
-      "timestamp": "2026-03-17T15:03:00.937371+00:00",
+      "timestamp": "2026-03-17T19:23:10.266827+00:00",
       "score": 10.7
     },
     {
-      "timestamp": "2026-03-17T15:50:47.883576+00:00",
+      "timestamp": "2026-03-17T21:15:59.545396+00:00",
       "score": 10.5
     },
     {
-      "timestamp": "2026-03-17T16:38:34.829781+00:00",
+      "timestamp": "2026-03-17T23:08:48.823965+00:00",
       "score": 10.4
+    },
+    {
+      "timestamp": "2026-03-18T01:01:38.102534+00:00",
+      "score": 10.3
     }
   ]
 }
