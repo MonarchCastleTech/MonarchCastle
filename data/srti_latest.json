@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-17T06:06:07.828637+00:00",
+  "fetched_at": "2026-03-17T07:59:04.739797+00:00",
   "window_hours": 72,
   "score": 4.5,
   "risk_level": "LOW",
@@ -77,19 +77,19 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 11
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 16
+      "items": 17
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
       "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
       "source": "ReliefWeb - Niger",
-      "published_at": "2026-03-17T06:06:07.828637+00:00",
+      "published_at": "2026-03-17T07:59:04.739797+00:00",
       "score": 1.62,
       "tags": [
         "civilian_risk"
@@ -109,28 +109,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-17T07:12:02.175360+00:00",
-      "score": 15.4
+      "timestamp": "2026-03-17T09:52:01.650957+00:00",
+      "score": 13.8
     },
     {
-      "timestamp": "2026-03-17T08:17:56.522083+00:00",
-      "score": 15.5
+      "timestamp": "2026-03-17T11:44:58.562117+00:00",
+      "score": 13.7
     },
     {
-      "timestamp": "2026-03-17T09:23:50.868806+00:00",
-      "score": 15.6
+      "timestamp": "2026-03-17T13:37:55.473277+00:00",
+      "score": 13.7
     },
     {
-      "timestamp": "2026-03-17T10:29:45.215529+00:00",
-      "score": 15.7
+      "timestamp": "2026-03-17T15:30:52.384437+00:00",
+      "score": 13.7
     },
     {
-      "timestamp": "2026-03-17T11:35:39.562252+00:00",
-      "score": 15.7
+      "timestamp": "2026-03-17T17:23:49.295597+00:00",
+      "score": 13.7
     },
     {
-      "timestamp": "2026-03-17T12:41:33.908975+00:00",
-      "score": 15.8
+      "timestamp": "2026-03-17T19:16:46.206757+00:00",
+      "score": 13.6
     }
   ]
 }
