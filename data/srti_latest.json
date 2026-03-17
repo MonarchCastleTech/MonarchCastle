@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-17T02:50:15.430523+00:00",
+  "fetched_at": "2026-03-17T05:00:13.481914+00:00",
   "window_hours": 72,
   "score": 4.5,
   "risk_level": "LOW",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
       "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
       "source": "ReliefWeb - Niger",
-      "published_at": "2026-03-17T02:50:15.430523+00:00",
+      "published_at": "2026-03-17T05:00:13.481914+00:00",
       "score": 1.62,
       "tags": [
         "civilian_risk"
@@ -109,28 +109,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-17T06:01:33.970029+00:00",
-      "score": 18.0
+      "timestamp": "2026-03-17T07:10:11.533305+00:00",
+      "score": 16.6
     },
     {
-      "timestamp": "2026-03-17T09:12:52.509535+00:00",
-      "score": 18.2
+      "timestamp": "2026-03-17T09:20:09.584696+00:00",
+      "score": 16.8
     },
     {
-      "timestamp": "2026-03-17T12:24:11.049041+00:00",
-      "score": 18.3
+      "timestamp": "2026-03-17T11:30:07.636087+00:00",
+      "score": 16.9
     },
     {
-      "timestamp": "2026-03-17T15:35:29.588547+00:00",
-      "score": 18.5
+      "timestamp": "2026-03-17T13:40:05.687478+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-03-17T18:46:48.128053+00:00",
-      "score": 18.7
+      "timestamp": "2026-03-17T15:50:03.738869+00:00",
+      "score": 17.1
     },
     {
-      "timestamp": "2026-03-17T21:58:06.667559+00:00",
-      "score": 18.8
+      "timestamp": "2026-03-17T18:00:01.790260+00:00",
+      "score": 17.2
     }
   ]
 }
