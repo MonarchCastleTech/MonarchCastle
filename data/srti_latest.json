@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-17T05:00:13.481914+00:00",
+  "fetched_at": "2026-03-17T06:06:07.828637+00:00",
   "window_hours": 72,
   "score": 4.5,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
       "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
       "source": "ReliefWeb - Niger",
-      "published_at": "2026-03-17T05:00:13.481914+00:00",
+      "published_at": "2026-03-17T06:06:07.828637+00:00",
       "score": 1.62,
       "tags": [
         "civilian_risk"
@@ -109,28 +109,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-17T07:10:11.533305+00:00",
-      "score": 16.6
+      "timestamp": "2026-03-17T07:12:02.175360+00:00",
+      "score": 15.4
     },
     {
-      "timestamp": "2026-03-17T09:20:09.584696+00:00",
-      "score": 16.8
+      "timestamp": "2026-03-17T08:17:56.522083+00:00",
+      "score": 15.5
     },
     {
-      "timestamp": "2026-03-17T11:30:07.636087+00:00",
-      "score": 16.9
+      "timestamp": "2026-03-17T09:23:50.868806+00:00",
+      "score": 15.6
     },
     {
-      "timestamp": "2026-03-17T13:40:05.687478+00:00",
-      "score": 17.0
+      "timestamp": "2026-03-17T10:29:45.215529+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-03-17T15:50:03.738869+00:00",
-      "score": 17.1
+      "timestamp": "2026-03-17T11:35:39.562252+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-03-17T18:00:01.790260+00:00",
-      "score": 17.2
+      "timestamp": "2026-03-17T12:41:33.908975+00:00",
+      "score": 15.8
     }
   ]
 }
