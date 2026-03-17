@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-17T10:04:09.090214+00:00",
+  "fetched_at": "2026-03-17T11:04:06.206346+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 16.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
-    "civilian_risk": 0.0
+    "conflict_intensity": 23.4,
+    "civilian_risk": 22.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 0,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 48
+      "items": 53
     },
     {
       "name": "ActuNiger",
@@ -92,31 +92,72 @@
       "items": 17
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "Niger: Violence against civilians in western regions - Thematic report (12 March 2026)",
+      "link": "https://reliefweb.int/report/niger/niger-violence-against-civilians-western-regions-thematic-report-12-march-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-03-17T11:04:06.206346+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
+      "link": "https://lefaso.net/spip.php?article145090",
+      "source": "LeFaso",
+      "published_at": "2026-03-17T11:04:06.206346+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
+      ]
+    },
+    {
+      "title": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
+      "link": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-03-17T10:24:29+00:00",
+      "score": 0.83,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    }
+  ],
   "forecast": [
     {
-      "timestamp": "2026-03-17T11:05:42.622785+00:00",
-      "score": 10.0
+      "timestamp": "2026-03-17T12:04:03.322478+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-03-17T12:07:16.155356+00:00",
-      "score": 9.8
+      "timestamp": "2026-03-17T13:04:00.438610+00:00",
+      "score": 10.6
     },
     {
-      "timestamp": "2026-03-17T13:08:49.687927+00:00",
-      "score": 9.6
+      "timestamp": "2026-03-17T14:03:57.554742+00:00",
+      "score": 10.4
     },
     {
-      "timestamp": "2026-03-17T14:10:23.220498+00:00",
-      "score": 9.4
+      "timestamp": "2026-03-17T15:03:54.670874+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-03-17T15:11:56.753069+00:00",
-      "score": 9.2
+      "timestamp": "2026-03-17T16:03:51.787006+00:00",
+      "score": 10.1
     },
     {
-      "timestamp": "2026-03-17T16:13:30.285640+00:00",
-      "score": 9.0
+      "timestamp": "2026-03-17T17:03:48.903138+00:00",
+      "score": 9.9
     }
   ]
 }
