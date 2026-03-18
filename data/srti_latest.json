@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-18T09:01:45.810274+00:00",
+  "fetched_at": "2026-03-18T10:05:43.958440+00:00",
   "window_hours": 72,
-  "score": 26.1,
+  "score": 25.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 40.3,
-    "civilian_risk": 29.6
+    "conflict_intensity": 39.8,
+    "civilian_risk": 29.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -94,11 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "23 killed in Nigeria suicide attack",
+      "title": "At least 23 killed in Nigeria suicide attacks",
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-03-17T21:22:27+00:00",
-      "score": 3.75,
+      "score": 3.69,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-18T09:01:45.810274+00:00",
+      "published_at": "2026-03-18T10:05:43.958440+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -126,7 +126,7 @@
       "link": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-17T12:00:43+00:00",
-      "score": 0.59,
+      "score": 0.58,
       "tags": [
         "conflict_intensity"
       ],
@@ -137,28 +137,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-18T10:48:35.388249+00:00",
-      "score": 21.9
+      "timestamp": "2026-03-18T11:09:42.106606+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-03-18T12:35:24.966224+00:00",
-      "score": 22.3
+      "timestamp": "2026-03-18T12:13:40.254772+00:00",
+      "score": 25.6
     },
     {
-      "timestamp": "2026-03-18T14:22:14.544199+00:00",
-      "score": 22.6
+      "timestamp": "2026-03-18T13:17:38.402938+00:00",
+      "score": 26.2
     },
     {
-      "timestamp": "2026-03-18T16:09:04.122174+00:00",
-      "score": 23.0
+      "timestamp": "2026-03-18T14:21:36.551104+00:00",
+      "score": 26.8
     },
     {
-      "timestamp": "2026-03-18T17:55:53.700149+00:00",
-      "score": 23.3
+      "timestamp": "2026-03-18T15:25:34.699270+00:00",
+      "score": 27.5
     },
     {
-      "timestamp": "2026-03-18T19:42:43.278124+00:00",
-      "score": 23.6
+      "timestamp": "2026-03-18T16:29:32.847436+00:00",
+      "score": 28.1
     }
   ]
 }
