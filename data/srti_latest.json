@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-18T11:52:42.889408+00:00",
+  "fetched_at": "2026-03-18T13:46:41.762426+00:00",
   "window_hours": 72,
-  "score": 25.1,
+  "score": 21.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 39.0,
-    "civilian_risk": 28.2
+    "conflict_intensity": 31.6,
+    "civilian_risk": 27.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 67
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 34
+      "items": 35
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-03-17T21:22:27+00:00",
-      "score": 3.58,
+      "score": 3.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-18T11:52:42.889408+00:00",
+      "published_at": "2026-03-18T13:46:41.762426+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -120,45 +120,32 @@
         "burkina",
         "ouagadougou"
       ]
-    },
-    {
-      "title": "Suspected suicide attacks kill at least 23 in north-east Nigeria",
-      "link": "https://www.bbc.com/news/articles/c4gqnjjy9edo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-03-17T12:00:43+00:00",
-      "score": 0.56,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-18T13:39:41.820376+00:00",
-      "score": 28.0
+      "timestamp": "2026-03-18T15:40:40.635444+00:00",
+      "score": 30.0
     },
     {
-      "timestamp": "2026-03-18T15:26:40.751344+00:00",
-      "score": 28.9
+      "timestamp": "2026-03-18T17:34:39.508462+00:00",
+      "score": 31.1
     },
     {
-      "timestamp": "2026-03-18T17:13:39.682312+00:00",
-      "score": 29.8
+      "timestamp": "2026-03-18T19:28:38.381480+00:00",
+      "score": 32.2
     },
     {
-      "timestamp": "2026-03-18T19:00:38.613280+00:00",
-      "score": 30.7
+      "timestamp": "2026-03-18T21:22:37.254498+00:00",
+      "score": 33.3
     },
     {
-      "timestamp": "2026-03-18T20:47:37.544248+00:00",
-      "score": 31.6
+      "timestamp": "2026-03-18T23:16:36.127516+00:00",
+      "score": 34.4
     },
     {
-      "timestamp": "2026-03-18T22:34:36.475216+00:00",
-      "score": 32.5
+      "timestamp": "2026-03-19T01:10:35.000534+00:00",
+      "score": 35.5
     }
   ]
 }
