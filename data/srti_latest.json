@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-18T19:15:30.103405+00:00",
+  "fetched_at": "2026-03-18T20:50:44.131476+00:00",
   "window_hours": 72,
-  "score": 19.8,
+  "score": 19.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 29.8,
-    "civilian_risk": 24.6
+    "conflict_intensity": 29.3,
+    "civilian_risk": 23.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-03-17T21:22:27+00:00",
-      "score": 3.12,
+      "score": 3.02,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-18T19:15:30.103405+00:00",
+      "published_at": "2026-03-18T20:50:44.131476+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-18T21:17:34.242101+00:00",
+      "timestamp": "2026-03-18T22:25:58.159547+00:00",
+      "score": 29.2
+    },
+    {
+      "timestamp": "2026-03-19T00:01:12.187618+00:00",
       "score": 30.1
     },
     {
-      "timestamp": "2026-03-18T23:19:38.380797+00:00",
-      "score": 31.1
+      "timestamp": "2026-03-19T01:36:26.215689+00:00",
+      "score": 31.0
     },
     {
-      "timestamp": "2026-03-19T01:21:42.519493+00:00",
-      "score": 32.1
+      "timestamp": "2026-03-19T03:11:40.243760+00:00",
+      "score": 31.8
     },
     {
-      "timestamp": "2026-03-19T03:23:46.658189+00:00",
-      "score": 33.1
+      "timestamp": "2026-03-19T04:46:54.271831+00:00",
+      "score": 32.7
     },
     {
-      "timestamp": "2026-03-19T05:25:50.796885+00:00",
-      "score": 34.1
-    },
-    {
-      "timestamp": "2026-03-19T07:27:54.935581+00:00",
-      "score": 35.1
+      "timestamp": "2026-03-19T06:22:08.299902+00:00",
+      "score": 33.6
     }
   ]
 }
