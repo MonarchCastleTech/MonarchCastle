@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-19T10:54:54.536393+00:00",
+  "fetched_at": "2026-03-19T11:44:18.312409+00:00",
   "window_hours": 72,
-  "score": 15.7,
+  "score": 15.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 24.7,
-    "civilian_risk": 16.9
+    "conflict_intensity": 24.4,
+    "civilian_risk": 16.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31
+      "items": 30
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-03-17T21:22:27+00:00",
-      "score": 2.14,
+      "score": 2.09,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-19T10:54:54.536393+00:00",
+      "published_at": "2026-03-19T11:44:18.312409+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-19T11:52:45.424755+00:00",
-      "score": 15.2
+      "timestamp": "2026-03-19T12:33:42.088425+00:00",
+      "score": 13.2
     },
     {
-      "timestamp": "2026-03-19T12:50:36.313117+00:00",
-      "score": 14.7
+      "timestamp": "2026-03-19T13:23:05.864441+00:00",
+      "score": 12.5
     },
     {
-      "timestamp": "2026-03-19T13:48:27.201479+00:00",
-      "score": 14.2
+      "timestamp": "2026-03-19T14:12:29.640457+00:00",
+      "score": 11.8
     },
     {
-      "timestamp": "2026-03-19T14:46:18.089841+00:00",
-      "score": 13.6
+      "timestamp": "2026-03-19T15:01:53.416473+00:00",
+      "score": 11.2
     },
     {
-      "timestamp": "2026-03-19T15:44:08.978203+00:00",
-      "score": 13.1
+      "timestamp": "2026-03-19T15:51:17.192489+00:00",
+      "score": 10.5
     },
     {
-      "timestamp": "2026-03-19T16:41:59.866565+00:00",
-      "score": 12.6
+      "timestamp": "2026-03-19T16:40:40.968505+00:00",
+      "score": 9.8
     }
   ]
 }
