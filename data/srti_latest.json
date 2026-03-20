@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-20T19:43:53.437365+00:00",
+  "fetched_at": "2026-03-20T20:45:06.553555+00:00",
   "window_hours": 72,
-  "score": 54.0,
-  "risk_level": "ELEVATED",
+  "score": 70.0,
+  "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 72.6,
-    "civilian_risk": 88.7
+    "conflict_intensity": 100.0,
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -94,11 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "On Our Radar",
+      "link": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "Crisis Group",
+      "published_at": "2026-03-20T18:07:09+00:00",
+      "score": 5.55,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Where is the Israel-Hizbollah War Going?",
       "link": "https://www.crisisgroup.org/qna/middle-east-north-africa/lebanon-Israelpalestine/where-israel-hizbollah-war-going",
       "source": "Crisis Group",
       "published_at": "2026-03-20T14:30:45+00:00",
-      "score": 5.34,
+      "score": 5.26,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +126,7 @@
       "link": "https://www.crisisgroup.org/pod/africa/nigeria/le-nigeria-impuissant-face-la-poussee-jihadiste",
       "source": "Crisis Group",
       "published_at": "2026-03-20T14:54:55+00:00",
-      "score": 1.79,
+      "score": 1.76,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +153,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-20T19:43:53.437365+00:00",
+      "published_at": "2026-03-20T20:45:06.553555+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,7 +168,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-20T19:43:53.437365+00:00",
+      "published_at": "2026-03-20T20:45:06.553555+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,7 +181,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-20T19:43:53.437365+00:00",
+      "published_at": "2026-03-20T20:45:06.553555+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -180,28 +194,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-20T20:25:12.607933+00:00",
-      "score": 49.3
+      "timestamp": "2026-03-20T21:46:19.669745+00:00",
+      "score": 54.9
     },
     {
-      "timestamp": "2026-03-20T21:06:31.778501+00:00",
-      "score": 51.0
+      "timestamp": "2026-03-20T22:47:32.785935+00:00",
+      "score": 56.9
     },
     {
-      "timestamp": "2026-03-20T21:47:50.949069+00:00",
-      "score": 52.6
+      "timestamp": "2026-03-20T23:48:45.902125+00:00",
+      "score": 58.8
     },
     {
-      "timestamp": "2026-03-20T22:29:10.119637+00:00",
-      "score": 54.3
+      "timestamp": "2026-03-21T00:49:59.018315+00:00",
+      "score": 60.7
     },
     {
-      "timestamp": "2026-03-20T23:10:29.290205+00:00",
-      "score": 56.0
+      "timestamp": "2026-03-21T01:51:12.134505+00:00",
+      "score": 62.7
     },
     {
-      "timestamp": "2026-03-20T23:51:48.460773+00:00",
-      "score": 57.6
+      "timestamp": "2026-03-21T02:52:25.250695+00:00",
+      "score": 64.6
     }
   ]
 }
