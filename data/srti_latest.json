@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-20T14:54:42.880880+00:00",
+  "fetched_at": "2026-03-20T15:53:21.999357+00:00",
   "window_hours": 72,
-  "score": 24.1,
-  "risk_level": "GUARDED",
+  "score": 55.7,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 35.1,
-    "civilian_risk": 32.5
+    "conflict_intensity": 74.7,
+    "civilian_risk": 91.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 93
+      "items": 97
     },
     {
       "name": "ActuNiger",
@@ -94,6 +94,34 @@
   ],
   "top_headlines": [
     {
+      "title": "Where is the Israel-Hizbollah War Going?",
+      "link": "https://www.crisisgroup.org/qna/middle-east-north-africa/lebanon-Israelpalestine/where-israel-hizbollah-war-going",
+      "source": "Crisis Group",
+      "published_at": "2026-03-20T14:30:45+00:00",
+      "score": 5.65,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Le Nig\u00e9ria impuissant face \u00e0 la pouss\u00e9e jihadiste",
+      "link": "https://www.crisisgroup.org/pod/africa/nigeria/le-nigeria-impuissant-face-la-poussee-jihadiste",
+      "source": "Crisis Group",
+      "published_at": "2026-03-20T14:54:55+00:00",
+      "score": 1.89,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "At least 23 killed in Nigeria suicide attacks",
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260317-23-killed-in-nigeria-suicide-attack",
       "source": "France 24 - Africa",
@@ -111,7 +139,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-20T14:54:42.880880+00:00",
+      "published_at": "2026-03-20T15:53:21.999357+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +154,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-20T14:54:42.880880+00:00",
+      "published_at": "2026-03-20T15:53:21.999357+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +167,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-20T14:54:42.880880+00:00",
+      "published_at": "2026-03-20T15:53:21.999357+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,28 +180,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-20T16:29:41.209064+00:00",
-      "score": 26.9
+      "timestamp": "2026-03-20T16:52:01.117834+00:00",
+      "score": 32.4
     },
     {
-      "timestamp": "2026-03-20T18:04:39.537248+00:00",
-      "score": 27.4
+      "timestamp": "2026-03-20T17:50:40.236311+00:00",
+      "score": 33.2
     },
     {
-      "timestamp": "2026-03-20T19:39:37.865432+00:00",
-      "score": 27.9
+      "timestamp": "2026-03-20T18:49:19.354788+00:00",
+      "score": 34.1
     },
     {
-      "timestamp": "2026-03-20T21:14:36.193616+00:00",
-      "score": 28.4
+      "timestamp": "2026-03-20T19:47:58.473265+00:00",
+      "score": 34.9
     },
     {
-      "timestamp": "2026-03-20T22:49:34.521800+00:00",
-      "score": 28.9
+      "timestamp": "2026-03-20T20:46:37.591742+00:00",
+      "score": 35.7
     },
     {
-      "timestamp": "2026-03-21T00:24:32.849984+00:00",
-      "score": 29.5
+      "timestamp": "2026-03-20T21:45:16.710219+00:00",
+      "score": 36.6
     }
   ]
 }
