@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-19T23:38:19.060172+00:00",
+  "fetched_at": "2026-03-20T02:49:02.890048+00:00",
   "window_hours": 72,
   "score": 24.1,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 88
     },
     {
       "name": "ActuNiger",
@@ -77,19 +77,19 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 7
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 12
+      "items": 11
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 17
+      "items": 16
     }
   ],
   "top_headlines": [
@@ -111,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-19T23:38:19.060172+00:00",
+      "published_at": "2026-03-20T02:49:02.890048+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-19T23:38:19.060172+00:00",
+      "published_at": "2026-03-20T02:49:02.890048+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-19T23:38:19.060172+00:00",
+      "published_at": "2026-03-20T02:49:02.890048+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,28 +152,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-20T00:37:07.754320+00:00",
-      "score": 18.4
+      "timestamp": "2026-03-20T05:59:46.719924+00:00",
+      "score": 19.7
     },
     {
-      "timestamp": "2026-03-20T01:35:56.448468+00:00",
-      "score": 18.5
+      "timestamp": "2026-03-20T09:10:30.549800+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-03-20T02:34:45.142616+00:00",
-      "score": 18.5
+      "timestamp": "2026-03-20T12:21:14.379676+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-03-20T03:33:33.836764+00:00",
-      "score": 18.5
+      "timestamp": "2026-03-20T15:31:58.209552+00:00",
+      "score": 19.9
     },
     {
-      "timestamp": "2026-03-20T04:32:22.530912+00:00",
-      "score": 18.5
+      "timestamp": "2026-03-20T18:42:42.039428+00:00",
+      "score": 20.0
     },
     {
-      "timestamp": "2026-03-20T05:31:11.225060+00:00",
-      "score": 18.5
+      "timestamp": "2026-03-20T21:53:25.869304+00:00",
+      "score": 20.1
     }
   ]
 }
