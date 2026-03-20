@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-20T17:44:50.594489+00:00",
+  "fetched_at": "2026-03-20T19:02:34.266797+00:00",
   "window_hours": 72,
-  "score": 54.9,
+  "score": 54.4,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 73.7,
-    "civilian_risk": 90.4
+    "conflict_intensity": 73.0,
+    "civilian_risk": 89.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/qna/middle-east-north-africa/lebanon-Israelpalestine/where-israel-hizbollah-war-going",
       "source": "Crisis Group",
       "published_at": "2026-03-20T14:30:45+00:00",
-      "score": 5.5,
+      "score": 5.4,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.crisisgroup.org/pod/africa/nigeria/le-nigeria-impuissant-face-la-poussee-jihadiste",
       "source": "Crisis Group",
       "published_at": "2026-03-20T14:54:55+00:00",
-      "score": 1.84,
+      "score": 1.81,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-20T17:44:50.594489+00:00",
+      "published_at": "2026-03-20T19:02:34.266797+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,7 +154,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-20T17:44:50.594489+00:00",
+      "published_at": "2026-03-20T19:02:34.266797+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,7 +167,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-20T17:44:50.594489+00:00",
+      "published_at": "2026-03-20T19:02:34.266797+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -180,28 +180,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-20T18:33:12.782056+00:00",
-      "score": 41.9
+      "timestamp": "2026-03-20T20:20:17.939105+00:00",
+      "score": 45.8
     },
     {
-      "timestamp": "2026-03-20T19:21:34.969623+00:00",
-      "score": 43.2
+      "timestamp": "2026-03-20T21:38:01.611413+00:00",
+      "score": 47.4
     },
     {
-      "timestamp": "2026-03-20T20:09:57.157190+00:00",
-      "score": 44.5
+      "timestamp": "2026-03-20T22:55:45.283721+00:00",
+      "score": 48.9
     },
     {
-      "timestamp": "2026-03-20T20:58:19.344757+00:00",
-      "score": 45.9
+      "timestamp": "2026-03-21T00:13:28.956029+00:00",
+      "score": 50.4
     },
     {
-      "timestamp": "2026-03-20T21:46:41.532324+00:00",
-      "score": 47.2
+      "timestamp": "2026-03-21T01:31:12.628337+00:00",
+      "score": 51.9
     },
     {
-      "timestamp": "2026-03-20T22:35:03.719891+00:00",
-      "score": 48.5
+      "timestamp": "2026-03-21T02:48:56.300645+00:00",
+      "score": 53.4
     }
   ]
 }
