@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-20T10:51:21.814570+00:00",
+  "fetched_at": "2026-03-20T11:39:06.913360+00:00",
   "window_hours": 72,
   "score": 24.1,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -111,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-20T10:51:21.814570+00:00",
+      "published_at": "2026-03-20T11:39:06.913360+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-20T10:51:21.814570+00:00",
+      "published_at": "2026-03-20T11:39:06.913360+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-20T10:51:21.814570+00:00",
+      "published_at": "2026-03-20T11:39:06.913360+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,28 +152,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-20T11:47:59.095240+00:00",
-      "score": 25.3
+      "timestamp": "2026-03-20T12:26:52.012150+00:00",
+      "score": 26.0
     },
     {
-      "timestamp": "2026-03-20T12:44:36.375910+00:00",
-      "score": 25.8
+      "timestamp": "2026-03-20T13:14:37.110940+00:00",
+      "score": 26.5
     },
     {
-      "timestamp": "2026-03-20T13:41:13.656580+00:00",
-      "score": 26.2
+      "timestamp": "2026-03-20T14:02:22.209730+00:00",
+      "score": 27.0
     },
     {
-      "timestamp": "2026-03-20T14:37:50.937250+00:00",
-      "score": 26.7
+      "timestamp": "2026-03-20T14:50:07.308520+00:00",
+      "score": 27.4
     },
     {
-      "timestamp": "2026-03-20T15:34:28.217920+00:00",
-      "score": 27.1
+      "timestamp": "2026-03-20T15:37:52.407310+00:00",
+      "score": 27.9
     },
     {
-      "timestamp": "2026-03-20T16:31:05.498590+00:00",
-      "score": 27.6
+      "timestamp": "2026-03-20T16:25:37.506100+00:00",
+      "score": 28.4
     }
   ]
 }
