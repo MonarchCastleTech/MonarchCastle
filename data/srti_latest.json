@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-20T09:54:44.533900+00:00",
+  "fetched_at": "2026-03-20T10:51:21.814570+00:00",
   "window_hours": 72,
   "score": 24.1,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 88
+      "items": 90
     },
     {
       "name": "ActuNiger",
@@ -111,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-20T09:54:44.533900+00:00",
+      "published_at": "2026-03-20T10:51:21.814570+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-20T09:54:44.533900+00:00",
+      "published_at": "2026-03-20T10:51:21.814570+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "title": "Burkina/ Lutte contre l'exportation frauduleuse des \u00e2nes : Plus de 300 animaux saisis, plusieurs individus interpell\u00e9s",
       "link": "https://lefaso.net/spip.php?article145090",
       "source": "LeFaso",
-      "published_at": "2026-03-20T09:54:44.533900+00:00",
+      "published_at": "2026-03-20T10:51:21.814570+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,28 +152,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-20T10:54:57.334387+00:00",
-      "score": 24.6
+      "timestamp": "2026-03-20T11:47:59.095240+00:00",
+      "score": 25.3
     },
     {
-      "timestamp": "2026-03-20T11:55:10.134874+00:00",
-      "score": 25.0
-    },
-    {
-      "timestamp": "2026-03-20T12:55:22.935361+00:00",
-      "score": 25.4
-    },
-    {
-      "timestamp": "2026-03-20T13:55:35.735848+00:00",
+      "timestamp": "2026-03-20T12:44:36.375910+00:00",
       "score": 25.8
     },
     {
-      "timestamp": "2026-03-20T14:55:48.536335+00:00",
+      "timestamp": "2026-03-20T13:41:13.656580+00:00",
       "score": 26.2
     },
     {
-      "timestamp": "2026-03-20T15:56:01.336822+00:00",
-      "score": 26.6
+      "timestamp": "2026-03-20T14:37:50.937250+00:00",
+      "score": 26.7
+    },
+    {
+      "timestamp": "2026-03-20T15:34:28.217920+00:00",
+      "score": 27.1
+    },
+    {
+      "timestamp": "2026-03-20T16:31:05.498590+00:00",
+      "score": 27.6
     }
   ]
 }
