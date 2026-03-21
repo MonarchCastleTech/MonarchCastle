@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-20T23:38:24.859620+00:00",
+  "fetched_at": "2026-03-21T02:42:49.397586+00:00",
   "window_hours": 72,
-  "score": 58.3,
-  "risk_level": "ELEVATED",
+  "score": 32.1,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 76.6,
-    "civilian_risk": 100.0
+    "conflict_intensity": 40.1,
+    "civilian_risk": 60.1
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -83,13 +83,13 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 11
+      "items": 10
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 16
+      "items": 15
     }
   ],
   "top_headlines": [
@@ -98,35 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-20T18:07:09+00:00",
-      "score": 5.32,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Where is the Israel-Hizbollah War Going?",
-      "link": "https://www.crisisgroup.org/qna/middle-east-north-africa/lebanon-Israelpalestine/where-israel-hizbollah-war-going",
-      "source": "Crisis Group",
-      "published_at": "2026-03-20T14:30:45+00:00",
-      "score": 5.03,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Le Nig\u00e9ria impuissant face \u00e0 la pouss\u00e9e jihadiste",
-      "link": "https://www.crisisgroup.org/pod/africa/nigeria/le-nigeria-impuissant-face-la-poussee-jihadiste",
-      "source": "Crisis Group",
-      "published_at": "2026-03-20T14:54:55+00:00",
-      "score": 1.69,
+      "score": 5.07,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-20T23:38:24.859620+00:00",
+      "published_at": "2026-03-21T02:42:49.397586+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-20T23:38:24.859620+00:00",
+      "published_at": "2026-03-21T02:42:49.397586+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -166,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-21T00:37:31.633194+00:00",
-      "score": 63.9
+      "timestamp": "2026-03-21T05:47:13.935552+00:00",
+      "score": 60.9
     },
     {
-      "timestamp": "2026-03-21T01:36:38.406768+00:00",
-      "score": 66.0
+      "timestamp": "2026-03-21T08:51:38.473518+00:00",
+      "score": 62.8
     },
     {
-      "timestamp": "2026-03-21T02:35:45.180342+00:00",
-      "score": 68.2
+      "timestamp": "2026-03-21T11:56:03.011484+00:00",
+      "score": 64.7
     },
     {
-      "timestamp": "2026-03-21T03:34:51.953916+00:00",
+      "timestamp": "2026-03-21T15:00:27.549450+00:00",
+      "score": 66.6
+    },
+    {
+      "timestamp": "2026-03-21T18:04:52.087416+00:00",
+      "score": 68.5
+    },
+    {
+      "timestamp": "2026-03-21T21:09:16.625382+00:00",
       "score": 70.4
-    },
-    {
-      "timestamp": "2026-03-21T04:33:58.727490+00:00",
-      "score": 72.6
-    },
-    {
-      "timestamp": "2026-03-21T05:33:05.501064+00:00",
-      "score": 74.8
     }
   ]
 }
