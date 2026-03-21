@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-21T02:42:49.397586+00:00",
+  "fetched_at": "2026-03-21T04:44:01.731470+00:00",
   "window_hours": 72,
-  "score": 32.1,
+  "score": 31.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 40.1,
-    "civilian_risk": 60.1
+    "conflict_intensity": 39.2,
+    "civilian_risk": 58.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-20T18:07:09+00:00",
-      "score": 5.07,
+      "score": 4.91,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-21T02:42:49.397586+00:00",
+      "published_at": "2026-03-21T04:44:01.731470+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-21T02:42:49.397586+00:00",
+      "published_at": "2026-03-21T04:44:01.731470+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-21T05:47:13.935552+00:00",
-      "score": 60.9
+      "timestamp": "2026-03-21T06:45:14.065354+00:00",
+      "score": 58.7
     },
     {
-      "timestamp": "2026-03-21T08:51:38.473518+00:00",
-      "score": 62.8
+      "timestamp": "2026-03-21T08:46:26.399238+00:00",
+      "score": 60.4
     },
     {
-      "timestamp": "2026-03-21T11:56:03.011484+00:00",
-      "score": 64.7
+      "timestamp": "2026-03-21T10:47:38.733122+00:00",
+      "score": 62.1
     },
     {
-      "timestamp": "2026-03-21T15:00:27.549450+00:00",
-      "score": 66.6
+      "timestamp": "2026-03-21T12:48:51.067006+00:00",
+      "score": 63.7
     },
     {
-      "timestamp": "2026-03-21T18:04:52.087416+00:00",
-      "score": 68.5
+      "timestamp": "2026-03-21T14:50:03.400890+00:00",
+      "score": 65.4
     },
     {
-      "timestamp": "2026-03-21T21:09:16.625382+00:00",
-      "score": 70.4
+      "timestamp": "2026-03-21T16:51:15.734774+00:00",
+      "score": 67.1
     }
   ]
 }
