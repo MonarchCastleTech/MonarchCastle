@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-21T18:50:15.566866+00:00",
+  "fetched_at": "2026-03-21T19:33:03.196700+00:00",
   "window_hours": 72,
-  "score": 26.6,
-  "risk_level": "GUARDED",
+  "score": 10.7,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 33.3,
-    "civilian_risk": 49.9
+    "conflict_intensity": 13.4,
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "On Our Radar",
-      "link": "https://www.crisisgroup.org/sco/global/our-radar",
-      "source": "Crisis Group",
-      "published_at": "2026-03-20T18:07:09+00:00",
-      "score": 3.78,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-21T18:50:15.566866+00:00",
+      "published_at": "2026-03-21T19:33:03.196700+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +112,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-21T18:50:15.566866+00:00",
+      "published_at": "2026-03-21T19:33:03.196700+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-21T20:06:12.078752+00:00",
-      "score": 17.3
+      "timestamp": "2026-03-21T20:15:50.826534+00:00",
+      "score": 14.1
     },
     {
-      "timestamp": "2026-03-21T21:22:08.590638+00:00",
-      "score": 15.6
+      "timestamp": "2026-03-21T20:58:38.456368+00:00",
+      "score": 12.2
     },
     {
-      "timestamp": "2026-03-21T22:38:05.102524+00:00",
-      "score": 13.8
-    },
-    {
-      "timestamp": "2026-03-21T23:54:01.614410+00:00",
-      "score": 12.0
-    },
-    {
-      "timestamp": "2026-03-22T01:09:58.126296+00:00",
+      "timestamp": "2026-03-21T21:41:26.086202+00:00",
       "score": 10.3
     },
     {
-      "timestamp": "2026-03-22T02:25:54.638182+00:00",
-      "score": 8.5
+      "timestamp": "2026-03-21T22:24:13.716036+00:00",
+      "score": 8.4
+    },
+    {
+      "timestamp": "2026-03-21T23:07:01.345870+00:00",
+      "score": 6.6
+    },
+    {
+      "timestamp": "2026-03-21T23:49:48.975704+00:00",
+      "score": 4.7
     }
   ]
 }
