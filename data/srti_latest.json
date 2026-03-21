@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-21T15:35:09.468852+00:00",
+  "fetched_at": "2026-03-21T16:40:59.263918+00:00",
   "window_hours": 72,
-  "score": 27.8,
+  "score": 27.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 34.7,
-    "civilian_risk": 52.0
+    "conflict_intensity": 34.2,
+    "civilian_risk": 51.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 88
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-20T18:07:09+00:00",
-      "score": 4.04,
+      "score": 3.95,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-21T15:35:09.468852+00:00",
+      "published_at": "2026-03-21T16:40:59.263918+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-21T15:35:09.468852+00:00",
+      "published_at": "2026-03-21T16:40:59.263918+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-21T16:33:41.988161+00:00",
-      "score": 27.7
+      "timestamp": "2026-03-21T17:46:49.058984+00:00",
+      "score": 24.4
     },
     {
-      "timestamp": "2026-03-21T17:32:14.507470+00:00",
-      "score": 26.8
-    },
-    {
-      "timestamp": "2026-03-21T18:30:47.026779+00:00",
-      "score": 25.9
-    },
-    {
-      "timestamp": "2026-03-21T19:29:19.546088+00:00",
-      "score": 25.0
-    },
-    {
-      "timestamp": "2026-03-21T20:27:52.065397+00:00",
-      "score": 24.1
-    },
-    {
-      "timestamp": "2026-03-21T21:26:24.584706+00:00",
+      "timestamp": "2026-03-21T18:52:38.854050+00:00",
       "score": 23.2
+    },
+    {
+      "timestamp": "2026-03-21T19:58:28.649116+00:00",
+      "score": 22.0
+    },
+    {
+      "timestamp": "2026-03-21T21:04:18.444182+00:00",
+      "score": 20.8
+    },
+    {
+      "timestamp": "2026-03-21T22:10:08.239248+00:00",
+      "score": 19.6
+    },
+    {
+      "timestamp": "2026-03-21T23:15:58.034314+00:00",
+      "score": 18.4
     }
   ]
 }
