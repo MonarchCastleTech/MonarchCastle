@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-21T23:34:25.175781+00:00",
+  "fetched_at": "2026-03-22T03:16:02.585603+00:00",
   "window_hours": 72,
-  "score": 25.1,
+  "score": 26.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 31.3,
-    "civilian_risk": 47.0
+    "conflict_intensity": 29.8,
+    "civilian_risk": 59.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -34,8 +34,8 @@
     {
       "name": "MaliWeb",
       "url": "https://www.maliweb.net/feed",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "LeFaso",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 30
+      "items": 31
     },
     {
       "name": "UN News Africa",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 15
+      "items": 13
     }
   ],
   "top_headlines": [
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-20T18:07:09+00:00",
-      "score": 3.4,
+      "score": 3.11,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-21T23:34:25.175781+00:00",
+      "published_at": "2026-03-22T03:16:02.585603+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-21T23:34:25.175781+00:00",
+      "published_at": "2026-03-22T03:16:02.585603+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -134,32 +134,45 @@
       "regions": [
         "ouagadougou"
       ]
+    },
+    {
+      "title": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
+      "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-03-22T00:55:31+00:00",
+      "score": 1.04,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-22T00:32:52.244114+00:00",
-      "score": 14.4
+      "timestamp": "2026-03-22T06:57:39.995425+00:00",
+      "score": 16.9
     },
     {
-      "timestamp": "2026-03-22T01:31:19.312447+00:00",
-      "score": 12.9
+      "timestamp": "2026-03-22T10:39:17.405247+00:00",
+      "score": 15.8
     },
     {
-      "timestamp": "2026-03-22T02:29:46.380780+00:00",
-      "score": 11.5
+      "timestamp": "2026-03-22T14:20:54.815069+00:00",
+      "score": 14.7
     },
     {
-      "timestamp": "2026-03-22T03:28:13.449113+00:00",
-      "score": 10.0
+      "timestamp": "2026-03-22T18:02:32.224891+00:00",
+      "score": 13.6
     },
     {
-      "timestamp": "2026-03-22T04:26:40.517446+00:00",
-      "score": 8.5
+      "timestamp": "2026-03-22T21:44:09.634713+00:00",
+      "score": 12.4
     },
     {
-      "timestamp": "2026-03-22T05:25:07.585779+00:00",
-      "score": 7.1
+      "timestamp": "2026-03-23T01:25:47.044535+00:00",
+      "score": 11.3
     }
   ]
 }
