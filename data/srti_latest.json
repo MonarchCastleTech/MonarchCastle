@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-22T15:35:00.106837+00:00",
+  "fetched_at": "2026-03-22T16:41:24.945624+00:00",
   "window_hours": 72,
-  "score": 22.1,
+  "score": 21.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 24.6,
-    "civilian_risk": 48.9
+    "conflict_intensity": 24.1,
+    "civilian_risk": 48.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 65
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-20T18:07:09+00:00",
-      "score": 2.12,
+      "score": 2.03,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-22T15:35:00.106837+00:00",
+      "published_at": "2026-03-22T16:41:24.945624+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-22T15:35:00.106837+00:00",
+      "published_at": "2026-03-22T16:41:24.945624+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +140,7 @@
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.86,
+      "score": 0.84,
       "tags": [
         "civilian_risk"
       ],
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-22T16:32:09.896252+00:00",
-      "score": 19.7
+      "timestamp": "2026-03-22T17:47:49.784411+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-03-22T17:29:19.685667+00:00",
-      "score": 19.3
+      "timestamp": "2026-03-22T18:54:14.623198+00:00",
+      "score": 19.4
     },
     {
-      "timestamp": "2026-03-22T18:26:29.475082+00:00",
-      "score": 19.0
+      "timestamp": "2026-03-22T20:00:39.461985+00:00",
+      "score": 19.1
     },
     {
-      "timestamp": "2026-03-22T19:23:39.264497+00:00",
-      "score": 18.6
+      "timestamp": "2026-03-22T21:07:04.300772+00:00",
+      "score": 18.8
     },
     {
-      "timestamp": "2026-03-22T20:20:49.053912+00:00",
-      "score": 18.3
+      "timestamp": "2026-03-22T22:13:29.139559+00:00",
+      "score": 18.4
     },
     {
-      "timestamp": "2026-03-22T21:17:58.843327+00:00",
-      "score": 17.9
+      "timestamp": "2026-03-22T23:19:53.978346+00:00",
+      "score": 18.1
     }
   ]
 }
