@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-22T07:02:25.164092+00:00",
+  "fetched_at": "2026-03-22T07:45:40.409938+00:00",
   "window_hours": 72,
-  "score": 25.3,
+  "score": 25.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 28.2,
-    "civilian_risk": 56.1
+    "conflict_intensity": 27.9,
+    "civilian_risk": 55.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.crisisgroup.org/sco/global/our-radar",
       "source": "Crisis Group",
       "published_at": "2026-03-20T18:07:09+00:00",
-      "score": 2.81,
+      "score": 2.75,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
       "link": "https://lefaso.net/spip.php?article145163",
       "source": "LeFaso",
-      "published_at": "2026-03-22T07:02:25.164092+00:00",
+      "published_at": "2026-03-22T07:45:40.409938+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
       "link": "https://lefaso.net/spip.php?article145165",
       "source": "LeFaso",
-      "published_at": "2026-03-22T07:02:25.164092+00:00",
+      "published_at": "2026-03-22T07:45:40.409938+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +140,7 @@
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.99,
+      "score": 0.98,
       "tags": [
         "civilian_risk"
       ],
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-22T08:42:48.020393+00:00",
-      "score": 21.5
+      "timestamp": "2026-03-22T08:28:55.655784+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-03-22T10:23:10.876694+00:00",
-      "score": 21.0
+      "timestamp": "2026-03-22T09:12:10.901630+00:00",
+      "score": 23.7
     },
     {
-      "timestamp": "2026-03-22T12:03:33.732995+00:00",
-      "score": 20.5
+      "timestamp": "2026-03-22T09:55:26.147476+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-03-22T13:43:56.589296+00:00",
-      "score": 20.0
+      "timestamp": "2026-03-22T10:38:41.393322+00:00",
+      "score": 23.3
     },
     {
-      "timestamp": "2026-03-22T15:24:19.445597+00:00",
-      "score": 19.5
+      "timestamp": "2026-03-22T11:21:56.639168+00:00",
+      "score": 23.1
     },
     {
-      "timestamp": "2026-03-22T17:04:42.301898+00:00",
-      "score": 19.0
+      "timestamp": "2026-03-22T12:05:11.885014+00:00",
+      "score": 22.9
     }
   ]
 }
