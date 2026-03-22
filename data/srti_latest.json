@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-22T19:34:24.432816+00:00",
+  "fetched_at": "2026-03-22T20:39:02.799656+00:00",
   "window_hours": 72,
-  "score": 21.4,
-  "risk_level": "GUARDED",
+  "score": 10.7,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 24.0,
-    "civilian_risk": 47.2
+    "conflict_intensity": 10.6,
+    "civilian_risk": 26.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 59
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -108,39 +108,11 @@
       ]
     },
     {
-      "title": "Sant\u00e9 animale : Le Burkina Faso a investi plus de 2,8 milliards de francs CFA pour prot\u00e9ger les animaux",
-      "link": "https://lefaso.net/spip.php?article145163",
-      "source": "LeFaso",
-      "published_at": "2026-03-22T19:34:24.432816+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Protection des consommateurs : 1 060 poulets congel\u00e9s en \u00e9tat de putr\u00e9faction saisis",
-      "link": "https://lefaso.net/spip.php?article145165",
-      "source": "LeFaso",
-      "published_at": "2026-03-22T19:34:24.432816+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "ouagadougou"
-      ]
-    },
-    {
       "title": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.8,
+      "score": 0.78,
       "tags": [
         "civilian_risk"
       ],
@@ -151,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-22T20:17:39.775079+00:00",
-      "score": 18.7
-    },
-    {
-      "timestamp": "2026-03-22T21:00:55.117342+00:00",
-      "score": 18.4
-    },
-    {
-      "timestamp": "2026-03-22T21:44:10.459605+00:00",
-      "score": 18.1
-    },
-    {
-      "timestamp": "2026-03-22T22:27:25.801868+00:00",
-      "score": 17.8
-    },
-    {
-      "timestamp": "2026-03-22T23:10:41.144131+00:00",
-      "score": 17.5
-    },
-    {
-      "timestamp": "2026-03-22T23:53:56.486394+00:00",
+      "timestamp": "2026-03-22T21:43:41.166496+00:00",
       "score": 17.2
+    },
+    {
+      "timestamp": "2026-03-22T22:48:19.533336+00:00",
+      "score": 16.8
+    },
+    {
+      "timestamp": "2026-03-22T23:52:57.900176+00:00",
+      "score": 16.5
+    },
+    {
+      "timestamp": "2026-03-23T00:57:36.267016+00:00",
+      "score": 16.1
+    },
+    {
+      "timestamp": "2026-03-23T02:02:14.633856+00:00",
+      "score": 15.7
+    },
+    {
+      "timestamp": "2026-03-23T03:06:53.000696+00:00",
+      "score": 15.3
     }
   ]
 }
