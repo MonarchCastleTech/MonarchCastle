@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-22T22:36:35.765600+00:00",
+  "fetched_at": "2026-03-22T23:37:17.471173+00:00",
   "window_hours": 72,
-  "score": 10.6,
+  "score": 10.5,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 10.6,
-    "civilian_risk": 26.4
+    "civilian_risk": 26.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 52
+      "items": 42
     },
     {
       "name": "ActuNiger",
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.75,
+      "score": 0.74,
       "tags": [
         "civilian_risk"
       ],
@@ -123,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-22T23:38:17.918111+00:00",
-      "score": 14.6
+      "timestamp": "2026-03-23T00:37:59.176746+00:00",
+      "score": 13.5
     },
     {
-      "timestamp": "2026-03-23T00:40:00.070622+00:00",
-      "score": 14.1
+      "timestamp": "2026-03-23T01:38:40.882319+00:00",
+      "score": 12.9
     },
     {
-      "timestamp": "2026-03-23T01:41:42.223133+00:00",
-      "score": 13.6
+      "timestamp": "2026-03-23T02:39:22.587892+00:00",
+      "score": 12.4
     },
     {
-      "timestamp": "2026-03-23T02:43:24.375644+00:00",
-      "score": 13.1
+      "timestamp": "2026-03-23T03:40:04.293465+00:00",
+      "score": 11.9
     },
     {
-      "timestamp": "2026-03-23T03:45:06.528155+00:00",
-      "score": 12.6
+      "timestamp": "2026-03-23T04:40:45.999038+00:00",
+      "score": 11.4
     },
     {
-      "timestamp": "2026-03-23T04:46:48.680666+00:00",
-      "score": 12.2
+      "timestamp": "2026-03-23T05:41:27.704611+00:00",
+      "score": 10.9
     }
   ]
 }
