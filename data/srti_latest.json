@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-23T13:41:40.850385+00:00",
+  "fetched_at": "2026-03-23T15:07:26.876784+00:00",
   "window_hours": 72,
-  "score": 10.0,
+  "score": 14.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 10.6,
-    "civilian_risk": 23.3
+    "conflict_intensity": 20.6,
+    "civilian_risk": 23.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 47
+      "items": 46
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "UN News Africa",
@@ -108,11 +108,24 @@
       ]
     },
     {
+      "title": "Nigerian police arrest 15 after viral videos of alleged sexual assault at festival",
+      "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-03-23T15:01:17+00:00",
+      "score": 0.84,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "'Peace is a gradual thing': How land, cattle and identity fuel a deadly Nigerian conflict",
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.53,
+      "score": 0.51,
       "tags": [
         "civilian_risk"
       ],
@@ -123,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-23T15:31:25.017862+00:00",
-      "score": 7.0
+      "timestamp": "2026-03-23T16:33:12.903183+00:00",
+      "score": 7.7
     },
     {
-      "timestamp": "2026-03-23T17:21:09.185339+00:00",
-      "score": 6.3
+      "timestamp": "2026-03-23T17:58:58.929582+00:00",
+      "score": 7.1
     },
     {
-      "timestamp": "2026-03-23T19:10:53.352816+00:00",
-      "score": 5.6
+      "timestamp": "2026-03-23T19:24:44.955981+00:00",
+      "score": 6.5
     },
     {
-      "timestamp": "2026-03-23T21:00:37.520293+00:00",
-      "score": 4.9
+      "timestamp": "2026-03-23T20:50:30.982380+00:00",
+      "score": 5.8
     },
     {
-      "timestamp": "2026-03-23T22:50:21.687770+00:00",
-      "score": 4.2
+      "timestamp": "2026-03-23T22:16:17.008779+00:00",
+      "score": 5.2
     },
     {
-      "timestamp": "2026-03-24T00:40:05.855247+00:00",
-      "score": 3.4
+      "timestamp": "2026-03-23T23:42:03.035178+00:00",
+      "score": 4.6
     }
   ]
 }
