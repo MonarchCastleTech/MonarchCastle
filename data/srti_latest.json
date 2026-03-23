@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-23T07:24:32.912808+00:00",
+  "fetched_at": "2026-03-23T09:09:39.935863+00:00",
   "window_hours": 72,
-  "score": 10.2,
+  "score": 10.1,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 10.6,
-    "civilian_risk": 24.6
+    "civilian_risk": 24.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.62,
+      "score": 0.6,
       "tags": [
         "civilian_risk"
       ],
@@ -123,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-23T09:04:55.284111+00:00",
-      "score": 9.1
-    },
-    {
-      "timestamp": "2026-03-23T10:45:17.655414+00:00",
+      "timestamp": "2026-03-23T10:54:46.958918+00:00",
       "score": 8.3
     },
     {
-      "timestamp": "2026-03-23T12:25:40.026717+00:00",
+      "timestamp": "2026-03-23T12:39:53.981973+00:00",
       "score": 7.5
     },
     {
-      "timestamp": "2026-03-23T14:06:02.398020+00:00",
-      "score": 6.8
+      "timestamp": "2026-03-23T14:25:01.005028+00:00",
+      "score": 6.7
     },
     {
-      "timestamp": "2026-03-23T15:46:24.769323+00:00",
-      "score": 6.0
+      "timestamp": "2026-03-23T16:10:08.028083+00:00",
+      "score": 5.9
     },
     {
-      "timestamp": "2026-03-23T17:26:47.140626+00:00",
+      "timestamp": "2026-03-23T17:55:15.051138+00:00",
       "score": 5.2
+    },
+    {
+      "timestamp": "2026-03-23T19:40:22.074193+00:00",
+      "score": 4.4
     }
   ]
 }
