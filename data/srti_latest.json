@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-22T23:37:17.471173+00:00",
+  "fetched_at": "2026-03-23T03:17:51.736023+00:00",
   "window_hours": 72,
-  "score": 10.5,
+  "score": 10.4,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 10.6,
-    "civilian_risk": 26.2
+    "civilian_risk": 25.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -83,13 +83,13 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 13
+      "items": 10
     }
   ],
   "top_headlines": [
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.74,
+      "score": 0.68,
       "tags": [
         "civilian_risk"
       ],
@@ -123,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-23T00:37:59.176746+00:00",
-      "score": 13.5
+      "timestamp": "2026-03-23T06:58:26.000873+00:00",
+      "score": 11.0
     },
     {
-      "timestamp": "2026-03-23T01:38:40.882319+00:00",
-      "score": 12.9
+      "timestamp": "2026-03-23T10:39:00.265723+00:00",
+      "score": 10.3
     },
     {
-      "timestamp": "2026-03-23T02:39:22.587892+00:00",
-      "score": 12.4
+      "timestamp": "2026-03-23T14:19:34.530573+00:00",
+      "score": 9.6
     },
     {
-      "timestamp": "2026-03-23T03:40:04.293465+00:00",
-      "score": 11.9
+      "timestamp": "2026-03-23T18:00:08.795423+00:00",
+      "score": 8.8
     },
     {
-      "timestamp": "2026-03-23T04:40:45.999038+00:00",
-      "score": 11.4
+      "timestamp": "2026-03-23T21:40:43.060273+00:00",
+      "score": 8.1
     },
     {
-      "timestamp": "2026-03-23T05:41:27.704611+00:00",
-      "score": 10.9
+      "timestamp": "2026-03-24T01:21:17.325123+00:00",
+      "score": 7.4
     }
   ]
 }
