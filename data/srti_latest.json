@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-23T15:07:26.876784+00:00",
+  "fetched_at": "2026-03-23T17:03:23.987080+00:00",
   "window_hours": 72,
-  "score": 14.9,
+  "score": 14.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 20.6,
-    "civilian_risk": 23.0
+    "conflict_intensity": 20.4,
+    "civilian_risk": 22.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 46
+      "items": 49
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 30
+      "items": 31
     },
     {
       "name": "UN News Africa",
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-23T15:01:17+00:00",
-      "score": 0.84,
+      "score": 0.82,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +125,7 @@
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.51,
+      "score": 0.48,
       "tags": [
         "civilian_risk"
       ],
@@ -136,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-23T16:33:12.903183+00:00",
-      "score": 7.7
+      "timestamp": "2026-03-23T18:59:21.097376+00:00",
+      "score": 8.5
     },
     {
-      "timestamp": "2026-03-23T17:58:58.929582+00:00",
-      "score": 7.1
+      "timestamp": "2026-03-23T20:55:18.207672+00:00",
+      "score": 7.9
     },
     {
-      "timestamp": "2026-03-23T19:24:44.955981+00:00",
-      "score": 6.5
+      "timestamp": "2026-03-23T22:51:15.317968+00:00",
+      "score": 7.4
     },
     {
-      "timestamp": "2026-03-23T20:50:30.982380+00:00",
+      "timestamp": "2026-03-24T00:47:12.428264+00:00",
+      "score": 6.9
+    },
+    {
+      "timestamp": "2026-03-24T02:43:09.538560+00:00",
+      "score": 6.3
+    },
+    {
+      "timestamp": "2026-03-24T04:39:06.648856+00:00",
       "score": 5.8
-    },
-    {
-      "timestamp": "2026-03-23T22:16:17.008779+00:00",
-      "score": 5.2
-    },
-    {
-      "timestamp": "2026-03-23T23:42:03.035178+00:00",
-      "score": 4.6
     }
   ]
 }
