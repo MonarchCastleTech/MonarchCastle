@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-23T03:17:51.736023+00:00",
+  "fetched_at": "2026-03-23T05:44:10.541505+00:00",
   "window_hours": 72,
-  "score": 10.4,
+  "score": 10.3,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 10.6,
-    "civilian_risk": 25.5
+    "civilian_risk": 24.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.68,
+      "score": 0.65,
       "tags": [
         "civilian_risk"
       ],
@@ -123,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-23T06:58:26.000873+00:00",
-      "score": 11.0
+      "timestamp": "2026-03-23T08:10:29.346987+00:00",
+      "score": 10.0
     },
     {
-      "timestamp": "2026-03-23T10:39:00.265723+00:00",
-      "score": 10.3
+      "timestamp": "2026-03-23T10:36:48.152469+00:00",
+      "score": 9.2
     },
     {
-      "timestamp": "2026-03-23T14:19:34.530573+00:00",
-      "score": 9.6
+      "timestamp": "2026-03-23T13:03:06.957951+00:00",
+      "score": 8.5
     },
     {
-      "timestamp": "2026-03-23T18:00:08.795423+00:00",
-      "score": 8.8
+      "timestamp": "2026-03-23T15:29:25.763433+00:00",
+      "score": 7.7
     },
     {
-      "timestamp": "2026-03-23T21:40:43.060273+00:00",
-      "score": 8.1
+      "timestamp": "2026-03-23T17:55:44.568915+00:00",
+      "score": 7.0
     },
     {
-      "timestamp": "2026-03-24T01:21:17.325123+00:00",
-      "score": 7.4
+      "timestamp": "2026-03-23T20:22:03.374397+00:00",
+      "score": 6.2
     }
   ]
 }
