@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-23T19:07:44.386403+00:00",
+  "fetched_at": "2026-03-23T20:49:02.771700+00:00",
   "window_hours": 72,
-  "score": 6.0,
-  "risk_level": "LOW",
+  "score": 27.9,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 9.5,
-    "civilian_risk": 6.3
+    "conflict_intensity": 36.8,
+    "civilian_risk": 47.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 49
+      "items": 52
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "Short Cuts",
+      "link": "https://www.crisisgroup.org/opd/middle-east-north-africa/israelpalestine-iran-united-states/short-cuts",
+      "source": "Crisis Group",
+      "published_at": "2026-03-23T14:27:41+00:00",
+      "score": 5.25,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Nigerian police arrest 15 after viral videos of alleged sexual assault at festival",
       "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-23T15:01:17+00:00",
-      "score": 0.79,
+      "score": 0.77,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +125,7 @@
       "link": "https://www.bbc.com/news/articles/clyv1j8ne7ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-22T00:55:31+00:00",
-      "score": 0.45,
+      "score": 0.42,
       "tags": [
         "civilian_risk"
       ],
@@ -122,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-23T20:16:05.077875+00:00",
-      "score": 7.7
+      "timestamp": "2026-03-23T22:30:21.156997+00:00",
+      "score": 10.8
     },
     {
-      "timestamp": "2026-03-23T21:24:25.769347+00:00",
-      "score": 7.2
+      "timestamp": "2026-03-24T00:11:39.542294+00:00",
+      "score": 10.5
     },
     {
-      "timestamp": "2026-03-23T22:32:46.460819+00:00",
-      "score": 6.6
+      "timestamp": "2026-03-24T01:52:57.927591+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-03-23T23:41:07.152291+00:00",
-      "score": 6.1
+      "timestamp": "2026-03-24T03:34:16.312888+00:00",
+      "score": 9.9
     },
     {
-      "timestamp": "2026-03-24T00:49:27.843763+00:00",
-      "score": 5.5
+      "timestamp": "2026-03-24T05:15:34.698185+00:00",
+      "score": 9.6
     },
     {
-      "timestamp": "2026-03-24T01:57:48.535235+00:00",
-      "score": 5.0
+      "timestamp": "2026-03-24T06:56:53.083482+00:00",
+      "score": 9.3
     }
   ]
 }
