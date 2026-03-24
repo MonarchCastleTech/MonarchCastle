@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-24T15:11:37.104187+00:00",
+  "fetched_at": "2026-03-24T17:10:45.487724+00:00",
   "window_hours": 72,
-  "score": 10.0,
+  "score": 9.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 17.8,
+    "conflict_intensity": 17.2,
     "civilian_risk": 5.3
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 48
+      "items": 53
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-03-24T11:04:33+00:00",
-      "score": 0.92,
+      "score": 0.9,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-23T15:01:17+00:00",
-      "score": 0.56,
+      "score": 0.53,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-24T16:38:57.693142+00:00",
-      "score": 9.9
+      "timestamp": "2026-03-24T19:09:53.871261+00:00",
+      "score": 9.3
     },
     {
-      "timestamp": "2026-03-24T18:06:18.282097+00:00",
-      "score": 9.8
+      "timestamp": "2026-03-24T21:09:02.254798+00:00",
+      "score": 9.1
     },
     {
-      "timestamp": "2026-03-24T19:33:38.871052+00:00",
-      "score": 9.6
+      "timestamp": "2026-03-24T23:08:10.638335+00:00",
+      "score": 8.9
     },
     {
-      "timestamp": "2026-03-24T21:00:59.460007+00:00",
-      "score": 9.4
+      "timestamp": "2026-03-25T01:07:19.021872+00:00",
+      "score": 8.7
     },
     {
-      "timestamp": "2026-03-24T22:28:20.048962+00:00",
-      "score": 9.2
+      "timestamp": "2026-03-25T03:06:27.405409+00:00",
+      "score": 8.5
     },
     {
-      "timestamp": "2026-03-24T23:55:40.637917+00:00",
-      "score": 9.0
+      "timestamp": "2026-03-25T05:05:35.788946+00:00",
+      "score": 8.2
     }
   ]
 }
