@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-24T10:04:21.581980+00:00",
+  "fetched_at": "2026-03-24T11:05:06.202868+00:00",
   "window_hours": 72,
-  "score": 4.8,
+  "score": 10.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 7.4,
+    "conflict_intensity": 19.0,
     "civilian_risk": 5.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -94,11 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Nigerian refinery begins fuel exports to Africa",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
+      "source": "France 24 - Africa",
+      "published_at": "2026-03-24T11:04:33+00:00",
+      "score": 0.98,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Nigerian police arrest 15 after viral videos of alleged sexual assault at festival",
       "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-23T15:01:17+00:00",
-      "score": 0.62,
+      "score": 0.61,
       "tags": [
         "conflict_intensity"
       ],
@@ -122,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-24T11:05:59.352213+00:00",
-      "score": 11.8
+      "timestamp": "2026-03-24T12:05:50.823756+00:00",
+      "score": 11.4
     },
     {
-      "timestamp": "2026-03-24T12:07:37.122446+00:00",
-      "score": 11.7
+      "timestamp": "2026-03-24T13:06:35.444644+00:00",
+      "score": 11.3
     },
     {
-      "timestamp": "2026-03-24T13:09:14.892679+00:00",
-      "score": 11.7
+      "timestamp": "2026-03-24T14:07:20.065532+00:00",
+      "score": 11.2
     },
     {
-      "timestamp": "2026-03-24T14:10:52.662912+00:00",
-      "score": 11.7
+      "timestamp": "2026-03-24T15:08:04.686420+00:00",
+      "score": 11.2
     },
     {
-      "timestamp": "2026-03-24T15:12:30.433145+00:00",
-      "score": 11.6
+      "timestamp": "2026-03-24T16:08:49.307308+00:00",
+      "score": 11.1
     },
     {
-      "timestamp": "2026-03-24T16:14:08.203378+00:00",
-      "score": 11.6
+      "timestamp": "2026-03-24T17:09:33.928196+00:00",
+      "score": 11.0
     }
   ]
 }
