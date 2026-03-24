@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-24T22:42:03.405398+00:00",
+  "fetched_at": "2026-03-24T23:40:26.156669+00:00",
   "window_hours": 72,
-  "score": 19.6,
+  "score": 19.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 28.9,
+    "conflict_intensity": 28.7,
     "civilian_risk": 25.5
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 59
+      "items": 60
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Actionnariat populaire : L'APEC \u00e0 la conqu\u00eate des travailleurs de la Loterie nationale burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article145259",
       "source": "LeFaso",
-      "published_at": "2026-03-24T22:42:03.405398+00:00",
+      "published_at": "2026-03-24T23:40:26.156669+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Protection du Faso Dan Fani : Plus de 20 millions de textiles illicites saisis",
       "link": "https://lefaso.net/spip.php?article145252",
       "source": "LeFaso",
-      "published_at": "2026-03-24T22:42:03.405398+00:00",
+      "published_at": "2026-03-24T23:40:26.156669+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-03-24T11:04:33+00:00",
-      "score": 0.82,
+      "score": 0.81,
       "tags": [
         "conflict_intensity"
       ],
@@ -138,7 +138,7 @@
       "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-23T15:01:17+00:00",
-      "score": 0.47,
+      "score": 0.46,
       "tags": [
         "conflict_intensity"
       ],
@@ -162,28 +162,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-24T23:35:55.505834+00:00",
-      "score": 10.1
+      "timestamp": "2026-03-25T00:38:48.907940+00:00",
+      "score": 10.9
     },
     {
-      "timestamp": "2026-03-25T00:29:47.606270+00:00",
-      "score": 9.9
+      "timestamp": "2026-03-25T01:37:11.659211+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-03-25T01:23:39.706706+00:00",
-      "score": 9.6
+      "timestamp": "2026-03-25T02:35:34.410482+00:00",
+      "score": 10.5
     },
     {
-      "timestamp": "2026-03-25T02:17:31.807142+00:00",
-      "score": 9.4
+      "timestamp": "2026-03-25T03:33:57.161753+00:00",
+      "score": 10.4
     },
     {
-      "timestamp": "2026-03-25T03:11:23.907578+00:00",
-      "score": 9.2
+      "timestamp": "2026-03-25T04:32:19.913024+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-03-25T04:05:16.008014+00:00",
-      "score": 9.0
+      "timestamp": "2026-03-25T05:30:42.664295+00:00",
+      "score": 10.0
     }
   ]
 }
