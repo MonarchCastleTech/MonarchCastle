@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-24T11:54:01.243303+00:00",
+  "fetched_at": "2026-03-24T13:44:16.515232+00:00",
   "window_hours": 72,
-  "score": 10.5,
+  "score": 10.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 18.8,
+    "conflict_intensity": 18.2,
     "civilian_risk": 5.3
   },
   "weights": {
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-03-24T11:04:33+00:00",
-      "score": 0.97,
+      "score": 0.94,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-23T15:01:17+00:00",
-      "score": 0.6,
+      "score": 0.57,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-24T12:42:56.283738+00:00",
-      "score": 10.9
-    },
-    {
-      "timestamp": "2026-03-24T13:31:51.324173+00:00",
-      "score": 10.8
-    },
-    {
-      "timestamp": "2026-03-24T14:20:46.364608+00:00",
-      "score": 10.7
-    },
-    {
-      "timestamp": "2026-03-24T15:09:41.405043+00:00",
-      "score": 10.6
-    },
-    {
-      "timestamp": "2026-03-24T15:58:36.445478+00:00",
+      "timestamp": "2026-03-24T15:34:31.787161+00:00",
       "score": 10.5
     },
     {
-      "timestamp": "2026-03-24T16:47:31.485913+00:00",
-      "score": 10.4
+      "timestamp": "2026-03-24T17:24:47.059090+00:00",
+      "score": 10.3
+    },
+    {
+      "timestamp": "2026-03-24T19:15:02.331019+00:00",
+      "score": 10.2
+    },
+    {
+      "timestamp": "2026-03-24T21:05:17.602948+00:00",
+      "score": 10.0
+    },
+    {
+      "timestamp": "2026-03-24T22:55:32.874877+00:00",
+      "score": 9.9
+    },
+    {
+      "timestamp": "2026-03-25T00:45:48.146806+00:00",
+      "score": 9.8
     }
   ]
 }
