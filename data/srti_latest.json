@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-24T13:44:16.515232+00:00",
+  "fetched_at": "2026-03-24T15:11:37.104187+00:00",
   "window_hours": 72,
-  "score": 10.2,
+  "score": 10.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 18.2,
+    "conflict_intensity": 17.8,
     "civilian_risk": 5.3
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 46
+      "items": 48
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-03-24T11:04:33+00:00",
-      "score": 0.94,
+      "score": 0.92,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-23T15:01:17+00:00",
-      "score": 0.57,
+      "score": 0.56,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-24T15:34:31.787161+00:00",
-      "score": 10.5
-    },
-    {
-      "timestamp": "2026-03-24T17:24:47.059090+00:00",
-      "score": 10.3
-    },
-    {
-      "timestamp": "2026-03-24T19:15:02.331019+00:00",
-      "score": 10.2
-    },
-    {
-      "timestamp": "2026-03-24T21:05:17.602948+00:00",
-      "score": 10.0
-    },
-    {
-      "timestamp": "2026-03-24T22:55:32.874877+00:00",
+      "timestamp": "2026-03-24T16:38:57.693142+00:00",
       "score": 9.9
     },
     {
-      "timestamp": "2026-03-25T00:45:48.146806+00:00",
+      "timestamp": "2026-03-24T18:06:18.282097+00:00",
       "score": 9.8
+    },
+    {
+      "timestamp": "2026-03-24T19:33:38.871052+00:00",
+      "score": 9.6
+    },
+    {
+      "timestamp": "2026-03-24T21:00:59.460007+00:00",
+      "score": 9.4
+    },
+    {
+      "timestamp": "2026-03-24T22:28:20.048962+00:00",
+      "score": 9.2
+    },
+    {
+      "timestamp": "2026-03-24T23:55:40.637917+00:00",
+      "score": 9.0
     }
   ]
 }
