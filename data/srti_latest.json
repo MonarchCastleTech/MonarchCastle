@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-24T17:10:45.487724+00:00",
+  "fetched_at": "2026-03-24T19:16:35.059564+00:00",
   "window_hours": 72,
-  "score": 9.7,
+  "score": 9.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 17.2,
+    "conflict_intensity": 16.5,
     "civilian_risk": 5.3
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-03-24T11:04:33+00:00",
-      "score": 0.9,
+      "score": 0.87,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://www.bbc.com/news/articles/cd9vn71vjq1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-23T15:01:17+00:00",
-      "score": 0.53,
+      "score": 0.51,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-24T19:09:53.871261+00:00",
-      "score": 9.3
-    },
-    {
-      "timestamp": "2026-03-24T21:09:02.254798+00:00",
-      "score": 9.1
-    },
-    {
-      "timestamp": "2026-03-24T23:08:10.638335+00:00",
-      "score": 8.9
-    },
-    {
-      "timestamp": "2026-03-25T01:07:19.021872+00:00",
+      "timestamp": "2026-03-24T21:22:24.631404+00:00",
       "score": 8.7
     },
     {
-      "timestamp": "2026-03-25T03:06:27.405409+00:00",
-      "score": 8.5
+      "timestamp": "2026-03-24T23:28:14.203244+00:00",
+      "score": 8.4
     },
     {
-      "timestamp": "2026-03-25T05:05:35.788946+00:00",
+      "timestamp": "2026-03-25T01:34:03.775084+00:00",
       "score": 8.2
+    },
+    {
+      "timestamp": "2026-03-25T03:39:53.346924+00:00",
+      "score": 7.9
+    },
+    {
+      "timestamp": "2026-03-25T05:45:42.918764+00:00",
+      "score": 7.6
+    },
+    {
+      "timestamp": "2026-03-25T07:51:32.490604+00:00",
+      "score": 7.4
     }
   ]
 }
