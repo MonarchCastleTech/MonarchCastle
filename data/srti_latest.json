@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-25T21:50:10.028949+00:00",
+  "fetched_at": "2026-03-25T22:49:42.251998+00:00",
   "window_hours": 72,
-  "score": 35.3,
+  "score": 35.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 46.4,
+    "conflict_intensity": 46.2,
     "civilian_risk": 60.5
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Campagne nationale Deme Sira : Plus d'un milliard de FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article145290",
       "source": "LeFaso",
-      "published_at": "2026-03-25T21:50:10.028949+00:00",
+      "published_at": "2026-03-25T22:49:42.251998+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "La Team Europe soutient l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso, vecteur d'\u00e9galit\u00e9, de sant\u00e9, de s\u00e9curit\u00e9, d'opportunit\u00e9, de voix, de temps et de coh\u00e9sion sociale !",
       "link": "https://lefaso.net/spip.php?article145281",
       "source": "LeFaso",
-      "published_at": "2026-03-25T21:50:10.028949+00:00",
+      "published_at": "2026-03-25T22:49:42.251998+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Actionnariat populaire : L'APEC \u00e0 la conqu\u00eate des travailleurs de la Loterie nationale burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article145259",
       "source": "LeFaso",
-      "published_at": "2026-03-25T21:50:10.028949+00:00",
+      "published_at": "2026-03-25T22:49:42.251998+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Ouagadougou : Des adolescents interpell\u00e9s \u00e0 Tampouy pour des pratiques ill\u00e9gales dans une r\u00e9sidence",
       "link": "https://lefaso.net/spip.php?article145273",
       "source": "LeFaso",
-      "published_at": "2026-03-25T21:50:10.028949+00:00",
+      "published_at": "2026-03-25T22:49:42.251998+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,7 +151,7 @@
       "title": "Protection du Faso Dan Fani : Plus de 20 millions de textiles illicites saisis",
       "link": "https://lefaso.net/spip.php?article145252",
       "source": "LeFaso",
-      "published_at": "2026-03-25T21:50:10.028949+00:00",
+      "published_at": "2026-03-25T22:49:42.251998+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,7 +164,7 @@
       "title": "Trois formations certifiantes, avril 2026 : Saisissez l'opportunit\u00e9 d'obtenir un certificat d\u00e9livr\u00e9 par un institut sous-r\u00e9gional inter\u00e9tatique.",
       "link": "https://lefaso.net/spip.php?article145261",
       "source": "LeFaso",
-      "published_at": "2026-03-25T21:50:10.028949+00:00",
+      "published_at": "2026-03-25T22:49:42.251998+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +176,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-03-24T11:04:33+00:00",
-      "score": 0.51,
+      "score": 0.49,
       "tags": [
         "conflict_intensity"
       ],
@@ -187,28 +187,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-25T22:48:47.994358+00:00",
-      "score": 32.7
+      "timestamp": "2026-03-25T23:49:14.475047+00:00",
+      "score": 34.4
     },
     {
-      "timestamp": "2026-03-25T23:47:25.959767+00:00",
-      "score": 33.7
+      "timestamp": "2026-03-26T00:48:46.698096+00:00",
+      "score": 35.6
     },
     {
-      "timestamp": "2026-03-26T00:46:03.925176+00:00",
-      "score": 34.8
+      "timestamp": "2026-03-26T01:48:18.921145+00:00",
+      "score": 36.7
     },
     {
-      "timestamp": "2026-03-26T01:44:41.890585+00:00",
-      "score": 35.8
+      "timestamp": "2026-03-26T02:47:51.144194+00:00",
+      "score": 37.8
     },
     {
-      "timestamp": "2026-03-26T02:43:19.855994+00:00",
-      "score": 36.9
+      "timestamp": "2026-03-26T03:47:23.367243+00:00",
+      "score": 38.9
     },
     {
-      "timestamp": "2026-03-26T03:41:57.821403+00:00",
-      "score": 37.9
+      "timestamp": "2026-03-26T04:46:55.590292+00:00",
+      "score": 40.0
     }
   ]
 }
