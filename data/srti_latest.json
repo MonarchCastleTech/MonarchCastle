@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-03-25T11:51:17.719832+00:00",
+  "fetched_at": "2026-03-25T13:43:23.899220+00:00",
   "window_hours": 72,
-  "score": 21.3,
+  "score": 21.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 34.6,
+    "conflict_intensity": 34.3,
     "civilian_risk": 20.2
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Actionnariat populaire : L'APEC \u00e0 la conqu\u00eate des travailleurs de la Loterie nationale burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article145259",
       "source": "LeFaso",
-      "published_at": "2026-03-25T11:51:17.719832+00:00",
+      "published_at": "2026-03-25T13:43:23.899220+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Protection du Faso Dan Fani : Plus de 20 millions de textiles illicites saisis",
       "link": "https://lefaso.net/spip.php?article145252",
       "source": "LeFaso",
-      "published_at": "2026-03-25T11:51:17.719832+00:00",
+      "published_at": "2026-03-25T13:43:23.899220+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "title": "Trois formations certifiantes, avril 2026 : Saisissez l'opportunit\u00e9 d'obtenir un certificat d\u00e9livr\u00e9 par un institut sous-r\u00e9gional inter\u00e9tatique.",
       "link": "https://lefaso.net/spip.php?article145261",
       "source": "LeFaso",
-      "published_at": "2026-03-25T11:51:17.719832+00:00",
+      "published_at": "2026-03-25T13:43:23.899220+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +136,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-03-24T11:04:33+00:00",
-      "score": 0.64,
+      "score": 0.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -147,28 +147,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-25T12:40:41.969112+00:00",
-      "score": 24.5
+      "timestamp": "2026-03-25T15:35:30.078608+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-03-25T13:30:06.218392+00:00",
-      "score": 25.4
+      "timestamp": "2026-03-25T17:27:36.257996+00:00",
+      "score": 25.9
     },
     {
-      "timestamp": "2026-03-25T14:19:30.467672+00:00",
-      "score": 26.2
+      "timestamp": "2026-03-25T19:19:42.437384+00:00",
+      "score": 26.8
     },
     {
-      "timestamp": "2026-03-25T15:08:54.716952+00:00",
-      "score": 27.1
+      "timestamp": "2026-03-25T21:11:48.616772+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-03-25T15:58:18.966232+00:00",
-      "score": 28.0
+      "timestamp": "2026-03-25T23:03:54.796160+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-03-25T16:47:43.215512+00:00",
-      "score": 28.9
+      "timestamp": "2026-03-26T00:56:00.975548+00:00",
+      "score": 29.4
     }
   ]
 }
