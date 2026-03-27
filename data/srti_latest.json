@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-27T21:47:47.281330+00:00",
+  "fetched_at": "2026-03-27T22:45:26.516872+00:00",
   "window_hours": 72,
-  "score": 25.6,
+  "score": 21.5,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 60.5
+    "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 91
+      "items": 90
     },
     {
       "name": "ActuNiger",
@@ -59,7 +59,7 @@
       "name": "UN News Africa",
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
-      "items": 12
+      "items": 30
     },
     {
       "name": "Crisis Group",
@@ -97,7 +97,7 @@
       "title": "Campagne nationale Deme Sira : Plus d'un milliard de FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article145290",
       "source": "LeFaso",
-      "published_at": "2026-03-27T21:47:47.281330+00:00",
+      "published_at": "2026-03-27T22:45:26.516872+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "La Team Europe soutient l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso, vecteur d'\u00e9galit\u00e9, de sant\u00e9, de s\u00e9curit\u00e9, d'opportunit\u00e9, de voix, de temps et de coh\u00e9sion sociale !",
       "link": "https://lefaso.net/spip.php?article145281",
       "source": "LeFaso",
-      "published_at": "2026-03-27T21:47:47.281330+00:00",
+      "published_at": "2026-03-27T22:45:26.516872+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,37 +121,24 @@
       ]
     },
     {
-      "title": "Actionnariat populaire : L'APEC \u00e0 la conqu\u00eate des travailleurs de la Loterie nationale burkinab\u00e8",
-      "link": "https://lefaso.net/spip.php?article145259",
+      "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
+      "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-27T21:47:47.281330+00:00",
-      "score": 1.44,
+      "published_at": "2026-03-27T22:45:26.516872+00:00",
+      "score": 1.12,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
         "burkina",
-        "ouagadougou"
+        "burkina faso"
       ]
     },
     {
       "title": "Ouagadougou : Des adolescents interpell\u00e9s \u00e0 Tampouy pour des pratiques ill\u00e9gales dans une r\u00e9sidence",
       "link": "https://lefaso.net/spip.php?article145273",
       "source": "LeFaso",
-      "published_at": "2026-03-27T21:47:47.281330+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Protection du Faso Dan Fani : Plus de 20 millions de textiles illicites saisis",
-      "link": "https://lefaso.net/spip.php?article145252",
-      "source": "LeFaso",
-      "published_at": "2026-03-27T21:47:47.281330+00:00",
+      "published_at": "2026-03-27T22:45:26.516872+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-27T22:44:20.939273+00:00",
-      "score": 29.8
+      "timestamp": "2026-03-27T23:43:05.752414+00:00",
+      "score": 28.1
     },
     {
-      "timestamp": "2026-03-27T23:40:54.597216+00:00",
-      "score": 29.6
+      "timestamp": "2026-03-28T00:40:44.987956+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-03-28T00:37:28.255159+00:00",
-      "score": 29.3
+      "timestamp": "2026-03-28T01:38:24.223498+00:00",
+      "score": 27.4
     },
     {
-      "timestamp": "2026-03-28T01:34:01.913102+00:00",
-      "score": 29.1
+      "timestamp": "2026-03-28T02:36:03.459040+00:00",
+      "score": 27.0
     },
     {
-      "timestamp": "2026-03-28T02:30:35.571045+00:00",
-      "score": 28.8
+      "timestamp": "2026-03-28T03:33:42.694582+00:00",
+      "score": 26.7
     },
     {
-      "timestamp": "2026-03-28T03:27:09.228988+00:00",
-      "score": 28.6
+      "timestamp": "2026-03-28T04:31:21.930124+00:00",
+      "score": 26.3
     }
   ]
 }
