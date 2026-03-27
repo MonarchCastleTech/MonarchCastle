@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-27T15:01:37.161552+00:00",
+  "fetched_at": "2026-03-27T16:00:43.298826+00:00",
   "window_hours": 72,
   "score": 32.2,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86
+      "items": 90
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Campagne nationale Deme Sira : Plus d'un milliard de FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article145290",
       "source": "LeFaso",
-      "published_at": "2026-03-27T15:01:37.161552+00:00",
+      "published_at": "2026-03-27T16:00:43.298826+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "La Team Europe soutient l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso, vecteur d'\u00e9galit\u00e9, de sant\u00e9, de s\u00e9curit\u00e9, d'opportunit\u00e9, de voix, de temps et de coh\u00e9sion sociale !",
       "link": "https://lefaso.net/spip.php?article145281",
       "source": "LeFaso",
-      "published_at": "2026-03-27T15:01:37.161552+00:00",
+      "published_at": "2026-03-27T16:00:43.298826+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Actionnariat populaire : L'APEC \u00e0 la conqu\u00eate des travailleurs de la Loterie nationale burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article145259",
       "source": "LeFaso",
-      "published_at": "2026-03-27T15:01:37.161552+00:00",
+      "published_at": "2026-03-27T16:00:43.298826+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Ouagadougou : Des adolescents interpell\u00e9s \u00e0 Tampouy pour des pratiques ill\u00e9gales dans une r\u00e9sidence",
       "link": "https://lefaso.net/spip.php?article145273",
       "source": "LeFaso",
-      "published_at": "2026-03-27T15:01:37.161552+00:00",
+      "published_at": "2026-03-27T16:00:43.298826+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,7 +151,7 @@
       "title": "Protection du Faso Dan Fani : Plus de 20 millions de textiles illicites saisis",
       "link": "https://lefaso.net/spip.php?article145252",
       "source": "LeFaso",
-      "published_at": "2026-03-27T15:01:37.161552+00:00",
+      "published_at": "2026-03-27T16:00:43.298826+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,7 +164,7 @@
       "title": "Trois formations certifiantes, avril 2026 : Saisissez l'opportunit\u00e9 d'obtenir un certificat d\u00e9livr\u00e9 par un institut sous-r\u00e9gional inter\u00e9tatique.",
       "link": "https://lefaso.net/spip.php?article145261",
       "source": "LeFaso",
-      "published_at": "2026-03-27T15:01:37.161552+00:00",
+      "published_at": "2026-03-27T16:00:43.298826+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,28 +174,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-27T16:37:15.613545+00:00",
-      "score": 33.1
-    },
-    {
-      "timestamp": "2026-03-27T18:12:54.065538+00:00",
-      "score": 33.0
-    },
-    {
-      "timestamp": "2026-03-27T19:48:32.517531+00:00",
+      "timestamp": "2026-03-27T16:59:49.436100+00:00",
       "score": 32.9
     },
     {
-      "timestamp": "2026-03-27T21:24:10.969524+00:00",
-      "score": 32.9
-    },
-    {
-      "timestamp": "2026-03-27T22:59:49.421517+00:00",
+      "timestamp": "2026-03-27T17:58:55.573374+00:00",
       "score": 32.8
     },
     {
-      "timestamp": "2026-03-28T00:35:27.873510+00:00",
+      "timestamp": "2026-03-27T18:58:01.710648+00:00",
       "score": 32.7
+    },
+    {
+      "timestamp": "2026-03-27T19:57:07.847922+00:00",
+      "score": 32.6
+    },
+    {
+      "timestamp": "2026-03-27T20:56:13.985196+00:00",
+      "score": 32.5
+    },
+    {
+      "timestamp": "2026-03-27T21:55:20.122470+00:00",
+      "score": 32.4
     }
   ]
 }
