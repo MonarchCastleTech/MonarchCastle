@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-03-27T11:01:00.404592+00:00",
+  "fetched_at": "2026-03-27T11:50:27.894695+00:00",
   "window_hours": 72,
-  "score": 34.3,
+  "score": 32.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 44.4,
+    "conflict_intensity": 40.3,
     "civilian_risk": 60.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Campagne nationale Deme Sira : Plus d'un milliard de FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article145290",
       "source": "LeFaso",
-      "published_at": "2026-03-27T11:01:00.404592+00:00",
+      "published_at": "2026-03-27T11:50:27.894695+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "La Team Europe soutient l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso, vecteur d'\u00e9galit\u00e9, de sant\u00e9, de s\u00e9curit\u00e9, d'opportunit\u00e9, de voix, de temps et de coh\u00e9sion sociale !",
       "link": "https://lefaso.net/spip.php?article145281",
       "source": "LeFaso",
-      "published_at": "2026-03-27T11:01:00.404592+00:00",
+      "published_at": "2026-03-27T11:50:27.894695+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Actionnariat populaire : L'APEC \u00e0 la conqu\u00eate des travailleurs de la Loterie nationale burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article145259",
       "source": "LeFaso",
-      "published_at": "2026-03-27T11:01:00.404592+00:00",
+      "published_at": "2026-03-27T11:50:27.894695+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Ouagadougou : Des adolescents interpell\u00e9s \u00e0 Tampouy pour des pratiques ill\u00e9gales dans une r\u00e9sidence",
       "link": "https://lefaso.net/spip.php?article145273",
       "source": "LeFaso",
-      "published_at": "2026-03-27T11:01:00.404592+00:00",
+      "published_at": "2026-03-27T11:50:27.894695+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,7 +151,7 @@
       "title": "Protection du Faso Dan Fani : Plus de 20 millions de textiles illicites saisis",
       "link": "https://lefaso.net/spip.php?article145252",
       "source": "LeFaso",
-      "published_at": "2026-03-27T11:01:00.404592+00:00",
+      "published_at": "2026-03-27T11:50:27.894695+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,51 +164,38 @@
       "title": "Trois formations certifiantes, avril 2026 : Saisissez l'opportunit\u00e9 d'obtenir un certificat d\u00e9livr\u00e9 par un institut sous-r\u00e9gional inter\u00e9tatique.",
       "link": "https://lefaso.net/spip.php?article145261",
       "source": "LeFaso",
-      "published_at": "2026-03-27T11:01:00.404592+00:00",
+      "published_at": "2026-03-27T11:50:27.894695+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": []
-    },
-    {
-      "title": "Nigerian refinery begins fuel exports to Africa",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260324-nigerian-refinery-begins-fuel-exports-to-africa",
-      "source": "France 24 - Africa",
-      "published_at": "2026-03-24T11:04:33+00:00",
-      "score": 0.34,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-27T11:59:08.174947+00:00",
-      "score": 34.6
+      "timestamp": "2026-03-27T12:39:55.384798+00:00",
+      "score": 34.0
     },
     {
-      "timestamp": "2026-03-27T12:57:15.945302+00:00",
-      "score": 34.6
+      "timestamp": "2026-03-27T13:29:22.874901+00:00",
+      "score": 34.0
     },
     {
-      "timestamp": "2026-03-27T13:55:23.715657+00:00",
-      "score": 34.6
+      "timestamp": "2026-03-27T14:18:50.365004+00:00",
+      "score": 33.9
     },
     {
-      "timestamp": "2026-03-27T14:53:31.486012+00:00",
-      "score": 34.7
+      "timestamp": "2026-03-27T15:08:17.855107+00:00",
+      "score": 33.9
     },
     {
-      "timestamp": "2026-03-27T15:51:39.256367+00:00",
-      "score": 34.7
+      "timestamp": "2026-03-27T15:57:45.345210+00:00",
+      "score": 33.9
     },
     {
-      "timestamp": "2026-03-27T16:49:47.026722+00:00",
-      "score": 34.7
+      "timestamp": "2026-03-27T16:47:12.835313+00:00",
+      "score": 33.9
     }
   ]
 }
