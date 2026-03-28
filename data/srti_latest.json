@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-28T02:54:20.965710+00:00",
+  "fetched_at": "2026-03-28T05:01:31.060030+00:00",
   "window_hours": 72,
   "score": 21.5,
   "risk_level": "GUARDED",
@@ -97,7 +97,7 @@
       "title": "Campagne nationale Deme Sira : Plus d'un milliard de FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article145290",
       "source": "LeFaso",
-      "published_at": "2026-03-28T02:54:20.965710+00:00",
+      "published_at": "2026-03-28T05:01:31.060030+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "La Team Europe soutient l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso, vecteur d'\u00e9galit\u00e9, de sant\u00e9, de s\u00e9curit\u00e9, d'opportunit\u00e9, de voix, de temps et de coh\u00e9sion sociale !",
       "link": "https://lefaso.net/spip.php?article145281",
       "source": "LeFaso",
-      "published_at": "2026-03-28T02:54:20.965710+00:00",
+      "published_at": "2026-03-28T05:01:31.060030+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-28T02:54:20.965710+00:00",
+      "published_at": "2026-03-28T05:01:31.060030+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,7 +138,7 @@
       "title": "Ouagadougou : Des adolescents interpell\u00e9s \u00e0 Tampouy pour des pratiques ill\u00e9gales dans une r\u00e9sidence",
       "link": "https://lefaso.net/spip.php?article145273",
       "source": "LeFaso",
-      "published_at": "2026-03-28T02:54:20.965710+00:00",
+      "published_at": "2026-03-28T05:01:31.060030+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-28T06:07:34.572803+00:00",
-      "score": 24.9
+      "timestamp": "2026-03-28T07:08:41.154350+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-03-28T09:20:48.179896+00:00",
-      "score": 24.4
+      "timestamp": "2026-03-28T09:15:51.248670+00:00",
+      "score": 23.0
     },
     {
-      "timestamp": "2026-03-28T12:34:01.786989+00:00",
-      "score": 23.9
+      "timestamp": "2026-03-28T11:23:01.342990+00:00",
+      "score": 22.4
     },
     {
-      "timestamp": "2026-03-28T15:47:15.394082+00:00",
-      "score": 23.4
+      "timestamp": "2026-03-28T13:30:11.437310+00:00",
+      "score": 21.8
     },
     {
-      "timestamp": "2026-03-28T19:00:29.001175+00:00",
-      "score": 22.8
+      "timestamp": "2026-03-28T15:37:21.531630+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-03-28T22:13:42.608268+00:00",
-      "score": 22.3
+      "timestamp": "2026-03-28T17:44:31.625950+00:00",
+      "score": 20.6
     }
   ]
 }
