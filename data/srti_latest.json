@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-28T22:39:56.580035+00:00",
+  "fetched_at": "2026-03-28T23:40:07.741357+00:00",
   "window_hours": 72,
   "score": 10.7,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Campagne nationale Deme Sira : Plus d'un milliard de FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article145290",
       "source": "LeFaso",
-      "published_at": "2026-03-28T22:39:56.580035+00:00",
+      "published_at": "2026-03-28T23:40:07.741357+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-28T22:39:56.580035+00:00",
+      "published_at": "2026-03-28T23:40:07.741357+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-28T23:41:13.205113+00:00",
-      "score": 12.4
+      "timestamp": "2026-03-29T00:40:18.902679+00:00",
+      "score": 11.8
     },
     {
-      "timestamp": "2026-03-29T00:42:29.830191+00:00",
-      "score": 11.7
+      "timestamp": "2026-03-29T01:40:30.064001+00:00",
+      "score": 11.2
     },
     {
-      "timestamp": "2026-03-29T01:43:46.455269+00:00",
-      "score": 11.1
+      "timestamp": "2026-03-29T02:40:41.225323+00:00",
+      "score": 10.6
     },
     {
-      "timestamp": "2026-03-29T02:45:03.080347+00:00",
-      "score": 10.4
+      "timestamp": "2026-03-29T03:40:52.386645+00:00",
+      "score": 10.0
     },
     {
-      "timestamp": "2026-03-29T03:46:19.705425+00:00",
-      "score": 9.8
+      "timestamp": "2026-03-29T04:41:03.547967+00:00",
+      "score": 9.3
     },
     {
-      "timestamp": "2026-03-29T04:47:36.330503+00:00",
-      "score": 9.1
+      "timestamp": "2026-03-29T05:41:14.709289+00:00",
+      "score": 8.7
     }
   ]
 }
