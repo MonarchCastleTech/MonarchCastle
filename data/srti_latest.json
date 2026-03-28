@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-28T15:39:57.906700+00:00",
+  "fetched_at": "2026-03-28T16:46:27.939715+00:00",
   "window_hours": 72,
-  "score": 21.5,
-  "risk_level": "GUARDED",
+  "score": 14.8,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 26.9,
+    "conflict_intensity": 13.4,
     "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31
+      "items": 33
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Campagne nationale Deme Sira : Plus d'un milliard de FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article145290",
       "source": "LeFaso",
-      "published_at": "2026-03-28T15:39:57.906700+00:00",
+      "published_at": "2026-03-28T16:46:27.939715+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "La Team Europe soutient l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso, vecteur d'\u00e9galit\u00e9, de sant\u00e9, de s\u00e9curit\u00e9, d'opportunit\u00e9, de voix, de temps et de coh\u00e9sion sociale !",
       "link": "https://lefaso.net/spip.php?article145281",
       "source": "LeFaso",
-      "published_at": "2026-03-28T15:39:57.906700+00:00",
+      "published_at": "2026-03-28T16:46:27.939715+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-28T15:39:57.906700+00:00",
+      "published_at": "2026-03-28T16:46:27.939715+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,45 +133,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "Ouagadougou : Des adolescents interpell\u00e9s \u00e0 Tampouy pour des pratiques ill\u00e9gales dans une r\u00e9sidence",
-      "link": "https://lefaso.net/spip.php?article145273",
-      "source": "LeFaso",
-      "published_at": "2026-03-28T15:39:57.906700+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "ouagadougou"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-28T16:38:27.189051+00:00",
-      "score": 17.5
+      "timestamp": "2026-03-28T17:52:57.972730+00:00",
+      "score": 16.4
     },
     {
-      "timestamp": "2026-03-28T17:36:56.471402+00:00",
-      "score": 16.8
+      "timestamp": "2026-03-28T18:59:28.005745+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-03-28T18:35:25.753753+00:00",
-      "score": 16.1
+      "timestamp": "2026-03-28T20:05:58.038760+00:00",
+      "score": 15.0
     },
     {
-      "timestamp": "2026-03-28T19:33:55.036104+00:00",
-      "score": 15.5
+      "timestamp": "2026-03-28T21:12:28.071775+00:00",
+      "score": 14.3
     },
     {
-      "timestamp": "2026-03-28T20:32:24.318455+00:00",
-      "score": 14.8
+      "timestamp": "2026-03-28T22:18:58.104790+00:00",
+      "score": 13.6
     },
     {
-      "timestamp": "2026-03-28T21:30:53.600806+00:00",
-      "score": 14.1
+      "timestamp": "2026-03-28T23:25:28.137805+00:00",
+      "score": 12.9
     }
   ]
 }
