@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-28T18:55:52.491435+00:00",
+  "fetched_at": "2026-03-28T19:37:42.105320+00:00",
   "window_hours": 72,
   "score": 14.8,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Campagne nationale Deme Sira : Plus d'un milliard de FCFA mobilis\u00e9s",
       "link": "https://lefaso.net/spip.php?article145290",
       "source": "LeFaso",
-      "published_at": "2026-03-28T18:55:52.491435+00:00",
+      "published_at": "2026-03-28T19:37:42.105320+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "La Team Europe soutient l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso, vecteur d'\u00e9galit\u00e9, de sant\u00e9, de s\u00e9curit\u00e9, d'opportunit\u00e9, de voix, de temps et de coh\u00e9sion sociale !",
       "link": "https://lefaso.net/spip.php?article145281",
       "source": "LeFaso",
-      "published_at": "2026-03-28T18:55:52.491435+00:00",
+      "published_at": "2026-03-28T19:37:42.105320+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-28T18:55:52.491435+00:00",
+      "published_at": "2026-03-28T19:37:42.105320+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,28 +137,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-28T20:12:44.489203+00:00",
-      "score": 14.7
+      "timestamp": "2026-03-28T20:19:31.719205+00:00",
+      "score": 14.0
     },
     {
-      "timestamp": "2026-03-28T21:29:36.486971+00:00",
-      "score": 13.9
+      "timestamp": "2026-03-28T21:01:21.333090+00:00",
+      "score": 13.3
     },
     {
-      "timestamp": "2026-03-28T22:46:28.484739+00:00",
-      "score": 13.2
-    },
-    {
-      "timestamp": "2026-03-29T00:03:20.482507+00:00",
+      "timestamp": "2026-03-28T21:43:10.946975+00:00",
       "score": 12.5
     },
     {
-      "timestamp": "2026-03-29T01:20:12.480275+00:00",
+      "timestamp": "2026-03-28T22:25:00.560860+00:00",
       "score": 11.8
     },
     {
-      "timestamp": "2026-03-29T02:37:04.478043+00:00",
+      "timestamp": "2026-03-28T23:06:50.174745+00:00",
       "score": 11.1
+    },
+    {
+      "timestamp": "2026-03-28T23:48:39.788630+00:00",
+      "score": 10.4
     }
   ]
 }
