@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29T09:48:56.906339+00:00",
+  "fetched_at": "2026-03-29T10:47:13.152247+00:00",
   "window_hours": 72,
   "score": 6.7,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-29T09:48:56.906339+00:00",
+      "published_at": "2026-03-29T10:47:13.152247+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,28 +110,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-29T10:44:31.246357+00:00",
-      "score": 5.9
+      "timestamp": "2026-03-29T11:45:29.398155+00:00",
+      "score": 4.9
     },
     {
-      "timestamp": "2026-03-29T11:40:05.586375+00:00",
-      "score": 5.1
+      "timestamp": "2026-03-29T12:43:45.644063+00:00",
+      "score": 4.1
     },
     {
-      "timestamp": "2026-03-29T12:35:39.926393+00:00",
-      "score": 4.3
+      "timestamp": "2026-03-29T13:42:01.889971+00:00",
+      "score": 3.3
     },
     {
-      "timestamp": "2026-03-29T13:31:14.266411+00:00",
-      "score": 3.5
+      "timestamp": "2026-03-29T14:40:18.135879+00:00",
+      "score": 2.5
     },
     {
-      "timestamp": "2026-03-29T14:26:48.606429+00:00",
-      "score": 2.7
+      "timestamp": "2026-03-29T15:38:34.381787+00:00",
+      "score": 1.6
     },
     {
-      "timestamp": "2026-03-29T15:22:22.946447+00:00",
-      "score": 1.9
+      "timestamp": "2026-03-29T16:36:50.627695+00:00",
+      "score": 0.8
     }
   ]
 }
