@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29T07:16:26.583323+00:00",
+  "fetched_at": "2026-03-29T08:53:22.566321+00:00",
   "window_hours": 72,
   "score": 6.7,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-29T07:16:26.583323+00:00",
+      "published_at": "2026-03-29T08:53:22.566321+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,28 +110,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-29T08:45:07.790599+00:00",
-      "score": 8.4
+      "timestamp": "2026-03-29T10:30:18.549319+00:00",
+      "score": 7.1
     },
     {
-      "timestamp": "2026-03-29T10:13:48.997875+00:00",
-      "score": 7.7
-    },
-    {
-      "timestamp": "2026-03-29T11:42:30.205151+00:00",
-      "score": 7.0
-    },
-    {
-      "timestamp": "2026-03-29T13:11:11.412427+00:00",
+      "timestamp": "2026-03-29T12:07:14.532317+00:00",
       "score": 6.3
     },
     {
-      "timestamp": "2026-03-29T14:39:52.619703+00:00",
+      "timestamp": "2026-03-29T13:44:10.515315+00:00",
       "score": 5.6
     },
     {
-      "timestamp": "2026-03-29T16:08:33.826979+00:00",
-      "score": 4.9
+      "timestamp": "2026-03-29T15:21:06.498313+00:00",
+      "score": 4.8
+    },
+    {
+      "timestamp": "2026-03-29T16:58:02.481311+00:00",
+      "score": 4.1
+    },
+    {
+      "timestamp": "2026-03-29T18:34:58.464309+00:00",
+      "score": 3.3
     }
   ]
 }
