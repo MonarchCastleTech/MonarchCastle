@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-29T21:41:24.353864+00:00",
+  "fetched_at": "2026-03-29T22:42:52.003508+00:00",
   "window_hours": 72,
   "score": 6.7,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 56
+      "items": 58
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-29T21:41:24.353864+00:00",
+      "published_at": "2026-03-29T22:42:52.003508+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,28 +110,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-29T22:37:23.636462+00:00",
-      "score": 3.9
+      "timestamp": "2026-03-29T23:44:19.653152+00:00",
+      "score": 4.0
     },
     {
-      "timestamp": "2026-03-29T23:33:22.919060+00:00",
-      "score": 3.5
+      "timestamp": "2026-03-30T00:45:47.302796+00:00",
+      "score": 3.6
     },
     {
-      "timestamp": "2026-03-30T00:29:22.201658+00:00",
-      "score": 3.0
+      "timestamp": "2026-03-30T01:47:14.952440+00:00",
+      "score": 3.3
     },
     {
-      "timestamp": "2026-03-30T01:25:21.484256+00:00",
-      "score": 2.6
+      "timestamp": "2026-03-30T02:48:42.602084+00:00",
+      "score": 2.9
     },
     {
-      "timestamp": "2026-03-30T02:21:20.766854+00:00",
-      "score": 2.2
+      "timestamp": "2026-03-30T03:50:10.251728+00:00",
+      "score": 2.5
     },
     {
-      "timestamp": "2026-03-30T03:17:20.049452+00:00",
-      "score": 1.8
+      "timestamp": "2026-03-30T04:51:37.901372+00:00",
+      "score": 2.1
     }
   ]
 }
