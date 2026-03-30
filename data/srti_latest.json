@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-30T03:32:06.343325+00:00",
+  "fetched_at": "2026-03-30T06:04:12.309161+00:00",
   "window_hours": 72,
   "score": 10.7,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-03-30T03:32:06.343325+00:00",
+      "published_at": "2026-03-30T06:04:12.309161+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-30T03:32:06.343325+00:00",
+      "published_at": "2026-03-30T06:04:12.309161+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-30T07:21:35.181457+00:00",
-      "score": 5.9
+      "timestamp": "2026-03-30T08:36:18.274997+00:00",
+      "score": 6.9
     },
     {
-      "timestamp": "2026-03-30T11:11:04.019589+00:00",
-      "score": 5.7
+      "timestamp": "2026-03-30T11:08:24.240833+00:00",
+      "score": 6.8
     },
     {
-      "timestamp": "2026-03-30T15:00:32.857721+00:00",
-      "score": 5.5
+      "timestamp": "2026-03-30T13:40:30.206669+00:00",
+      "score": 6.6
     },
     {
-      "timestamp": "2026-03-30T18:50:01.695853+00:00",
-      "score": 5.3
+      "timestamp": "2026-03-30T16:12:36.172505+00:00",
+      "score": 6.5
     },
     {
-      "timestamp": "2026-03-30T22:39:30.533985+00:00",
-      "score": 5.1
+      "timestamp": "2026-03-30T18:44:42.138341+00:00",
+      "score": 6.4
     },
     {
-      "timestamp": "2026-03-31T02:28:59.372117+00:00",
-      "score": 4.9
+      "timestamp": "2026-03-30T21:16:48.104177+00:00",
+      "score": 6.3
     }
   ]
 }
