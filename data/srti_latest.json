@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-30T15:15:05.662660+00:00",
+  "fetched_at": "2026-03-30T17:07:40.970984+00:00",
   "window_hours": 72,
-  "score": 23.3,
+  "score": 23.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 32.8,
-    "civilian_risk": 34.7
+    "conflict_intensity": 33.5,
+    "civilian_risk": 35.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "UN News Africa",
@@ -97,8 +97,8 @@
       "title": "48-hour curfew imposed after attack on bar in Nigerian city",
       "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-03-30T12:23:38+00:00",
-      "score": 2.65,
+      "published_at": "2026-03-30T16:44:28+00:00",
+      "score": 2.75,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-03-30T15:15:05.662660+00:00",
+      "published_at": "2026-03-30T17:07:40.970984+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-30T15:15:05.662660+00:00",
+      "published_at": "2026-03-30T17:07:40.970984+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-30T16:34:16.300618+00:00",
-      "score": 14.9
+      "timestamp": "2026-03-30T19:00:16.279308+00:00",
+      "score": 17.2
     },
     {
-      "timestamp": "2026-03-30T17:53:26.938576+00:00",
-      "score": 15.4
+      "timestamp": "2026-03-30T20:52:51.587632+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-03-30T19:12:37.576534+00:00",
-      "score": 15.9
+      "timestamp": "2026-03-30T22:45:26.895956+00:00",
+      "score": 18.3
     },
     {
-      "timestamp": "2026-03-30T20:31:48.214492+00:00",
-      "score": 16.3
+      "timestamp": "2026-03-31T00:38:02.204280+00:00",
+      "score": 18.9
     },
     {
-      "timestamp": "2026-03-30T21:50:58.852450+00:00",
-      "score": 16.8
+      "timestamp": "2026-03-31T02:30:37.512604+00:00",
+      "score": 19.5
     },
     {
-      "timestamp": "2026-03-30T23:10:09.490408+00:00",
-      "score": 17.3
+      "timestamp": "2026-03-31T04:23:12.820928+00:00",
+      "score": 20.1
     }
   ]
 }
