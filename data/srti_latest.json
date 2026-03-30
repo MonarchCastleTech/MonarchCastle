@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-30T19:13:20.375406+00:00",
+  "fetched_at": "2026-03-30T20:57:01.871044+00:00",
   "window_hours": 72,
-  "score": 23.4,
+  "score": 23.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 32.9,
-    "civilian_risk": 34.8
+    "conflict_intensity": 32.4,
+    "civilian_risk": 34.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 56
+      "items": 57
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-30T16:44:28+00:00",
-      "score": 2.66,
+      "score": 2.6,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-03-30T19:13:20.375406+00:00",
+      "published_at": "2026-03-30T20:57:01.871044+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-30T19:13:20.375406+00:00",
+      "published_at": "2026-03-30T20:57:01.871044+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-30T21:18:59.779828+00:00",
-      "score": 19.1
+      "timestamp": "2026-03-30T22:40:43.366682+00:00",
+      "score": 20.9
     },
     {
-      "timestamp": "2026-03-30T23:24:39.184250+00:00",
-      "score": 19.8
+      "timestamp": "2026-03-31T00:24:24.862320+00:00",
+      "score": 21.6
     },
     {
-      "timestamp": "2026-03-31T01:30:18.588672+00:00",
-      "score": 20.5
+      "timestamp": "2026-03-31T02:08:06.357958+00:00",
+      "score": 22.4
     },
     {
-      "timestamp": "2026-03-31T03:35:57.993094+00:00",
-      "score": 21.2
+      "timestamp": "2026-03-31T03:51:47.853596+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-03-31T05:41:37.397516+00:00",
-      "score": 21.9
+      "timestamp": "2026-03-31T05:35:29.349234+00:00",
+      "score": 24.0
     },
     {
-      "timestamp": "2026-03-31T07:47:16.801938+00:00",
-      "score": 22.6
+      "timestamp": "2026-03-31T07:19:10.844872+00:00",
+      "score": 24.7
     }
   ]
 }
