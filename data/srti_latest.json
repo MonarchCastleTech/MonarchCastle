@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-30T09:23:51.599700+00:00",
+  "fetched_at": "2026-03-30T11:12:04.770226+00:00",
   "window_hours": 72,
   "score": 10.7,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 55
+      "items": 58
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-03-30T09:23:51.599700+00:00",
+      "published_at": "2026-03-30T11:12:04.770226+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina : WaterAid fait le point sur un projet d'eau et d'assainissement dans le Bassitenga",
       "link": "https://lefaso.net/spip.php?article145344",
       "source": "LeFaso",
-      "published_at": "2026-03-30T09:23:51.599700+00:00",
+      "published_at": "2026-03-30T11:12:04.770226+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-30T10:49:51.905263+00:00",
-      "score": 9.0
+      "timestamp": "2026-03-30T13:00:17.940752+00:00",
+      "score": 9.7
     },
     {
-      "timestamp": "2026-03-30T12:15:52.210826+00:00",
-      "score": 9.1
+      "timestamp": "2026-03-30T14:48:31.111278+00:00",
+      "score": 9.9
     },
     {
-      "timestamp": "2026-03-30T13:41:52.516389+00:00",
-      "score": 9.2
+      "timestamp": "2026-03-30T16:36:44.281804+00:00",
+      "score": 10.0
     },
     {
-      "timestamp": "2026-03-30T15:07:52.821952+00:00",
-      "score": 9.2
+      "timestamp": "2026-03-30T18:24:57.452330+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-03-30T16:33:53.127515+00:00",
-      "score": 9.3
+      "timestamp": "2026-03-30T20:13:10.622856+00:00",
+      "score": 10.3
     },
     {
-      "timestamp": "2026-03-30T17:59:53.433078+00:00",
-      "score": 9.4
+      "timestamp": "2026-03-30T22:01:23.793382+00:00",
+      "score": 10.5
     }
   ]
 }
