@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-31T11:57:47.850383+00:00",
+  "fetched_at": "2026-03-31T13:55:42.396742+00:00",
   "window_hours": 72,
-  "score": 17.0,
+  "score": 16.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 20.0,
-    "civilian_risk": 35.2
+    "conflict_intensity": 19.4,
+    "civilian_risk": 34.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 67
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 8
+      "items": 9
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-31T11:22:59+00:00",
-      "score": 2.74,
+      "score": 2.66,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-03-31T11:57:47.850383+00:00",
+      "published_at": "2026-03-31T13:55:42.396742+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-31T12:50:31.003536+00:00",
-      "score": 20.3
+      "timestamp": "2026-03-31T15:53:36.943101+00:00",
+      "score": 19.9
     },
     {
-      "timestamp": "2026-03-31T13:43:14.156689+00:00",
-      "score": 20.7
+      "timestamp": "2026-03-31T17:51:31.489460+00:00",
+      "score": 20.2
     },
     {
-      "timestamp": "2026-03-31T14:35:57.309842+00:00",
-      "score": 21.2
+      "timestamp": "2026-03-31T19:49:26.035819+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-03-31T15:28:40.462995+00:00",
-      "score": 21.6
+      "timestamp": "2026-03-31T21:47:20.582178+00:00",
+      "score": 21.0
     },
     {
-      "timestamp": "2026-03-31T16:21:23.616148+00:00",
-      "score": 22.1
+      "timestamp": "2026-03-31T23:45:15.128537+00:00",
+      "score": 21.4
     },
     {
-      "timestamp": "2026-03-31T17:14:06.769301+00:00",
-      "score": 22.5
+      "timestamp": "2026-04-01T01:43:09.674896+00:00",
+      "score": 21.8
     }
   ]
 }
