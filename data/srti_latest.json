@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-31T21:50:24.752878+00:00",
+  "fetched_at": "2026-03-31T22:45:54.870874+00:00",
   "window_hours": 72,
-  "score": 35.4,
+  "score": 35.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 57.6,
-    "civilian_risk": 33.1
+    "conflict_intensity": 57.3,
+    "civilian_risk": 32.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-31T11:22:59+00:00",
-      "score": 2.36,
+      "score": 2.32,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-03-31T21:50:24.752878+00:00",
+      "published_at": "2026-03-31T22:45:54.870874+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145428",
       "source": "LeFaso",
-      "published_at": "2026-03-31T21:50:24.752878+00:00",
+      "published_at": "2026-03-31T22:45:54.870874+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +140,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-03-31T21:50:24.752878+00:00",
+      "published_at": "2026-03-31T22:45:54.870874+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -155,7 +155,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-03-31T21:50:24.752878+00:00",
+      "published_at": "2026-03-31T22:45:54.870874+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,28 +165,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-31T22:47:56.297235+00:00",
-      "score": 26.5
+      "timestamp": "2026-03-31T23:41:24.988870+00:00",
+      "score": 28.3
     },
     {
-      "timestamp": "2026-03-31T23:45:27.841592+00:00",
-      "score": 27.1
+      "timestamp": "2026-04-01T00:36:55.106866+00:00",
+      "score": 28.9
     },
     {
-      "timestamp": "2026-04-01T00:42:59.385949+00:00",
-      "score": 27.6
+      "timestamp": "2026-04-01T01:32:25.224862+00:00",
+      "score": 29.5
     },
     {
-      "timestamp": "2026-04-01T01:40:30.930306+00:00",
-      "score": 28.2
+      "timestamp": "2026-04-01T02:27:55.342858+00:00",
+      "score": 30.2
     },
     {
-      "timestamp": "2026-04-01T02:38:02.474663+00:00",
-      "score": 28.7
+      "timestamp": "2026-04-01T03:23:25.460854+00:00",
+      "score": 30.8
     },
     {
-      "timestamp": "2026-04-01T03:35:34.019020+00:00",
-      "score": 29.3
+      "timestamp": "2026-04-01T04:18:55.578850+00:00",
+      "score": 31.4
     }
   ]
 }
