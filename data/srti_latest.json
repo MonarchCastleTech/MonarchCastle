@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-03-31T19:14:50.049390+00:00",
+  "fetched_at": "2026-03-31T20:52:53.208521+00:00",
   "window_hours": 72,
-  "score": 29.1,
+  "score": 35.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 44.8,
-    "civilian_risk": 33.6
+    "conflict_intensity": 57.8,
+    "civilian_risk": 33.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 34
+      "items": 35
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-31T11:22:59+00:00",
-      "score": 2.46,
+      "score": 2.4,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-03-31T19:14:50.049390+00:00",
+      "published_at": "2026-03-31T20:52:53.208521+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,9 +123,24 @@
     },
     {
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
+      "link": "https://lefaso.net/spip.php?article145428",
+      "source": "LeFaso",
+      "published_at": "2026-03-31T20:52:53.208521+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso",
+        "ouagadougou"
+      ]
+    },
+    {
+      "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-03-31T19:14:50.049390+00:00",
+      "published_at": "2026-03-31T20:52:53.208521+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +155,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-03-31T19:14:50.049390+00:00",
+      "published_at": "2026-03-31T20:52:53.208521+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +165,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-03-31T21:18:57.492873+00:00",
-      "score": 22.0
+      "timestamp": "2026-03-31T22:30:56.367652+00:00",
+      "score": 24.4
     },
     {
-      "timestamp": "2026-03-31T23:23:04.936356+00:00",
-      "score": 22.4
+      "timestamp": "2026-04-01T00:08:59.526783+00:00",
+      "score": 24.9
     },
     {
-      "timestamp": "2026-04-01T01:27:12.379839+00:00",
-      "score": 22.7
+      "timestamp": "2026-04-01T01:47:02.685914+00:00",
+      "score": 25.3
     },
     {
-      "timestamp": "2026-04-01T03:31:19.823322+00:00",
-      "score": 23.1
+      "timestamp": "2026-04-01T03:25:05.845045+00:00",
+      "score": 25.8
     },
     {
-      "timestamp": "2026-04-01T05:35:27.266805+00:00",
-      "score": 23.5
+      "timestamp": "2026-04-01T05:03:09.004176+00:00",
+      "score": 26.3
     },
     {
-      "timestamp": "2026-04-01T07:39:34.710288+00:00",
-      "score": 23.8
+      "timestamp": "2026-04-01T06:41:12.163307+00:00",
+      "score": 26.8
     }
   ]
 }
