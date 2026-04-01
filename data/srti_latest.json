@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-01T09:18:56.725907+00:00",
+  "fetched_at": "2026-04-01T11:08:36.909210+00:00",
   "window_hours": 72,
-  "score": 26.6,
+  "score": 26.3,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 40.9,
-    "civilian_risk": 30.7
+    "conflict_intensity": 40.4,
+    "civilian_risk": 30.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-31T11:22:59+00:00",
-      "score": 1.92,
+      "score": 1.85,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-04-01T09:18:56.725907+00:00",
+      "published_at": "2026-04-01T11:08:36.909210+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-01T09:18:56.725907+00:00",
+      "published_at": "2026-04-01T11:08:36.909210+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +140,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-01T09:18:56.725907+00:00",
+      "published_at": "2026-04-01T11:08:36.909210+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-01T10:50:17.699705+00:00",
-      "score": 30.9
-    },
-    {
-      "timestamp": "2026-04-01T12:21:38.673503+00:00",
+      "timestamp": "2026-04-01T12:58:17.092513+00:00",
       "score": 31.5
     },
     {
-      "timestamp": "2026-04-01T13:52:59.647301+00:00",
+      "timestamp": "2026-04-01T14:47:57.275816+00:00",
       "score": 32.1
     },
     {
-      "timestamp": "2026-04-01T15:24:20.621099+00:00",
+      "timestamp": "2026-04-01T16:37:37.459119+00:00",
       "score": 32.8
     },
     {
-      "timestamp": "2026-04-01T16:55:41.594897+00:00",
-      "score": 33.4
+      "timestamp": "2026-04-01T18:27:17.642422+00:00",
+      "score": 33.5
     },
     {
-      "timestamp": "2026-04-01T18:27:02.568695+00:00",
-      "score": 34.0
+      "timestamp": "2026-04-01T20:16:57.825725+00:00",
+      "score": 34.1
+    },
+    {
+      "timestamp": "2026-04-01T22:06:38.009028+00:00",
+      "score": 34.8
     }
   ]
 }
