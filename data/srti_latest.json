@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-01T07:47:35.752109+00:00",
+  "fetched_at": "2026-04-01T09:18:56.725907+00:00",
   "window_hours": 72,
-  "score": 26.8,
+  "score": 26.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 41.3,
-    "civilian_risk": 31.0
+    "conflict_intensity": 40.9,
+    "civilian_risk": 30.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 28
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-31T11:22:59+00:00",
-      "score": 1.98,
+      "score": 1.92,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-04-01T07:47:35.752109+00:00",
+      "published_at": "2026-04-01T09:18:56.725907+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-01T07:47:35.752109+00:00",
+      "published_at": "2026-04-01T09:18:56.725907+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +140,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-01T07:47:35.752109+00:00",
+      "published_at": "2026-04-01T09:18:56.725907+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-01T09:33:54.745540+00:00",
-      "score": 30.3
-    },
-    {
-      "timestamp": "2026-04-01T11:20:13.738971+00:00",
+      "timestamp": "2026-04-01T10:50:17.699705+00:00",
       "score": 30.9
     },
     {
-      "timestamp": "2026-04-01T13:06:32.732402+00:00",
-      "score": 31.4
+      "timestamp": "2026-04-01T12:21:38.673503+00:00",
+      "score": 31.5
     },
     {
-      "timestamp": "2026-04-01T14:52:51.725833+00:00",
-      "score": 32.0
+      "timestamp": "2026-04-01T13:52:59.647301+00:00",
+      "score": 32.1
     },
     {
-      "timestamp": "2026-04-01T16:39:10.719264+00:00",
-      "score": 32.6
+      "timestamp": "2026-04-01T15:24:20.621099+00:00",
+      "score": 32.8
     },
     {
-      "timestamp": "2026-04-01T18:25:29.712695+00:00",
-      "score": 33.2
+      "timestamp": "2026-04-01T16:55:41.594897+00:00",
+      "score": 33.4
+    },
+    {
+      "timestamp": "2026-04-01T18:27:02.568695+00:00",
+      "score": 34.0
     }
   ]
 }
