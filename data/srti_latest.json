@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-01T15:17:35.143383+00:00",
+  "fetched_at": "2026-04-01T17:06:35.237929+00:00",
   "window_hours": 72,
   "score": 21.5,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 89
+      "items": 91
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-01T15:17:35.143383+00:00",
+      "published_at": "2026-04-01T17:06:35.237929+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-04-01T15:17:35.143383+00:00",
+      "published_at": "2026-04-01T17:06:35.237929+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-01T15:17:35.143383+00:00",
+      "published_at": "2026-04-01T17:06:35.237929+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-01T15:17:35.143383+00:00",
+      "published_at": "2026-04-01T17:06:35.237929+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,28 +147,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-01T16:36:47.042574+00:00",
-      "score": 30.3
+      "timestamp": "2026-04-01T18:55:35.332475+00:00",
+      "score": 30.0
     },
     {
-      "timestamp": "2026-04-01T17:55:58.941765+00:00",
-      "score": 30.9
+      "timestamp": "2026-04-01T20:44:35.427021+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-04-01T19:15:10.840956+00:00",
-      "score": 31.5
+      "timestamp": "2026-04-01T22:33:35.521567+00:00",
+      "score": 31.2
     },
     {
-      "timestamp": "2026-04-01T20:34:22.740147+00:00",
-      "score": 32.1
+      "timestamp": "2026-04-02T00:22:35.616113+00:00",
+      "score": 31.8
     },
     {
-      "timestamp": "2026-04-01T21:53:34.639338+00:00",
-      "score": 32.6
+      "timestamp": "2026-04-02T02:11:35.710659+00:00",
+      "score": 32.3
     },
     {
-      "timestamp": "2026-04-01T23:12:46.538529+00:00",
-      "score": 33.2
+      "timestamp": "2026-04-02T04:00:35.805205+00:00",
+      "score": 32.9
     }
   ]
 }
