@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-01T13:58:23.244192+00:00",
+  "fetched_at": "2026-04-01T15:17:35.143383+00:00",
   "window_hours": 72,
-  "score": 17.5,
-  "risk_level": "LOW",
+  "score": 21.5,
+  "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 20.2
+    "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 89
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,21 @@
   ],
   "top_headlines": [
     {
+      "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
+      "link": "https://lefaso.net/spip.php?article145443",
+      "source": "LeFaso",
+      "published_at": "2026-04-01T15:17:35.143383+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-04-01T13:58:23.244192+00:00",
+      "published_at": "2026-04-01T15:17:35.143383+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +122,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-01T13:58:23.244192+00:00",
+      "published_at": "2026-04-01T15:17:35.143383+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -126,7 +137,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-01T13:58:23.244192+00:00",
+      "published_at": "2026-04-01T15:17:35.143383+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,28 +147,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-01T16:48:09.579174+00:00",
-      "score": 30.5
+      "timestamp": "2026-04-01T16:36:47.042574+00:00",
+      "score": 30.3
     },
     {
-      "timestamp": "2026-04-01T19:37:55.914156+00:00",
-      "score": 31.1
+      "timestamp": "2026-04-01T17:55:58.941765+00:00",
+      "score": 30.9
     },
     {
-      "timestamp": "2026-04-01T22:27:42.249138+00:00",
-      "score": 31.7
+      "timestamp": "2026-04-01T19:15:10.840956+00:00",
+      "score": 31.5
     },
     {
-      "timestamp": "2026-04-02T01:17:28.584120+00:00",
-      "score": 32.3
+      "timestamp": "2026-04-01T20:34:22.740147+00:00",
+      "score": 32.1
     },
     {
-      "timestamp": "2026-04-02T04:07:14.919102+00:00",
-      "score": 32.9
+      "timestamp": "2026-04-01T21:53:34.639338+00:00",
+      "score": 32.6
     },
     {
-      "timestamp": "2026-04-02T06:57:01.254084+00:00",
-      "score": 33.5
+      "timestamp": "2026-04-01T23:12:46.538529+00:00",
+      "score": 33.2
     }
   ]
 }
