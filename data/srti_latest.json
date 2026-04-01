@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-01T03:35:47.822181+00:00",
+  "fetched_at": "2026-04-01T06:01:16.758678+00:00",
   "window_hours": 72,
-  "score": 27.6,
+  "score": 27.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 42.5,
-    "civilian_risk": 31.9
+    "conflict_intensity": 41.8,
+    "civilian_risk": 31.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cvg4q9n573do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-03-31T11:22:59+00:00",
-      "score": 2.14,
+      "score": 2.05,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Journ\u00e9e Mondiale de l'Eau 2026 : Le Royaume de Belgique et l'Union europ\u00e9enne soutiennent l'acc\u00e8s \u00e0 l'eau et \u00e0 l'assainissement au Burkina Faso \u00e0 travers Enabel !",
       "link": "https://lefaso.net/spip.php?article145330",
       "source": "LeFaso",
-      "published_at": "2026-04-01T03:35:47.822181+00:00",
+      "published_at": "2026-04-01T06:01:16.758678+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-01T03:35:47.822181+00:00",
+      "published_at": "2026-04-01T06:01:16.758678+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +140,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-01T03:35:47.822181+00:00",
+      "published_at": "2026-04-01T06:01:16.758678+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-01T07:28:25.616710+00:00",
-      "score": 29.8
+      "timestamp": "2026-04-01T08:26:45.695175+00:00",
+      "score": 29.5
     },
     {
-      "timestamp": "2026-04-01T11:21:03.411239+00:00",
-      "score": 30.4
+      "timestamp": "2026-04-01T10:52:14.631672+00:00",
+      "score": 30.1
     },
     {
-      "timestamp": "2026-04-01T15:13:41.205768+00:00",
-      "score": 31.0
+      "timestamp": "2026-04-01T13:17:43.568169+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-04-01T19:06:19.000297+00:00",
-      "score": 31.6
+      "timestamp": "2026-04-01T15:43:12.504666+00:00",
+      "score": 31.1
     },
     {
-      "timestamp": "2026-04-01T22:58:56.794826+00:00",
+      "timestamp": "2026-04-01T18:08:41.441163+00:00",
+      "score": 31.7
+    },
+    {
+      "timestamp": "2026-04-01T20:34:10.377660+00:00",
       "score": 32.2
-    },
-    {
-      "timestamp": "2026-04-02T02:51:34.589355+00:00",
-      "score": 32.8
     }
   ]
 }
