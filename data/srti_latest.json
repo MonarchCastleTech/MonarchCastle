@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-02T09:11:28.948649+00:00",
+  "fetched_at": "2026-04-02T11:03:21.640492+00:00",
   "window_hours": 72,
-  "score": 24.4,
+  "score": 27.3,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 55.0
+    "civilian_risk": 69.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 85
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260402-burkina-faso-army-jihadists-have-killed-more-than-1-800-civilians-since-2023-hrw-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T08:22:25+00:00",
-      "score": 2.49,
+      "score": 2.43,
       "tags": [
         "civilian_risk"
       ],
@@ -111,7 +111,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-02T09:11:28.948649+00:00",
+      "published_at": "2026-04-02T11:03:21.640492+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-02T09:11:28.948649+00:00",
+      "published_at": "2026-04-02T11:03:21.640492+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,38 +137,52 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-02T09:11:28.948649+00:00",
+      "published_at": "2026-04-02T11:03:21.640492+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": []
+    },
+    {
+      "title": "Over 1,800 killed since junta seized power in Burkina Faso, rights group says",
+      "link": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-02T10:41:52+00:00",
+      "score": 1.07,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-02T10:56:48.866923+00:00",
-      "score": 16.9
+      "timestamp": "2026-04-02T12:55:14.332335+00:00",
+      "score": 16.6
     },
     {
-      "timestamp": "2026-04-02T12:42:08.785197+00:00",
-      "score": 16.3
+      "timestamp": "2026-04-02T14:47:07.024178+00:00",
+      "score": 16.0
     },
     {
-      "timestamp": "2026-04-02T14:27:28.703471+00:00",
-      "score": 15.7
+      "timestamp": "2026-04-02T16:38:59.716021+00:00",
+      "score": 15.3
     },
     {
-      "timestamp": "2026-04-02T16:12:48.621745+00:00",
-      "score": 15.1
+      "timestamp": "2026-04-02T18:30:52.407864+00:00",
+      "score": 14.7
     },
     {
-      "timestamp": "2026-04-02T17:58:08.540019+00:00",
-      "score": 14.5
+      "timestamp": "2026-04-02T20:22:45.099707+00:00",
+      "score": 14.0
     },
     {
-      "timestamp": "2026-04-02T19:43:28.458293+00:00",
-      "score": 13.9
+      "timestamp": "2026-04-02T22:14:37.791550+00:00",
+      "score": 13.3
     }
   ]
 }
