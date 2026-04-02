@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-02T05:45:54.864794+00:00",
+  "fetched_at": "2026-04-02T07:26:09.030375+00:00",
   "window_hours": 72,
   "score": 17.5,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 11
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-02T05:45:54.864794+00:00",
+      "published_at": "2026-04-02T07:26:09.030375+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-02T05:45:54.864794+00:00",
+      "published_at": "2026-04-02T07:26:09.030375+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-02T05:45:54.864794+00:00",
+      "published_at": "2026-04-02T07:26:09.030375+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,28 +133,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-02T08:12:52.258929+00:00",
-      "score": 19.4
+      "timestamp": "2026-04-02T09:06:23.195956+00:00",
+      "score": 17.6
     },
     {
-      "timestamp": "2026-04-02T10:39:49.653064+00:00",
-      "score": 19.0
+      "timestamp": "2026-04-02T10:46:37.361537+00:00",
+      "score": 17.1
     },
     {
-      "timestamp": "2026-04-02T13:06:47.047199+00:00",
-      "score": 18.6
+      "timestamp": "2026-04-02T12:26:51.527118+00:00",
+      "score": 16.6
     },
     {
-      "timestamp": "2026-04-02T15:33:44.441334+00:00",
-      "score": 18.2
+      "timestamp": "2026-04-02T14:07:05.692699+00:00",
+      "score": 16.0
     },
     {
-      "timestamp": "2026-04-02T18:00:41.835469+00:00",
-      "score": 17.9
+      "timestamp": "2026-04-02T15:47:19.858280+00:00",
+      "score": 15.5
     },
     {
-      "timestamp": "2026-04-02T20:27:39.229604+00:00",
-      "score": 17.5
+      "timestamp": "2026-04-02T17:27:34.023861+00:00",
+      "score": 15.0
     }
   ]
 }
