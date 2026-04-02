@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-01T23:45:53.916605+00:00",
+  "fetched_at": "2026-04-02T03:18:57.470659+00:00",
   "window_hours": 72,
   "score": 17.5,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-01T23:45:53.916605+00:00",
+      "published_at": "2026-04-02T03:18:57.470659+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-01T23:45:53.916605+00:00",
+      "published_at": "2026-04-02T03:18:57.470659+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-01T23:45:53.916605+00:00",
+      "published_at": "2026-04-02T03:18:57.470659+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,28 +133,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-02T00:40:20.329186+00:00",
-      "score": 23.4
+      "timestamp": "2026-04-02T06:52:01.024713+00:00",
+      "score": 21.4
     },
     {
-      "timestamp": "2026-04-02T01:34:46.741767+00:00",
-      "score": 23.4
+      "timestamp": "2026-04-02T10:25:04.578767+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-04-02T02:29:13.154348+00:00",
-      "score": 23.3
+      "timestamp": "2026-04-02T13:58:08.132821+00:00",
+      "score": 21.0
     },
     {
-      "timestamp": "2026-04-02T03:23:39.566929+00:00",
-      "score": 23.3
+      "timestamp": "2026-04-02T17:31:11.686875+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-04-02T04:18:05.979510+00:00",
-      "score": 23.3
+      "timestamp": "2026-04-02T21:04:15.240929+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-04-02T05:12:32.392091+00:00",
-      "score": 23.2
+      "timestamp": "2026-04-03T00:37:18.794983+00:00",
+      "score": 20.4
     }
   ]
 }
