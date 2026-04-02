@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-02T19:09:01.933009+00:00",
+  "fetched_at": "2026-04-02T20:47:47.511369+00:00",
   "window_hours": 72,
-  "score": 26.2,
+  "score": 33.0,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 63.8
+    "civilian_risk": 97.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 94
+      "items": 89
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "Burkina army, jihadists killed more than 1,800 civilians since 2023",
+      "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-02T20:20:22+00:00",
+      "score": 2.5,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Burkina Faso army, jihadists have killed more than 1,800 civilians since 2023, HRW says",
       "link": "https://www.france24.com/en/africa/20260402-burkina-faso-army-jihadists-have-killed-more-than-1-800-civilians-since-2023-hrw-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T08:22:25+00:00",
-      "score": 2.14,
+      "score": 2.09,
       "tags": [
         "civilian_risk"
       ],
@@ -111,7 +125,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-02T19:09:01.933009+00:00",
+      "published_at": "2026-04-02T20:47:47.511369+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +136,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-02T19:09:01.933009+00:00",
+      "published_at": "2026-04-02T20:47:47.511369+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +151,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-02T19:09:01.933009+00:00",
+      "published_at": "2026-04-02T20:47:47.511369+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,7 +163,7 @@
       "link": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-02T12:11:30+00:00",
-      "score": 0.98,
+      "score": 0.95,
       "tags": [
         "civilian_risk"
       ],
@@ -161,28 +175,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-02T21:12:31.678192+00:00",
-      "score": 22.4
+      "timestamp": "2026-04-02T22:26:33.089729+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-04-02T23:16:01.423375+00:00",
-      "score": 22.3
+      "timestamp": "2026-04-03T00:05:18.668089+00:00",
+      "score": 25.1
     },
     {
-      "timestamp": "2026-04-03T01:19:31.168558+00:00",
-      "score": 22.2
+      "timestamp": "2026-04-03T01:44:04.246449+00:00",
+      "score": 25.2
     },
     {
-      "timestamp": "2026-04-03T03:23:00.913741+00:00",
-      "score": 22.1
+      "timestamp": "2026-04-03T03:22:49.824809+00:00",
+      "score": 25.4
     },
     {
-      "timestamp": "2026-04-03T05:26:30.658924+00:00",
-      "score": 22.0
+      "timestamp": "2026-04-03T05:01:35.403169+00:00",
+      "score": 25.5
     },
     {
-      "timestamp": "2026-04-03T07:30:00.404107+00:00",
-      "score": 21.9
+      "timestamp": "2026-04-03T06:40:20.981529+00:00",
+      "score": 25.6
     }
   ]
 }
