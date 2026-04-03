@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03T15:48:24.254317+00:00",
+  "fetched_at": "2026-04-03T16:53:40.025817+00:00",
   "window_hours": 72,
   "score": 33.5,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 72
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T20:20:22+00:00",
-      "score": 2.76,
+      "score": 2.7,
       "tags": [
         "civilian_risk"
       ],
@@ -111,7 +111,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-03T15:48:24.254317+00:00",
+      "published_at": "2026-04-03T16:53:40.025817+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-03T15:48:24.254317+00:00",
+      "published_at": "2026-04-03T16:53:40.025817+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "link": "https://www.france24.com/en/africa/20260402-burkina-faso-army-jihadists-have-killed-more-than-1-800-civilians-since-2023-hrw-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T08:22:25+00:00",
-      "score": 1.42,
+      "score": 1.38,
       "tags": [
         "civilian_risk"
       ],
@@ -149,7 +149,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-03T15:48:24.254317+00:00",
+      "published_at": "2026-04-03T16:53:40.025817+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,7 +164,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-03T15:48:24.254317+00:00",
+      "published_at": "2026-04-03T16:53:40.025817+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +176,7 @@
       "link": "https://allafrica.com/stories/202604030092.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-03T06:41:02+00:00",
-      "score": 0.94,
+      "score": 0.93,
       "tags": [
         "civilian_risk"
       ],
@@ -188,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-03T16:41:25.254766+00:00",
-      "score": 38.0
+      "timestamp": "2026-04-03T17:58:55.797317+00:00",
+      "score": 37.8
     },
     {
-      "timestamp": "2026-04-03T17:34:26.255215+00:00",
-      "score": 38.7
+      "timestamp": "2026-04-03T19:04:11.568817+00:00",
+      "score": 38.4
     },
     {
-      "timestamp": "2026-04-03T18:27:27.255664+00:00",
-      "score": 39.5
+      "timestamp": "2026-04-03T20:09:27.340317+00:00",
+      "score": 39.1
     },
     {
-      "timestamp": "2026-04-03T19:20:28.256113+00:00",
-      "score": 40.2
+      "timestamp": "2026-04-03T21:14:43.111817+00:00",
+      "score": 39.8
     },
     {
-      "timestamp": "2026-04-03T20:13:29.256562+00:00",
-      "score": 41.0
+      "timestamp": "2026-04-03T22:19:58.883317+00:00",
+      "score": 40.5
     },
     {
-      "timestamp": "2026-04-03T21:06:30.257011+00:00",
-      "score": 41.7
+      "timestamp": "2026-04-03T23:25:14.654817+00:00",
+      "score": 41.1
     }
   ]
 }
