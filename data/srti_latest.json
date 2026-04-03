@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-02T23:44:07.343559+00:00",
+  "fetched_at": "2026-04-03T03:20:34.500510+00:00",
   "window_hours": 72,
-  "score": 32.3,
+  "score": 33.5,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 94.2
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 90
+      "items": 85
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 9
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T20:20:22+00:00",
-      "score": 2.4,
+      "score": 2.27,
       "tags": [
         "civilian_risk"
       ],
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260402-burkina-faso-army-jihadists-have-killed-more-than-1-800-civilians-since-2023-hrw-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T08:22:25+00:00",
-      "score": 1.98,
+      "score": 1.86,
       "tags": [
         "civilian_risk"
       ],
@@ -122,10 +122,23 @@
       ]
     },
     {
+      "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
+      "link": "https://lefaso.net/spip.php?article145479",
+      "source": "LeFaso",
+      "published_at": "2026-04-03T03:20:34.500510+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-02T23:44:07.343559+00:00",
+      "published_at": "2026-04-03T03:20:34.500510+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +149,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-02T23:44:07.343559+00:00",
+      "published_at": "2026-04-03T03:20:34.500510+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,7 +164,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-02T23:44:07.343559+00:00",
+      "published_at": "2026-04-03T03:20:34.500510+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +176,7 @@
       "link": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-02T12:11:30+00:00",
-      "score": 0.91,
+      "score": 0.85,
       "tags": [
         "civilian_risk"
       ],
@@ -175,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-03T00:46:06.897247+00:00",
-      "score": 30.4
+      "timestamp": "2026-04-03T06:57:01.657461+00:00",
+      "score": 32.1
     },
     {
-      "timestamp": "2026-04-03T01:48:06.450935+00:00",
-      "score": 30.8
+      "timestamp": "2026-04-03T10:33:28.814412+00:00",
+      "score": 32.7
     },
     {
-      "timestamp": "2026-04-03T02:50:06.004623+00:00",
-      "score": 31.3
+      "timestamp": "2026-04-03T14:09:55.971363+00:00",
+      "score": 33.3
     },
     {
-      "timestamp": "2026-04-03T03:52:05.558311+00:00",
-      "score": 31.8
+      "timestamp": "2026-04-03T17:46:23.128314+00:00",
+      "score": 34.0
     },
     {
-      "timestamp": "2026-04-03T04:54:05.111999+00:00",
-      "score": 32.3
+      "timestamp": "2026-04-03T21:22:50.285265+00:00",
+      "score": 34.6
     },
     {
-      "timestamp": "2026-04-03T05:56:04.665687+00:00",
-      "score": 32.8
+      "timestamp": "2026-04-04T00:59:17.442216+00:00",
+      "score": 35.2
     }
   ]
 }
