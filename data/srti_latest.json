@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03T07:22:52.874514+00:00",
+  "fetched_at": "2026-04-03T09:05:59.263038+00:00",
   "window_hours": 72,
   "score": 33.5,
   "risk_level": "GUARDED",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T20:20:22+00:00",
-      "score": 2.13,
+      "score": 2.07,
       "tags": [
         "civilian_risk"
       ],
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260402-burkina-faso-army-jihadists-have-killed-more-than-1-800-civilians-since-2023-hrw-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T08:22:25+00:00",
-      "score": 1.71,
+      "score": 1.65,
       "tags": [
         "civilian_risk"
       ],
@@ -125,7 +125,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-03T07:22:52.874514+00:00",
+      "published_at": "2026-04-03T09:05:59.263038+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-03T07:22:52.874514+00:00",
+      "published_at": "2026-04-03T09:05:59.263038+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +149,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-03T07:22:52.874514+00:00",
+      "published_at": "2026-04-03T09:05:59.263038+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,7 +164,7 @@
       "title": "Six jours de je\u00fbne apr\u00e8s Ramadan : Une pratique aux multiples vertus",
       "link": "https://lefaso.net/spip.php?article145411",
       "source": "LeFaso",
-      "published_at": "2026-04-03T07:22:52.874514+00:00",
+      "published_at": "2026-04-03T09:05:59.263038+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +176,7 @@
       "link": "https://allafrica.com/stories/202604030092.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-03T06:41:02+00:00",
-      "score": 1.07,
+      "score": 1.04,
       "tags": [
         "civilian_risk"
       ],
@@ -190,7 +190,7 @@
       "link": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-02T12:11:30+00:00",
-      "score": 0.79,
+      "score": 0.77,
       "tags": [
         "civilian_risk"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-03T08:59:18.666159+00:00",
-      "score": 34.6
+      "timestamp": "2026-04-03T10:49:05.651562+00:00",
+      "score": 35.5
     },
     {
-      "timestamp": "2026-04-03T10:35:44.457804+00:00",
-      "score": 35.3
+      "timestamp": "2026-04-03T12:32:12.040086+00:00",
+      "score": 36.3
     },
     {
-      "timestamp": "2026-04-03T12:12:10.249449+00:00",
-      "score": 36.0
+      "timestamp": "2026-04-03T14:15:18.428610+00:00",
+      "score": 37.0
     },
     {
-      "timestamp": "2026-04-03T13:48:36.041094+00:00",
-      "score": 36.7
+      "timestamp": "2026-04-03T15:58:24.817134+00:00",
+      "score": 37.8
     },
     {
-      "timestamp": "2026-04-03T15:25:01.832739+00:00",
-      "score": 37.5
+      "timestamp": "2026-04-03T17:41:31.205658+00:00",
+      "score": 38.6
     },
     {
-      "timestamp": "2026-04-03T17:01:27.624384+00:00",
-      "score": 38.2
+      "timestamp": "2026-04-03T19:24:37.594182+00:00",
+      "score": 39.3
     }
   ]
 }
