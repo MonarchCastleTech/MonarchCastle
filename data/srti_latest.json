@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03T22:46:01.597560+00:00",
+  "fetched_at": "2026-04-03T23:43:49.538322+00:00",
   "window_hours": 72,
   "score": 33.5,
   "risk_level": "GUARDED",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T20:20:22+00:00",
-      "score": 2.39,
+      "score": 2.34,
       "tags": [
         "civilian_risk"
       ],
@@ -111,7 +111,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-03T22:46:01.597560+00:00",
+      "published_at": "2026-04-03T23:43:49.538322+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-03T22:46:01.597560+00:00",
+      "published_at": "2026-04-03T23:43:49.538322+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "link": "https://www.france24.com/en/africa/20260402-burkina-faso-army-jihadists-have-killed-more-than-1-800-civilians-since-2023-hrw-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T08:22:25+00:00",
-      "score": 1.18,
+      "score": 1.14,
       "tags": [
         "civilian_risk"
       ],
@@ -149,7 +149,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-03T22:46:01.597560+00:00",
+      "published_at": "2026-04-03T23:43:49.538322+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -162,7 +162,7 @@
       "title": "Eau, hygi\u00e8ne et assainissement au Burkina : Les ONG appel\u00e9es \u00e0 s'aligner sur les priorit\u00e9s nationales",
       "link": "https://lefaso.net/spip.php?article145416",
       "source": "LeFaso",
-      "published_at": "2026-04-03T22:46:01.597560+00:00",
+      "published_at": "2026-04-03T23:43:49.538322+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -178,7 +178,7 @@
       "link": "https://allafrica.com/stories/202604030092.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-03T06:41:02+00:00",
-      "score": 0.84,
+      "score": 0.82,
       "tags": [
         "civilian_risk"
       ],
@@ -190,28 +190,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-03T23:47:51.293683+00:00",
-      "score": 39.8
+      "timestamp": "2026-04-04T00:41:37.479084+00:00",
+      "score": 39.2
     },
     {
-      "timestamp": "2026-04-04T00:49:40.989806+00:00",
-      "score": 40.3
+      "timestamp": "2026-04-04T01:39:25.419846+00:00",
+      "score": 39.6
     },
     {
-      "timestamp": "2026-04-04T01:51:30.685929+00:00",
-      "score": 40.8
+      "timestamp": "2026-04-04T02:37:13.360608+00:00",
+      "score": 40.0
     },
     {
-      "timestamp": "2026-04-04T02:53:20.382052+00:00",
+      "timestamp": "2026-04-04T03:35:01.301370+00:00",
+      "score": 40.5
+    },
+    {
+      "timestamp": "2026-04-04T04:32:49.242132+00:00",
+      "score": 40.9
+    },
+    {
+      "timestamp": "2026-04-04T05:30:37.182894+00:00",
       "score": 41.3
-    },
-    {
-      "timestamp": "2026-04-04T03:55:10.078175+00:00",
-      "score": 41.8
-    },
-    {
-      "timestamp": "2026-04-04T04:56:59.774298+00:00",
-      "score": 42.3
     }
   ]
 }
