@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-04T07:14:18.450679+00:00",
+  "fetched_at": "2026-04-04T08:54:03.952393+00:00",
   "window_hours": 72,
-  "score": 24.7,
+  "score": 26.7,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 13.4,
-    "civilian_risk": 89.9
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T20:20:22+00:00",
-      "score": 1.95,
+      "score": 1.86,
       "tags": [
         "civilian_risk"
       ],
@@ -108,10 +108,21 @@
       ]
     },
     {
+      "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \" Que Dieu donne des larmes pour pleurer \u00ab sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
+      "link": "https://lefaso.net/spip.php?article145499",
+      "source": "LeFaso",
+      "published_at": "2026-04-04T08:54:03.952393+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-04T07:14:18.450679+00:00",
+      "published_at": "2026-04-04T08:54:03.952393+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +135,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-04T07:14:18.450679+00:00",
+      "published_at": "2026-04-04T08:54:03.952393+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +146,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-04T07:14:18.450679+00:00",
+      "published_at": "2026-04-04T08:54:03.952393+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +174,7 @@
       "link": "https://allafrica.com/stories/202604030092.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-03T06:41:02+00:00",
-      "score": 0.71,
+      "score": 0.69,
       "tags": [
         "civilian_risk"
       ],
@@ -175,28 +186,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-04T08:24:08.577988+00:00",
-      "score": 31.3
+      "timestamp": "2026-04-04T10:33:49.454107+00:00",
+      "score": 30.2
     },
     {
-      "timestamp": "2026-04-04T09:33:58.705297+00:00",
-      "score": 31.2
+      "timestamp": "2026-04-04T12:13:34.955821+00:00",
+      "score": 29.9
     },
     {
-      "timestamp": "2026-04-04T10:43:48.832606+00:00",
-      "score": 31.0
+      "timestamp": "2026-04-04T13:53:20.457535+00:00",
+      "score": 29.7
     },
     {
-      "timestamp": "2026-04-04T11:53:38.959915+00:00",
-      "score": 30.8
+      "timestamp": "2026-04-04T15:33:05.959249+00:00",
+      "score": 29.5
     },
     {
-      "timestamp": "2026-04-04T13:03:29.087224+00:00",
-      "score": 30.7
+      "timestamp": "2026-04-04T17:12:51.460963+00:00",
+      "score": 29.2
     },
     {
-      "timestamp": "2026-04-04T14:13:19.214533+00:00",
-      "score": 30.5
+      "timestamp": "2026-04-04T18:52:36.962677+00:00",
+      "score": 29.0
     }
   ]
 }
