@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-04T16:48:46.910445+00:00",
+  "fetched_at": "2026-04-04T17:40:23.248034+00:00",
   "window_hours": 72,
   "score": 26.7,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Burkina Faso: More than 1,800 civilians killed by army and jihadists since 2023",
-      "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-02T20:20:22+00:00",
-      "score": 1.45,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-04T16:48:46.910445+00:00",
+      "published_at": "2026-04-04T17:40:23.248034+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +108,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-04T16:48:46.910445+00:00",
+      "published_at": "2026-04-04T17:40:23.248034+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +121,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-04T16:48:46.910445+00:00",
+      "published_at": "2026-04-04T17:40:23.248034+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -143,10 +129,24 @@
       "regions": []
     },
     {
+      "title": "Burkina Faso: More than 1,800 civilians killed by army and jihadists since 2023",
+      "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-02T20:20:22+00:00",
+      "score": 1.4,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-04T16:48:46.910445+00:00",
+      "published_at": "2026-04-04T17:40:23.248034+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,7 +174,7 @@
       "link": "https://allafrica.com/stories/202604030092.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-03T06:41:02+00:00",
-      "score": 0.57,
+      "score": 0.56,
       "tags": [
         "civilian_risk"
       ],
@@ -186,28 +186,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-04T17:56:19.080275+00:00",
-      "score": 24.1
-    },
-    {
-      "timestamp": "2026-04-04T19:03:51.250105+00:00",
+      "timestamp": "2026-04-04T18:31:59.585623+00:00",
       "score": 23.6
     },
     {
-      "timestamp": "2026-04-04T20:11:23.419935+00:00",
+      "timestamp": "2026-04-04T19:23:35.923212+00:00",
       "score": 23.0
     },
     {
-      "timestamp": "2026-04-04T21:18:55.589765+00:00",
+      "timestamp": "2026-04-04T20:15:12.260801+00:00",
       "score": 22.4
     },
     {
-      "timestamp": "2026-04-04T22:26:27.759595+00:00",
-      "score": 21.9
+      "timestamp": "2026-04-04T21:06:48.598390+00:00",
+      "score": 21.8
     },
     {
-      "timestamp": "2026-04-04T23:33:59.929425+00:00",
+      "timestamp": "2026-04-04T21:58:24.935979+00:00",
       "score": 21.3
+    },
+    {
+      "timestamp": "2026-04-04T22:50:01.273568+00:00",
+      "score": 20.7
     }
   ]
 }
