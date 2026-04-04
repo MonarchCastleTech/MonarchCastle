@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-04T06:04:28.323370+00:00",
+  "fetched_at": "2026-04-04T07:14:18.450679+00:00",
   "window_hours": 72,
-  "score": 25.0,
+  "score": 24.7,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 13.4,
-    "civilian_risk": 91.5
+    "civilian_risk": 89.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T20:20:22+00:00",
-      "score": 2.01,
+      "score": 1.95,
       "tags": [
         "civilian_risk"
       ],
@@ -111,7 +111,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-04T06:04:28.323370+00:00",
+      "published_at": "2026-04-04T07:14:18.450679+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Bobo-Dioulasso : 106 agents de TEXFORCES-BF re\u00e7oivent leur bapt\u00eame patriotique au GIFA",
       "link": "https://lefaso.net/spip.php?article145443",
       "source": "LeFaso",
-      "published_at": "2026-04-04T06:04:28.323370+00:00",
+      "published_at": "2026-04-04T07:14:18.450679+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-04T06:04:28.323370+00:00",
+      "published_at": "2026-04-04T07:14:18.450679+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,7 +149,7 @@
       "link": "https://www.france24.com/en/africa/20260402-burkina-faso-army-jihadists-have-killed-more-than-1-800-civilians-since-2023-hrw-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-02T08:22:25+00:00",
-      "score": 0.92,
+      "score": 0.88,
       "tags": [
         "civilian_risk"
       ],
@@ -163,7 +163,7 @@
       "link": "https://allafrica.com/stories/202604030092.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-03T06:41:02+00:00",
-      "score": 0.73,
+      "score": 0.71,
       "tags": [
         "civilian_risk"
       ],
@@ -175,28 +175,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-04T07:09:45.833318+00:00",
-      "score": 32.9
+      "timestamp": "2026-04-04T08:24:08.577988+00:00",
+      "score": 31.3
     },
     {
-      "timestamp": "2026-04-04T08:15:03.343266+00:00",
-      "score": 32.8
+      "timestamp": "2026-04-04T09:33:58.705297+00:00",
+      "score": 31.2
     },
     {
-      "timestamp": "2026-04-04T09:20:20.853214+00:00",
-      "score": 32.8
+      "timestamp": "2026-04-04T10:43:48.832606+00:00",
+      "score": 31.0
     },
     {
-      "timestamp": "2026-04-04T10:25:38.363162+00:00",
-      "score": 32.7
+      "timestamp": "2026-04-04T11:53:38.959915+00:00",
+      "score": 30.8
     },
     {
-      "timestamp": "2026-04-04T11:30:55.873110+00:00",
-      "score": 32.6
+      "timestamp": "2026-04-04T13:03:29.087224+00:00",
+      "score": 30.7
     },
     {
-      "timestamp": "2026-04-04T12:36:13.383058+00:00",
-      "score": 32.6
+      "timestamp": "2026-04-04T14:13:19.214533+00:00",
+      "score": 30.5
     }
   ]
 }
