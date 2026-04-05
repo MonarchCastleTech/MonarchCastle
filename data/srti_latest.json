@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-05T14:45:55.762186+00:00",
+  "fetched_at": "2026-04-05T15:42:11.856887+00:00",
   "window_hours": 72,
   "score": 19.5,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-05T14:45:55.762186+00:00",
+      "published_at": "2026-04-05T15:42:11.856887+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-05T14:45:55.762186+00:00",
+      "published_at": "2026-04-05T15:42:11.856887+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-05T14:45:55.762186+00:00",
+      "published_at": "2026-04-05T15:42:11.856887+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-05T16:14:32.014005+00:00",
-      "score": 19.0
+      "timestamp": "2026-04-05T16:38:27.951588+00:00",
+      "score": 18.5
     },
     {
-      "timestamp": "2026-04-05T17:43:08.265824+00:00",
-      "score": 18.6
+      "timestamp": "2026-04-05T17:34:44.046289+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-04-05T19:11:44.517643+00:00",
-      "score": 18.2
+      "timestamp": "2026-04-05T18:31:00.140990+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-04-05T20:40:20.769462+00:00",
-      "score": 17.8
+      "timestamp": "2026-04-05T19:27:16.235691+00:00",
+      "score": 17.3
     },
     {
-      "timestamp": "2026-04-05T22:08:57.021281+00:00",
-      "score": 17.4
+      "timestamp": "2026-04-05T20:23:32.330392+00:00",
+      "score": 16.8
     },
     {
-      "timestamp": "2026-04-05T23:37:33.273100+00:00",
-      "score": 17.0
+      "timestamp": "2026-04-05T21:19:48.425093+00:00",
+      "score": 16.4
     }
   ]
 }
