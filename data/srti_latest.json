@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-05T19:40:31.998475+00:00",
+  "fetched_at": "2026-04-05T20:46:08.742855+00:00",
   "window_hours": 72,
-  "score": 19.5,
+  "score": 15.8,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 13.4,
-    "civilian_risk": 64.1
+    "civilian_risk": 45.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 65
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-05T19:40:31.998475+00:00",
+      "published_at": "2026-04-05T20:46:08.742855+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-05T19:40:31.998475+00:00",
+      "published_at": "2026-04-05T20:46:08.742855+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -118,24 +118,10 @@
       ]
     },
     {
-      "title": "Burkina Faso: More than 1,800 civilians killed by army and jihadists since 2023",
-      "link": "https://www.france24.com/en/burkina-army-jihadists-killed-more-than-1-800-civilians-since-2023",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-02T20:20:22+00:00",
-      "score": 1.32,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-05T19:40:31.998475+00:00",
+      "published_at": "2026-04-05T20:46:08.742855+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +147,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-05T20:22:03.454311+00:00",
-      "score": 17.3
+      "timestamp": "2026-04-05T21:51:45.487235+00:00",
+      "score": 16.5
     },
     {
-      "timestamp": "2026-04-05T21:03:34.910147+00:00",
-      "score": 16.8
+      "timestamp": "2026-04-05T22:57:22.231615+00:00",
+      "score": 16.1
     },
     {
-      "timestamp": "2026-04-05T21:45:06.365983+00:00",
-      "score": 16.4
-    },
-    {
-      "timestamp": "2026-04-05T22:26:37.821819+00:00",
-      "score": 16.0
-    },
-    {
-      "timestamp": "2026-04-05T23:08:09.277655+00:00",
+      "timestamp": "2026-04-06T00:02:58.975995+00:00",
       "score": 15.6
     },
     {
-      "timestamp": "2026-04-05T23:49:40.733491+00:00",
-      "score": 15.1
+      "timestamp": "2026-04-06T01:08:35.720375+00:00",
+      "score": 15.2
+    },
+    {
+      "timestamp": "2026-04-06T02:14:12.464755+00:00",
+      "score": 14.7
+    },
+    {
+      "timestamp": "2026-04-06T03:19:49.209135+00:00",
+      "score": 14.3
     }
   ]
 }
