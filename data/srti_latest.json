@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-05T17:41:30.026464+00:00",
+  "fetched_at": "2026-04-05T18:59:00.542639+00:00",
   "window_hours": 72,
   "score": 19.5,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-05T17:41:30.026464+00:00",
+      "published_at": "2026-04-05T18:59:00.542639+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-05T17:41:30.026464+00:00",
+      "published_at": "2026-04-05T18:59:00.542639+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-05T17:41:30.026464+00:00",
+      "published_at": "2026-04-05T18:59:00.542639+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-05T18:34:00.100952+00:00",
-      "score": 17.7
+      "timestamp": "2026-04-05T20:16:31.058814+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-04-05T19:26:30.175440+00:00",
-      "score": 17.3
+      "timestamp": "2026-04-05T21:34:01.574989+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-04-05T20:19:00.249928+00:00",
-      "score": 16.9
+      "timestamp": "2026-04-05T22:51:32.091164+00:00",
+      "score": 16.6
     },
     {
-      "timestamp": "2026-04-05T21:11:30.324416+00:00",
-      "score": 16.4
+      "timestamp": "2026-04-06T00:09:02.607339+00:00",
+      "score": 16.2
     },
     {
-      "timestamp": "2026-04-05T22:04:00.398904+00:00",
-      "score": 16.0
+      "timestamp": "2026-04-06T01:26:33.123514+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-04-05T22:56:30.473392+00:00",
-      "score": 15.6
+      "timestamp": "2026-04-06T02:44:03.639689+00:00",
+      "score": 15.3
     }
   ]
 }
