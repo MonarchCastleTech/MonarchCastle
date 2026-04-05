@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-05T11:38:36.699285+00:00",
+  "fetched_at": "2026-04-05T13:17:19.510367+00:00",
   "window_hours": 72,
   "score": 19.5,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-05T11:38:36.699285+00:00",
+      "published_at": "2026-04-05T13:17:19.510367+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
       "link": "https://lefaso.net/spip.php?article145479",
       "source": "LeFaso",
-      "published_at": "2026-04-05T11:38:36.699285+00:00",
+      "published_at": "2026-04-05T13:17:19.510367+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-05T11:38:36.699285+00:00",
+      "published_at": "2026-04-05T13:17:19.510367+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-05T12:28:50.345730+00:00",
-      "score": 20.6
+      "timestamp": "2026-04-05T14:56:02.321449+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-04-05T13:19:03.992175+00:00",
-      "score": 20.3
+      "timestamp": "2026-04-05T16:34:45.132531+00:00",
+      "score": 19.4
     },
     {
-      "timestamp": "2026-04-05T14:09:17.638620+00:00",
-      "score": 20.0
+      "timestamp": "2026-04-05T18:13:27.943613+00:00",
+      "score": 19.1
     },
     {
-      "timestamp": "2026-04-05T14:59:31.285065+00:00",
-      "score": 19.6
+      "timestamp": "2026-04-05T19:52:10.754695+00:00",
+      "score": 18.7
     },
     {
-      "timestamp": "2026-04-05T15:49:44.931510+00:00",
-      "score": 19.3
+      "timestamp": "2026-04-05T21:30:53.565777+00:00",
+      "score": 18.4
     },
     {
-      "timestamp": "2026-04-05T16:39:58.577955+00:00",
-      "score": 19.0
+      "timestamp": "2026-04-05T23:09:36.376859+00:00",
+      "score": 18.0
     }
   ]
 }
