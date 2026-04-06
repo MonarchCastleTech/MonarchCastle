@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-06T22:49:41.407647+00:00",
+  "fetched_at": "2026-04-06T23:47:19.358170+00:00",
   "window_hours": 72,
-  "score": 46.1,
+  "score": 45.7,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 52.3,
+    "conflict_intensity": 51.4,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 56
+      "items": 54
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 4.7,
+      "score": 4.61,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-06T09:08:45+00:00",
-      "score": 3.11,
+      "score": 3.06,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T20:19:53+00:00",
-      "score": 2.16,
+      "score": 2.13,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 1.62,
+      "score": 1.59,
       "tags": [
         "civilian_risk"
       ],
@@ -153,7 +153,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-06T22:49:41.407647+00:00",
+      "published_at": "2026-04-06T23:47:19.358170+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,27 +163,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-06T23:51:47.329832+00:00",
-      "score": 57.2
+      "timestamp": "2026-04-07T00:44:57.308693+00:00",
+      "score": 57.5
     },
     {
-      "timestamp": "2026-04-07T00:53:53.252017+00:00",
-      "score": 59.0
+      "timestamp": "2026-04-07T01:42:35.259216+00:00",
+      "score": 59.2
     },
     {
-      "timestamp": "2026-04-07T01:55:59.174202+00:00",
-      "score": 60.7
+      "timestamp": "2026-04-07T02:40:13.209739+00:00",
+      "score": 60.9
     },
     {
-      "timestamp": "2026-04-07T02:58:05.096387+00:00",
-      "score": 62.5
+      "timestamp": "2026-04-07T03:37:51.160262+00:00",
+      "score": 62.6
     },
     {
-      "timestamp": "2026-04-07T04:00:11.018572+00:00",
+      "timestamp": "2026-04-07T04:35:29.110785+00:00",
       "score": 64.3
     },
     {
-      "timestamp": "2026-04-07T05:02:16.940757+00:00",
+      "timestamp": "2026-04-07T05:33:07.061308+00:00",
       "score": 66.0
     }
   ]
