@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-06T21:47:35.485462+00:00",
+  "fetched_at": "2026-04-06T22:49:41.407647+00:00",
   "window_hours": 72,
-  "score": 46.6,
+  "score": 46.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 53.3,
+    "conflict_intensity": 52.3,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 52
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 4.79,
+      "score": 4.7,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-06T09:08:45+00:00",
-      "score": 3.17,
+      "score": 3.11,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T20:19:53+00:00",
-      "score": 2.19,
+      "score": 2.16,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 1.65,
+      "score": 1.62,
       "tags": [
         "civilian_risk"
       ],
@@ -153,7 +153,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-06T21:47:35.485462+00:00",
+      "published_at": "2026-04-06T22:49:41.407647+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-06T22:45:46.829209+00:00",
-      "score": 56.6
+      "timestamp": "2026-04-06T23:51:47.329832+00:00",
+      "score": 57.2
     },
     {
-      "timestamp": "2026-04-06T23:43:58.172956+00:00",
-      "score": 58.4
+      "timestamp": "2026-04-07T00:53:53.252017+00:00",
+      "score": 59.0
     },
     {
-      "timestamp": "2026-04-07T00:42:09.516703+00:00",
-      "score": 60.2
+      "timestamp": "2026-04-07T01:55:59.174202+00:00",
+      "score": 60.7
     },
     {
-      "timestamp": "2026-04-07T01:40:20.860450+00:00",
-      "score": 62.0
+      "timestamp": "2026-04-07T02:58:05.096387+00:00",
+      "score": 62.5
     },
     {
-      "timestamp": "2026-04-07T02:38:32.204197+00:00",
-      "score": 63.8
+      "timestamp": "2026-04-07T04:00:11.018572+00:00",
+      "score": 64.3
     },
     {
-      "timestamp": "2026-04-07T03:36:43.547944+00:00",
-      "score": 65.6
+      "timestamp": "2026-04-07T05:02:16.940757+00:00",
+      "score": 66.0
     }
   ]
 }
