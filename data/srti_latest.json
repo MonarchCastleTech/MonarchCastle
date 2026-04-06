@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-06T14:59:48.227295+00:00",
+  "fetched_at": "2026-04-06T15:57:08.297972+00:00",
   "window_hours": 72,
-  "score": 50.2,
+  "score": 49.9,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 60.4,
+    "conflict_intensity": 59.7,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 5.43,
+      "score": 5.34,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-06T09:08:45+00:00",
-      "score": 3.53,
+      "score": 3.48,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-06T09:19:33+00:00",
-      "score": 1.99,
+      "score": 1.96,
       "tags": [
         "civilian_risk"
       ],
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 1.86,
+      "score": 1.83,
       "tags": [
         "civilian_risk"
       ],
@@ -153,7 +153,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-06T14:59:48.227295+00:00",
+      "published_at": "2026-04-06T15:57:08.297972+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,7 +164,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-06T14:59:48.227295+00:00",
+      "published_at": "2026-04-06T15:57:08.297972+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,28 +176,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-06T16:19:25.616330+00:00",
-      "score": 44.9
+      "timestamp": "2026-04-06T16:54:28.368649+00:00",
+      "score": 48.2
     },
     {
-      "timestamp": "2026-04-06T17:39:03.005365+00:00",
-      "score": 46.3
+      "timestamp": "2026-04-06T17:51:48.439326+00:00",
+      "score": 49.8
     },
     {
-      "timestamp": "2026-04-06T18:58:40.394400+00:00",
-      "score": 47.7
+      "timestamp": "2026-04-06T18:49:08.510003+00:00",
+      "score": 51.3
     },
     {
-      "timestamp": "2026-04-06T20:18:17.783435+00:00",
-      "score": 49.2
+      "timestamp": "2026-04-06T19:46:28.580680+00:00",
+      "score": 52.9
     },
     {
-      "timestamp": "2026-04-06T21:37:55.172470+00:00",
-      "score": 50.6
+      "timestamp": "2026-04-06T20:43:48.651357+00:00",
+      "score": 54.5
     },
     {
-      "timestamp": "2026-04-06T22:57:32.561505+00:00",
-      "score": 52.0
+      "timestamp": "2026-04-06T21:41:08.722034+00:00",
+      "score": 56.1
     }
   ]
 }
