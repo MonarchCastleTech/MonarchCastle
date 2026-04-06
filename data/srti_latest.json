@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-06T07:58:51.463435+00:00",
+  "fetched_at": "2026-04-06T09:19:30.800086+00:00",
   "window_hours": 72,
-  "score": 42.1,
+  "score": 52.4,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 45.4,
-    "civilian_risk": 97.0
+    "conflict_intensity": 64.8,
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 51
+      "items": 49
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,21 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 6.08,
+      "score": 5.96,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Nigerian army rescues 31 held hostage in Easter church attack",
+      "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-06T09:08:45+00:00",
+      "score": 3.83,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +126,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 2.07,
+      "score": 2.03,
       "tags": [
         "civilian_risk"
       ],
@@ -125,7 +139,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-06T07:58:51.463435+00:00",
+      "published_at": "2026-04-06T09:19:30.800086+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +150,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-06T07:58:51.463435+00:00",
+      "published_at": "2026-04-06T09:19:30.800086+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -148,28 +162,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-06T09:53:31.754646+00:00",
-      "score": 27.1
+      "timestamp": "2026-04-06T10:40:10.136737+00:00",
+      "score": 32.4
     },
     {
-      "timestamp": "2026-04-06T11:48:12.045857+00:00",
-      "score": 27.4
+      "timestamp": "2026-04-06T12:00:49.473388+00:00",
+      "score": 33.0
     },
     {
-      "timestamp": "2026-04-06T13:42:52.337068+00:00",
-      "score": 27.8
+      "timestamp": "2026-04-06T13:21:28.810039+00:00",
+      "score": 33.7
     },
     {
-      "timestamp": "2026-04-06T15:37:32.628279+00:00",
-      "score": 28.1
+      "timestamp": "2026-04-06T14:42:08.146690+00:00",
+      "score": 34.4
     },
     {
-      "timestamp": "2026-04-06T17:32:12.919490+00:00",
-      "score": 28.5
+      "timestamp": "2026-04-06T16:02:47.483341+00:00",
+      "score": 35.1
     },
     {
-      "timestamp": "2026-04-06T19:26:53.210701+00:00",
-      "score": 28.8
+      "timestamp": "2026-04-06T17:23:26.819992+00:00",
+      "score": 35.8
     }
   ]
 }
