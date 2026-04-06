@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-06T03:34:09.428752+00:00",
+  "fetched_at": "2026-04-06T06:04:11.172224+00:00",
   "window_hours": 72,
   "score": 43.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 47.5,
-    "civilian_risk": 96.7
+    "conflict_intensity": 46.3,
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 58
+      "items": 51
     },
     {
       "name": "ActuNiger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 13
+      "items": 14
     }
   ],
   "top_headlines": [
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 6.49,
+      "score": 6.26,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,10 +108,24 @@
       ]
     },
     {
+      "title": "More Than 1,800 Killed By Army and Jihadists in Burkina Faso Since 2023, NGO Reports",
+      "link": "https://allafrica.com/stories/202604060003.html",
+      "source": "AllAfrica - Burkina Faso",
+      "published_at": "2026-04-06T04:50:10+00:00",
+      "score": 2.12,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-06T03:34:09.428752+00:00",
+      "published_at": "2026-04-06T06:04:11.172224+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,23 +133,10 @@
       "regions": []
     },
     {
-      "title": "Burkina : L'Agence nationale des \u00e9valuations environnementales (ANEVE) lance la campagne d'inspections 2026, plus de 400 \u00e9tablissements class\u00e9s et sites miniers en ligne de mire",
-      "link": "https://lefaso.net/spip.php?article145479",
-      "source": "LeFaso",
-      "published_at": "2026-04-06T03:34:09.428752+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-06T03:34:09.428752+00:00",
+      "published_at": "2026-04-06T06:04:11.172224+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +162,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-06T07:22:57.903763+00:00",
-      "score": 19.3
+      "timestamp": "2026-04-06T08:34:12.915696+00:00",
+      "score": 23.4
     },
     {
-      "timestamp": "2026-04-06T11:11:46.378774+00:00",
-      "score": 19.1
+      "timestamp": "2026-04-06T11:04:14.659168+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-04-06T15:00:34.853785+00:00",
-      "score": 18.9
+      "timestamp": "2026-04-06T13:34:16.402640+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-04-06T18:49:23.328796+00:00",
-      "score": 18.8
+      "timestamp": "2026-04-06T16:04:18.146112+00:00",
+      "score": 23.6
     },
     {
-      "timestamp": "2026-04-06T22:38:11.803807+00:00",
-      "score": 18.6
+      "timestamp": "2026-04-06T18:34:19.889584+00:00",
+      "score": 23.7
     },
     {
-      "timestamp": "2026-04-07T02:27:00.278818+00:00",
-      "score": 18.4
+      "timestamp": "2026-04-06T21:04:21.633056+00:00",
+      "score": 23.8
     }
   ]
 }
