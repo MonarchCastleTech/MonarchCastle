@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-06T06:04:11.172224+00:00",
+  "fetched_at": "2026-04-06T07:58:51.463435+00:00",
   "window_hours": 72,
-  "score": 43.1,
+  "score": 42.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 46.3,
-    "civilian_risk": 100.0
+    "conflict_intensity": 45.4,
+    "civilian_risk": 97.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -94,11 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "Nigeria troops rescue Easter worshippers after deadly church attack",
+      "title": "Nigeria troops rescue 31 Easter worshippers after deadly church attack",
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 6.26,
+      "score": 6.08,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 2.12,
+      "score": 2.07,
       "tags": [
         "civilian_risk"
       ],
@@ -125,7 +125,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-06T06:04:11.172224+00:00",
+      "published_at": "2026-04-06T07:58:51.463435+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Ouagadougou : Un exercice de simulation d'attaque terroriste pr\u00e9vu ce samedi 4 avril 2026",
       "link": "https://lefaso.net/spip.php?article145490",
       "source": "LeFaso",
-      "published_at": "2026-04-06T06:04:11.172224+00:00",
+      "published_at": "2026-04-06T07:58:51.463435+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -144,46 +144,32 @@
       "regions": [
         "ouagadougou"
       ]
-    },
-    {
-      "title": "Army Behind Most Civilian Deaths - Report",
-      "link": "https://allafrica.com/stories/202604030092.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-04-03T06:41:02+00:00",
-      "score": 0.38,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-06T08:34:12.915696+00:00",
-      "score": 23.4
+      "timestamp": "2026-04-06T09:53:31.754646+00:00",
+      "score": 27.1
     },
     {
-      "timestamp": "2026-04-06T11:04:14.659168+00:00",
-      "score": 23.5
+      "timestamp": "2026-04-06T11:48:12.045857+00:00",
+      "score": 27.4
     },
     {
-      "timestamp": "2026-04-06T13:34:16.402640+00:00",
-      "score": 23.5
+      "timestamp": "2026-04-06T13:42:52.337068+00:00",
+      "score": 27.8
     },
     {
-      "timestamp": "2026-04-06T16:04:18.146112+00:00",
-      "score": 23.6
+      "timestamp": "2026-04-06T15:37:32.628279+00:00",
+      "score": 28.1
     },
     {
-      "timestamp": "2026-04-06T18:34:19.889584+00:00",
-      "score": 23.7
+      "timestamp": "2026-04-06T17:32:12.919490+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-04-06T21:04:21.633056+00:00",
-      "score": 23.8
+      "timestamp": "2026-04-06T19:26:53.210701+00:00",
+      "score": 28.8
     }
   ]
 }
