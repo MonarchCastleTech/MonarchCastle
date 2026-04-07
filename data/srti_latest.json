@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-07T07:45:14.306846+00:00",
+  "fetched_at": "2026-04-07T09:16:13.724099+00:00",
   "window_hours": 72,
-  "score": 45.0,
+  "score": 42.5,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 50.0,
-    "civilian_risk": 100.0
+    "conflict_intensity": 48.6,
+    "civilian_risk": 91.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 53
+      "items": 51
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 3.86,
+      "score": 3.72,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-07T06:41:24+00:00",
-      "score": 3.78,
+      "score": 3.7,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T20:19:53+00:00",
-      "score": 1.88,
+      "score": 1.84,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -136,22 +136,11 @@
       ]
     },
     {
-      "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
-      "link": "https://lefaso.net/spip.php?article145499",
-      "source": "LeFaso",
-      "published_at": "2026-04-07T07:45:14.306846+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
       "title": "More Than 1,800 Killed By Army and Jihadists in Burkina Faso Since 2023, NGO Reports",
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 1.35,
+      "score": 1.31,
       "tags": [
         "civilian_risk"
       ],
@@ -163,28 +152,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-07T09:39:10.203531+00:00",
-      "score": 55.8
+      "timestamp": "2026-04-07T10:47:13.141352+00:00",
+      "score": 54.5
     },
     {
-      "timestamp": "2026-04-07T11:33:06.100216+00:00",
-      "score": 57.1
+      "timestamp": "2026-04-07T12:18:12.558605+00:00",
+      "score": 55.6
     },
     {
-      "timestamp": "2026-04-07T13:27:01.996901+00:00",
-      "score": 58.5
+      "timestamp": "2026-04-07T13:49:11.975858+00:00",
+      "score": 56.8
     },
     {
-      "timestamp": "2026-04-07T15:20:57.893586+00:00",
-      "score": 59.8
+      "timestamp": "2026-04-07T15:20:11.393111+00:00",
+      "score": 57.9
     },
     {
-      "timestamp": "2026-04-07T17:14:53.790271+00:00",
-      "score": 61.1
+      "timestamp": "2026-04-07T16:51:10.810364+00:00",
+      "score": 59.0
     },
     {
-      "timestamp": "2026-04-07T19:08:49.686956+00:00",
-      "score": 62.4
+      "timestamp": "2026-04-07T18:22:10.227617+00:00",
+      "score": 60.2
     }
   ]
 }
