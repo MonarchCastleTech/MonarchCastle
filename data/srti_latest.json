@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-06T23:47:19.358170+00:00",
+  "fetched_at": "2026-04-07T03:24:03.348666+00:00",
   "window_hours": 72,
-  "score": 45.7,
+  "score": 44.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 51.4,
+    "conflict_intensity": 48.1,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 54
+      "items": 53
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 4.61,
+      "score": 4.27,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-06T09:08:45+00:00",
-      "score": 3.06,
+      "score": 2.87,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T20:19:53+00:00",
-      "score": 2.13,
+      "score": 2.02,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 1.59,
+      "score": 1.48,
       "tags": [
         "civilian_risk"
       ],
@@ -153,7 +153,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-06T23:47:19.358170+00:00",
+      "published_at": "2026-04-07T03:24:03.348666+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-07T00:44:57.308693+00:00",
-      "score": 57.5
+      "timestamp": "2026-04-07T07:00:47.339162+00:00",
+      "score": 57.2
     },
     {
-      "timestamp": "2026-04-07T01:42:35.259216+00:00",
-      "score": 59.2
+      "timestamp": "2026-04-07T10:37:31.329658+00:00",
+      "score": 58.8
     },
     {
-      "timestamp": "2026-04-07T02:40:13.209739+00:00",
-      "score": 60.9
+      "timestamp": "2026-04-07T14:14:15.320154+00:00",
+      "score": 60.4
     },
     {
-      "timestamp": "2026-04-07T03:37:51.160262+00:00",
-      "score": 62.6
+      "timestamp": "2026-04-07T17:50:59.310650+00:00",
+      "score": 62.0
     },
     {
-      "timestamp": "2026-04-07T04:35:29.110785+00:00",
-      "score": 64.3
+      "timestamp": "2026-04-07T21:27:43.301146+00:00",
+      "score": 63.6
     },
     {
-      "timestamp": "2026-04-07T05:33:07.061308+00:00",
-      "score": 66.0
+      "timestamp": "2026-04-08T01:04:27.291642+00:00",
+      "score": 65.2
     }
   ]
 }
