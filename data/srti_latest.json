@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-07T05:51:18.410161+00:00",
+  "fetched_at": "2026-04-07T07:45:14.306846+00:00",
   "window_hours": 72,
-  "score": 42.9,
+  "score": 45.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 45.8,
+    "conflict_intensity": 50.0,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 4.04,
+      "score": 3.86,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,11 +108,11 @@
       ]
     },
     {
-      "title": "Nigerian army rescues 31 held after Easter church attack",
+      "title": "Locals dispute Nigerian army claim of 31 rescued after Easter attack",
       "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-04-06T09:08:45+00:00",
-      "score": 2.74,
+      "published_at": "2026-04-07T06:41:24+00:00",
+      "score": 3.78,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T20:19:53+00:00",
-      "score": 1.94,
+      "score": 1.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Le pape L\u00e9on XIV au chemin de croix du vendredi saint : \u00ab Que Dieu donne des larmes pour pleurer sur les massacres et les g\u00e9nocides et sur le cynisme des tyrans \u00bb",
       "link": "https://lefaso.net/spip.php?article145499",
       "source": "LeFaso",
-      "published_at": "2026-04-07T05:51:18.410161+00:00",
+      "published_at": "2026-04-07T07:45:14.306846+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 1.41,
+      "score": 1.35,
       "tags": [
         "civilian_risk"
       ],
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-07T08:18:33.471656+00:00",
-      "score": 56.5
+      "timestamp": "2026-04-07T09:39:10.203531+00:00",
+      "score": 55.8
     },
     {
-      "timestamp": "2026-04-07T10:45:48.533151+00:00",
-      "score": 57.9
+      "timestamp": "2026-04-07T11:33:06.100216+00:00",
+      "score": 57.1
     },
     {
-      "timestamp": "2026-04-07T13:13:03.594646+00:00",
-      "score": 59.4
+      "timestamp": "2026-04-07T13:27:01.996901+00:00",
+      "score": 58.5
     },
     {
-      "timestamp": "2026-04-07T15:40:18.656141+00:00",
-      "score": 60.8
+      "timestamp": "2026-04-07T15:20:57.893586+00:00",
+      "score": 59.8
     },
     {
-      "timestamp": "2026-04-07T18:07:33.717636+00:00",
-      "score": 62.3
+      "timestamp": "2026-04-07T17:14:53.790271+00:00",
+      "score": 61.1
     },
     {
-      "timestamp": "2026-04-07T20:34:48.779131+00:00",
-      "score": 63.8
+      "timestamp": "2026-04-07T19:08:49.686956+00:00",
+      "score": 62.4
     }
   ]
 }
