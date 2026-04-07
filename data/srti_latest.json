@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-07T20:58:34.876234+00:00",
+  "fetched_at": "2026-04-07T21:52:49.137159+00:00",
   "window_hours": 72,
-  "score": 32.8,
+  "score": 32.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 37.7,
-    "civilian_risk": 69.9
+    "conflict_intensity": 36.8,
+    "civilian_risk": 68.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-07T06:41:24+00:00",
-      "score": 3.08,
+      "score": 3.03,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 2.63,
+      "score": 2.54,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T20:19:53+00:00",
-      "score": 1.47,
+      "score": 1.45,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 0.96,
+      "score": 0.93,
       "tags": [
         "civilian_risk"
       ],
@@ -152,28 +152,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-07T22:39:15.057018+00:00",
-      "score": 36.5
+      "timestamp": "2026-04-07T22:47:03.398084+00:00",
+      "score": 34.4
     },
     {
-      "timestamp": "2026-04-08T00:19:55.237802+00:00",
-      "score": 35.9
+      "timestamp": "2026-04-07T23:41:17.659009+00:00",
+      "score": 33.6
     },
     {
-      "timestamp": "2026-04-08T02:00:35.418586+00:00",
-      "score": 35.3
+      "timestamp": "2026-04-08T00:35:31.919934+00:00",
+      "score": 32.9
     },
     {
-      "timestamp": "2026-04-08T03:41:15.599370+00:00",
-      "score": 34.6
+      "timestamp": "2026-04-08T01:29:46.180859+00:00",
+      "score": 32.1
     },
     {
-      "timestamp": "2026-04-08T05:21:55.780154+00:00",
-      "score": 34.0
+      "timestamp": "2026-04-08T02:24:00.441784+00:00",
+      "score": 31.4
     },
     {
-      "timestamp": "2026-04-08T07:02:35.960938+00:00",
-      "score": 33.4
+      "timestamp": "2026-04-08T03:18:14.702709+00:00",
+      "score": 30.6
     }
   ]
 }
