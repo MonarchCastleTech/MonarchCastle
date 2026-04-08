@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-08T21:54:32.632745+00:00",
+  "fetched_at": "2026-04-08T22:54:07.504128+00:00",
   "window_hours": 72,
-  "score": 19.9,
+  "score": 19.8,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 25.6,
+    "conflict_intensity": 25.4,
     "civilian_risk": 35.3
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 62
     },
     {
       "name": "ActuNiger",
@@ -122,19 +122,6 @@
       ]
     },
     {
-      "title": "Nigeria begins mass trial of 500 terrorism suspects",
-      "link": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-04-08T14:57:25+00:00",
-      "score": 0.76,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "More Than 1,800 Killed By Army and Jihadists in Burkina Faso Since 2023, NGO Reports",
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
@@ -147,31 +134,44 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "Nigeria begins mass trial of 500 terrorism suspects",
+      "link": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-08T14:57:25+00:00",
+      "score": 0.75,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-08T22:52:49.765327+00:00",
-      "score": 13.1
+      "timestamp": "2026-04-08T23:53:42.375511+00:00",
+      "score": 12.8
     },
     {
-      "timestamp": "2026-04-08T23:51:06.897909+00:00",
-      "score": 11.7
+      "timestamp": "2026-04-09T00:53:17.246894+00:00",
+      "score": 11.5
     },
     {
-      "timestamp": "2026-04-09T00:49:24.030491+00:00",
-      "score": 10.4
+      "timestamp": "2026-04-09T01:52:52.118277+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-04-09T01:47:41.163073+00:00",
-      "score": 9.1
+      "timestamp": "2026-04-09T02:52:26.989660+00:00",
+      "score": 9.0
     },
     {
-      "timestamp": "2026-04-09T02:45:58.295655+00:00",
-      "score": 7.8
+      "timestamp": "2026-04-09T03:52:01.861043+00:00",
+      "score": 7.7
     },
     {
-      "timestamp": "2026-04-09T03:44:15.428237+00:00",
+      "timestamp": "2026-04-09T04:51:36.732426+00:00",
       "score": 6.4
     }
   ]
