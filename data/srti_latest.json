@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-07T23:49:27.663282+00:00",
+  "fetched_at": "2026-04-08T03:26:28.549837+00:00",
   "window_hours": 72,
-  "score": 30.4,
+  "score": 28.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.0,
-    "civilian_risk": 64.7
+    "conflict_intensity": 33.4,
+    "civilian_risk": 60.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 52
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cgld111d9jpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-07T06:41:24+00:00",
-      "score": 2.93,
+      "score": 2.73,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260406-nigeria-troops-rescue-easter-worshippers-after-deadly-church-attack-christians",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T01:07:59+00:00",
-      "score": 2.36,
+      "score": 2.35,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T20:19:53+00:00",
-      "score": 1.38,
+      "score": 1.27,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604060003.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 0.87,
+      "score": 0.76,
       "tags": [
         "civilian_risk"
       ],
@@ -152,28 +152,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-08T00:46:55.707835+00:00",
-      "score": 30.8
+      "timestamp": "2026-04-08T07:03:29.436392+00:00",
+      "score": 29.5
     },
     {
-      "timestamp": "2026-04-08T01:44:23.752388+00:00",
-      "score": 29.9
+      "timestamp": "2026-04-08T10:40:30.322947+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-04-08T02:41:51.796941+00:00",
-      "score": 29.0
+      "timestamp": "2026-04-08T14:17:31.209502+00:00",
+      "score": 27.6
     },
     {
-      "timestamp": "2026-04-08T03:39:19.841494+00:00",
-      "score": 28.1
+      "timestamp": "2026-04-08T17:54:32.096057+00:00",
+      "score": 26.6
     },
     {
-      "timestamp": "2026-04-08T04:36:47.886047+00:00",
-      "score": 27.1
+      "timestamp": "2026-04-08T21:31:32.982612+00:00",
+      "score": 25.6
     },
     {
-      "timestamp": "2026-04-08T05:34:15.930600+00:00",
-      "score": 26.2
+      "timestamp": "2026-04-09T01:08:33.869167+00:00",
+      "score": 24.7
     }
   ]
 }
