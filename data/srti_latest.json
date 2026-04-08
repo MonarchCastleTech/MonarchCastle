@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-08T13:56:44.647085+00:00",
+  "fetched_at": "2026-04-08T15:22:59.345365+00:00",
   "window_hours": 72,
-  "score": 16.0,
-  "risk_level": "LOW",
+  "score": 20.8,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 17.3,
-    "civilian_risk": 36.6
+    "conflict_intensity": 27.1,
+    "civilian_risk": 36.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 59
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 34
+      "items": 35
     },
     {
       "name": "UN News Africa",
@@ -112,10 +112,23 @@
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-04-06T20:19:53+00:00",
-      "score": 0.95,
+      "score": 0.9,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Nigeria begins mass trial of 500 terrorism suspects",
+      "link": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-08T14:57:25+00:00",
+      "score": 0.84,
+      "tags": [
+        "conflict_intensity"
       ],
       "regions": [
         "niger"
@@ -138,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-08T16:43:00.952056+00:00",
-      "score": 17.7
+      "timestamp": "2026-04-08T16:49:14.043645+00:00",
+      "score": 16.0
     },
     {
-      "timestamp": "2026-04-08T19:29:17.257027+00:00",
-      "score": 16.3
+      "timestamp": "2026-04-08T18:15:28.741925+00:00",
+      "score": 14.6
     },
     {
-      "timestamp": "2026-04-08T22:15:33.561998+00:00",
-      "score": 15.0
+      "timestamp": "2026-04-08T19:41:43.440205+00:00",
+      "score": 13.1
     },
     {
-      "timestamp": "2026-04-09T01:01:49.866969+00:00",
-      "score": 13.6
+      "timestamp": "2026-04-08T21:07:58.138485+00:00",
+      "score": 11.7
     },
     {
-      "timestamp": "2026-04-09T03:48:06.171940+00:00",
-      "score": 12.2
+      "timestamp": "2026-04-08T22:34:12.836765+00:00",
+      "score": 10.3
     },
     {
-      "timestamp": "2026-04-09T06:34:22.476911+00:00",
-      "score": 10.8
+      "timestamp": "2026-04-09T00:00:27.535045+00:00",
+      "score": 8.8
     }
   ]
 }
