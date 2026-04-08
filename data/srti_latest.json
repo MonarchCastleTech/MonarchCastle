@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-08T19:37:17.596471+00:00",
+  "fetched_at": "2026-04-08T20:56:15.500163+00:00",
   "window_hours": 72,
-  "score": 20.0,
-  "risk_level": "GUARDED",
+  "score": 19.9,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 25.9,
+    "conflict_intensity": 25.7,
     "civilian_risk": 35.3
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 67
     },
     {
       "name": "ActuNiger",
@@ -108,19 +108,6 @@
       ]
     },
     {
-      "title": "Nigeria begins mass trial of 500 terrorism suspects",
-      "link": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-04-08T14:57:25+00:00",
-      "score": 0.79,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Dozens killed in Easter attacks in Nigeria",
       "link": "https://www.france24.com/en/nigeria-christian-group-disputes-army-rescue-claim-in-kaduna-church-attack",
       "source": "France 24 - Africa",
@@ -129,6 +116,19 @@
       "tags": [
         "conflict_intensity",
         "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Nigeria begins mass trial of 500 terrorism suspects",
+      "link": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-08T14:57:25+00:00",
+      "score": 0.77,
+      "tags": [
+        "conflict_intensity"
       ],
       "regions": [
         "niger"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-08T21:58:12.304208+00:00",
-      "score": 14.1
+      "timestamp": "2026-04-08T22:15:13.403855+00:00",
+      "score": 13.5
     },
     {
-      "timestamp": "2026-04-09T00:19:07.011945+00:00",
-      "score": 12.7
+      "timestamp": "2026-04-08T23:34:11.307547+00:00",
+      "score": 12.1
     },
     {
-      "timestamp": "2026-04-09T02:40:01.719682+00:00",
-      "score": 11.3
+      "timestamp": "2026-04-09T00:53:09.211239+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-04-09T05:00:56.427419+00:00",
-      "score": 9.9
+      "timestamp": "2026-04-09T02:12:07.114931+00:00",
+      "score": 9.3
     },
     {
-      "timestamp": "2026-04-09T07:21:51.135156+00:00",
-      "score": 8.4
+      "timestamp": "2026-04-09T03:31:05.018623+00:00",
+      "score": 7.9
     },
     {
-      "timestamp": "2026-04-09T09:42:45.842893+00:00",
-      "score": 7.0
+      "timestamp": "2026-04-09T04:50:02.922315+00:00",
+      "score": 6.6
     }
   ]
 }
