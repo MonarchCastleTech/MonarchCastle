@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-09T03:20:32.512757+00:00",
+  "fetched_at": "2026-04-09T05:53:45.628067+00:00",
   "window_hours": 72,
-  "score": 9.6,
+  "score": 7.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 12.5,
-    "civilian_risk": 16.8
+    "conflict_intensity": 12.1,
+    "civilian_risk": 6.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 10
     },
     {
       "name": "AllAfrica - Niger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 14
+      "items": 15
     }
   ],
   "top_headlines": [
@@ -108,25 +108,11 @@
       ]
     },
     {
-      "title": "More Than 1,800 Killed By Army and Jihadists in Burkina Faso Since 2023, NGO Reports",
-      "link": "https://allafrica.com/stories/202604060003.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-04-06T04:50:10+00:00",
-      "score": 0.76,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Nigeria begins mass trial of 500 terrorism suspects",
       "link": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-08T14:57:25+00:00",
-      "score": 0.7,
+      "score": 0.67,
       "tags": [
         "conflict_intensity"
       ],
@@ -137,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-09T06:51:42.326106+00:00",
-      "score": 11.3
+      "timestamp": "2026-04-09T08:26:58.743377+00:00",
+      "score": 9.6
     },
     {
-      "timestamp": "2026-04-09T10:22:52.139455+00:00",
-      "score": 10.1
+      "timestamp": "2026-04-09T11:00:11.858687+00:00",
+      "score": 8.4
     },
     {
-      "timestamp": "2026-04-09T13:54:01.952804+00:00",
-      "score": 8.9
+      "timestamp": "2026-04-09T13:33:24.973997+00:00",
+      "score": 7.2
     },
     {
-      "timestamp": "2026-04-09T17:25:11.766153+00:00",
-      "score": 7.7
+      "timestamp": "2026-04-09T16:06:38.089307+00:00",
+      "score": 6.0
     },
     {
-      "timestamp": "2026-04-09T20:56:21.579502+00:00",
-      "score": 6.5
+      "timestamp": "2026-04-09T18:39:51.204617+00:00",
+      "score": 4.8
     },
     {
-      "timestamp": "2026-04-10T00:27:31.392851+00:00",
-      "score": 5.3
+      "timestamp": "2026-04-09T21:13:04.319927+00:00",
+      "score": 3.6
     }
   ]
 }
