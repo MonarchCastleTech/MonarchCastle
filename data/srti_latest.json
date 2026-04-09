@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-09T16:22:32.432202+00:00",
+  "fetched_at": "2026-04-09T18:04:11.548680+00:00",
   "window_hours": 72,
-  "score": 10.6,
+  "score": 10.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 10.6,
+    "conflict_intensity": 10.4,
     "civilian_risk": 26.3
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 88
+      "items": 87
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "R\u00e9seaux sociaux : La fin de l'impunit\u00e9 pour les marchands d'addictions ?",
       "link": "https://lefaso.net/spip.php?article145608",
       "source": "LeFaso",
-      "published_at": "2026-04-09T16:22:32.432202+00:00",
+      "published_at": "2026-04-09T18:04:11.548680+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "link": "https://www.bbc.com/news/articles/ckg9y95kxyko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-08T14:57:25+00:00",
-      "score": 0.54,
+      "score": 0.52,
       "tags": [
         "conflict_intensity"
       ],
@@ -134,28 +134,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-09T18:39:28.344188+00:00",
+      "timestamp": "2026-04-09T19:45:50.665158+00:00",
       "score": 5.5
     },
     {
-      "timestamp": "2026-04-09T20:56:24.256174+00:00",
+      "timestamp": "2026-04-09T21:27:29.781636+00:00",
       "score": 4.5
     },
     {
-      "timestamp": "2026-04-09T23:13:20.168160+00:00",
-      "score": 3.4
+      "timestamp": "2026-04-09T23:09:08.898114+00:00",
+      "score": 3.5
     },
     {
-      "timestamp": "2026-04-10T01:30:16.080146+00:00",
-      "score": 2.4
+      "timestamp": "2026-04-10T00:50:48.014592+00:00",
+      "score": 2.6
     },
     {
-      "timestamp": "2026-04-10T03:47:11.992132+00:00",
-      "score": 1.3
+      "timestamp": "2026-04-10T02:32:27.131070+00:00",
+      "score": 1.6
     },
     {
-      "timestamp": "2026-04-10T06:04:07.904118+00:00",
-      "score": 0.3
+      "timestamp": "2026-04-10T04:14:06.247548+00:00",
+      "score": 0.6
     }
   ]
 }
