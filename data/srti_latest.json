@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-11T15:41:25.182271+00:00",
+  "fetched_at": "2026-04-11T16:50:06.320125+00:00",
   "window_hours": 72,
-  "score": 16.3,
+  "score": 16.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 20.5,
-    "civilian_risk": 30.4
+    "conflict_intensity": 19.9,
+    "civilian_risk": 30.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 92
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/somalia-islamic-state-group-new-front-line-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-04-10T09:29:39+00:00",
-      "score": 2.44,
+      "score": 2.37,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "R\u00e9seaux sociaux : La fin de l'impunit\u00e9 pour les marchands d'addictions ?",
       "link": "https://lefaso.net/spip.php?article145608",
       "source": "LeFaso",
-      "published_at": "2026-04-11T15:41:25.182271+00:00",
+      "published_at": "2026-04-11T16:50:06.320125+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,28 +121,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-11T16:34:46.745074+00:00",
-      "score": 19.4
+      "timestamp": "2026-04-11T17:58:47.457979+00:00",
+      "score": 17.3
     },
     {
-      "timestamp": "2026-04-11T17:28:08.307877+00:00",
-      "score": 19.3
+      "timestamp": "2026-04-11T19:07:28.595833+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-04-11T18:21:29.870680+00:00",
-      "score": 19.2
+      "timestamp": "2026-04-11T20:16:09.733687+00:00",
+      "score": 16.7
     },
     {
-      "timestamp": "2026-04-11T19:14:51.433483+00:00",
-      "score": 19.1
+      "timestamp": "2026-04-11T21:24:50.871541+00:00",
+      "score": 16.4
     },
     {
-      "timestamp": "2026-04-11T20:08:12.996286+00:00",
-      "score": 19.0
+      "timestamp": "2026-04-11T22:33:32.009395+00:00",
+      "score": 16.1
     },
     {
-      "timestamp": "2026-04-11T21:01:34.559089+00:00",
-      "score": 18.9
+      "timestamp": "2026-04-11T23:42:13.147249+00:00",
+      "score": 15.8
     }
   ]
 }
