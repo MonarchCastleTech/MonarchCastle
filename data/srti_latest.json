@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-11T05:36:29.220994+00:00",
+  "fetched_at": "2026-04-11T07:13:26.423530+00:00",
   "window_hours": 72,
-  "score": 21.1,
+  "score": 20.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 29.0,
-    "civilian_risk": 32.9
+    "conflict_intensity": 28.2,
+    "civilian_risk": 32.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/somalia-islamic-state-group-new-front-line-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-04-10T09:29:39+00:00",
-      "score": 3.03,
+      "score": 2.93,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "R\u00e9seaux sociaux : La fin de l'impunit\u00e9 pour les marchands d'addictions ?",
       "link": "https://lefaso.net/spip.php?article145608",
       "source": "LeFaso",
-      "published_at": "2026-04-11T05:36:29.220994+00:00",
+      "published_at": "2026-04-11T07:13:26.423530+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,28 +134,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-11T07:59:07.205118+00:00",
-      "score": 28.6
+      "timestamp": "2026-04-11T08:50:23.626066+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-04-11T10:21:45.189242+00:00",
-      "score": 29.5
+      "timestamp": "2026-04-11T10:27:20.828602+00:00",
+      "score": 29.4
     },
     {
-      "timestamp": "2026-04-11T12:44:23.173366+00:00",
-      "score": 30.4
+      "timestamp": "2026-04-11T12:04:18.031138+00:00",
+      "score": 30.3
     },
     {
-      "timestamp": "2026-04-11T15:07:01.157490+00:00",
-      "score": 31.3
+      "timestamp": "2026-04-11T13:41:15.233674+00:00",
+      "score": 31.2
     },
     {
-      "timestamp": "2026-04-11T17:29:39.141614+00:00",
-      "score": 32.2
+      "timestamp": "2026-04-11T15:18:12.436210+00:00",
+      "score": 32.0
     },
     {
-      "timestamp": "2026-04-11T19:52:17.125738+00:00",
-      "score": 33.2
+      "timestamp": "2026-04-11T16:55:09.638746+00:00",
+      "score": 32.9
     }
   ]
 }
