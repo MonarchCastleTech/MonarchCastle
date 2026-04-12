@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T09:54:21.362849+00:00",
+  "fetched_at": "2026-04-12T10:52:29.782959+00:00",
   "window_hours": 72,
   "score": 11.4,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -111,7 +111,7 @@
       "title": "R\u00e9seaux sociaux : La fin de l'impunit\u00e9 pour les marchands d'addictions ?",
       "link": "https://lefaso.net/spip.php?article145608",
       "source": "LeFaso",
-      "published_at": "2026-04-12T09:54:21.362849+00:00",
+      "published_at": "2026-04-12T10:52:29.782959+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,27 +121,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-12T10:47:10.216399+00:00",
-      "score": 10.4
+      "timestamp": "2026-04-12T11:50:38.203069+00:00",
+      "score": 10.3
     },
     {
-      "timestamp": "2026-04-12T11:39:59.069949+00:00",
-      "score": 10.0
+      "timestamp": "2026-04-12T12:48:46.623179+00:00",
+      "score": 9.8
     },
     {
-      "timestamp": "2026-04-12T12:32:47.923499+00:00",
-      "score": 9.5
+      "timestamp": "2026-04-12T13:46:55.043289+00:00",
+      "score": 9.4
     },
     {
-      "timestamp": "2026-04-12T13:25:36.777049+00:00",
-      "score": 9.1
+      "timestamp": "2026-04-12T14:45:03.463399+00:00",
+      "score": 8.9
     },
     {
-      "timestamp": "2026-04-12T14:18:25.630599+00:00",
-      "score": 8.6
+      "timestamp": "2026-04-12T15:43:11.883509+00:00",
+      "score": 8.5
     },
     {
-      "timestamp": "2026-04-12T15:11:14.484149+00:00",
+      "timestamp": "2026-04-12T16:41:20.303619+00:00",
       "score": 8.1
     }
   ]
