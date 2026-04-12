@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-12T17:45:36.950336+00:00",
+  "fetched_at": "2026-04-12T19:02:55.790814+00:00",
   "window_hours": 72,
-  "score": 11.4,
+  "score": 17.4,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 12.3,
-    "civilian_risk": 26.3
+    "civilian_risk": 56.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -94,6 +94,19 @@
   ],
   "top_headlines": [
     {
+      "title": "Civilians feared killed after reports of air strike on Nigerian market",
+      "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-12T18:11:04+00:00",
+      "score": 2.13,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Somalia, the Islamic State group's new front line in Africa",
       "link": "https://www.france24.com/en/somalia-islamic-state-group-new-front-line-africa",
       "source": "France 24 - Africa",
@@ -111,7 +124,7 @@
       "title": "R\u00e9seaux sociaux : La fin de l'impunit\u00e9 pour les marchands d'addictions ?",
       "link": "https://lefaso.net/spip.php?article145608",
       "source": "LeFaso",
-      "published_at": "2026-04-12T17:45:36.950336+00:00",
+      "published_at": "2026-04-12T19:02:55.790814+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,28 +134,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-12T18:38:56.652349+00:00",
+      "timestamp": "2026-04-12T20:20:14.631292+00:00",
+      "score": 10.9
+    },
+    {
+      "timestamp": "2026-04-12T21:37:33.471770+00:00",
+      "score": 10.6
+    },
+    {
+      "timestamp": "2026-04-12T22:54:52.312248+00:00",
+      "score": 10.4
+    },
+    {
+      "timestamp": "2026-04-13T00:12:11.152726+00:00",
+      "score": 10.2
+    },
+    {
+      "timestamp": "2026-04-13T01:29:29.993204+00:00",
+      "score": 10.0
+    },
+    {
+      "timestamp": "2026-04-13T02:46:48.833682+00:00",
       "score": 9.8
-    },
-    {
-      "timestamp": "2026-04-12T19:32:16.354362+00:00",
-      "score": 9.5
-    },
-    {
-      "timestamp": "2026-04-12T20:25:36.056375+00:00",
-      "score": 9.2
-    },
-    {
-      "timestamp": "2026-04-12T21:18:55.758388+00:00",
-      "score": 8.9
-    },
-    {
-      "timestamp": "2026-04-12T22:12:15.460401+00:00",
-      "score": 8.6
-    },
-    {
-      "timestamp": "2026-04-12T23:05:35.162414+00:00",
-      "score": 8.3
     }
   ]
 }
