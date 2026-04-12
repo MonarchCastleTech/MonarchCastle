@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T15:47:06.355334+00:00",
+  "fetched_at": "2026-04-12T16:52:17.248323+00:00",
   "window_hours": 72,
   "score": 11.4,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -111,7 +111,7 @@
       "title": "R\u00e9seaux sociaux : La fin de l'impunit\u00e9 pour les marchands d'addictions ?",
       "link": "https://lefaso.net/spip.php?article145608",
       "source": "LeFaso",
-      "published_at": "2026-04-12T15:47:06.355334+00:00",
+      "published_at": "2026-04-12T16:52:17.248323+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,27 +121,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-12T16:42:56.580519+00:00",
-      "score": 10.0
+      "timestamp": "2026-04-12T17:57:28.141312+00:00",
+      "score": 9.9
     },
     {
-      "timestamp": "2026-04-12T17:38:46.805704+00:00",
+      "timestamp": "2026-04-12T19:02:39.034301+00:00",
       "score": 9.6
     },
     {
-      "timestamp": "2026-04-12T18:34:37.030889+00:00",
+      "timestamp": "2026-04-12T20:07:49.927290+00:00",
       "score": 9.3
     },
     {
-      "timestamp": "2026-04-12T19:30:27.256074+00:00",
-      "score": 9.0
+      "timestamp": "2026-04-12T21:13:00.820279+00:00",
+      "score": 8.9
     },
     {
-      "timestamp": "2026-04-12T20:26:17.481259+00:00",
-      "score": 8.7
+      "timestamp": "2026-04-12T22:18:11.713268+00:00",
+      "score": 8.6
     },
     {
-      "timestamp": "2026-04-12T21:22:07.706444+00:00",
+      "timestamp": "2026-04-12T23:23:22.606257+00:00",
       "score": 8.3
     }
   ]
