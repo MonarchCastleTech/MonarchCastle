@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-12T21:45:41.284811+00:00",
+  "fetched_at": "2026-04-12T22:47:29.308310+00:00",
   "window_hours": 72,
-  "score": 29.7,
+  "score": 25.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 23.7,
-    "civilian_risk": 89.2
+    "conflict_intensity": 23.5,
+    "civilian_risk": 68.1
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 54
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260412-military-air-strikes-kill-dozens-of-people-in-northeast-nigeria-amnesty-international-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-12T19:19:41+00:00",
-      "score": 3.38,
+      "score": 3.33,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-12T18:11:04+00:00",
-      "score": 2.05,
+      "score": 2.02,
       "tags": [
         "civilian_risk"
       ],
@@ -133,43 +133,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "R\u00e9seaux sociaux : La fin de l'impunit\u00e9 pour les marchands d'addictions ?",
-      "link": "https://lefaso.net/spip.php?article145608",
-      "source": "LeFaso",
-      "published_at": "2026-04-12T21:45:41.284811+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-12T22:42:55.451341+00:00",
-      "score": 19.5
+      "timestamp": "2026-04-12T23:49:17.331809+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-04-12T23:40:09.617871+00:00",
-      "score": 19.8
+      "timestamp": "2026-04-13T00:51:05.355308+00:00",
+      "score": 21.7
     },
     {
-      "timestamp": "2026-04-13T00:37:23.784401+00:00",
-      "score": 20.1
+      "timestamp": "2026-04-13T01:52:53.378807+00:00",
+      "score": 22.1
     },
     {
-      "timestamp": "2026-04-13T01:34:37.950931+00:00",
-      "score": 20.5
+      "timestamp": "2026-04-13T02:54:41.402306+00:00",
+      "score": 22.6
     },
     {
-      "timestamp": "2026-04-13T02:31:52.117461+00:00",
-      "score": 20.8
+      "timestamp": "2026-04-13T03:56:29.425805+00:00",
+      "score": 23.0
     },
     {
-      "timestamp": "2026-04-13T03:29:06.283991+00:00",
-      "score": 21.1
+      "timestamp": "2026-04-13T04:58:17.449304+00:00",
+      "score": 23.5
     }
   ]
 }
