@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-12T19:47:57.871843+00:00",
+  "fetched_at": "2026-04-12T20:48:27.118281+00:00",
   "window_hours": 72,
-  "score": 30.2,
+  "score": 29.9,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 24.0,
-    "civilian_risk": 90.9
+    "conflict_intensity": 23.9,
+    "civilian_risk": 90.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260412-military-air-strikes-kill-dozens-of-people-in-northeast-nigeria-amnesty-international-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-12T19:19:41+00:00",
-      "score": 3.48,
+      "score": 3.43,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-12T18:11:04+00:00",
-      "score": 2.11,
+      "score": 2.08,
       "tags": [
         "civilian_risk"
       ],
@@ -138,7 +138,7 @@
       "title": "R\u00e9seaux sociaux : La fin de l'impunit\u00e9 pour les marchands d'addictions ?",
       "link": "https://lefaso.net/spip.php?article145608",
       "source": "LeFaso",
-      "published_at": "2026-04-12T19:47:57.871843+00:00",
+      "published_at": "2026-04-12T20:48:27.118281+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-12T20:32:59.952872+00:00",
-      "score": 13.9
+      "timestamp": "2026-04-12T21:48:56.364719+00:00",
+      "score": 16.8
     },
     {
-      "timestamp": "2026-04-12T21:18:02.033901+00:00",
-      "score": 13.9
+      "timestamp": "2026-04-12T22:49:25.611157+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-04-12T22:03:04.114930+00:00",
-      "score": 13.9
+      "timestamp": "2026-04-12T23:49:54.857595+00:00",
+      "score": 17.1
     },
     {
-      "timestamp": "2026-04-12T22:48:06.195959+00:00",
-      "score": 13.9
+      "timestamp": "2026-04-13T00:50:24.104033+00:00",
+      "score": 17.3
     },
     {
-      "timestamp": "2026-04-12T23:33:08.276988+00:00",
-      "score": 13.9
+      "timestamp": "2026-04-13T01:50:53.350471+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-04-13T00:18:10.358017+00:00",
-      "score": 13.9
+      "timestamp": "2026-04-13T02:51:22.596909+00:00",
+      "score": 17.7
     }
   ]
 }
