@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-12T23:47:37.758453+00:00",
+  "fetched_at": "2026-04-13T03:46:33.531450+00:00",
   "window_hours": 72,
-  "score": 25.1,
+  "score": 24.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 23.4,
-    "civilian_risk": 67.1
+    "conflict_intensity": 22.7,
+    "civilian_risk": 63.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 16
+      "items": 13
     }
   ],
   "top_headlines": [
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260412-military-air-strikes-kill-dozens-of-people-in-northeast-nigeria-amnesty-international-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-12T19:19:41+00:00",
-      "score": 3.28,
+      "score": 3.09,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-12T18:11:04+00:00",
-      "score": 1.99,
+      "score": 1.87,
       "tags": [
         "civilian_risk"
       ],
@@ -137,28 +137,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-13T00:47:46.208596+00:00",
-      "score": 22.8
+      "timestamp": "2026-04-13T07:45:29.304447+00:00",
+      "score": 24.1
     },
     {
-      "timestamp": "2026-04-13T01:47:54.658739+00:00",
-      "score": 23.3
+      "timestamp": "2026-04-13T11:44:25.077444+00:00",
+      "score": 24.7
     },
     {
-      "timestamp": "2026-04-13T02:48:03.108882+00:00",
-      "score": 23.9
+      "timestamp": "2026-04-13T15:43:20.850441+00:00",
+      "score": 25.3
     },
     {
-      "timestamp": "2026-04-13T03:48:11.559025+00:00",
-      "score": 24.4
+      "timestamp": "2026-04-13T19:42:16.623438+00:00",
+      "score": 25.9
     },
     {
-      "timestamp": "2026-04-13T04:48:20.009168+00:00",
-      "score": 25.0
+      "timestamp": "2026-04-13T23:41:12.396435+00:00",
+      "score": 26.6
     },
     {
-      "timestamp": "2026-04-13T05:48:28.459311+00:00",
-      "score": 25.5
+      "timestamp": "2026-04-14T03:40:08.169432+00:00",
+      "score": 27.2
     }
   ]
 }
