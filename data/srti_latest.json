@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-13T14:03:12.958293+00:00",
+  "fetched_at": "2026-04-13T15:40:34.609022+00:00",
   "window_hours": 72,
-  "score": 16.0,
+  "score": 15.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 8.7,
-    "civilian_risk": 58.2
+    "conflict_intensity": 8.4,
+    "civilian_risk": 56.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 62
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260412-military-air-strikes-kill-dozens-of-people-in-northeast-nigeria-amnesty-international-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-12T19:19:41+00:00",
-      "score": 2.59,
+      "score": 2.51,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260413-armed-gangs-behind-killings-kidnappings-in-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-04-13T13:57:17+00:00",
-      "score": 1.26,
+      "score": 1.23,
       "tags": [
         "civilian_risk"
       ],
@@ -125,7 +125,7 @@
       "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-13T10:52:08+00:00",
-      "score": 1.03,
+      "score": 1.01,
       "tags": [
         "civilian_risk"
       ],
@@ -136,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-13T16:41:27.688556+00:00",
+      "timestamp": "2026-04-13T17:17:56.259751+00:00",
+      "score": 24.0
+    },
+    {
+      "timestamp": "2026-04-13T18:55:17.910480+00:00",
       "score": 24.6
     },
     {
-      "timestamp": "2026-04-13T19:19:42.418819+00:00",
-      "score": 25.2
+      "timestamp": "2026-04-13T20:32:39.561209+00:00",
+      "score": 25.1
     },
     {
-      "timestamp": "2026-04-13T21:57:57.149082+00:00",
-      "score": 25.8
+      "timestamp": "2026-04-13T22:10:01.211938+00:00",
+      "score": 25.7
     },
     {
-      "timestamp": "2026-04-14T00:36:11.879345+00:00",
-      "score": 26.4
+      "timestamp": "2026-04-13T23:47:22.862667+00:00",
+      "score": 26.2
     },
     {
-      "timestamp": "2026-04-14T03:14:26.609608+00:00",
-      "score": 27.0
-    },
-    {
-      "timestamp": "2026-04-14T05:52:41.339871+00:00",
-      "score": 27.6
+      "timestamp": "2026-04-14T01:24:44.513396+00:00",
+      "score": 26.8
     }
   ]
 }
