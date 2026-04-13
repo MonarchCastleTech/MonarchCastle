@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-13T11:24:58.228030+00:00",
+  "fetched_at": "2026-04-13T14:03:12.958293+00:00",
   "window_hours": 72,
-  "score": 13.0,
+  "score": 16.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 9.1,
-    "civilian_risk": 42.4
+    "conflict_intensity": 8.7,
+    "civilian_risk": 58.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 55
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -98,9 +98,22 @@
       "link": "https://www.france24.com/en/africa/20260412-military-air-strikes-kill-dozens-of-people-in-northeast-nigeria-amnesty-international-says",
       "source": "France 24 - Africa",
       "published_at": "2026-04-12T19:19:41+00:00",
-      "score": 2.72,
+      "score": 2.59,
       "tags": [
         "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Armed gangs behind killings, kidnappings in Nigeria",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260413-armed-gangs-behind-killings-kidnappings-in-nigeria",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-13T13:57:17+00:00",
+      "score": 1.26,
+      "tags": [
         "civilian_risk"
       ],
       "regions": [
@@ -112,7 +125,7 @@
       "link": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-13T10:52:08+00:00",
-      "score": 1.07,
+      "score": 1.03,
       "tags": [
         "civilian_risk"
       ],
@@ -123,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-13T13:43:31.234588+00:00",
-      "score": 25.0
+      "timestamp": "2026-04-13T16:41:27.688556+00:00",
+      "score": 24.6
     },
     {
-      "timestamp": "2026-04-13T16:02:04.241146+00:00",
-      "score": 25.7
+      "timestamp": "2026-04-13T19:19:42.418819+00:00",
+      "score": 25.2
     },
     {
-      "timestamp": "2026-04-13T18:20:37.247704+00:00",
-      "score": 26.3
+      "timestamp": "2026-04-13T21:57:57.149082+00:00",
+      "score": 25.8
     },
     {
-      "timestamp": "2026-04-13T20:39:10.254262+00:00",
-      "score": 26.9
+      "timestamp": "2026-04-14T00:36:11.879345+00:00",
+      "score": 26.4
     },
     {
-      "timestamp": "2026-04-13T22:57:43.260820+00:00",
+      "timestamp": "2026-04-14T03:14:26.609608+00:00",
+      "score": 27.0
+    },
+    {
+      "timestamp": "2026-04-14T05:52:41.339871+00:00",
       "score": 27.6
-    },
-    {
-      "timestamp": "2026-04-14T01:16:16.267378+00:00",
-      "score": 28.2
     }
   ]
 }
