@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-15T08:49:48.490686+00:00",
+  "fetched_at": "2026-04-15T10:23:50.729628+00:00",
   "window_hours": 72,
-  "score": 43.2,
+  "score": 42.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 70.6,
-    "civilian_risk": 39.6
+    "conflict_intensity": 69.8,
+    "civilian_risk": 39.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/video/20260414-race-to-the-border-as-islamic-state-and-jnim-clash-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-04-14T14:15:09+00:00",
-      "score": 2.18,
+      "score": 2.12,
       "tags": [
         "conflict_intensity"
       ],
@@ -113,7 +113,7 @@
       "title": "Avis d'Appel d'Offres Ouvert : Fourniture d'herbicides c\u00e9r\u00e9ales au titre de la campagne 2026/2027",
       "link": "https://lefaso.net/spip.php?article145725",
       "source": "LeFaso",
-      "published_at": "2026-04-15T08:49:48.490686+00:00",
+      "published_at": "2026-04-15T10:23:50.729628+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/Contr\u00f4le du tabac : Plus de 18 000 cartons de cigarettes saisis, la BMCRF durcit le ton",
       "link": "https://lefaso.net/spip.php?article145719",
       "source": "LeFaso",
-      "published_at": "2026-04-15T08:49:48.490686+00:00",
+      "published_at": "2026-04-15T10:23:50.729628+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "title": "Ouahigouya : La Mairie lance une offensive contre les d\u00e9bits de boissons ill\u00e9gaux et les stations-services \"bars\"",
       "link": "https://lefaso.net/spip.php?article145721",
       "source": "LeFaso",
-      "published_at": "2026-04-15T08:49:48.490686+00:00",
+      "published_at": "2026-04-15T10:23:50.729628+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,7 +165,7 @@
       "title": "Nord-Mali : Un jeune civil ex\u00e9cut\u00e9 par le JNIM dans la r\u00e9gion de Tombouctou",
       "link": "https://lefaso.net/spip.php?article145714",
       "source": "LeFaso",
-      "published_at": "2026-04-15T08:49:48.490686+00:00",
+      "published_at": "2026-04-15T10:23:50.729628+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -179,7 +179,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260413-armed-gangs-behind-killings-kidnappings-in-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-04-13T13:57:17+00:00",
-      "score": 0.51,
+      "score": 0.48,
       "tags": [
         "civilian_risk"
       ],
@@ -190,28 +190,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-15T11:33:21.222329+00:00",
-      "score": 49.0
+      "timestamp": "2026-04-15T11:57:52.968570+00:00",
+      "score": 49.4
     },
     {
-      "timestamp": "2026-04-15T14:16:53.953972+00:00",
-      "score": 50.2
+      "timestamp": "2026-04-15T13:31:55.207512+00:00",
+      "score": 50.6
     },
     {
-      "timestamp": "2026-04-15T17:00:26.685615+00:00",
-      "score": 51.4
+      "timestamp": "2026-04-15T15:05:57.446454+00:00",
+      "score": 51.8
     },
     {
-      "timestamp": "2026-04-15T19:43:59.417258+00:00",
-      "score": 52.6
+      "timestamp": "2026-04-15T16:39:59.685396+00:00",
+      "score": 53.0
     },
     {
-      "timestamp": "2026-04-15T22:27:32.148901+00:00",
-      "score": 53.9
+      "timestamp": "2026-04-15T18:14:01.924338+00:00",
+      "score": 54.2
     },
     {
-      "timestamp": "2026-04-16T01:11:04.880544+00:00",
-      "score": 55.1
+      "timestamp": "2026-04-15T19:48:04.163280+00:00",
+      "score": 55.4
     }
   ]
 }
