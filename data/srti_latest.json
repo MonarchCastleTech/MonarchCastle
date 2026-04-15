@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-15T03:33:12.938982+00:00",
+  "fetched_at": "2026-04-15T06:06:15.759043+00:00",
   "window_hours": 72,
-  "score": 44.8,
+  "score": 44.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 73.2,
-    "civilian_risk": 40.9
+    "conflict_intensity": 71.9,
+    "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/video/20260414-race-to-the-border-as-islamic-state-and-jnim-clash-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-04-14T14:15:09+00:00",
-      "score": 2.4,
+      "score": 2.29,
       "tags": [
         "conflict_intensity"
       ],
@@ -113,7 +113,7 @@
       "title": "Avis d'Appel d'Offres Ouvert : Fourniture d'herbicides c\u00e9r\u00e9ales au titre de la campagne 2026/2027",
       "link": "https://lefaso.net/spip.php?article145725",
       "source": "LeFaso",
-      "published_at": "2026-04-15T03:33:12.938982+00:00",
+      "published_at": "2026-04-15T06:06:15.759043+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/Contr\u00f4le du tabac : Plus de 18 000 cartons de cigarettes saisis, la BMCRF durcit le ton",
       "link": "https://lefaso.net/spip.php?article145719",
       "source": "LeFaso",
-      "published_at": "2026-04-15T03:33:12.938982+00:00",
+      "published_at": "2026-04-15T06:06:15.759043+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "title": "Ouahigouya : La Mairie lance une offensive contre les d\u00e9bits de boissons ill\u00e9gaux et les stations-services \"bars\"",
       "link": "https://lefaso.net/spip.php?article145721",
       "source": "LeFaso",
-      "published_at": "2026-04-15T03:33:12.938982+00:00",
+      "published_at": "2026-04-15T06:06:15.759043+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,7 +165,7 @@
       "title": "Nord-Mali : Un jeune civil ex\u00e9cut\u00e9 par le JNIM dans la r\u00e9gion de Tombouctou",
       "link": "https://lefaso.net/spip.php?article145714",
       "source": "LeFaso",
-      "published_at": "2026-04-15T03:33:12.938982+00:00",
+      "published_at": "2026-04-15T06:06:15.759043+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -179,7 +179,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260413-armed-gangs-behind-killings-kidnappings-in-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-04-13T13:57:17+00:00",
-      "score": 0.6,
+      "score": 0.56,
       "tags": [
         "civilian_risk"
       ],
@@ -190,28 +190,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-15T07:12:53.868081+00:00",
-      "score": 47.0
-    },
-    {
-      "timestamp": "2026-04-15T10:52:34.797180+00:00",
+      "timestamp": "2026-04-15T08:39:18.579104+00:00",
       "score": 48.2
     },
     {
-      "timestamp": "2026-04-15T14:32:15.726279+00:00",
+      "timestamp": "2026-04-15T11:12:21.399165+00:00",
       "score": 49.4
     },
     {
-      "timestamp": "2026-04-15T18:11:56.655378+00:00",
+      "timestamp": "2026-04-15T13:45:24.219226+00:00",
       "score": 50.6
     },
     {
-      "timestamp": "2026-04-15T21:51:37.584477+00:00",
-      "score": 51.7
+      "timestamp": "2026-04-15T16:18:27.039287+00:00",
+      "score": 51.9
     },
     {
-      "timestamp": "2026-04-16T01:31:18.513576+00:00",
-      "score": 52.9
+      "timestamp": "2026-04-15T18:51:29.859348+00:00",
+      "score": 53.1
+    },
+    {
+      "timestamp": "2026-04-15T21:24:32.679409+00:00",
+      "score": 54.3
     }
   ]
 }
