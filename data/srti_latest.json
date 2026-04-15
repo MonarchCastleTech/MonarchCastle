@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-15T15:14:08.983657+00:00",
+  "fetched_at": "2026-04-15T17:15:32.893766+00:00",
   "window_hours": 72,
-  "score": 41.5,
+  "score": 51.7,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 67.5,
-    "civilian_risk": 38.7
+    "conflict_intensity": 79.9,
+    "civilian_risk": 58.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 90
+      "items": 95
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/video/20260414-race-to-the-border-as-islamic-state-and-jnim-clash-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-04-14T14:15:09+00:00",
-      "score": 1.92,
+      "score": 1.84,
       "tags": [
         "conflict_intensity"
       ],
@@ -110,10 +110,23 @@
       ]
     },
     {
+      "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
+      "link": "https://lefaso.net/spip.php?article145776",
+      "source": "LeFaso",
+      "published_at": "2026-04-15T17:15:32.893766+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Avis d'Appel d'Offres Ouvert : Fourniture d'herbicides c\u00e9r\u00e9ales au titre de la campagne 2026/2027",
       "link": "https://lefaso.net/spip.php?article145725",
       "source": "LeFaso",
-      "published_at": "2026-04-15T15:14:08.983657+00:00",
+      "published_at": "2026-04-15T17:15:32.893766+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,10 +150,23 @@
       ]
     },
     {
+      "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
+      "link": "https://lefaso.net/spip.php?article145774",
+      "source": "LeFaso",
+      "published_at": "2026-04-15T17:15:32.893766+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Burkina/Contr\u00f4le du tabac : Plus de 18 000 cartons de cigarettes saisis, la BMCRF durcit le ton",
       "link": "https://lefaso.net/spip.php?article145719",
       "source": "LeFaso",
-      "published_at": "2026-04-15T15:14:08.983657+00:00",
+      "published_at": "2026-04-15T17:15:32.893766+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +180,7 @@
       "title": "Ouahigouya : La Mairie lance une offensive contre les d\u00e9bits de boissons ill\u00e9gaux et les stations-services \"bars\"",
       "link": "https://lefaso.net/spip.php?article145721",
       "source": "LeFaso",
-      "published_at": "2026-04-15T15:14:08.983657+00:00",
+      "published_at": "2026-04-15T17:15:32.893766+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,7 +191,7 @@
       "title": "Nord-Mali : Un jeune civil ex\u00e9cut\u00e9 par le JNIM dans la r\u00e9gion de Tombouctou",
       "link": "https://lefaso.net/spip.php?article145714",
       "source": "LeFaso",
-      "published_at": "2026-04-15T15:14:08.983657+00:00",
+      "published_at": "2026-04-15T17:15:32.893766+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -173,45 +199,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "Armed gangs behind killings, kidnappings in Nigeria",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260413-armed-gangs-behind-killings-kidnappings-in-nigeria",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-13T13:57:17+00:00",
-      "score": 0.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-15T16:29:00.104185+00:00",
-      "score": 46.5
+      "timestamp": "2026-04-15T19:16:56.803875+00:00",
+      "score": 47.3
     },
     {
-      "timestamp": "2026-04-15T17:43:51.224713+00:00",
-      "score": 47.2
-    },
-    {
-      "timestamp": "2026-04-15T18:58:42.345241+00:00",
+      "timestamp": "2026-04-15T21:18:20.713984+00:00",
       "score": 47.9
     },
     {
-      "timestamp": "2026-04-15T20:13:33.465769+00:00",
+      "timestamp": "2026-04-15T23:19:44.624093+00:00",
       "score": 48.5
     },
     {
-      "timestamp": "2026-04-15T21:28:24.586297+00:00",
+      "timestamp": "2026-04-16T01:21:08.534202+00:00",
       "score": 49.2
     },
     {
-      "timestamp": "2026-04-15T22:43:15.706825+00:00",
-      "score": 49.9
+      "timestamp": "2026-04-16T03:22:32.444311+00:00",
+      "score": 49.8
+    },
+    {
+      "timestamp": "2026-04-16T05:23:56.354420+00:00",
+      "score": 50.4
     }
   ]
 }
