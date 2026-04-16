@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-15T23:53:50.905853+00:00",
+  "fetched_at": "2026-04-16T03:39:43.147585+00:00",
   "window_hours": 72,
-  "score": 45.6,
+  "score": 44.7,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 72.6,
+    "conflict_intensity": 70.7,
     "civilian_risk": 46.5
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 83
     },
     {
       "name": "ActuNiger",
@@ -94,26 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "'Race to the border' as Islamic State group and JNIM clash in Niger",
-      "link": "https://www.france24.com/en/video/20260414-race-to-the-border-as-islamic-state-and-jnim-clash-in-niger",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-14T14:15:09+00:00",
-      "score": 1.57,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-15T23:53:50.905853+00:00",
+      "published_at": "2026-04-16T03:39:43.147585+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +110,7 @@
       "title": "Avis d'Appel d'Offres Ouvert : Fourniture d'herbicides c\u00e9r\u00e9ales au titre de la campagne 2026/2027",
       "link": "https://lefaso.net/spip.php?article145725",
       "source": "LeFaso",
-      "published_at": "2026-04-15T23:53:50.905853+00:00",
+      "published_at": "2026-04-16T03:39:43.147585+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,10 +120,26 @@
       ]
     },
     {
+      "title": "'Race to the border' as Islamic State group and JNIM clash in Niger",
+      "link": "https://www.france24.com/en/video/20260414-race-to-the-border-as-islamic-state-and-jnim-clash-in-niger",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-14T14:15:09+00:00",
+      "score": 1.41,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "niger",
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-15T23:53:50.905853+00:00",
+      "published_at": "2026-04-16T03:39:43.147585+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,7 +152,7 @@
       "title": "Burkina/Contr\u00f4le du tabac : Plus de 18 000 cartons de cigarettes saisis, la BMCRF durcit le ton",
       "link": "https://lefaso.net/spip.php?article145719",
       "source": "LeFaso",
-      "published_at": "2026-04-15T23:53:50.905853+00:00",
+      "published_at": "2026-04-16T03:39:43.147585+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -166,7 +166,7 @@
       "title": "Ouahigouya : La Mairie lance une offensive contre les d\u00e9bits de boissons ill\u00e9gaux et les stations-services \"bars\"",
       "link": "https://lefaso.net/spip.php?article145721",
       "source": "LeFaso",
-      "published_at": "2026-04-15T23:53:50.905853+00:00",
+      "published_at": "2026-04-16T03:39:43.147585+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -177,7 +177,7 @@
       "title": "Nord-Mali : Un jeune civil ex\u00e9cut\u00e9 par le JNIM dans la r\u00e9gion de Tombouctou",
       "link": "https://lefaso.net/spip.php?article145714",
       "source": "LeFaso",
-      "published_at": "2026-04-15T23:53:50.905853+00:00",
+      "published_at": "2026-04-16T03:39:43.147585+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-16T00:55:20.409601+00:00",
+      "timestamp": "2026-04-16T07:25:35.389317+00:00",
       "score": 49.3
     },
     {
-      "timestamp": "2026-04-16T01:56:49.913349+00:00",
-      "score": 49.9
+      "timestamp": "2026-04-16T11:11:27.631049+00:00",
+      "score": 49.8
     },
     {
-      "timestamp": "2026-04-16T02:58:19.417097+00:00",
-      "score": 50.5
+      "timestamp": "2026-04-16T14:57:19.872781+00:00",
+      "score": 50.4
     },
     {
-      "timestamp": "2026-04-16T03:59:48.920845+00:00",
-      "score": 51.1
+      "timestamp": "2026-04-16T18:43:12.114513+00:00",
+      "score": 51.0
     },
     {
-      "timestamp": "2026-04-16T05:01:18.424593+00:00",
-      "score": 51.8
+      "timestamp": "2026-04-16T22:29:04.356245+00:00",
+      "score": 51.6
     },
     {
-      "timestamp": "2026-04-16T06:02:47.928341+00:00",
-      "score": 52.4
+      "timestamp": "2026-04-17T02:14:56.597977+00:00",
+      "score": 52.2
     }
   ]
 }
