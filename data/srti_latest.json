@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-16T21:00:25.835841+00:00",
+  "fetched_at": "2026-04-16T21:53:49.251694+00:00",
   "window_hours": 72,
   "score": 23.6,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 83
+      "items": 81
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-16T21:00:25.835841+00:00",
+      "published_at": "2026-04-16T21:53:49.251694+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-16T21:00:25.835841+00:00",
+      "published_at": "2026-04-16T21:53:49.251694+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "Burkina/Contr\u00f4le du tabac : Plus de 18 000 cartons de cigarettes saisis, la BMCRF durcit le ton",
       "link": "https://lefaso.net/spip.php?article145719",
       "source": "LeFaso",
-      "published_at": "2026-04-16T21:00:25.835841+00:00",
+      "published_at": "2026-04-16T21:53:49.251694+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,28 +152,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-16T21:58:07.436840+00:00",
-      "score": 35.5
+      "timestamp": "2026-04-16T22:47:12.667547+00:00",
+      "score": 32.8
     },
     {
-      "timestamp": "2026-04-16T22:55:49.037839+00:00",
-      "score": 35.0
+      "timestamp": "2026-04-16T23:40:36.083400+00:00",
+      "score": 32.1
     },
     {
-      "timestamp": "2026-04-16T23:53:30.638838+00:00",
-      "score": 34.5
+      "timestamp": "2026-04-17T00:33:59.499253+00:00",
+      "score": 31.5
     },
     {
-      "timestamp": "2026-04-17T00:51:12.239837+00:00",
-      "score": 34.0
+      "timestamp": "2026-04-17T01:27:22.915106+00:00",
+      "score": 30.8
     },
     {
-      "timestamp": "2026-04-17T01:48:53.840836+00:00",
-      "score": 33.4
+      "timestamp": "2026-04-17T02:20:46.330959+00:00",
+      "score": 30.1
     },
     {
-      "timestamp": "2026-04-17T02:46:35.441835+00:00",
-      "score": 32.9
+      "timestamp": "2026-04-17T03:14:09.746812+00:00",
+      "score": 29.5
     }
   ]
 }
