@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-16T08:50:58.217236+00:00",
+  "fetched_at": "2026-04-16T10:23:17.833765+00:00",
   "window_hours": 72,
-  "score": 43.4,
+  "score": 43.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 68.2,
+    "conflict_intensity": 67.4,
     "civilian_risk": 46.5
   },
   "weights": {
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 24
+      "items": 25
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-16T08:50:58.217236+00:00",
+      "published_at": "2026-04-16T10:23:17.833765+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Avis d'Appel d'Offres Ouvert : Fourniture d'herbicides c\u00e9r\u00e9ales au titre de la campagne 2026/2027",
       "link": "https://lefaso.net/spip.php?article145725",
       "source": "LeFaso",
-      "published_at": "2026-04-16T08:50:58.217236+00:00",
+      "published_at": "2026-04-16T10:23:17.833765+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "link": "https://www.france24.com/en/video/20260414-race-to-the-border-as-islamic-state-and-jnim-clash-in-niger",
       "source": "France 24 - Africa",
       "published_at": "2026-04-14T14:15:09+00:00",
-      "score": 1.2,
+      "score": 1.14,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,7 +139,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-16T08:50:58.217236+00:00",
+      "published_at": "2026-04-16T10:23:17.833765+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,7 +152,7 @@
       "title": "Burkina/Contr\u00f4le du tabac : Plus de 18 000 cartons de cigarettes saisis, la BMCRF durcit le ton",
       "link": "https://lefaso.net/spip.php?article145719",
       "source": "LeFaso",
-      "published_at": "2026-04-16T08:50:58.217236+00:00",
+      "published_at": "2026-04-16T10:23:17.833765+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -166,7 +166,7 @@
       "title": "Ouahigouya : La Mairie lance une offensive contre les d\u00e9bits de boissons ill\u00e9gaux et les stations-services \"bars\"",
       "link": "https://lefaso.net/spip.php?article145721",
       "source": "LeFaso",
-      "published_at": "2026-04-16T08:50:58.217236+00:00",
+      "published_at": "2026-04-16T10:23:17.833765+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -177,7 +177,7 @@
       "title": "Nord-Mali : Un jeune civil ex\u00e9cut\u00e9 par le JNIM dans la r\u00e9gion de Tombouctou",
       "link": "https://lefaso.net/spip.php?article145714",
       "source": "LeFaso",
-      "published_at": "2026-04-16T08:50:58.217236+00:00",
+      "published_at": "2026-04-16T10:23:17.833765+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-16T11:32:25.365159+00:00",
+      "timestamp": "2026-04-16T11:55:37.450294+00:00",
+      "score": 47.4
+    },
+    {
+      "timestamp": "2026-04-16T13:27:57.066823+00:00",
+      "score": 47.8
+    },
+    {
+      "timestamp": "2026-04-16T15:00:16.683352+00:00",
+      "score": 48.1
+    },
+    {
+      "timestamp": "2026-04-16T16:32:36.299881+00:00",
       "score": 48.4
     },
     {
-      "timestamp": "2026-04-16T14:13:52.513082+00:00",
+      "timestamp": "2026-04-16T18:04:55.916410+00:00",
       "score": 48.8
     },
     {
-      "timestamp": "2026-04-16T16:55:19.661005+00:00",
-      "score": 49.3
-    },
-    {
-      "timestamp": "2026-04-16T19:36:46.808928+00:00",
-      "score": 49.7
-    },
-    {
-      "timestamp": "2026-04-16T22:18:13.956851+00:00",
-      "score": 50.2
-    },
-    {
-      "timestamp": "2026-04-17T00:59:41.104774+00:00",
-      "score": 50.6
+      "timestamp": "2026-04-16T19:37:15.532939+00:00",
+      "score": 49.1
     }
   ]
 }
