@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-16T10:23:17.833765+00:00",
+  "fetched_at": "2026-04-16T12:05:32.344203+00:00",
   "window_hours": 72,
-  "score": 43.0,
+  "score": 42.6,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 67.4,
+    "conflict_intensity": 66.6,
     "civilian_risk": 46.5
   },
   "weights": {
@@ -71,7 +71,7 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 28
+      "items": 27
     },
     {
       "name": "AllAfrica - Mali",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-16T10:23:17.833765+00:00",
+      "published_at": "2026-04-16T12:05:32.344203+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Avis d'Appel d'Offres Ouvert : Fourniture d'herbicides c\u00e9r\u00e9ales au titre de la campagne 2026/2027",
       "link": "https://lefaso.net/spip.php?article145725",
       "source": "LeFaso",
-      "published_at": "2026-04-16T10:23:17.833765+00:00",
+      "published_at": "2026-04-16T12:05:32.344203+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,26 +120,10 @@
       ]
     },
     {
-      "title": "'Race to the border' as Islamic State group and JNIM clash in Niger",
-      "link": "https://www.france24.com/en/video/20260414-race-to-the-border-as-islamic-state-and-jnim-clash-in-niger",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-14T14:15:09+00:00",
-      "score": 1.14,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-16T10:23:17.833765+00:00",
+      "published_at": "2026-04-16T12:05:32.344203+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,7 +136,7 @@
       "title": "Burkina/Contr\u00f4le du tabac : Plus de 18 000 cartons de cigarettes saisis, la BMCRF durcit le ton",
       "link": "https://lefaso.net/spip.php?article145719",
       "source": "LeFaso",
-      "published_at": "2026-04-16T10:23:17.833765+00:00",
+      "published_at": "2026-04-16T12:05:32.344203+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -166,7 +150,7 @@
       "title": "Ouahigouya : La Mairie lance une offensive contre les d\u00e9bits de boissons ill\u00e9gaux et les stations-services \"bars\"",
       "link": "https://lefaso.net/spip.php?article145721",
       "source": "LeFaso",
-      "published_at": "2026-04-16T10:23:17.833765+00:00",
+      "published_at": "2026-04-16T12:05:32.344203+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -177,13 +161,29 @@
       "title": "Nord-Mali : Un jeune civil ex\u00e9cut\u00e9 par le JNIM dans la r\u00e9gion de Tombouctou",
       "link": "https://lefaso.net/spip.php?article145714",
       "source": "LeFaso",
-      "published_at": "2026-04-16T10:23:17.833765+00:00",
+      "published_at": "2026-04-16T12:05:32.344203+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "mali"
+      ]
+    },
+    {
+      "title": "'Race to the border' as Islamic State group and JNIM clash in Niger",
+      "link": "https://www.france24.com/en/video/20260414-race-to-the-border-as-islamic-state-and-jnim-clash-in-niger",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-14T14:15:09+00:00",
+      "score": 1.07,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "niger",
+        "burkina",
+        "burkina faso"
       ]
     },
     {
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-16T11:55:37.450294+00:00",
-      "score": 47.4
+      "timestamp": "2026-04-16T13:47:46.854641+00:00",
+      "score": 46.3
     },
     {
-      "timestamp": "2026-04-16T13:27:57.066823+00:00",
-      "score": 47.8
+      "timestamp": "2026-04-16T15:30:01.365079+00:00",
+      "score": 46.5
     },
     {
-      "timestamp": "2026-04-16T15:00:16.683352+00:00",
-      "score": 48.1
+      "timestamp": "2026-04-16T17:12:15.875517+00:00",
+      "score": 46.7
     },
     {
-      "timestamp": "2026-04-16T16:32:36.299881+00:00",
-      "score": 48.4
+      "timestamp": "2026-04-16T18:54:30.385955+00:00",
+      "score": 46.9
     },
     {
-      "timestamp": "2026-04-16T18:04:55.916410+00:00",
-      "score": 48.8
+      "timestamp": "2026-04-16T20:36:44.896393+00:00",
+      "score": 47.1
     },
     {
-      "timestamp": "2026-04-16T19:37:15.532939+00:00",
-      "score": 49.1
+      "timestamp": "2026-04-16T22:18:59.406831+00:00",
+      "score": 47.3
     }
   ]
 }
