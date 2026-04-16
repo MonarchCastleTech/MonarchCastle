@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-16T18:13:39.277561+00:00",
+  "fetched_at": "2026-04-16T20:02:44.234842+00:00",
   "window_hours": 72,
-  "score": 34.4,
+  "score": 30.4,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 52.7,
-    "civilian_risk": 40.3
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -97,20 +97,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-16T18:13:39.277561+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
-      "title": "Avis d'Appel d'Offres Ouvert : Fourniture d'herbicides c\u00e9r\u00e9ales au titre de la campagne 2026/2027",
-      "link": "https://lefaso.net/spip.php?article145725",
-      "source": "LeFaso",
-      "published_at": "2026-04-16T18:13:39.277561+00:00",
+      "published_at": "2026-04-16T20:02:44.234842+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +110,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-16T18:13:39.277561+00:00",
+      "published_at": "2026-04-16T20:02:44.234842+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +123,7 @@
       "title": "Burkina/Contr\u00f4le du tabac : Plus de 18 000 cartons de cigarettes saisis, la BMCRF durcit le ton",
       "link": "https://lefaso.net/spip.php?article145719",
       "source": "LeFaso",
-      "published_at": "2026-04-16T18:13:39.277561+00:00",
+      "published_at": "2026-04-16T20:02:44.234842+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,7 +137,7 @@
       "title": "Ouahigouya : La Mairie lance une offensive contre les d\u00e9bits de boissons ill\u00e9gaux et les stations-services \"bars\"",
       "link": "https://lefaso.net/spip.php?article145721",
       "source": "LeFaso",
-      "published_at": "2026-04-16T18:13:39.277561+00:00",
+      "published_at": "2026-04-16T20:02:44.234842+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-16T19:40:28.103523+00:00",
-      "score": 40.4
+      "timestamp": "2026-04-16T21:51:49.192123+00:00",
+      "score": 38.5
     },
     {
-      "timestamp": "2026-04-16T21:07:16.929485+00:00",
-      "score": 40.2
+      "timestamp": "2026-04-16T23:40:54.149404+00:00",
+      "score": 38.1
     },
     {
-      "timestamp": "2026-04-16T22:34:05.755447+00:00",
-      "score": 39.9
+      "timestamp": "2026-04-17T01:29:59.106685+00:00",
+      "score": 37.7
     },
     {
-      "timestamp": "2026-04-17T00:00:54.581409+00:00",
-      "score": 39.6
+      "timestamp": "2026-04-17T03:19:04.063966+00:00",
+      "score": 37.4
     },
     {
-      "timestamp": "2026-04-17T01:27:43.407371+00:00",
-      "score": 39.4
+      "timestamp": "2026-04-17T05:08:09.021247+00:00",
+      "score": 37.0
     },
     {
-      "timestamp": "2026-04-17T02:54:32.233333+00:00",
-      "score": 39.1
+      "timestamp": "2026-04-17T06:57:13.978528+00:00",
+      "score": 36.7
     }
   ]
 }
