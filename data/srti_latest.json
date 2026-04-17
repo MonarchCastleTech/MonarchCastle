@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-17T03:36:20.118281+00:00",
+  "fetched_at": "2026-04-17T06:09:44.384071+00:00",
   "window_hours": 72,
   "score": 16.9,
   "risk_level": "LOW",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 25
+      "items": 26
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-17T03:36:20.118281+00:00",
+      "published_at": "2026-04-17T06:09:44.384071+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-17T03:36:20.118281+00:00",
+      "published_at": "2026-04-17T06:09:44.384071+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-17T07:19:48.119084+00:00",
-      "score": 23.4
+      "timestamp": "2026-04-17T08:43:08.649861+00:00",
+      "score": 20.3
     },
     {
-      "timestamp": "2026-04-17T11:03:16.119887+00:00",
-      "score": 22.2
+      "timestamp": "2026-04-17T11:16:32.915651+00:00",
+      "score": 19.0
     },
     {
-      "timestamp": "2026-04-17T14:46:44.120690+00:00",
-      "score": 21.0
+      "timestamp": "2026-04-17T13:49:57.181441+00:00",
+      "score": 17.6
     },
     {
-      "timestamp": "2026-04-17T18:30:12.121493+00:00",
-      "score": 19.8
+      "timestamp": "2026-04-17T16:23:21.447231+00:00",
+      "score": 16.3
     },
     {
-      "timestamp": "2026-04-17T22:13:40.122296+00:00",
-      "score": 18.7
+      "timestamp": "2026-04-17T18:56:45.713021+00:00",
+      "score": 15.0
     },
     {
-      "timestamp": "2026-04-18T01:57:08.123099+00:00",
-      "score": 17.5
+      "timestamp": "2026-04-17T21:30:09.978811+00:00",
+      "score": 13.6
     }
   ]
 }
