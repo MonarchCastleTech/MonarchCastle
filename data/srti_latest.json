@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T19:03:49.589380+00:00",
+  "fetched_at": "2026-04-18T19:49:12.563945+00:00",
   "window_hours": 72,
   "score": 39.0,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Des recrues du minist\u00e8re de la Transition digitale \u00e0 l'\u00e9cole du patriotisme et de la discipline",
       "link": "https://lefaso.net/spip.php?article145851",
       "source": "LeFaso",
-      "published_at": "2026-04-18T19:03:49.589380+00:00",
+      "published_at": "2026-04-18T19:49:12.563945+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Visite m\u00e9dicale gratuite des retrait\u00e9s au Burkina : La campagne nationale 2026 lanc\u00e9e \u00e0 Kaya",
       "link": "https://lefaso.net/spip.php?article145850",
       "source": "LeFaso",
-      "published_at": "2026-04-18T19:03:49.589380+00:00",
+      "published_at": "2026-04-18T19:49:12.563945+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-18T19:03:49.589380+00:00",
+      "published_at": "2026-04-18T19:49:12.563945+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +134,7 @@
       "title": "Fraude commerciale : 5 897 litres d'huile moteur contrefaite saisis \u00e0 Ouagadougou",
       "link": "https://lefaso.net/spip.php?article145848",
       "source": "LeFaso",
-      "published_at": "2026-04-18T19:03:49.589380+00:00",
+      "published_at": "2026-04-18T19:49:12.563945+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +147,7 @@
       "title": "Cr\u00e9ances de l'\u00c9tat burkinab\u00e8 : Des fermetures d'entreprises, des saisies de biens et des visites \u00e0 domicile envisag\u00e9es contre les d\u00e9biteurs dans les jours \u00e0 venir",
       "link": "https://lefaso.net/spip.php?article145845",
       "source": "LeFaso",
-      "published_at": "2026-04-18T19:03:49.589380+00:00",
+      "published_at": "2026-04-18T19:49:12.563945+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,7 +161,7 @@
       "title": "Cr\u00e9ances de l'Etat burkinab\u00e8 : Au moins 10 000 ch\u00e8ques impay\u00e9s, une offensive de recouvrement lanc\u00e9e, huit jours accord\u00e9s \u00e0 partir du 17 avril 2026",
       "link": "https://lefaso.net/spip.php?article145827",
       "source": "LeFaso",
-      "published_at": "2026-04-18T19:03:49.589380+00:00",
+      "published_at": "2026-04-18T19:49:12.563945+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,7 +174,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-18T19:03:49.589380+00:00",
+      "published_at": "2026-04-18T19:49:12.563945+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,28 +186,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-18T20:19:33.647718+00:00",
-      "score": 37.8
+      "timestamp": "2026-04-18T20:34:35.538510+00:00",
+      "score": 39.1
     },
     {
-      "timestamp": "2026-04-18T21:35:17.706056+00:00",
-      "score": 38.8
+      "timestamp": "2026-04-18T21:19:58.513075+00:00",
+      "score": 40.1
     },
     {
-      "timestamp": "2026-04-18T22:51:01.764394+00:00",
-      "score": 39.7
+      "timestamp": "2026-04-18T22:05:21.487640+00:00",
+      "score": 41.0
     },
     {
-      "timestamp": "2026-04-19T00:06:45.822732+00:00",
-      "score": 40.6
+      "timestamp": "2026-04-18T22:50:44.462205+00:00",
+      "score": 42.0
     },
     {
-      "timestamp": "2026-04-19T01:22:29.881070+00:00",
-      "score": 41.6
+      "timestamp": "2026-04-18T23:36:07.436770+00:00",
+      "score": 42.9
     },
     {
-      "timestamp": "2026-04-19T02:38:13.939408+00:00",
-      "score": 42.5
+      "timestamp": "2026-04-19T00:21:30.411335+00:00",
+      "score": 43.9
     }
   ]
 }
