@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-18T10:53:23.900194+00:00",
+  "fetched_at": "2026-04-18T11:43:00.075934+00:00",
   "window_hours": 72,
-  "score": 24.2,
+  "score": 30.9,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 40.3,
+    "conflict_intensity": 53.8,
     "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-18T10:53:23.900194+00:00",
+      "published_at": "2026-04-18T11:43:00.075934+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,10 +107,23 @@
       ]
     },
     {
+      "title": "Fraude commerciale : 5 897 litres d'huile moteur contrefaite saisis \u00e0 Ouagadougou",
+      "link": "https://lefaso.net/spip.php?article145848",
+      "source": "LeFaso",
+      "published_at": "2026-04-18T11:43:00.075934+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Cr\u00e9ances de l'\u00c9tat burkinab\u00e8 : Des fermetures d'entreprises, des saisies de biens et des visites \u00e0 domicile envisag\u00e9es contre les d\u00e9biteurs dans les jours \u00e0 venir",
       "link": "https://lefaso.net/spip.php?article145845",
       "source": "LeFaso",
-      "published_at": "2026-04-18T10:53:23.900194+00:00",
+      "published_at": "2026-04-18T11:43:00.075934+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +137,7 @@
       "title": "Cr\u00e9ances de l'Etat burkinab\u00e8 : Au moins 10 000 ch\u00e8ques impay\u00e9s, une offensive de recouvrement lanc\u00e9e, huit jours accord\u00e9s \u00e0 partir du 17 avril 2026",
       "link": "https://lefaso.net/spip.php?article145827",
       "source": "LeFaso",
-      "published_at": "2026-04-18T10:53:23.900194+00:00",
+      "published_at": "2026-04-18T11:43:00.075934+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +150,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-18T10:53:23.900194+00:00",
+      "published_at": "2026-04-18T11:43:00.075934+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,28 +162,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-18T11:50:56.265941+00:00",
-      "score": 24.6
+      "timestamp": "2026-04-18T12:32:36.251674+00:00",
+      "score": 26.4
     },
     {
-      "timestamp": "2026-04-18T12:48:28.631688+00:00",
-      "score": 24.9
+      "timestamp": "2026-04-18T13:22:12.427414+00:00",
+      "score": 26.8
     },
     {
-      "timestamp": "2026-04-18T13:46:00.997435+00:00",
-      "score": 25.1
+      "timestamp": "2026-04-18T14:11:48.603154+00:00",
+      "score": 27.2
     },
     {
-      "timestamp": "2026-04-18T14:43:33.363182+00:00",
-      "score": 25.4
+      "timestamp": "2026-04-18T15:01:24.778894+00:00",
+      "score": 27.5
     },
     {
-      "timestamp": "2026-04-18T15:41:05.728929+00:00",
-      "score": 25.6
+      "timestamp": "2026-04-18T15:51:00.954634+00:00",
+      "score": 27.9
     },
     {
-      "timestamp": "2026-04-18T16:38:38.094676+00:00",
-      "score": 25.9
+      "timestamp": "2026-04-18T16:40:37.130374+00:00",
+      "score": 28.3
     }
   ]
 }
