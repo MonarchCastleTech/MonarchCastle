@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-18T20:48:44.780608+00:00",
+  "fetched_at": "2026-04-18T21:46:25.652742+00:00",
   "window_hours": 72,
-  "score": 39.0,
-  "risk_level": "GUARDED",
+  "score": 43.0,
+  "risk_level": "ELEVATED",
   "components": {
     "conflict_intensity": 53.8,
-    "civilian_risk": 60.5
+    "civilian_risk": 80.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,21 @@
   ],
   "top_headlines": [
     {
+      "title": "Faible scolarisation des jeunes filles : Une campagne lanc\u00e9e pour inverser la tendance dans le Bankui et le Nakamb\u00e9",
+      "link": "https://lefaso.net/spip.php?article145854",
+      "source": "LeFaso",
+      "published_at": "2026-04-18T21:46:25.652742+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Bobo-Dioulasso : Des recrues du minist\u00e8re de la Transition digitale \u00e0 l'\u00e9cole du patriotisme et de la discipline",
       "link": "https://lefaso.net/spip.php?article145851",
       "source": "LeFaso",
-      "published_at": "2026-04-18T20:48:44.780608+00:00",
+      "published_at": "2026-04-18T21:46:25.652742+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +119,7 @@
       "title": "Visite m\u00e9dicale gratuite des retrait\u00e9s au Burkina : La campagne nationale 2026 lanc\u00e9e \u00e0 Kaya",
       "link": "https://lefaso.net/spip.php?article145850",
       "source": "LeFaso",
-      "published_at": "2026-04-18T20:48:44.780608+00:00",
+      "published_at": "2026-04-18T21:46:25.652742+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +132,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-18T20:48:44.780608+00:00",
+      "published_at": "2026-04-18T21:46:25.652742+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +145,7 @@
       "title": "Fraude commerciale : 5 897 litres d'huile moteur contrefaite saisis \u00e0 Ouagadougou",
       "link": "https://lefaso.net/spip.php?article145848",
       "source": "LeFaso",
-      "published_at": "2026-04-18T20:48:44.780608+00:00",
+      "published_at": "2026-04-18T21:46:25.652742+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +158,7 @@
       "title": "Cr\u00e9ances de l'\u00c9tat burkinab\u00e8 : Des fermetures d'entreprises, des saisies de biens et des visites \u00e0 domicile envisag\u00e9es contre les d\u00e9biteurs dans les jours \u00e0 venir",
       "link": "https://lefaso.net/spip.php?article145845",
       "source": "LeFaso",
-      "published_at": "2026-04-18T20:48:44.780608+00:00",
+      "published_at": "2026-04-18T21:46:25.652742+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,7 +172,7 @@
       "title": "Cr\u00e9ances de l'Etat burkinab\u00e8 : Au moins 10 000 ch\u00e8ques impay\u00e9s, une offensive de recouvrement lanc\u00e9e, huit jours accord\u00e9s \u00e0 partir du 17 avril 2026",
       "link": "https://lefaso.net/spip.php?article145827",
       "source": "LeFaso",
-      "published_at": "2026-04-18T20:48:44.780608+00:00",
+      "published_at": "2026-04-18T21:46:25.652742+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,7 +185,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-18T20:48:44.780608+00:00",
+      "published_at": "2026-04-18T21:46:25.652742+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,28 +197,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-18T21:48:16.997271+00:00",
-      "score": 40.1
+      "timestamp": "2026-04-18T22:44:06.524876+00:00",
+      "score": 42.2
     },
     {
-      "timestamp": "2026-04-18T22:47:49.213934+00:00",
-      "score": 41.1
+      "timestamp": "2026-04-18T23:41:47.397010+00:00",
+      "score": 43.3
     },
     {
-      "timestamp": "2026-04-18T23:47:21.430597+00:00",
-      "score": 42.0
+      "timestamp": "2026-04-19T00:39:28.269144+00:00",
+      "score": 44.3
     },
     {
-      "timestamp": "2026-04-19T00:46:53.647260+00:00",
-      "score": 43.0
+      "timestamp": "2026-04-19T01:37:09.141278+00:00",
+      "score": 45.4
     },
     {
-      "timestamp": "2026-04-19T01:46:25.863923+00:00",
-      "score": 44.0
+      "timestamp": "2026-04-19T02:34:50.013412+00:00",
+      "score": 46.5
     },
     {
-      "timestamp": "2026-04-19T02:45:58.080586+00:00",
-      "score": 44.9
+      "timestamp": "2026-04-19T03:32:30.885546+00:00",
+      "score": 47.5
     }
   ]
 }
