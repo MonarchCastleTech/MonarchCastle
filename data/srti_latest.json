@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-17T23:50:43.118595+00:00",
+  "fetched_at": "2026-04-18T03:24:04.104699+00:00",
   "window_hours": 72,
   "score": 24.2,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 83
+      "items": 78
     },
     {
       "name": "ActuNiger",
@@ -77,19 +77,19 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 8
+      "items": 7
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 7
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 13
+      "items": 12
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-17T23:50:43.118595+00:00",
+      "published_at": "2026-04-18T03:24:04.104699+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Cr\u00e9ances de l'\u00c9tat burkinab\u00e8 : Des fermetures d'entreprises, des saisies de biens et des visites \u00e0 domicile envisag\u00e9es contre les d\u00e9biteurs dans les jours \u00e0 venir",
       "link": "https://lefaso.net/spip.php?article145845",
       "source": "LeFaso",
-      "published_at": "2026-04-17T23:50:43.118595+00:00",
+      "published_at": "2026-04-18T03:24:04.104699+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "title": "Cr\u00e9ances de l'Etat burkinab\u00e8 : Au moins 10 000 ch\u00e8ques impay\u00e9s, une offensive de recouvrement lanc\u00e9e, huit jours accord\u00e9s \u00e0 partir du 17 avril 2026",
       "link": "https://lefaso.net/spip.php?article145827",
       "source": "LeFaso",
-      "published_at": "2026-04-17T23:50:43.118595+00:00",
+      "published_at": "2026-04-18T03:24:04.104699+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-17T23:50:43.118595+00:00",
+      "published_at": "2026-04-18T03:24:04.104699+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,28 +149,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-18T00:47:01.688809+00:00",
-      "score": 15.3
+      "timestamp": "2026-04-18T06:57:25.090803+00:00",
+      "score": 16.9
     },
     {
-      "timestamp": "2026-04-18T01:43:20.259023+00:00",
-      "score": 14.5
+      "timestamp": "2026-04-18T10:30:46.076907+00:00",
+      "score": 16.3
     },
     {
-      "timestamp": "2026-04-18T02:39:38.829237+00:00",
-      "score": 13.7
+      "timestamp": "2026-04-18T14:04:07.063011+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-04-18T03:35:57.399451+00:00",
-      "score": 13.0
+      "timestamp": "2026-04-18T17:37:28.049115+00:00",
+      "score": 15.2
     },
     {
-      "timestamp": "2026-04-18T04:32:15.969665+00:00",
-      "score": 12.2
+      "timestamp": "2026-04-18T21:10:49.035219+00:00",
+      "score": 14.6
     },
     {
-      "timestamp": "2026-04-18T05:28:34.539879+00:00",
-      "score": 11.4
+      "timestamp": "2026-04-19T00:44:10.021323+00:00",
+      "score": 14.0
     }
   ]
 }
