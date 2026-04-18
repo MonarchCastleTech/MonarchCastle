@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-18T09:01:29.921931+00:00",
+  "fetched_at": "2026-04-18T09:55:51.534447+00:00",
   "window_hours": 72,
   "score": 24.2,
   "risk_level": "GUARDED",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 25
+      "items": 26
     },
     {
       "name": "UN News Africa",
@@ -71,7 +71,7 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 27
+      "items": 28
     },
     {
       "name": "AllAfrica - Mali",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : La FADOSAB lance une campagne de collecte pour r\u00e9duire les d\u00e9c\u00e8s maternels dans les zones \u00e0 forts d\u00e9fis s\u00e9curitaires",
       "link": "https://lefaso.net/spip.php?article145776",
       "source": "LeFaso",
-      "published_at": "2026-04-18T09:01:29.921931+00:00",
+      "published_at": "2026-04-18T09:55:51.534447+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Cr\u00e9ances de l'\u00c9tat burkinab\u00e8 : Des fermetures d'entreprises, des saisies de biens et des visites \u00e0 domicile envisag\u00e9es contre les d\u00e9biteurs dans les jours \u00e0 venir",
       "link": "https://lefaso.net/spip.php?article145845",
       "source": "LeFaso",
-      "published_at": "2026-04-18T09:01:29.921931+00:00",
+      "published_at": "2026-04-18T09:55:51.534447+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "title": "Cr\u00e9ances de l'Etat burkinab\u00e8 : Au moins 10 000 ch\u00e8ques impay\u00e9s, une offensive de recouvrement lanc\u00e9e, huit jours accord\u00e9s \u00e0 partir du 17 avril 2026",
       "link": "https://lefaso.net/spip.php?article145827",
       "source": "LeFaso",
-      "published_at": "2026-04-18T09:01:29.921931+00:00",
+      "published_at": "2026-04-18T09:55:51.534447+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Burkina/P\u00e9nurie de ciment : 126 tonnes et 17 sacs de ciment saisis lors des contr\u00f4les",
       "link": "https://lefaso.net/spip.php?article145774",
       "source": "LeFaso",
-      "published_at": "2026-04-18T09:01:29.921931+00:00",
+      "published_at": "2026-04-18T09:55:51.534447+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,28 +149,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-18T10:40:41.025725+00:00",
-      "score": 21.9
+      "timestamp": "2026-04-18T10:50:13.146963+00:00",
+      "score": 23.4
     },
     {
-      "timestamp": "2026-04-18T12:19:52.129519+00:00",
-      "score": 21.9
+      "timestamp": "2026-04-18T11:44:34.759479+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-04-18T13:59:03.233313+00:00",
-      "score": 21.8
+      "timestamp": "2026-04-18T12:38:56.371995+00:00",
+      "score": 23.7
     },
     {
-      "timestamp": "2026-04-18T15:38:14.337107+00:00",
-      "score": 21.8
+      "timestamp": "2026-04-18T13:33:17.984511+00:00",
+      "score": 23.8
     },
     {
-      "timestamp": "2026-04-18T17:17:25.440901+00:00",
-      "score": 21.8
+      "timestamp": "2026-04-18T14:27:39.597027+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-04-18T18:56:36.544695+00:00",
-      "score": 21.8
+      "timestamp": "2026-04-18T15:22:01.209543+00:00",
+      "score": 24.1
     }
   ]
 }
