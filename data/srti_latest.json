@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-19T11:45:19.725591+00:00",
+  "fetched_at": "2026-04-19T13:21:16.667197+00:00",
   "window_hours": 72,
-  "score": 32.2,
+  "score": 36.3,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 40.3,
-    "civilian_risk": 60.5
+    "civilian_risk": 80.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -94,10 +94,21 @@
   ],
   "top_headlines": [
     {
+      "title": "Education : \u00ab Une fille qui r\u00e9ussit apporte plus dans sa famille nucl\u00e9aire qu'un homme \u00bb, soutient le chef de canton de D\u00e9dougou",
+      "link": "https://lefaso.net/spip.php?article145857",
+      "source": "LeFaso",
+      "published_at": "2026-04-19T13:21:16.667197+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Faible scolarisation des jeunes filles : Une campagne lanc\u00e9e pour inverser la tendance dans le Bankui et le Nakamb\u00e9",
       "link": "https://lefaso.net/spip.php?article145854",
       "source": "LeFaso",
-      "published_at": "2026-04-19T11:45:19.725591+00:00",
+      "published_at": "2026-04-19T13:21:16.667197+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +119,7 @@
       "title": "Bobo-Dioulasso : Des recrues du minist\u00e8re de la Transition digitale \u00e0 l'\u00e9cole du patriotisme et de la discipline",
       "link": "https://lefaso.net/spip.php?article145851",
       "source": "LeFaso",
-      "published_at": "2026-04-19T11:45:19.725591+00:00",
+      "published_at": "2026-04-19T13:21:16.667197+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +130,7 @@
       "title": "Visite m\u00e9dicale gratuite des retrait\u00e9s au Burkina : La campagne nationale 2026 lanc\u00e9e \u00e0 Kaya",
       "link": "https://lefaso.net/spip.php?article145850",
       "source": "LeFaso",
-      "published_at": "2026-04-19T11:45:19.725591+00:00",
+      "published_at": "2026-04-19T13:21:16.667197+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +143,7 @@
       "title": "Fraude commerciale : 5 897 litres d'huile moteur contrefaite saisis \u00e0 Ouagadougou",
       "link": "https://lefaso.net/spip.php?article145848",
       "source": "LeFaso",
-      "published_at": "2026-04-19T11:45:19.725591+00:00",
+      "published_at": "2026-04-19T13:21:16.667197+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -145,7 +156,7 @@
       "title": "Cr\u00e9ances de l'\u00c9tat burkinab\u00e8 : Des fermetures d'entreprises, des saisies de biens et des visites \u00e0 domicile envisag\u00e9es contre les d\u00e9biteurs dans les jours \u00e0 venir",
       "link": "https://lefaso.net/spip.php?article145845",
       "source": "LeFaso",
-      "published_at": "2026-04-19T11:45:19.725591+00:00",
+      "published_at": "2026-04-19T13:21:16.667197+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +170,7 @@
       "title": "Cr\u00e9ances de l'Etat burkinab\u00e8 : Au moins 10 000 ch\u00e8ques impay\u00e9s, une offensive de recouvrement lanc\u00e9e, huit jours accord\u00e9s \u00e0 partir du 17 avril 2026",
       "link": "https://lefaso.net/spip.php?article145827",
       "source": "LeFaso",
-      "published_at": "2026-04-19T11:45:19.725591+00:00",
+      "published_at": "2026-04-19T13:21:16.667197+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -171,28 +182,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-19T12:37:23.617364+00:00",
-      "score": 37.2
+      "timestamp": "2026-04-19T14:57:13.608803+00:00",
+      "score": 37.0
     },
     {
-      "timestamp": "2026-04-19T13:29:27.509137+00:00",
-      "score": 37.6
+      "timestamp": "2026-04-19T16:33:10.550409+00:00",
+      "score": 37.3
     },
     {
-      "timestamp": "2026-04-19T14:21:31.400910+00:00",
-      "score": 37.9
+      "timestamp": "2026-04-19T18:09:07.492015+00:00",
+      "score": 37.5
     },
     {
-      "timestamp": "2026-04-19T15:13:35.292683+00:00",
-      "score": 38.3
+      "timestamp": "2026-04-19T19:45:04.433621+00:00",
+      "score": 37.8
     },
     {
-      "timestamp": "2026-04-19T16:05:39.184456+00:00",
-      "score": 38.6
+      "timestamp": "2026-04-19T21:21:01.375227+00:00",
+      "score": 38.1
     },
     {
-      "timestamp": "2026-04-19T16:57:43.076229+00:00",
-      "score": 39.0
+      "timestamp": "2026-04-19T22:56:58.316833+00:00",
+      "score": 38.4
     }
   ]
 }
