@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-20T11:26:34.762597+00:00",
+  "fetched_at": "2026-04-20T14:05:33.570937+00:00",
   "window_hours": 72,
   "score": 43.0,
   "risk_level": "ELEVATED",
@@ -34,14 +34,14 @@
     {
       "name": "MaliWeb",
       "url": "https://www.maliweb.net/feed",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 57
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Education : \u00ab Une fille qui r\u00e9ussit apporte plus dans sa famille nucl\u00e9aire qu'un homme \u00bb, soutient le chef de canton de D\u00e9dougou",
       "link": "https://lefaso.net/spip.php?article145857",
       "source": "LeFaso",
-      "published_at": "2026-04-20T11:26:34.762597+00:00",
+      "published_at": "2026-04-20T14:05:33.570937+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Faible scolarisation des jeunes filles : Une campagne lanc\u00e9e pour inverser la tendance dans le Bankui et le Nakamb\u00e9",
       "link": "https://lefaso.net/spip.php?article145854",
       "source": "LeFaso",
-      "published_at": "2026-04-20T11:26:34.762597+00:00",
+      "published_at": "2026-04-20T14:05:33.570937+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +119,7 @@
       "title": "Bobo-Dioulasso : Des recrues du minist\u00e8re de la Transition digitale \u00e0 l'\u00e9cole du patriotisme et de la discipline",
       "link": "https://lefaso.net/spip.php?article145851",
       "source": "LeFaso",
-      "published_at": "2026-04-20T11:26:34.762597+00:00",
+      "published_at": "2026-04-20T14:05:33.570937+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -130,7 +130,7 @@
       "title": "Visite m\u00e9dicale gratuite des retrait\u00e9s au Burkina : La campagne nationale 2026 lanc\u00e9e \u00e0 Kaya",
       "link": "https://lefaso.net/spip.php?article145850",
       "source": "LeFaso",
-      "published_at": "2026-04-20T11:26:34.762597+00:00",
+      "published_at": "2026-04-20T14:05:33.570937+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,10 +140,23 @@
       ]
     },
     {
+      "title": "Burkina : Le mus\u00e9e de la photographie, l\u00e0 o\u00f9 les appareils de toutes les \u00e9poques se rencontrent",
+      "link": "https://lefaso.net/spip.php?article145886",
+      "source": "LeFaso",
+      "published_at": "2026-04-20T14:05:33.570937+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "\u00ab Association de malfaiteurs \u00bb : Voil\u00e0 comment certains individus ont r\u00e9ussi \u00e0 siphonner les ressources de l'Etat",
       "link": "https://lefaso.net/spip.php?article145864",
       "source": "LeFaso",
-      "published_at": "2026-04-20T11:26:34.762597+00:00",
+      "published_at": "2026-04-20T14:05:33.570937+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -157,7 +170,7 @@
       "title": "Fraude commerciale : 5 897 litres d'huile moteur contrefaite saisis \u00e0 Ouagadougou",
       "link": "https://lefaso.net/spip.php?article145848",
       "source": "LeFaso",
-      "published_at": "2026-04-20T11:26:34.762597+00:00",
+      "published_at": "2026-04-20T14:05:33.570937+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -170,7 +183,7 @@
       "title": "Cr\u00e9ances de l'\u00c9tat burkinab\u00e8 : Des fermetures d'entreprises, des saisies de biens et des visites \u00e0 domicile envisag\u00e9es contre les d\u00e9biteurs dans les jours \u00e0 venir",
       "link": "https://lefaso.net/spip.php?article145845",
       "source": "LeFaso",
-      "published_at": "2026-04-20T11:26:34.762597+00:00",
+      "published_at": "2026-04-20T14:05:33.570937+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -179,45 +192,32 @@
         "burkina",
         "ouagadougou"
       ]
-    },
-    {
-      "title": "Cr\u00e9ances de l'Etat burkinab\u00e8 : Au moins 10 000 ch\u00e8ques impay\u00e9s, une offensive de recouvrement lanc\u00e9e, huit jours accord\u00e9s \u00e0 partir du 17 avril 2026",
-      "link": "https://lefaso.net/spip.php?article145827",
-      "source": "LeFaso",
-      "published_at": "2026-04-20T11:26:34.762597+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-20T13:39:48.643758+00:00",
-      "score": 44.1
-    },
-    {
-      "timestamp": "2026-04-20T15:53:02.524919+00:00",
-      "score": 44.6
-    },
-    {
-      "timestamp": "2026-04-20T18:06:16.406080+00:00",
+      "timestamp": "2026-04-20T16:44:32.379277+00:00",
       "score": 45.2
     },
     {
-      "timestamp": "2026-04-20T20:19:30.287241+00:00",
-      "score": 45.7
+      "timestamp": "2026-04-20T19:23:31.187617+00:00",
+      "score": 45.8
     },
     {
-      "timestamp": "2026-04-20T22:32:44.168402+00:00",
-      "score": 46.3
+      "timestamp": "2026-04-20T22:02:29.995957+00:00",
+      "score": 46.5
     },
     {
-      "timestamp": "2026-04-21T00:45:58.049563+00:00",
-      "score": 46.8
+      "timestamp": "2026-04-21T00:41:28.804297+00:00",
+      "score": 47.1
+    },
+    {
+      "timestamp": "2026-04-21T03:20:27.612637+00:00",
+      "score": 47.7
+    },
+    {
+      "timestamp": "2026-04-21T05:59:26.420977+00:00",
+      "score": 48.3
     }
   ]
 }
