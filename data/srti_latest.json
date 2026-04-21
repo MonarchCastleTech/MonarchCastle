@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-21T10:25:23.658490+00:00",
+  "fetched_at": "2026-04-21T12:05:10.738886+00:00",
   "window_hours": 72,
-  "score": 46.9,
+  "score": 51.9,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 53.8,
+    "conflict_intensity": 63.7,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -94,10 +94,22 @@
   ],
   "top_headlines": [
     {
+      "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
+      "link": "https://lefaso.net/spip.php?article145913",
+      "source": "LeFaso",
+      "published_at": "2026-04-21T12:05:10.738886+00:00",
+      "score": 2.56,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "R\u00e9gion de Bankui : Quand plaidoyer, sant\u00e9 et art convergent pour sauver la scolarisation des filles",
       "link": "https://lefaso.net/spip.php?article145905",
       "source": "LeFaso",
-      "published_at": "2026-04-21T10:25:23.658490+00:00",
+      "published_at": "2026-04-21T12:05:10.738886+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +120,7 @@
       "title": "Education : \u00ab Une fille qui r\u00e9ussit apporte plus dans sa famille nucl\u00e9aire qu'un homme \u00bb, soutient le chef de canton de D\u00e9dougou",
       "link": "https://lefaso.net/spip.php?article145857",
       "source": "LeFaso",
-      "published_at": "2026-04-21T10:25:23.658490+00:00",
+      "published_at": "2026-04-21T12:05:10.738886+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +131,7 @@
       "title": "Faible scolarisation des jeunes filles : Une campagne lanc\u00e9e pour inverser la tendance dans le Bankui et le Nakamb\u00e9",
       "link": "https://lefaso.net/spip.php?article145854",
       "source": "LeFaso",
-      "published_at": "2026-04-21T10:25:23.658490+00:00",
+      "published_at": "2026-04-21T12:05:10.738886+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -130,7 +142,7 @@
       "title": "Bobo-Dioulasso : Des recrues du minist\u00e8re de la Transition digitale \u00e0 l'\u00e9cole du patriotisme et de la discipline",
       "link": "https://lefaso.net/spip.php?article145851",
       "source": "LeFaso",
-      "published_at": "2026-04-21T10:25:23.658490+00:00",
+      "published_at": "2026-04-21T12:05:10.738886+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -141,7 +153,7 @@
       "title": "Visite m\u00e9dicale gratuite des retrait\u00e9s au Burkina : La campagne nationale 2026 lanc\u00e9e \u00e0 Kaya",
       "link": "https://lefaso.net/spip.php?article145850",
       "source": "LeFaso",
-      "published_at": "2026-04-21T10:25:23.658490+00:00",
+      "published_at": "2026-04-21T12:05:10.738886+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,7 +166,7 @@
       "title": "Burkina : Le mus\u00e9e de la photographie, l\u00e0 o\u00f9 les appareils de toutes les \u00e9poques se rencontrent",
       "link": "https://lefaso.net/spip.php?article145886",
       "source": "LeFaso",
-      "published_at": "2026-04-21T10:25:23.658490+00:00",
+      "published_at": "2026-04-21T12:05:10.738886+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,7 +179,7 @@
       "title": "Lutte contre le terrorisme au Mali : L'arm\u00e9e neutralise plus de 30 terroristes \u00e0 S\u00e9var\u00e9 et Kolokani",
       "link": "https://lefaso.net/spip.php?article145891",
       "source": "LeFaso",
-      "published_at": "2026-04-21T10:25:23.658490+00:00",
+      "published_at": "2026-04-21T12:05:10.738886+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -175,46 +187,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "\u00ab Association de malfaiteurs \u00bb : Voil\u00e0 comment certains individus ont r\u00e9ussi \u00e0 siphonner les ressources de l'Etat",
-      "link": "https://lefaso.net/spip.php?article145864",
-      "source": "LeFaso",
-      "published_at": "2026-04-21T10:25:23.658490+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-21T11:52:56.856523+00:00",
-      "score": 49.3
+      "timestamp": "2026-04-21T13:44:57.819282+00:00",
+      "score": 50.1
     },
     {
-      "timestamp": "2026-04-21T13:20:30.054556+00:00",
-      "score": 49.8
+      "timestamp": "2026-04-21T15:24:44.899678+00:00",
+      "score": 50.6
     },
     {
-      "timestamp": "2026-04-21T14:48:03.252589+00:00",
-      "score": 50.3
+      "timestamp": "2026-04-21T17:04:31.980074+00:00",
+      "score": 51.1
     },
     {
-      "timestamp": "2026-04-21T16:15:36.450622+00:00",
-      "score": 50.8
+      "timestamp": "2026-04-21T18:44:19.060470+00:00",
+      "score": 51.5
     },
     {
-      "timestamp": "2026-04-21T17:43:09.648655+00:00",
-      "score": 51.2
+      "timestamp": "2026-04-21T20:24:06.140866+00:00",
+      "score": 52.0
     },
     {
-      "timestamp": "2026-04-21T19:10:42.846688+00:00",
-      "score": 51.7
+      "timestamp": "2026-04-21T22:03:53.221262+00:00",
+      "score": 52.5
     }
   ]
 }
