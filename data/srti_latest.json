@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-21T16:17:59.591235+00:00",
+  "fetched_at": "2026-04-21T18:07:26.481582+00:00",
   "window_hours": 72,
-  "score": 57.3,
+  "score": 57.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 74.6,
+    "conflict_intensity": 74.1,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 10,
+  "items_count": 11,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-21T16:17:59.591235+00:00",
+      "published_at": "2026-04-21T18:07:26.481582+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "R\u00e9gion de Bankui : Quand plaidoyer, sant\u00e9 et art convergent pour sauver la scolarisation des filles",
       "link": "https://lefaso.net/spip.php?article145905",
       "source": "LeFaso",
-      "published_at": "2026-04-21T16:17:59.591235+00:00",
+      "published_at": "2026-04-21T18:07:26.481582+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Education : \u00ab Une fille qui r\u00e9ussit apporte plus dans sa famille nucl\u00e9aire qu'un homme \u00bb, soutient le chef de canton de D\u00e9dougou",
       "link": "https://lefaso.net/spip.php?article145857",
       "source": "LeFaso",
-      "published_at": "2026-04-21T16:17:59.591235+00:00",
+      "published_at": "2026-04-21T18:07:26.481582+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -131,7 +131,7 @@
       "title": "Faible scolarisation des jeunes filles : Une campagne lanc\u00e9e pour inverser la tendance dans le Bankui et le Nakamb\u00e9",
       "link": "https://lefaso.net/spip.php?article145854",
       "source": "LeFaso",
-      "published_at": "2026-04-21T16:17:59.591235+00:00",
+      "published_at": "2026-04-21T18:07:26.481582+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -142,7 +142,7 @@
       "title": "Bobo-Dioulasso : Des recrues du minist\u00e8re de la Transition digitale \u00e0 l'\u00e9cole du patriotisme et de la discipline",
       "link": "https://lefaso.net/spip.php?article145851",
       "source": "LeFaso",
-      "published_at": "2026-04-21T16:17:59.591235+00:00",
+      "published_at": "2026-04-21T18:07:26.481582+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,10 +150,24 @@
       "regions": []
     },
     {
+      "title": "Why supporters of Burkina Faso\u2019s junta leader are campaigning against a Sky News journalist",
+      "link": "https://www.france24.com/en/africa/20260421-supporters-burkina-faso-junta-leader-traore-campaigning-sky-news-journalist",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-21T17:46:30+00:00",
+      "score": 1.25,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Burkina : Le mus\u00e9e de la photographie, l\u00e0 o\u00f9 les appareils de toutes les \u00e9poques se rencontrent",
       "link": "https://lefaso.net/spip.php?article145886",
       "source": "LeFaso",
-      "published_at": "2026-04-21T16:17:59.591235+00:00",
+      "published_at": "2026-04-21T18:07:26.481582+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -166,7 +180,7 @@
       "title": "Lutte contre le terrorisme au Mali : L'arm\u00e9e neutralise plus de 30 terroristes \u00e0 S\u00e9var\u00e9 et Kolokani",
       "link": "https://lefaso.net/spip.php?article145891",
       "source": "LeFaso",
-      "published_at": "2026-04-21T16:17:59.591235+00:00",
+      "published_at": "2026-04-21T18:07:26.481582+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,46 +188,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "\u00ab Association de malfaiteurs \u00bb : Voil\u00e0 comment certains individus ont r\u00e9ussi \u00e0 siphonner les ressources de l'Etat",
-      "link": "https://lefaso.net/spip.php?article145864",
-      "source": "LeFaso",
-      "published_at": "2026-04-21T16:17:59.591235+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-21T18:30:26.777172+00:00",
-      "score": 51.9
-    },
-    {
-      "timestamp": "2026-04-21T20:42:53.963109+00:00",
-      "score": 52.4
-    },
-    {
-      "timestamp": "2026-04-21T22:55:21.149046+00:00",
+      "timestamp": "2026-04-21T19:56:53.371929+00:00",
       "score": 53.0
     },
     {
-      "timestamp": "2026-04-22T01:07:48.334983+00:00",
+      "timestamp": "2026-04-21T21:46:20.262276+00:00",
       "score": 53.5
     },
     {
-      "timestamp": "2026-04-22T03:20:15.520920+00:00",
+      "timestamp": "2026-04-21T23:35:47.152623+00:00",
       "score": 54.0
     },
     {
-      "timestamp": "2026-04-22T05:32:42.706857+00:00",
+      "timestamp": "2026-04-22T01:25:14.042970+00:00",
       "score": 54.5
+    },
+    {
+      "timestamp": "2026-04-22T03:14:40.933317+00:00",
+      "score": 55.1
+    },
+    {
+      "timestamp": "2026-04-22T05:04:07.823664+00:00",
+      "score": 55.6
     }
   ]
 }
