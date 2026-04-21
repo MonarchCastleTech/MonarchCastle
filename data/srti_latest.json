@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-21T18:07:26.481582+00:00",
+  "fetched_at": "2026-04-21T20:10:06.012272+00:00",
   "window_hours": 72,
-  "score": 57.0,
+  "score": 56.7,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 74.1,
+    "conflict_intensity": 73.4,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-21T18:07:26.481582+00:00",
+      "published_at": "2026-04-21T20:10:06.012272+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "R\u00e9gion de Bankui : Quand plaidoyer, sant\u00e9 et art convergent pour sauver la scolarisation des filles",
       "link": "https://lefaso.net/spip.php?article145905",
       "source": "LeFaso",
-      "published_at": "2026-04-21T18:07:26.481582+00:00",
+      "published_at": "2026-04-21T20:10:06.012272+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Education : \u00ab Une fille qui r\u00e9ussit apporte plus dans sa famille nucl\u00e9aire qu'un homme \u00bb, soutient le chef de canton de D\u00e9dougou",
       "link": "https://lefaso.net/spip.php?article145857",
       "source": "LeFaso",
-      "published_at": "2026-04-21T18:07:26.481582+00:00",
+      "published_at": "2026-04-21T20:10:06.012272+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -131,7 +131,7 @@
       "title": "Faible scolarisation des jeunes filles : Une campagne lanc\u00e9e pour inverser la tendance dans le Bankui et le Nakamb\u00e9",
       "link": "https://lefaso.net/spip.php?article145854",
       "source": "LeFaso",
-      "published_at": "2026-04-21T18:07:26.481582+00:00",
+      "published_at": "2026-04-21T20:10:06.012272+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -142,7 +142,7 @@
       "title": "Bobo-Dioulasso : Des recrues du minist\u00e8re de la Transition digitale \u00e0 l'\u00e9cole du patriotisme et de la discipline",
       "link": "https://lefaso.net/spip.php?article145851",
       "source": "LeFaso",
-      "published_at": "2026-04-21T18:07:26.481582+00:00",
+      "published_at": "2026-04-21T20:10:06.012272+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,7 +154,7 @@
       "link": "https://www.france24.com/en/africa/20260421-supporters-burkina-faso-junta-leader-traore-campaigning-sky-news-journalist",
       "source": "France 24 - Africa",
       "published_at": "2026-04-21T17:46:30+00:00",
-      "score": 1.25,
+      "score": 1.22,
       "tags": [
         "civilian_risk"
       ],
@@ -167,7 +167,7 @@
       "title": "Burkina : Le mus\u00e9e de la photographie, l\u00e0 o\u00f9 les appareils de toutes les \u00e9poques se rencontrent",
       "link": "https://lefaso.net/spip.php?article145886",
       "source": "LeFaso",
-      "published_at": "2026-04-21T18:07:26.481582+00:00",
+      "published_at": "2026-04-21T20:10:06.012272+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -180,7 +180,7 @@
       "title": "Lutte contre le terrorisme au Mali : L'arm\u00e9e neutralise plus de 30 terroristes \u00e0 S\u00e9var\u00e9 et Kolokani",
       "link": "https://lefaso.net/spip.php?article145891",
       "source": "LeFaso",
-      "published_at": "2026-04-21T18:07:26.481582+00:00",
+      "published_at": "2026-04-21T20:10:06.012272+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -192,28 +192,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-21T19:56:53.371929+00:00",
-      "score": 53.0
+      "timestamp": "2026-04-21T22:12:45.542962+00:00",
+      "score": 54.4
     },
     {
-      "timestamp": "2026-04-21T21:46:20.262276+00:00",
-      "score": 53.5
+      "timestamp": "2026-04-22T00:15:25.073652+00:00",
+      "score": 54.9
     },
     {
-      "timestamp": "2026-04-21T23:35:47.152623+00:00",
-      "score": 54.0
+      "timestamp": "2026-04-22T02:18:04.604342+00:00",
+      "score": 55.5
     },
     {
-      "timestamp": "2026-04-22T01:25:14.042970+00:00",
-      "score": 54.5
+      "timestamp": "2026-04-22T04:20:44.135032+00:00",
+      "score": 56.1
     },
     {
-      "timestamp": "2026-04-22T03:14:40.933317+00:00",
-      "score": 55.1
+      "timestamp": "2026-04-22T06:23:23.665722+00:00",
+      "score": 56.7
     },
     {
-      "timestamp": "2026-04-22T05:04:07.823664+00:00",
-      "score": 55.6
+      "timestamp": "2026-04-22T08:26:03.196412+00:00",
+      "score": 57.3
     }
   ]
 }
