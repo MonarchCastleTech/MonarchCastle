@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-22T06:06:55.442478+00:00",
+  "fetched_at": "2026-04-22T08:53:53.586907+00:00",
   "window_hours": 72,
-  "score": 55.2,
+  "score": 54.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 70.4,
+    "conflict_intensity": 69.6,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 84
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 26
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-22T06:06:55.442478+00:00",
+      "published_at": "2026-04-22T08:53:53.586907+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-22T06:06:55.442478+00:00",
+      "published_at": "2026-04-22T08:53:53.586907+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "R\u00e9gion de Bankui : Quand plaidoyer, sant\u00e9 et art convergent pour sauver la scolarisation des filles",
       "link": "https://lefaso.net/spip.php?article145905",
       "source": "LeFaso",
-      "published_at": "2026-04-22T06:06:55.442478+00:00",
+      "published_at": "2026-04-22T08:53:53.586907+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "title": "Education : \u00ab Une fille qui r\u00e9ussit apporte plus dans sa famille nucl\u00e9aire qu'un homme \u00bb, soutient le chef de canton de D\u00e9dougou",
       "link": "https://lefaso.net/spip.php?article145857",
       "source": "LeFaso",
-      "published_at": "2026-04-22T06:06:55.442478+00:00",
+      "published_at": "2026-04-22T08:53:53.586907+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -144,7 +144,7 @@
       "title": "Faible scolarisation des jeunes filles : Une campagne lanc\u00e9e pour inverser la tendance dans le Bankui et le Nakamb\u00e9",
       "link": "https://lefaso.net/spip.php?article145854",
       "source": "LeFaso",
-      "published_at": "2026-04-22T06:06:55.442478+00:00",
+      "published_at": "2026-04-22T08:53:53.586907+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -155,7 +155,7 @@
       "title": "Bobo-Dioulasso : Des recrues du minist\u00e8re de la Transition digitale \u00e0 l'\u00e9cole du patriotisme et de la discipline",
       "link": "https://lefaso.net/spip.php?article145851",
       "source": "LeFaso",
-      "published_at": "2026-04-22T06:06:55.442478+00:00",
+      "published_at": "2026-04-22T08:53:53.586907+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -166,7 +166,7 @@
       "title": "Burkina : Le mus\u00e9e de la photographie, l\u00e0 o\u00f9 les appareils de toutes les \u00e9poques se rencontrent",
       "link": "https://lefaso.net/spip.php?article145886",
       "source": "LeFaso",
-      "published_at": "2026-04-22T06:06:55.442478+00:00",
+      "published_at": "2026-04-22T08:53:53.586907+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -179,7 +179,7 @@
       "title": "Lutte contre le terrorisme au Mali : L'arm\u00e9e neutralise plus de 30 terroristes \u00e0 S\u00e9var\u00e9 et Kolokani",
       "link": "https://lefaso.net/spip.php?article145891",
       "source": "LeFaso",
-      "published_at": "2026-04-22T06:06:55.442478+00:00",
+      "published_at": "2026-04-22T08:53:53.586907+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -191,28 +191,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-22T08:38:55.175338+00:00",
-      "score": 58.5
+      "timestamp": "2026-04-22T11:40:51.731336+00:00",
+      "score": 58.7
     },
     {
-      "timestamp": "2026-04-22T11:10:54.908198+00:00",
-      "score": 59.2
+      "timestamp": "2026-04-22T14:27:49.875765+00:00",
+      "score": 59.4
     },
     {
-      "timestamp": "2026-04-22T13:42:54.641058+00:00",
-      "score": 59.9
+      "timestamp": "2026-04-22T17:14:48.020194+00:00",
+      "score": 60.0
     },
     {
-      "timestamp": "2026-04-22T16:14:54.373918+00:00",
-      "score": 60.6
+      "timestamp": "2026-04-22T20:01:46.164623+00:00",
+      "score": 60.7
     },
     {
-      "timestamp": "2026-04-22T18:46:54.106778+00:00",
-      "score": 61.3
+      "timestamp": "2026-04-22T22:48:44.309052+00:00",
+      "score": 61.4
     },
     {
-      "timestamp": "2026-04-22T21:18:53.839638+00:00",
-      "score": 62.0
+      "timestamp": "2026-04-23T01:35:42.453481+00:00",
+      "score": 62.1
     }
   ]
 }
