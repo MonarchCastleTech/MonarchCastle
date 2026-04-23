@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-23T18:12:14.339852+00:00",
+  "fetched_at": "2026-04-23T20:10:01.771110+00:00",
   "window_hours": 72,
-  "score": 44.1,
+  "score": 43.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 61.5,
+    "conflict_intensity": 60.9,
     "civilian_risk": 66.7
   },
   "weights": {
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-23T18:12:14.339852+00:00",
+      "published_at": "2026-04-23T20:10:01.771110+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-23T18:12:14.339852+00:00",
+      "published_at": "2026-04-23T20:10:01.771110+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "R\u00e9gion de Bankui : Quand plaidoyer, sant\u00e9 et art convergent pour sauver la scolarisation des filles",
       "link": "https://lefaso.net/spip.php?article145905",
       "source": "LeFaso",
-      "published_at": "2026-04-23T18:12:14.339852+00:00",
+      "published_at": "2026-04-23T20:10:01.771110+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "title": "Burkina : Le mus\u00e9e de la photographie, l\u00e0 o\u00f9 les appareils de toutes les \u00e9poques se rencontrent",
       "link": "https://lefaso.net/spip.php?article145886",
       "source": "LeFaso",
-      "published_at": "2026-04-23T18:12:14.339852+00:00",
+      "published_at": "2026-04-23T20:10:01.771110+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Lutte contre le terrorisme au Mali : L'arm\u00e9e neutralise plus de 30 terroristes \u00e0 S\u00e9var\u00e9 et Kolokani",
       "link": "https://lefaso.net/spip.php?article145891",
       "source": "LeFaso",
-      "published_at": "2026-04-23T18:12:14.339852+00:00",
+      "published_at": "2026-04-23T20:10:01.771110+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +160,7 @@
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.72,
+      "score": 0.7,
       "tags": [
         "conflict_intensity"
       ],
@@ -174,7 +174,7 @@
       "link": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
       "source": "France 24 - Africa",
       "published_at": "2026-04-22T21:34:03+00:00",
-      "score": 0.7,
+      "score": 0.67,
       "tags": [
         "conflict_intensity"
       ],
@@ -199,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-23T19:34:33.473940+00:00",
-      "score": 42.0
+      "timestamp": "2026-04-23T22:07:49.202368+00:00",
+      "score": 41.5
     },
     {
-      "timestamp": "2026-04-23T20:56:52.608028+00:00",
-      "score": 41.3
+      "timestamp": "2026-04-24T00:05:36.633626+00:00",
+      "score": 40.8
     },
     {
-      "timestamp": "2026-04-23T22:19:11.742116+00:00",
-      "score": 40.6
+      "timestamp": "2026-04-24T02:03:24.064884+00:00",
+      "score": 40.2
     },
     {
-      "timestamp": "2026-04-23T23:41:30.876204+00:00",
-      "score": 40.0
+      "timestamp": "2026-04-24T04:01:11.496142+00:00",
+      "score": 39.5
     },
     {
-      "timestamp": "2026-04-24T01:03:50.010292+00:00",
-      "score": 39.3
+      "timestamp": "2026-04-24T05:58:58.927400+00:00",
+      "score": 38.8
     },
     {
-      "timestamp": "2026-04-24T02:26:09.144380+00:00",
-      "score": 38.6
+      "timestamp": "2026-04-24T07:56:46.358658+00:00",
+      "score": 38.2
     }
   ]
 }
