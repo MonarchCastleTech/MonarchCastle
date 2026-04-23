@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-23T08:59:06.845115+00:00",
+  "fetched_at": "2026-04-23T10:40:45.771503+00:00",
   "window_hours": 72,
-  "score": 46.2,
+  "score": 45.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 65.1,
-    "civilian_risk": 68.5
+    "conflict_intensity": 64.3,
+    "civilian_risk": 68.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 83
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-23T08:59:06.845115+00:00",
+      "published_at": "2026-04-23T10:40:45.771503+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-23T08:59:06.845115+00:00",
+      "published_at": "2026-04-23T10:40:45.771503+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "R\u00e9gion de Bankui : Quand plaidoyer, sant\u00e9 et art convergent pour sauver la scolarisation des filles",
       "link": "https://lefaso.net/spip.php?article145905",
       "source": "LeFaso",
-      "published_at": "2026-04-23T08:59:06.845115+00:00",
+      "published_at": "2026-04-23T10:40:45.771503+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "title": "Burkina : Le mus\u00e9e de la photographie, l\u00e0 o\u00f9 les appareils de toutes les \u00e9poques se rencontrent",
       "link": "https://lefaso.net/spip.php?article145886",
       "source": "LeFaso",
-      "published_at": "2026-04-23T08:59:06.845115+00:00",
+      "published_at": "2026-04-23T10:40:45.771503+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Lutte contre le terrorisme au Mali : L'arm\u00e9e neutralise plus de 30 terroristes \u00e0 S\u00e9var\u00e9 et Kolokani",
       "link": "https://lefaso.net/spip.php?article145891",
       "source": "LeFaso",
-      "published_at": "2026-04-23T08:59:06.845115+00:00",
+      "published_at": "2026-04-23T10:40:45.771503+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +160,7 @@
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.83,
+      "score": 0.81,
       "tags": [
         "conflict_intensity"
       ],
@@ -174,7 +174,7 @@
       "link": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
       "source": "France 24 - Africa",
       "published_at": "2026-04-22T21:34:03+00:00",
-      "score": 0.82,
+      "score": 0.8,
       "tags": [
         "conflict_intensity"
       ],
@@ -187,7 +187,7 @@
       "link": "https://www.france24.com/en/africa/20260421-supporters-burkina-faso-junta-leader-traore-campaigning-sky-news-journalist",
       "source": "France 24 - Africa",
       "published_at": "2026-04-21T17:46:30+00:00",
-      "score": 0.57,
+      "score": 0.54,
       "tags": [
         "civilian_risk"
       ],
@@ -199,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-23T11:44:36.923804+00:00",
-      "score": 46.1
+      "timestamp": "2026-04-23T12:22:24.697891+00:00",
+      "score": 44.9
     },
     {
-      "timestamp": "2026-04-23T14:30:07.002493+00:00",
-      "score": 45.6
+      "timestamp": "2026-04-23T14:04:03.624279+00:00",
+      "score": 44.4
     },
     {
-      "timestamp": "2026-04-23T17:15:37.081182+00:00",
-      "score": 45.1
+      "timestamp": "2026-04-23T15:45:42.550667+00:00",
+      "score": 43.8
     },
     {
-      "timestamp": "2026-04-23T20:01:07.159871+00:00",
-      "score": 44.6
+      "timestamp": "2026-04-23T17:27:21.477055+00:00",
+      "score": 43.2
     },
     {
-      "timestamp": "2026-04-23T22:46:37.238560+00:00",
-      "score": 44.1
+      "timestamp": "2026-04-23T19:09:00.403443+00:00",
+      "score": 42.7
     },
     {
-      "timestamp": "2026-04-24T01:32:07.317249+00:00",
-      "score": 43.6
+      "timestamp": "2026-04-23T20:50:39.329831+00:00",
+      "score": 42.1
     }
   ]
 }
