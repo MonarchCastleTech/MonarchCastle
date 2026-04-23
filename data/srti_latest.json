@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-23T14:07:23.214294+00:00",
+  "fetched_at": "2026-04-23T16:49:55.205764+00:00",
   "window_hours": 72,
-  "score": 44.8,
+  "score": 44.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 62.7,
-    "civilian_risk": 67.3
+    "conflict_intensity": 61.9,
+    "civilian_risk": 66.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-23T14:07:23.214294+00:00",
+      "published_at": "2026-04-23T16:49:55.205764+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-23T14:07:23.214294+00:00",
+      "published_at": "2026-04-23T16:49:55.205764+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "R\u00e9gion de Bankui : Quand plaidoyer, sant\u00e9 et art convergent pour sauver la scolarisation des filles",
       "link": "https://lefaso.net/spip.php?article145905",
       "source": "LeFaso",
-      "published_at": "2026-04-23T14:07:23.214294+00:00",
+      "published_at": "2026-04-23T16:49:55.205764+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "title": "Burkina : Le mus\u00e9e de la photographie, l\u00e0 o\u00f9 les appareils de toutes les \u00e9poques se rencontrent",
       "link": "https://lefaso.net/spip.php?article145886",
       "source": "LeFaso",
-      "published_at": "2026-04-23T14:07:23.214294+00:00",
+      "published_at": "2026-04-23T16:49:55.205764+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Lutte contre le terrorisme au Mali : L'arm\u00e9e neutralise plus de 30 terroristes \u00e0 S\u00e9var\u00e9 et Kolokani",
       "link": "https://lefaso.net/spip.php?article145891",
       "source": "LeFaso",
-      "published_at": "2026-04-23T14:07:23.214294+00:00",
+      "published_at": "2026-04-23T16:49:55.205764+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +160,7 @@
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.77,
+      "score": 0.74,
       "tags": [
         "conflict_intensity"
       ],
@@ -174,7 +174,7 @@
       "link": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
       "source": "France 24 - Africa",
       "published_at": "2026-04-22T21:34:03+00:00",
-      "score": 0.75,
+      "score": 0.72,
       "tags": [
         "conflict_intensity"
       ],
@@ -187,7 +187,7 @@
       "link": "https://www.france24.com/en/africa/20260421-supporters-burkina-faso-junta-leader-traore-campaigning-sky-news-journalist",
       "source": "France 24 - Africa",
       "published_at": "2026-04-21T17:46:30+00:00",
-      "score": 0.48,
+      "score": 0.44,
       "tags": [
         "civilian_risk"
       ],
@@ -199,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-23T16:10:11.436028+00:00",
-      "score": 43.1
-    },
-    {
-      "timestamp": "2026-04-23T18:12:59.657762+00:00",
+      "timestamp": "2026-04-23T19:32:27.197234+00:00",
       "score": 42.5
     },
     {
-      "timestamp": "2026-04-23T20:15:47.879496+00:00",
+      "timestamp": "2026-04-23T22:14:59.188704+00:00",
       "score": 41.8
     },
     {
-      "timestamp": "2026-04-23T22:18:36.101230+00:00",
+      "timestamp": "2026-04-24T00:57:31.180174+00:00",
       "score": 41.2
     },
     {
-      "timestamp": "2026-04-24T00:21:24.322964+00:00",
+      "timestamp": "2026-04-24T03:40:03.171644+00:00",
       "score": 40.5
     },
     {
-      "timestamp": "2026-04-24T02:24:12.544698+00:00",
+      "timestamp": "2026-04-24T06:22:35.163114+00:00",
       "score": 39.9
+    },
+    {
+      "timestamp": "2026-04-24T09:05:07.154584+00:00",
+      "score": 39.2
     }
   ]
 }
