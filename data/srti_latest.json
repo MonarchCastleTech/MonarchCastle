@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-23T21:54:54.681141+00:00",
+  "fetched_at": "2026-04-23T22:58:16.965499+00:00",
   "window_hours": 72,
-  "score": 34.1,
+  "score": 29.9,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 33.5,
-    "civilian_risk": 86.8
+    "conflict_intensity": 33.2,
+    "civilian_risk": 66.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-23T21:54:54.681141+00:00",
+      "published_at": "2026-04-23T22:58:16.965499+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-23T21:54:54.681141+00:00",
+      "published_at": "2026-04-23T22:58:16.965499+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-23T21:54:54.681141+00:00",
+      "published_at": "2026-04-23T22:58:16.965499+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -130,22 +130,11 @@
       ]
     },
     {
-      "title": "R\u00e9gion de Bankui : Quand plaidoyer, sant\u00e9 et art convergent pour sauver la scolarisation des filles",
-      "link": "https://lefaso.net/spip.php?article145905",
-      "source": "LeFaso",
-      "published_at": "2026-04-23T21:54:54.681141+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
       "title": "The Spirits, The Marabouts, and the Eleven Psychiatrists in Burkina Faso",
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.68,
+      "score": 0.67,
       "tags": [
         "conflict_intensity"
       ],
@@ -159,7 +148,7 @@
       "link": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
       "source": "France 24 - Africa",
       "published_at": "2026-04-22T21:34:03+00:00",
-      "score": 0.65,
+      "score": 0.63,
       "tags": [
         "conflict_intensity"
       ],
@@ -197,28 +186,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-23T23:39:47.591172+00:00",
-      "score": 39.5
+      "timestamp": "2026-04-24T00:01:39.249857+00:00",
+      "score": 37.0
     },
     {
-      "timestamp": "2026-04-24T01:24:40.501203+00:00",
-      "score": 38.7
+      "timestamp": "2026-04-24T01:05:01.534215+00:00",
+      "score": 36.2
     },
     {
-      "timestamp": "2026-04-24T03:09:33.411234+00:00",
-      "score": 38.0
+      "timestamp": "2026-04-24T02:08:23.818573+00:00",
+      "score": 35.3
     },
     {
-      "timestamp": "2026-04-24T04:54:26.321265+00:00",
-      "score": 37.3
+      "timestamp": "2026-04-24T03:11:46.102931+00:00",
+      "score": 34.5
     },
     {
-      "timestamp": "2026-04-24T06:39:19.231296+00:00",
-      "score": 36.5
+      "timestamp": "2026-04-24T04:15:08.387289+00:00",
+      "score": 33.6
     },
     {
-      "timestamp": "2026-04-24T08:24:12.141327+00:00",
-      "score": 35.8
+      "timestamp": "2026-04-24T05:18:30.671647+00:00",
+      "score": 32.8
     }
   ]
 }
