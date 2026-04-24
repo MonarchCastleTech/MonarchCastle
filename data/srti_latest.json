@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-24T03:41:01.050227+00:00",
+  "fetched_at": "2026-04-24T06:17:50.690930+00:00",
   "window_hours": 72,
-  "score": 29.2,
+  "score": 28.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 31.8,
+    "conflict_intensity": 31.0,
     "civilian_risk": 66.7
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-24T03:41:01.050227+00:00",
+      "published_at": "2026-04-24T06:17:50.690930+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-24T03:41:01.050227+00:00",
+      "published_at": "2026-04-24T06:17:50.690930+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-24T03:41:01.050227+00:00",
+      "published_at": "2026-04-24T06:17:50.690930+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +134,7 @@
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.61,
+      "score": 0.58,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,7 +148,7 @@
       "link": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
       "source": "France 24 - Africa",
       "published_at": "2026-04-22T21:34:03+00:00",
-      "score": 0.57,
+      "score": 0.53,
       "tags": [
         "conflict_intensity"
       ],
@@ -186,28 +186,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-24T07:26:28.658447+00:00",
-      "score": 32.7
+      "timestamp": "2026-04-24T08:54:40.331633+00:00",
+      "score": 30.8
     },
     {
-      "timestamp": "2026-04-24T11:11:56.266667+00:00",
-      "score": 31.7
+      "timestamp": "2026-04-24T11:31:29.972336+00:00",
+      "score": 29.7
     },
     {
-      "timestamp": "2026-04-24T14:57:23.874887+00:00",
-      "score": 30.7
-    },
-    {
-      "timestamp": "2026-04-24T18:42:51.483107+00:00",
-      "score": 29.6
-    },
-    {
-      "timestamp": "2026-04-24T22:28:19.091327+00:00",
+      "timestamp": "2026-04-24T14:08:19.613039+00:00",
       "score": 28.6
     },
     {
-      "timestamp": "2026-04-25T02:13:46.699547+00:00",
-      "score": 27.6
+      "timestamp": "2026-04-24T16:45:09.253742+00:00",
+      "score": 27.5
+    },
+    {
+      "timestamp": "2026-04-24T19:21:58.894445+00:00",
+      "score": 26.4
+    },
+    {
+      "timestamp": "2026-04-24T21:58:48.535148+00:00",
+      "score": 25.3
     }
   ]
 }
