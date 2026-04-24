@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-24T21:00:15.136050+00:00",
+  "fetched_at": "2026-04-24T21:55:06.182263+00:00",
   "window_hours": 72,
-  "score": 27.4,
+  "score": 27.3,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 22.5,
+    "conflict_intensity": 22.4,
     "civilian_risk": 80.6
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 83
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-24T21:00:15.136050+00:00",
+      "published_at": "2026-04-24T21:55:06.182263+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-24T21:00:15.136050+00:00",
+      "published_at": "2026-04-24T21:55:06.182263+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-24T21:00:15.136050+00:00",
+      "published_at": "2026-04-24T21:55:06.182263+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -131,7 +131,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-24T21:00:15.136050+00:00",
+      "published_at": "2026-04-24T21:55:06.182263+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -145,7 +145,7 @@
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.41,
+      "score": 0.4,
       "tags": [
         "conflict_intensity"
       ],
@@ -170,28 +170,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-24T22:54:11.006644+00:00",
-      "score": 24.2
+      "timestamp": "2026-04-24T22:49:57.228476+00:00",
+      "score": 23.8
     },
     {
-      "timestamp": "2026-04-25T00:48:06.877238+00:00",
-      "score": 23.1
+      "timestamp": "2026-04-24T23:44:48.274689+00:00",
+      "score": 22.8
     },
     {
-      "timestamp": "2026-04-25T02:42:02.747832+00:00",
-      "score": 22.1
+      "timestamp": "2026-04-25T00:39:39.320902+00:00",
+      "score": 21.8
     },
     {
-      "timestamp": "2026-04-25T04:35:58.618426+00:00",
-      "score": 21.0
+      "timestamp": "2026-04-25T01:34:30.367115+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-04-25T06:29:54.489020+00:00",
-      "score": 19.9
+      "timestamp": "2026-04-25T02:29:21.413328+00:00",
+      "score": 19.7
     },
     {
-      "timestamp": "2026-04-25T08:23:50.359614+00:00",
-      "score": 18.8
+      "timestamp": "2026-04-25T03:24:12.459541+00:00",
+      "score": 18.7
     }
   ]
 }
