@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-24T14:00:19.982175+00:00",
+  "fetched_at": "2026-04-24T15:16:41.836607+00:00",
   "window_hours": 72,
-  "score": 31.7,
+  "score": 29.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 28.6,
+    "conflict_intensity": 24.1,
     "civilian_risk": 86.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-24T14:00:19.982175+00:00",
+      "published_at": "2026-04-24T15:16:41.836607+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-24T14:00:19.982175+00:00",
+      "published_at": "2026-04-24T15:16:41.836607+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-24T14:00:19.982175+00:00",
+      "published_at": "2026-04-24T15:16:41.836607+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -131,7 +131,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-24T14:00:19.982175+00:00",
+      "published_at": "2026-04-24T15:16:41.836607+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -145,7 +145,7 @@
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.49,
+      "score": 0.48,
       "tags": [
         "conflict_intensity"
       ],
@@ -173,52 +173,39 @@
       "link": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
       "source": "France 24 - Africa",
       "published_at": "2026-04-22T21:34:03+00:00",
-      "score": 0.43,
+      "score": 0.41,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "Pope slams corruption in Angola",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260421-pope-slams-corruption-in-angola",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-21T14:51:37+00:00",
-      "score": 0.34,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-24T16:44:23.786623+00:00",
-      "score": 27.5
+      "timestamp": "2026-04-24T16:33:03.691039+00:00",
+      "score": 26.7
     },
     {
-      "timestamp": "2026-04-24T19:28:27.591071+00:00",
-      "score": 26.4
+      "timestamp": "2026-04-24T17:49:25.545471+00:00",
+      "score": 25.6
     },
     {
-      "timestamp": "2026-04-24T22:12:31.395519+00:00",
-      "score": 25.3
+      "timestamp": "2026-04-24T19:05:47.399903+00:00",
+      "score": 24.4
     },
     {
-      "timestamp": "2026-04-25T00:56:35.199967+00:00",
-      "score": 24.2
+      "timestamp": "2026-04-24T20:22:09.254335+00:00",
+      "score": 23.3
     },
     {
-      "timestamp": "2026-04-25T03:40:39.004415+00:00",
-      "score": 23.0
+      "timestamp": "2026-04-24T21:38:31.108767+00:00",
+      "score": 22.2
     },
     {
-      "timestamp": "2026-04-25T06:24:42.808863+00:00",
-      "score": 21.9
+      "timestamp": "2026-04-24T22:54:52.963199+00:00",
+      "score": 21.1
     }
   ]
 }
