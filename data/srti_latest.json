@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-04-23T23:55:33.442007+00:00",
+  "fetched_at": "2026-04-24T03:41:01.050227+00:00",
   "window_hours": 72,
-  "score": 29.8,
+  "score": 29.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 32.9,
+    "conflict_intensity": 31.8,
     "civilian_risk": 66.7
   },
   "weights": {
@@ -97,7 +97,7 @@
       "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
       "link": "https://lefaso.net/spip.php?article145913",
       "source": "LeFaso",
-      "published_at": "2026-04-23T23:55:33.442007+00:00",
+      "published_at": "2026-04-24T03:41:01.050227+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-23T23:55:33.442007+00:00",
+      "published_at": "2026-04-24T03:41:01.050227+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
       "link": "https://lefaso.net/spip.php?article145930",
       "source": "LeFaso",
-      "published_at": "2026-04-23T23:55:33.442007+00:00",
+      "published_at": "2026-04-24T03:41:01.050227+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +134,7 @@
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.66,
+      "score": 0.61,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,7 +148,7 @@
       "link": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
       "source": "France 24 - Africa",
       "published_at": "2026-04-22T21:34:03+00:00",
-      "score": 0.62,
+      "score": 0.57,
       "tags": [
         "conflict_intensity"
       ],
@@ -186,28 +186,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-24T00:52:49.918515+00:00",
-      "score": 34.8
+      "timestamp": "2026-04-24T07:26:28.658447+00:00",
+      "score": 32.7
     },
     {
-      "timestamp": "2026-04-24T01:50:06.395023+00:00",
-      "score": 33.9
+      "timestamp": "2026-04-24T11:11:56.266667+00:00",
+      "score": 31.7
     },
     {
-      "timestamp": "2026-04-24T02:47:22.871531+00:00",
-      "score": 32.9
+      "timestamp": "2026-04-24T14:57:23.874887+00:00",
+      "score": 30.7
     },
     {
-      "timestamp": "2026-04-24T03:44:39.348039+00:00",
-      "score": 32.0
+      "timestamp": "2026-04-24T18:42:51.483107+00:00",
+      "score": 29.6
     },
     {
-      "timestamp": "2026-04-24T04:41:55.824547+00:00",
-      "score": 31.0
+      "timestamp": "2026-04-24T22:28:19.091327+00:00",
+      "score": 28.6
     },
     {
-      "timestamp": "2026-04-24T05:39:12.301055+00:00",
-      "score": 30.1
+      "timestamp": "2026-04-25T02:13:46.699547+00:00",
+      "score": 27.6
     }
   ]
 }
