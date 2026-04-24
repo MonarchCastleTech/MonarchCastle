@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-24T22:52:14.089769+00:00",
+  "fetched_at": "2026-04-24T23:50:35.121009+00:00",
   "window_hours": 72,
-  "score": 27.2,
-  "risk_level": "GUARDED",
+  "score": 16.4,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 22.2,
-    "civilian_risk": 80.6
+    "conflict_intensity": 8.6,
+    "civilian_risk": 60.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 84
+      "items": 72
     },
     {
       "name": "ActuNiger",
@@ -94,22 +94,23 @@
   ],
   "top_headlines": [
     {
-      "title": "Arthrose apr\u00e8s 50 ans : L'alimentation comme solution naturelle pour soulager les douleurs",
-      "link": "https://lefaso.net/spip.php?article145913",
+      "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
+      "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-24T22:52:14.089769+00:00",
-      "score": 2.56,
+      "published_at": "2026-04-24T23:50:35.121009+00:00",
+      "score": 1.44,
       "tags": [
-        "conflict_intensity",
         "civilian_risk"
       ],
-      "regions": []
+      "regions": [
+        "burkina"
+      ]
     },
     {
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-24T22:52:14.089769+00:00",
+      "published_at": "2026-04-24T23:50:35.121009+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +121,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-24T22:52:14.089769+00:00",
+      "published_at": "2026-04-24T23:50:35.121009+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -128,24 +129,11 @@
       "regions": []
     },
     {
-      "title": "Scolarisation des filles dans la commune de Tch\u00e9riba : Une causerie pour briser les cha\u00eenes de l'abandon",
-      "link": "https://lefaso.net/spip.php?article145930",
-      "source": "LeFaso",
-      "published_at": "2026-04-24T22:52:14.089769+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
       "title": "The Spirits, The Marabouts, and the Eleven Psychiatrists in Burkina Faso",
       "link": "https://allafrica.com/stories/202604230110.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.39,
+      "score": 0.38,
       "tags": [
         "conflict_intensity"
       ],
@@ -170,28 +158,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-24T23:49:21.997275+00:00",
-      "score": 23.7
+      "timestamp": "2026-04-25T00:48:56.152249+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-04-25T00:46:29.904781+00:00",
-      "score": 22.7
+      "timestamp": "2026-04-25T01:47:17.183489+00:00",
+      "score": 20.2
     },
     {
-      "timestamp": "2026-04-25T01:43:37.812287+00:00",
-      "score": 21.8
+      "timestamp": "2026-04-25T02:45:38.214729+00:00",
+      "score": 19.1
     },
     {
-      "timestamp": "2026-04-25T02:40:45.719793+00:00",
-      "score": 20.8
+      "timestamp": "2026-04-25T03:43:59.245969+00:00",
+      "score": 18.0
     },
     {
-      "timestamp": "2026-04-25T03:37:53.627299+00:00",
-      "score": 19.9
+      "timestamp": "2026-04-25T04:42:20.277209+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-04-25T04:35:01.534805+00:00",
-      "score": 18.9
+      "timestamp": "2026-04-25T05:40:41.308449+00:00",
+      "score": 15.9
     }
   ]
 }
