@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-25T10:55:36.391617+00:00",
+  "fetched_at": "2026-04-25T11:47:58.230312+00:00",
   "window_hours": 72,
-  "score": 48.3,
-  "risk_level": "ELEVATED",
+  "score": 62.1,
+  "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 72.4,
+    "conflict_intensity": 100.0,
     "civilian_risk": 60.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -94,24 +94,38 @@
   ],
   "top_headlines": [
     {
-      "title": "Mali army says armed groups launch coordinated attacks across country",
-      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-04-25T10:33:26+00:00",
-      "score": 2.51,
+      "title": "Coordinated attacks hit Bamako and Northern Mali",
+      "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-25T11:26:16+00:00",
+      "score": 2.93,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "mali",
-        "bamako"
+        "bamako",
+        "gao"
+      ]
+    },
+    {
+      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-25T11:21:03+00:00",
+      "score": 2.5,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
       ]
     },
     {
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-25T10:55:36.391617+00:00",
+      "published_at": "2026-04-25T11:47:58.230312+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +138,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-25T10:55:36.391617+00:00",
+      "published_at": "2026-04-25T11:47:58.230312+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +149,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-25T10:55:36.391617+00:00",
+      "published_at": "2026-04-25T11:47:58.230312+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -147,7 +161,7 @@
       "link": "https://www.france24.com/en/mali-army-says-fighting-terrorist-groups-amidst-gunfire",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T10:29:40+00:00",
-      "score": 0.97,
+      "score": 0.96,
       "tags": [
         "conflict_intensity"
       ],
@@ -161,7 +175,7 @@
       "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 0.96,
+      "score": 0.95,
       "tags": [
         "conflict_intensity"
       ],
@@ -174,52 +188,39 @@
       "link": "https://www.france24.com/en/africa/20260425-mali-army-says-armed-terrorist-groups-attacked-military-positions",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:06:36+00:00",
-      "score": 0.96,
+      "score": 0.94,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "Trial opens after Nigeria charges six over 2025 coup plot",
-      "link": "https://www.france24.com/en/trial-opens-after-nigeria-charges-six-over-2025-coup-plot",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-22T21:34:03+00:00",
-      "score": 0.34,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-25T11:50:48.197058+00:00",
-      "score": 20.1
+      "timestamp": "2026-04-25T12:40:20.069007+00:00",
+      "score": 27.0
     },
     {
-      "timestamp": "2026-04-25T12:46:00.002499+00:00",
-      "score": 19.3
+      "timestamp": "2026-04-25T13:32:41.907702+00:00",
+      "score": 26.7
     },
     {
-      "timestamp": "2026-04-25T13:41:11.807940+00:00",
-      "score": 18.6
+      "timestamp": "2026-04-25T14:25:03.746397+00:00",
+      "score": 26.5
     },
     {
-      "timestamp": "2026-04-25T14:36:23.613381+00:00",
-      "score": 17.9
+      "timestamp": "2026-04-25T15:17:25.585092+00:00",
+      "score": 26.3
     },
     {
-      "timestamp": "2026-04-25T15:31:35.418822+00:00",
-      "score": 17.1
+      "timestamp": "2026-04-25T16:09:47.423787+00:00",
+      "score": 26.0
     },
     {
-      "timestamp": "2026-04-25T16:26:47.224263+00:00",
-      "score": 16.4
+      "timestamp": "2026-04-25T17:02:09.262482+00:00",
+      "score": 25.8
     }
   ]
 }
