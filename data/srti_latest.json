@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-25T19:06:53.474569+00:00",
+  "fetched_at": "2026-04-25T20:51:52.634987+00:00",
   "window_hours": 72,
-  "score": 62.1,
+  "score": 65.0,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 60.5
+    "civilian_risk": 75.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 13,
+  "items_count": 14,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 78
     },
     {
       "name": "ActuNiger",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 8
+      "items": 9
     },
     {
       "name": "AllAfrica - Niger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 2.63,
+      "score": 2.56,
       "tags": [
         "conflict_intensity"
       ],
@@ -109,11 +109,11 @@
       ]
     },
     {
-      "title": "Mali live : Army clashes with \u2018terrorist\u2019 groups, Kidal captured, Tuareg rebels say",
-      "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 2.55,
+      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-25T20:49:09+00:00",
+      "score": 2.52,
       "tags": [
         "conflict_intensity"
       ],
@@ -122,13 +122,27 @@
       ]
     },
     {
-      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
-      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-04-25T15:32:50+00:00",
-      "score": 2.4,
+      "title": "Mali's army clashes with \u2018terrorist\u2019 groups, Tuareg rebels claim they seized Kidal",
+      "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-25T09:35:38+00:00",
+      "score": 2.48,
       "tags": [
         "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Jihadist and Tuareg rebels claim attacks across Mali",
+      "link": "https://www.france24.com/en/africa/20260425-mali-army-says-armed-terrorist-groups-attacked-military-positions",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-25T09:06:36+00:00",
+      "score": 1.87,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
       ],
       "regions": [
         "mali"
@@ -139,7 +153,7 @@
       "link": "https://allafrica.com/stories/202604250052.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-25T13:10:25+00:00",
-      "score": 1.54,
+      "score": 1.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -152,7 +166,7 @@
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-25T19:06:53.474569+00:00",
+      "published_at": "2026-04-25T20:51:52.634987+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +179,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-25T19:06:53.474569+00:00",
+      "published_at": "2026-04-25T20:51:52.634987+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -176,52 +190,38 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-25T19:06:53.474569+00:00",
+      "published_at": "2026-04-25T20:51:52.634987+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": []
-    },
-    {
-      "title": "Attacks on Bamako a 'dramatic setback' for Malian government",
-      "link": "https://www.france24.com/en/attacks-on-bamako-a-dramatic-setback-for-malian-government",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-25T15:06:25+00:00",
-      "score": 0.93,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "bamako"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-25T20:23:14.426993+00:00",
-      "score": 58.4
+      "timestamp": "2026-04-25T22:36:51.795405+00:00",
+      "score": 62.3
     },
     {
-      "timestamp": "2026-04-25T21:39:35.379417+00:00",
-      "score": 60.1
+      "timestamp": "2026-04-26T00:21:50.955823+00:00",
+      "score": 64.3
     },
     {
-      "timestamp": "2026-04-25T22:55:56.331841+00:00",
-      "score": 61.8
+      "timestamp": "2026-04-26T02:06:50.116241+00:00",
+      "score": 66.2
     },
     {
-      "timestamp": "2026-04-26T00:12:17.284265+00:00",
-      "score": 63.6
+      "timestamp": "2026-04-26T03:51:49.276659+00:00",
+      "score": 68.1
     },
     {
-      "timestamp": "2026-04-26T01:28:38.236689+00:00",
-      "score": 65.3
+      "timestamp": "2026-04-26T05:36:48.437077+00:00",
+      "score": 70.1
     },
     {
-      "timestamp": "2026-04-26T02:44:59.189113+00:00",
-      "score": 67.0
+      "timestamp": "2026-04-26T07:21:47.597495+00:00",
+      "score": 72.0
     }
   ]
 }
