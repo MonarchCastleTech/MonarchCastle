@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T16:56:27.232277+00:00",
+  "fetched_at": "2026-04-25T17:50:32.522145+00:00",
   "window_hours": 72,
   "score": 62.1,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 2.72,
+      "score": 2.68,
       "tags": [
         "conflict_intensity"
       ],
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 2.64,
+      "score": 2.6,
       "tags": [
         "conflict_intensity"
       ],
@@ -126,7 +126,7 @@
       "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-25T15:32:50+00:00",
-      "score": 2.47,
+      "score": 2.44,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,7 +139,7 @@
       "link": "https://allafrica.com/stories/202604250052.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-25T13:10:25+00:00",
-      "score": 1.59,
+      "score": 1.57,
       "tags": [
         "conflict_intensity"
       ],
@@ -152,7 +152,7 @@
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-25T16:56:27.232277+00:00",
+      "published_at": "2026-04-25T17:50:32.522145+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +165,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-25T16:56:27.232277+00:00",
+      "published_at": "2026-04-25T17:50:32.522145+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -176,7 +176,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-25T16:56:27.232277+00:00",
+      "published_at": "2026-04-25T17:50:32.522145+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -188,7 +188,7 @@
       "link": "https://www.france24.com/en/attacks-on-bamako-a-dramatic-setback-for-malian-government",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T15:06:25+00:00",
-      "score": 0.96,
+      "score": 0.94,
       "tags": [
         "conflict_intensity"
       ],
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-25T18:02:22.364996+00:00",
-      "score": 50.2
+      "timestamp": "2026-04-25T18:44:37.812013+00:00",
+      "score": 54.5
     },
     {
-      "timestamp": "2026-04-25T19:08:17.497715+00:00",
-      "score": 51.5
+      "timestamp": "2026-04-25T19:38:43.101881+00:00",
+      "score": 56.0
     },
     {
-      "timestamp": "2026-04-25T20:14:12.630434+00:00",
-      "score": 52.8
+      "timestamp": "2026-04-25T20:32:48.391749+00:00",
+      "score": 57.5
     },
     {
-      "timestamp": "2026-04-25T21:20:07.763153+00:00",
-      "score": 54.1
+      "timestamp": "2026-04-25T21:26:53.681617+00:00",
+      "score": 59.1
     },
     {
-      "timestamp": "2026-04-25T22:26:02.895872+00:00",
-      "score": 55.4
+      "timestamp": "2026-04-25T22:20:58.971485+00:00",
+      "score": 60.6
     },
     {
-      "timestamp": "2026-04-25T23:31:58.028591+00:00",
-      "score": 56.7
+      "timestamp": "2026-04-25T23:15:04.261353+00:00",
+      "score": 62.1
     }
   ]
 }
