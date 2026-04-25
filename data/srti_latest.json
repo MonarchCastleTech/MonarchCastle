@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-04-25T10:00:24.586176+00:00",
+  "fetched_at": "2026-04-25T10:55:36.391617+00:00",
   "window_hours": 72,
-  "score": 27.6,
-  "risk_level": "GUARDED",
+  "score": 48.3,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 31.0,
+    "conflict_intensity": 72.4,
     "civilian_risk": 60.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 26
+      "items": 24
     },
     {
       "name": "UN News Africa",
@@ -94,10 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Mali army says armed groups launch coordinated attacks across country",
+      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-04-25T10:33:26+00:00",
+      "score": 2.51,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "bamako"
+      ]
+    },
+    {
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-25T10:00:24.586176+00:00",
+      "published_at": "2026-04-25T10:55:36.391617+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +124,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-25T10:00:24.586176+00:00",
+      "published_at": "2026-04-25T10:55:36.391617+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +135,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-25T10:00:24.586176+00:00",
+      "published_at": "2026-04-25T10:55:36.391617+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -129,11 +143,25 @@
       "regions": []
     },
     {
+      "title": "Gunfire rocks Bamako: 'Too soon to tell' if junta will fall",
+      "link": "https://www.france24.com/en/mali-army-says-fighting-terrorist-groups-amidst-gunfire",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-25T10:29:40+00:00",
+      "score": 0.97,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "bamako"
+      ]
+    },
+    {
       "title": "Mali live: Army says armed 'terrorist' groups launch attacks on military positions nationwide",
       "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 0.97,
+      "score": 0.96,
       "tags": [
         "conflict_intensity"
       ],
@@ -146,7 +174,7 @@
       "link": "https://www.france24.com/en/africa/20260425-mali-army-says-armed-terrorist-groups-attacked-military-positions",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:06:36+00:00",
-      "score": 0.97,
+      "score": 0.96,
       "tags": [
         "conflict_intensity"
       ],
@@ -166,46 +194,32 @@
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "The Spirits, The Marabouts, and the Eleven Psychiatrists in Burkina Faso",
-      "link": "https://allafrica.com/stories/202604230110.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-04-23T08:12:56+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-25T10:55:50.514230+00:00",
-      "score": 15.4
+      "timestamp": "2026-04-25T11:50:48.197058+00:00",
+      "score": 20.1
     },
     {
-      "timestamp": "2026-04-25T11:51:16.442284+00:00",
-      "score": 14.3
+      "timestamp": "2026-04-25T12:46:00.002499+00:00",
+      "score": 19.3
     },
     {
-      "timestamp": "2026-04-25T12:46:42.370338+00:00",
-      "score": 13.2
+      "timestamp": "2026-04-25T13:41:11.807940+00:00",
+      "score": 18.6
     },
     {
-      "timestamp": "2026-04-25T13:42:08.298392+00:00",
-      "score": 12.1
+      "timestamp": "2026-04-25T14:36:23.613381+00:00",
+      "score": 17.9
     },
     {
-      "timestamp": "2026-04-25T14:37:34.226446+00:00",
-      "score": 11.0
+      "timestamp": "2026-04-25T15:31:35.418822+00:00",
+      "score": 17.1
     },
     {
-      "timestamp": "2026-04-25T15:33:00.154500+00:00",
-      "score": 9.9
+      "timestamp": "2026-04-25T16:26:47.224263+00:00",
+      "score": 16.4
     }
   ]
 }
