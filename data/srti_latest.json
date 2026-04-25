@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-04-25T09:04:58.658122+00:00",
+  "fetched_at": "2026-04-25T10:00:24.586176+00:00",
   "window_hours": 72,
-  "score": 15.9,
-  "risk_level": "LOW",
+  "score": 27.6,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 7.6,
+    "conflict_intensity": 31.0,
     "civilian_risk": 60.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-25T09:04:58.658122+00:00",
+      "published_at": "2026-04-25T10:00:24.586176+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-25T09:04:58.658122+00:00",
+      "published_at": "2026-04-25T10:00:24.586176+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,12 +121,38 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-25T09:04:58.658122+00:00",
+      "published_at": "2026-04-25T10:00:24.586176+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": []
+    },
+    {
+      "title": "Mali live: Army says armed 'terrorist' groups launch attacks on military positions nationwide",
+      "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-25T09:35:38+00:00",
+      "score": 0.97,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Mali army says armed 'terrorist' groups attacked military positions",
+      "link": "https://www.france24.com/en/africa/20260425-mali-army-says-armed-terrorist-groups-attacked-military-positions",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-25T09:06:36+00:00",
+      "score": 0.97,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
     },
     {
       "title": "Trial opens after Nigeria charges six over 2025 coup plot",
@@ -158,28 +184,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-25T10:28:04.929427+00:00",
+      "timestamp": "2026-04-25T10:55:50.514230+00:00",
+      "score": 15.4
+    },
+    {
+      "timestamp": "2026-04-25T11:51:16.442284+00:00",
       "score": 14.3
     },
     {
-      "timestamp": "2026-04-25T11:51:11.200732+00:00",
-      "score": 13.0
+      "timestamp": "2026-04-25T12:46:42.370338+00:00",
+      "score": 13.2
     },
     {
-      "timestamp": "2026-04-25T13:14:17.472037+00:00",
-      "score": 11.8
+      "timestamp": "2026-04-25T13:42:08.298392+00:00",
+      "score": 12.1
     },
     {
-      "timestamp": "2026-04-25T14:37:23.743342+00:00",
-      "score": 10.5
+      "timestamp": "2026-04-25T14:37:34.226446+00:00",
+      "score": 11.0
     },
     {
-      "timestamp": "2026-04-25T16:00:30.014647+00:00",
-      "score": 9.3
-    },
-    {
-      "timestamp": "2026-04-25T17:23:36.285952+00:00",
-      "score": 8.1
+      "timestamp": "2026-04-25T15:33:00.154500+00:00",
+      "score": 9.9
     }
   ]
 }
