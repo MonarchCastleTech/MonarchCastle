@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T13:24:18.002076+00:00",
+  "fetched_at": "2026-04-25T14:54:54.041920+00:00",
   "window_hours": 72,
   "score": 62.1,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 2.86,
+      "score": 2.8,
       "tags": [
         "conflict_intensity"
       ],
@@ -109,11 +109,24 @@
       ]
     },
     {
-      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "title": "Mali live : Army clashes with \u2018terrorist\u2019 groups, Kidal captured, Tuareg rebels say",
+      "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-25T09:35:38+00:00",
+      "score": 2.72,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
       "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-04-25T11:21:03+00:00",
-      "score": 2.45,
+      "published_at": "2026-04-25T14:12:44+00:00",
+      "score": 2.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -126,7 +139,7 @@
       "link": "https://allafrica.com/stories/202604250052.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-25T13:10:25+00:00",
-      "score": 1.67,
+      "score": 1.64,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,7 +152,7 @@
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-25T13:24:18.002076+00:00",
+      "published_at": "2026-04-25T14:54:54.041920+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +165,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-25T13:24:18.002076+00:00",
+      "published_at": "2026-04-25T14:54:54.041920+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,7 +176,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-25T13:24:18.002076+00:00",
+      "published_at": "2026-04-25T14:54:54.041920+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -175,21 +188,7 @@
       "link": "https://www.france24.com/en/fla-claims-attacks-on-malian-capital",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T12:50:31+00:00",
-      "score": 0.97,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "bamako"
-      ]
-    },
-    {
-      "title": "Gunfire rocks Bamako: 'Too soon to tell' if junta will fall",
-      "link": "https://www.france24.com/en/mali-army-says-fighting-terrorist-groups-amidst-gunfire",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-25T10:29:40+00:00",
-      "score": 0.94,
+      "score": 0.95,
       "tags": [
         "conflict_intensity"
       ],
@@ -201,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-25T15:00:37.773840+00:00",
-      "score": 33.7
+      "timestamp": "2026-04-25T16:25:30.081764+00:00",
+      "score": 40.1
     },
     {
-      "timestamp": "2026-04-25T16:36:57.545604+00:00",
-      "score": 33.9
+      "timestamp": "2026-04-25T17:56:06.121608+00:00",
+      "score": 40.8
     },
     {
-      "timestamp": "2026-04-25T18:13:17.317368+00:00",
-      "score": 34.2
+      "timestamp": "2026-04-25T19:26:42.161452+00:00",
+      "score": 41.5
     },
     {
-      "timestamp": "2026-04-25T19:49:37.089132+00:00",
-      "score": 34.4
+      "timestamp": "2026-04-25T20:57:18.201296+00:00",
+      "score": 42.2
     },
     {
-      "timestamp": "2026-04-25T21:25:56.860896+00:00",
-      "score": 34.6
+      "timestamp": "2026-04-25T22:27:54.241140+00:00",
+      "score": 42.9
     },
     {
-      "timestamp": "2026-04-25T23:02:16.632660+00:00",
-      "score": 34.9
+      "timestamp": "2026-04-25T23:58:30.280984+00:00",
+      "score": 43.6
     }
   ]
 }
