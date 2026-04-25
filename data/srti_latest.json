@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T14:54:54.041920+00:00",
+  "fetched_at": "2026-04-25T15:50:32.099558+00:00",
   "window_hours": 72,
   "score": 62.1,
   "risk_level": "HIGH",
@@ -11,7 +11,7 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 12,
+  "items_count": 13,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 2.8,
+      "score": 2.76,
       "tags": [
         "conflict_intensity"
       ],
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 2.72,
+      "score": 2.68,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,8 +125,8 @@
       "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
       "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-04-25T14:12:44+00:00",
-      "score": 2.5,
+      "published_at": "2026-04-25T15:32:50+00:00",
+      "score": 2.51,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,7 +139,7 @@
       "link": "https://allafrica.com/stories/202604250052.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-25T13:10:25+00:00",
-      "score": 1.64,
+      "score": 1.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -152,7 +152,7 @@
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-25T14:54:54.041920+00:00",
+      "published_at": "2026-04-25T15:50:32.099558+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +165,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-25T14:54:54.041920+00:00",
+      "published_at": "2026-04-25T15:50:32.099558+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -176,7 +176,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-25T14:54:54.041920+00:00",
+      "published_at": "2026-04-25T15:50:32.099558+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -184,11 +184,11 @@
       "regions": []
     },
     {
-      "title": "FLA claims attacks on Malian capital",
-      "link": "https://www.france24.com/en/fla-claims-attacks-on-malian-capital",
+      "title": "Attacks on Bamako a 'dramatic setback' for Malian government",
+      "link": "https://www.france24.com/en/attacks-on-bamako-a-dramatic-setback-for-malian-government",
       "source": "France 24 - Africa",
-      "published_at": "2026-04-25T12:50:31+00:00",
-      "score": 0.95,
+      "published_at": "2026-04-25T15:06:25+00:00",
+      "score": 0.97,
       "tags": [
         "conflict_intensity"
       ],
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-25T16:25:30.081764+00:00",
-      "score": 40.1
+      "timestamp": "2026-04-25T16:46:10.157196+00:00",
+      "score": 45.5
     },
     {
-      "timestamp": "2026-04-25T17:56:06.121608+00:00",
-      "score": 40.8
+      "timestamp": "2026-04-25T17:41:48.214834+00:00",
+      "score": 46.5
     },
     {
-      "timestamp": "2026-04-25T19:26:42.161452+00:00",
-      "score": 41.5
+      "timestamp": "2026-04-25T18:37:26.272472+00:00",
+      "score": 47.6
     },
     {
-      "timestamp": "2026-04-25T20:57:18.201296+00:00",
-      "score": 42.2
+      "timestamp": "2026-04-25T19:33:04.330110+00:00",
+      "score": 48.6
     },
     {
-      "timestamp": "2026-04-25T22:27:54.241140+00:00",
-      "score": 42.9
+      "timestamp": "2026-04-25T20:28:42.387748+00:00",
+      "score": 49.6
     },
     {
-      "timestamp": "2026-04-25T23:58:30.280984+00:00",
-      "score": 43.6
+      "timestamp": "2026-04-25T21:24:20.445386+00:00",
+      "score": 50.7
     }
   ]
 }
