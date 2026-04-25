@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T07:41:52.386817+00:00",
+  "fetched_at": "2026-04-25T09:04:58.658122+00:00",
   "window_hours": 72,
   "score": 15.9,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-25T07:41:52.386817+00:00",
+      "published_at": "2026-04-25T09:04:58.658122+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-25T07:41:52.386817+00:00",
+      "published_at": "2026-04-25T09:04:58.658122+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-25T07:41:52.386817+00:00",
+      "published_at": "2026-04-25T09:04:58.658122+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -158,28 +158,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-25T09:29:55.395021+00:00",
-      "score": 15.4
+      "timestamp": "2026-04-25T10:28:04.929427+00:00",
+      "score": 14.3
     },
     {
-      "timestamp": "2026-04-25T11:17:58.403225+00:00",
-      "score": 14.1
+      "timestamp": "2026-04-25T11:51:11.200732+00:00",
+      "score": 13.0
     },
     {
-      "timestamp": "2026-04-25T13:06:01.411429+00:00",
-      "score": 12.9
+      "timestamp": "2026-04-25T13:14:17.472037+00:00",
+      "score": 11.8
     },
     {
-      "timestamp": "2026-04-25T14:54:04.419633+00:00",
-      "score": 11.6
+      "timestamp": "2026-04-25T14:37:23.743342+00:00",
+      "score": 10.5
     },
     {
-      "timestamp": "2026-04-25T16:42:07.427837+00:00",
-      "score": 10.4
+      "timestamp": "2026-04-25T16:00:30.014647+00:00",
+      "score": 9.3
     },
     {
-      "timestamp": "2026-04-25T18:30:10.436041+00:00",
-      "score": 9.1
+      "timestamp": "2026-04-25T17:23:36.285952+00:00",
+      "score": 8.1
     }
   ]
 }
