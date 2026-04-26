@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T14:56:02.735203+00:00",
+  "fetched_at": "2026-04-26T15:52:30.617452+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "Armed groups launch coordinated attacks across Mali",
-      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian mercenaries to withdraw from Mali city after attacks",
+      "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-04-26T08:56:02+00:00",
-      "score": 2.31,
+      "published_at": "2026-04-26T15:23:04+00:00",
+      "score": 2.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T14:09:54+00:00",
-      "score": 2.22,
+      "score": 2.19,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -121,11 +121,11 @@
       ]
     },
     {
-      "title": "Defense Minister Sadio Camara killed after jihadist attack",
+      "title": "Defense Minister Sadio Camara Killed During Coordinated Attacks by Insurgent Groups",
       "link": "https://allafrica.com/stories/202604260055.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-26T13:08:53+00:00",
-      "score": 1.87,
+      "score": 1.85,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -133,11 +133,25 @@
       "regions": []
     },
     {
+      "title": "Armed groups claim attacks across Mali",
+      "link": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-26T09:18:05+00:00",
+      "score": 1.78,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "bamako"
+      ]
+    },
+    {
       "title": "Coordinated attacks hit Bamako and Northern Mali",
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 1.82,
+      "score": 1.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,25 +162,11 @@
       ]
     },
     {
-      "title": "Armed groups claim attacks across Mali",
-      "link": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-26T09:18:05+00:00",
-      "score": 1.81,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "bamako"
-      ]
-    },
-    {
       "title": "Mali's army clashes with \u2018terrorist\u2019 groups, Tuareg rebels claim they seized Kidal",
       "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 1.74,
+      "score": 1.7,
       "tags": [
         "conflict_intensity"
       ],
@@ -178,7 +178,7 @@
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-26T14:56:02.735203+00:00",
+      "published_at": "2026-04-26T15:52:30.617452+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -191,7 +191,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-26T14:56:02.735203+00:00",
+      "published_at": "2026-04-26T15:52:30.617452+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -201,28 +201,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-26T16:26:28.485936+00:00",
-      "score": 79.4
+      "timestamp": "2026-04-26T16:48:58.499701+00:00",
+      "score": 77.9
     },
     {
-      "timestamp": "2026-04-26T17:56:54.236669+00:00",
-      "score": 81.2
+      "timestamp": "2026-04-26T17:45:26.381950+00:00",
+      "score": 79.5
     },
     {
-      "timestamp": "2026-04-26T19:27:19.987402+00:00",
-      "score": 83.1
+      "timestamp": "2026-04-26T18:41:54.264199+00:00",
+      "score": 81.1
     },
     {
-      "timestamp": "2026-04-26T20:57:45.738135+00:00",
-      "score": 85.0
+      "timestamp": "2026-04-26T19:38:22.146448+00:00",
+      "score": 82.6
     },
     {
-      "timestamp": "2026-04-26T22:28:11.488868+00:00",
-      "score": 86.8
+      "timestamp": "2026-04-26T20:34:50.028697+00:00",
+      "score": 84.2
     },
     {
-      "timestamp": "2026-04-26T23:58:37.239601+00:00",
-      "score": 88.7
+      "timestamp": "2026-04-26T21:31:17.910946+00:00",
+      "score": 85.8
     }
   ]
 }
