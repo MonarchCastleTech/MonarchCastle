@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-26T10:56:50.232427+00:00",
+  "fetched_at": "2026-04-26T11:48:36.895621+00:00",
   "window_hours": 72,
-  "score": 64.4,
+  "score": 64.3,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 71.8
+    "civilian_risk": 71.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-26T08:56:02+00:00",
-      "score": 2.45,
+      "score": 2.42,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 1.98,
+      "score": 1.94,
       "tags": [
         "conflict_intensity"
       ],
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T09:18:05+00:00",
-      "score": 1.92,
+      "score": 1.89,
       "tags": [
         "conflict_intensity"
       ],
@@ -140,7 +140,7 @@
       "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 1.9,
+      "score": 1.87,
       "tags": [
         "conflict_intensity"
       ],
@@ -153,7 +153,7 @@
       "link": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T07:52:33+00:00",
-      "score": 1.88,
+      "score": 1.85,
       "tags": [
         "conflict_intensity"
       ],
@@ -165,7 +165,7 @@
       "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
       "link": "https://lefaso.net/spip.php?article146009",
       "source": "LeFaso",
-      "published_at": "2026-04-26T10:56:50.232427+00:00",
+      "published_at": "2026-04-26T11:48:36.895621+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -178,7 +178,7 @@
       "title": "Plaidoyers, causeries, prestations sanitaires : Le SWEDD+ dresse un bilan satisfaisant de sa campagne de communication dans la r\u00e9gion de Bankui",
       "link": "https://lefaso.net/spip.php?article145981",
       "source": "LeFaso",
-      "published_at": "2026-04-26T10:56:50.232427+00:00",
+      "published_at": "2026-04-26T11:48:36.895621+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -189,7 +189,7 @@
       "title": "Gestion des menstrues \u00e0 l'\u00e9cole : \u00c0 P\u00e2, les filles r\u00e9clament des serviettes hygi\u00e9niques de secours et r\u00e9utilisables",
       "link": "https://lefaso.net/spip.php?article145979",
       "source": "LeFaso",
-      "published_at": "2026-04-26T10:56:50.232427+00:00",
+      "published_at": "2026-04-26T11:48:36.895621+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -199,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-26T11:52:09.574704+00:00",
-      "score": 80.2
+      "timestamp": "2026-04-26T12:40:23.558815+00:00",
+      "score": 80.5
     },
     {
-      "timestamp": "2026-04-26T12:47:28.916981+00:00",
-      "score": 82.7
+      "timestamp": "2026-04-26T13:32:10.222009+00:00",
+      "score": 82.8
     },
     {
-      "timestamp": "2026-04-26T13:42:48.259258+00:00",
+      "timestamp": "2026-04-26T14:23:56.885203+00:00",
       "score": 85.1
     },
     {
-      "timestamp": "2026-04-26T14:38:07.601535+00:00",
-      "score": 87.5
+      "timestamp": "2026-04-26T15:15:43.548397+00:00",
+      "score": 87.4
     },
     {
-      "timestamp": "2026-04-26T15:33:26.943812+00:00",
-      "score": 89.9
+      "timestamp": "2026-04-26T16:07:30.211591+00:00",
+      "score": 89.7
     },
     {
-      "timestamp": "2026-04-26T16:28:46.286089+00:00",
-      "score": 92.3
+      "timestamp": "2026-04-26T16:59:16.874785+00:00",
+      "score": 92.0
     }
   ]
 }
