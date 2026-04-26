@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T21:50:11.642860+00:00",
+  "fetched_at": "2026-04-26T22:51:55.693805+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,7 +11,7 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 20,
+  "items_count": 19,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T14:09:54+00:00",
-      "score": 2.0,
+      "score": 1.97,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-26T20:56:26+00:00",
-      "score": 1.9,
+      "score": 1.87,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T07:52:33+00:00",
-      "score": 1.81,
+      "score": 1.77,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604260055.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-26T13:08:53+00:00",
-      "score": 1.69,
+      "score": 1.66,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -152,7 +152,7 @@
       "link": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T09:18:05+00:00",
-      "score": 1.62,
+      "score": 1.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -166,7 +166,7 @@
       "link": "https://allafrica.com/stories/202604260062.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-26T19:10:35+00:00",
-      "score": 1.62,
+      "score": 1.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -180,7 +180,7 @@
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 1.54,
+      "score": 1.49,
       "tags": [
         "conflict_intensity"
       ],
@@ -191,43 +191,41 @@
       ]
     },
     {
-      "title": "Mali's army clashes with \u2018terrorist\u2019 groups, Tuareg rebels claim they seized Kidal",
-      "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 1.46,
+      "title": "Minist\u00e8re de la Transition digitale : Des agents ach\u00e8vent leur immersion patriotique \u00e0 Bobo-Dioulasso",
+      "link": "https://lefaso.net/spip.php?article146034",
+      "source": "LeFaso",
+      "published_at": "2026-04-26T22:51:55.693805+00:00",
+      "score": 1.44,
       "tags": [
-        "conflict_intensity"
+        "civilian_risk"
       ],
-      "regions": [
-        "mali"
-      ]
+      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-26T22:48:10.583421+00:00",
-      "score": 70.9
+      "timestamp": "2026-04-26T23:53:39.744750+00:00",
+      "score": 71.3
     },
     {
-      "timestamp": "2026-04-26T23:46:09.523982+00:00",
-      "score": 71.4
+      "timestamp": "2026-04-27T00:55:23.795695+00:00",
+      "score": 71.7
     },
     {
-      "timestamp": "2026-04-27T00:44:08.464543+00:00",
-      "score": 71.8
+      "timestamp": "2026-04-27T01:57:07.846640+00:00",
+      "score": 72.1
     },
     {
-      "timestamp": "2026-04-27T01:42:07.405104+00:00",
-      "score": 72.2
+      "timestamp": "2026-04-27T02:58:51.897585+00:00",
+      "score": 72.5
     },
     {
-      "timestamp": "2026-04-27T02:40:06.345665+00:00",
-      "score": 72.6
+      "timestamp": "2026-04-27T04:00:35.948530+00:00",
+      "score": 72.9
     },
     {
-      "timestamp": "2026-04-27T03:38:05.286226+00:00",
-      "score": 73.0
+      "timestamp": "2026-04-27T05:02:19.999475+00:00",
+      "score": 73.4
     }
   ]
 }
