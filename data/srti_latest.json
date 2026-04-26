@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T19:08:23.847235+00:00",
+  "fetched_at": "2026-04-26T20:52:12.702299+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,7 +11,7 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 18,
+  "items_count": 20,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 75
     },
     {
       "name": "ActuNiger",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 8
+      "items": 9
     },
     {
       "name": "AllAfrica - Niger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T14:09:54+00:00",
-      "score": 2.09,
+      "score": 2.03,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,11 +108,25 @@
       ]
     },
     {
-      "title": "Mali defence minister killed in rebel attacks",
+      "title": "Mali defence minister killed as country hit by wave of rebel attacks",
       "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-04-26T17:23:46+00:00",
-      "score": 1.87,
+      "published_at": "2026-04-26T20:36:07+00:00",
+      "score": 1.91,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Mali\u2019s Tuareg rebels announce deal for Russian Africa Corps withdrawal from Kidal",
+      "link": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-26T07:52:33+00:00",
+      "score": 1.84,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604260055.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-26T13:08:53+00:00",
-      "score": 1.76,
+      "score": 1.71,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -138,7 +152,7 @@
       "link": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T09:18:05+00:00",
-      "score": 1.69,
+      "score": 1.65,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,11 +162,25 @@
       ]
     },
     {
+      "title": "Mali - Guterres Calls for International Solutions to Curb Spread of Violent Extremism in the Sahel",
+      "link": "https://allafrica.com/stories/202604260062.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-04-26T19:10:35+00:00",
+      "score": 1.64,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "sahel",
+        "mali"
+      ]
+    },
+    {
       "title": "Coordinated attacks hit Bamako and Northern Mali",
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 1.65,
+      "score": 1.57,
       "tags": [
         "conflict_intensity"
       ],
@@ -167,66 +195,39 @@
       "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 1.57,
+      "score": 1.5,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "mali"
-      ]
-    },
-    {
-      "title": "Mali: Guterres calls for international solutions to curb spread of violent extremism in the Sahel",
-      "link": "https://news.un.org/feed/view/en/story/2026/04/1167382",
-      "source": "UN News Africa",
-      "published_at": "2026-04-26T12:00:00+00:00",
-      "score": 1.51,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel",
-        "mali"
-      ]
-    },
-    {
-      "title": "Burkina : L'Agence nationale de la m\u00e9t\u00e9orologie annonce des d\u00e9buts tardifs dans plusieurs r\u00e9gions",
-      "link": "https://lefaso.net/spip.php?article146009",
-      "source": "LeFaso",
-      "published_at": "2026-04-26T19:08:23.847235+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-26T20:25:28.068153+00:00",
-      "score": 71.1
+      "timestamp": "2026-04-26T22:36:01.557363+00:00",
+      "score": 70.5
     },
     {
-      "timestamp": "2026-04-26T21:42:32.289071+00:00",
+      "timestamp": "2026-04-27T00:19:50.412427+00:00",
+      "score": 70.9
+    },
+    {
+      "timestamp": "2026-04-27T02:03:39.267491+00:00",
+      "score": 71.3
+    },
+    {
+      "timestamp": "2026-04-27T03:47:28.122555+00:00",
       "score": 71.7
     },
     {
-      "timestamp": "2026-04-26T22:59:36.509989+00:00",
-      "score": 72.2
+      "timestamp": "2026-04-27T05:31:16.977619+00:00",
+      "score": 72.1
     },
     {
-      "timestamp": "2026-04-27T00:16:40.730907+00:00",
-      "score": 72.7
-    },
-    {
-      "timestamp": "2026-04-27T01:33:44.951825+00:00",
-      "score": 73.2
-    },
-    {
-      "timestamp": "2026-04-27T02:50:49.172743+00:00",
-      "score": 73.8
+      "timestamp": "2026-04-27T07:15:05.832683+00:00",
+      "score": 72.5
     }
   ]
 }
