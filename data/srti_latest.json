@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-26T20:52:12.702299+00:00",
+  "fetched_at": "2026-04-26T21:50:11.642860+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/malian-defense-minister-killed-by-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T14:09:54+00:00",
-      "score": 2.03,
+      "score": 2.0,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,8 +111,8 @@
       "title": "Mali defence minister killed as country hit by wave of rebel attacks",
       "link": "https://www.bbc.com/news/articles/c5yvy7v66ndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-04-26T20:36:07+00:00",
-      "score": 1.91,
+      "published_at": "2026-04-26T20:56:26+00:00",
+      "score": 1.9,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/africa/20260426-new-fighting-erupts-in-north-mali-s-kidal-as-army-clashes-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T07:52:33+00:00",
-      "score": 1.84,
+      "score": 1.81,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202604260055.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-26T13:08:53+00:00",
-      "score": 1.71,
+      "score": 1.69,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -152,7 +152,7 @@
       "link": "https://www.france24.com/en/armed-groups-claim-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-26T09:18:05+00:00",
-      "score": 1.65,
+      "score": 1.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -166,7 +166,7 @@
       "link": "https://allafrica.com/stories/202604260062.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-26T19:10:35+00:00",
-      "score": 1.64,
+      "score": 1.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -180,7 +180,7 @@
       "link": "https://www.france24.com/en/coordinated-attacks-hit-bamako-and-northern-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T11:26:16+00:00",
-      "score": 1.57,
+      "score": 1.54,
       "tags": [
         "conflict_intensity"
       ],
@@ -195,7 +195,7 @@
       "link": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
       "source": "France 24 - Africa",
       "published_at": "2026-04-25T09:35:38+00:00",
-      "score": 1.5,
+      "score": 1.46,
       "tags": [
         "conflict_intensity"
       ],
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-26T22:36:01.557363+00:00",
-      "score": 70.5
-    },
-    {
-      "timestamp": "2026-04-27T00:19:50.412427+00:00",
+      "timestamp": "2026-04-26T22:48:10.583421+00:00",
       "score": 70.9
     },
     {
-      "timestamp": "2026-04-27T02:03:39.267491+00:00",
-      "score": 71.3
+      "timestamp": "2026-04-26T23:46:09.523982+00:00",
+      "score": 71.4
     },
     {
-      "timestamp": "2026-04-27T03:47:28.122555+00:00",
-      "score": 71.7
+      "timestamp": "2026-04-27T00:44:08.464543+00:00",
+      "score": 71.8
     },
     {
-      "timestamp": "2026-04-27T05:31:16.977619+00:00",
-      "score": 72.1
+      "timestamp": "2026-04-27T01:42:07.405104+00:00",
+      "score": 72.2
     },
     {
-      "timestamp": "2026-04-27T07:15:05.832683+00:00",
-      "score": 72.5
+      "timestamp": "2026-04-27T02:40:06.345665+00:00",
+      "score": 72.6
+    },
+    {
+      "timestamp": "2026-04-27T03:38:05.286226+00:00",
+      "score": 73.0
     }
   ]
 }
