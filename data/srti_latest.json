@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-28T18:24:06.204776+00:00",
+  "fetched_at": "2026-04-28T20:23:33.054971+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,7 +11,7 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 35,
+  "items_count": 34,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 89
+      "items": 93
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260428-gunmen-kill-at-least-29-northeast-nigeria-after-targeting-young-people-football-pitch",
       "source": "France 24 - Africa",
       "published_at": "2026-04-28T08:08:56+00:00",
-      "score": 2.76,
+      "score": 2.67,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-28T15:31:46+00:00",
-      "score": 2.65,
+      "score": 2.57,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://allafrica.com/stories/202604280333.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-28T12:06:58+00:00",
-      "score": 2.52,
+      "score": 2.44,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -141,7 +141,7 @@
       "link": "https://www.france24.com/en/tuareg-rebels-in-control-of-kidal",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T21:21:06+00:00",
-      "score": 2.28,
+      "score": 2.19,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,24 +151,11 @@
       ]
     },
     {
-      "title": "Insurgent alliance strikes at heart of Mali\u2019s junta, exposing limits of Russian protection",
-      "link": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-27T18:26:58+00:00",
-      "score": 1.96,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Insurgents reshaping Mali: Tuaregs seek autonomy, jihadists pursue caliphate across Sahel",
-      "link": "https://www.france24.com/en/insurgents-reshaping-mali-tuaregs-seek-autonomy-jihadists-pursue-caliphate-across-sahel",
+      "link": "https://www.france24.com/en/video/20260428-insurgents-reshaping-mali-tuaregs-seek-autonomy-jihadists-pursue-caliphate-across-sahel-1",
       "source": "France 24 - Africa",
       "published_at": "2026-04-28T18:12:33+00:00",
-      "score": 1.95,
+      "score": 1.9,
       "tags": [
         "conflict_intensity"
       ],
@@ -178,11 +165,24 @@
       ]
     },
     {
+      "title": "Insurgent alliance strikes at heart of Mali\u2019s junta, exposing limits of Russian protection",
+      "link": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-27T18:26:58+00:00",
+      "score": 1.88,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Mali's Defence Minister Sadio Camara Killed During Coordinated Attacks",
       "link": "https://allafrica.com/stories/202604280610.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-28T17:19:07+00:00",
-      "score": 1.89,
+      "score": 1.84,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -196,7 +196,7 @@
       "link": "https://www.france24.com/en/africa/20260427-street-battles-withdrawal-russian-mercenaries-inside-48-hour-fall-mali-kidal",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T14:09:04+00:00",
-      "score": 1.79,
+      "score": 1.71,
       "tags": [
         "conflict_intensity"
       ],
@@ -207,27 +207,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-28T19:48:22.344055+00:00",
+      "timestamp": "2026-04-28T22:22:59.905166+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-28T21:12:38.483334+00:00",
+      "timestamp": "2026-04-29T00:22:26.755361+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-28T22:36:54.622613+00:00",
+      "timestamp": "2026-04-29T02:21:53.605556+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T00:01:10.761892+00:00",
+      "timestamp": "2026-04-29T04:21:20.455751+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T01:25:26.901171+00:00",
+      "timestamp": "2026-04-29T06:20:47.305946+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T02:49:43.040450+00:00",
+      "timestamp": "2026-04-29T08:20:14.156141+00:00",
       "score": 70.0
     }
   ]
