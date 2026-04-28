@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-28T00:01:20.792850+00:00",
+  "fetched_at": "2026-04-28T03:59:20.434001+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 33,
+  "items_count": 32,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-27T15:39:29+00:00",
-      "score": 3.18,
+      "score": 2.98,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/tuareg-rebels-in-control-of-kidal",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T21:21:06+00:00",
-      "score": 3.1,
+      "score": 2.92,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T18:26:58+00:00",
-      "score": 2.71,
+      "score": 2.55,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,7 +139,7 @@
       "link": "https://www.france24.com/en/africa/20260427-street-battles-withdrawal-russian-mercenaries-inside-48-hour-fall-mali-kidal",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T14:09:04+00:00",
-      "score": 2.54,
+      "score": 2.37,
       "tags": [
         "conflict_intensity"
       ],
@@ -152,7 +152,7 @@
       "link": "https://allafrica.com/stories/202604270175.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-27T08:24:31+00:00",
-      "score": 2.16,
+      "score": 2.01,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -167,7 +167,7 @@
       "link": "https://allafrica.com/stories/202604270853.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-27T19:46:08+00:00",
-      "score": 1.58,
+      "score": 1.49,
       "tags": [
         "conflict_intensity"
       ],
@@ -181,7 +181,7 @@
       "link": "https://allafrica.com/stories/202604270330.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-27T10:49:29+00:00",
-      "score": 1.57,
+      "score": 1.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -194,7 +194,7 @@
       "title": "SNC 2026 : Les acteurs du livre en qu\u00eate de visibilit\u00e9 \u00e0 l'exposition litt\u00e9raire",
       "link": "https://lefaso.net/spip.php?article146056",
       "source": "LeFaso",
-      "published_at": "2026-04-28T00:01:20.792850+00:00",
+      "published_at": "2026-04-28T03:59:20.434001+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-28T01:00:01.055959+00:00",
+      "timestamp": "2026-04-28T07:57:20.075152+00:00",
+      "score": 70.9
+    },
+    {
+      "timestamp": "2026-04-28T11:55:19.716303+00:00",
+      "score": 71.0
+    },
+    {
+      "timestamp": "2026-04-28T15:53:19.357454+00:00",
+      "score": 71.1
+    },
+    {
+      "timestamp": "2026-04-28T19:51:18.998605+00:00",
       "score": 71.2
     },
     {
-      "timestamp": "2026-04-28T01:58:41.319068+00:00",
+      "timestamp": "2026-04-28T23:49:18.639756+00:00",
+      "score": 71.3
+    },
+    {
+      "timestamp": "2026-04-29T03:47:18.280907+00:00",
       "score": 71.4
-    },
-    {
-      "timestamp": "2026-04-28T02:57:21.582177+00:00",
-      "score": 71.5
-    },
-    {
-      "timestamp": "2026-04-28T03:56:01.845286+00:00",
-      "score": 71.7
-    },
-    {
-      "timestamp": "2026-04-28T04:54:42.108395+00:00",
-      "score": 71.8
-    },
-    {
-      "timestamp": "2026-04-28T05:53:22.371504+00:00",
-      "score": 72.0
     }
   ]
 }
