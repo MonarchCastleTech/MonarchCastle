@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-28T20:23:33.054971+00:00",
+  "fetched_at": "2026-04-28T22:07:05.853889+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 34,
+  "items_count": 33,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 93
+      "items": 92
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,26 @@
   ],
   "top_headlines": [
     {
+      "title": "Mali leader says situation under control",
+      "link": "https://www.france24.com/en/mali-leader-says-situation-under-control",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-28T21:20:00+00:00",
+      "score": 3.18,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "niger"
+      ]
+    },
+    {
       "title": "Gunmen kill at least 29 in northeast Nigeria after targeting young people at football pitch",
       "link": "https://www.france24.com/en/africa/20260428-gunmen-kill-at-least-29-northeast-nigeria-after-targeting-young-people-football-pitch",
       "source": "France 24 - Africa",
       "published_at": "2026-04-28T08:08:56+00:00",
-      "score": 2.67,
+      "score": 2.6,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +127,7 @@
       "link": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-28T15:31:46+00:00",
-      "score": 2.57,
+      "score": 2.51,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +141,7 @@
       "link": "https://allafrica.com/stories/202604280333.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-28T12:06:58+00:00",
-      "score": 2.44,
+      "score": 2.38,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -141,7 +156,7 @@
       "link": "https://www.france24.com/en/tuareg-rebels-in-control-of-kidal",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T21:21:06+00:00",
-      "score": 2.19,
+      "score": 2.11,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -155,7 +170,7 @@
       "link": "https://www.france24.com/en/video/20260428-insurgents-reshaping-mali-tuaregs-seek-autonomy-jihadists-pursue-caliphate-across-sahel-1",
       "source": "France 24 - Africa",
       "published_at": "2026-04-28T18:12:33+00:00",
-      "score": 1.9,
+      "score": 1.85,
       "tags": [
         "conflict_intensity"
       ],
@@ -169,7 +184,7 @@
       "link": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T18:26:58+00:00",
-      "score": 1.88,
+      "score": 1.81,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,23 +197,10 @@
       "link": "https://allafrica.com/stories/202604280610.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-28T17:19:07+00:00",
-      "score": 1.84,
+      "score": 1.79,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Street battles and withdrawal of Russian mercenaries: Inside the 48-hour fall of Mali\u2019s Kidal",
-      "link": "https://www.france24.com/en/africa/20260427-street-battles-withdrawal-russian-mercenaries-inside-48-hour-fall-mali-kidal",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-27T14:09:04+00:00",
-      "score": 1.71,
-      "tags": [
-        "conflict_intensity"
       ],
       "regions": [
         "mali"
@@ -207,27 +209,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-28T22:22:59.905166+00:00",
+      "timestamp": "2026-04-28T23:50:38.652807+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T00:22:26.755361+00:00",
+      "timestamp": "2026-04-29T01:34:11.451725+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T02:21:53.605556+00:00",
+      "timestamp": "2026-04-29T03:17:44.250643+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T04:21:20.455751+00:00",
+      "timestamp": "2026-04-29T05:01:17.049561+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T06:20:47.305946+00:00",
+      "timestamp": "2026-04-29T06:44:49.848479+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T08:20:14.156141+00:00",
+      "timestamp": "2026-04-29T08:28:22.647397+00:00",
       "score": 70.0
     }
   ]
