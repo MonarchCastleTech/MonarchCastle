@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-28T11:55:10.777525+00:00",
+  "fetched_at": "2026-04-28T14:35:58.380732+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 34,
+  "items_count": 32,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 18
+      "items": 19
     },
     {
       "name": "AllAfrica - Niger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260428-gunmen-kill-at-least-29-northeast-nigeria-after-targeting-young-people-football-pitch",
       "source": "France 24 - Africa",
       "published_at": "2026-04-28T08:08:56+00:00",
-      "score": 3.05,
+      "score": 2.93,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,11 +108,26 @@
       ]
     },
     {
+      "title": "Malian Official Accuses Russian Forces of 'Betrayal' After Kidal Falls to Rebels",
+      "link": "https://allafrica.com/stories/202604280333.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-04-28T12:06:58+00:00",
+      "score": 2.66,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "bamako"
+      ]
+    },
+    {
       "title": "Gunmen raid Nigerian orphanage and kidnap children",
       "link": "https://www.bbc.com/news/articles/cjd8dmx41vko?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-27T15:39:29+00:00",
-      "score": 2.59,
+      "score": 2.45,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +141,7 @@
       "link": "https://www.france24.com/en/tuareg-rebels-in-control-of-kidal",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T21:21:06+00:00",
-      "score": 2.57,
+      "score": 2.45,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +155,7 @@
       "link": "https://www.bbc.com/news/articles/c62d43vdgmmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-04-28T03:28:48+00:00",
-      "score": 2.44,
+      "score": 2.33,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -154,7 +169,7 @@
       "link": "https://www.france24.com/en/africa/20260427-insurgent-alliance-strikes-heart-mali-military-junta-exposing-limits-russian-protection",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T18:26:58+00:00",
-      "score": 2.23,
+      "score": 2.12,
       "tags": [
         "conflict_intensity"
       ],
@@ -167,7 +182,7 @@
       "link": "https://www.france24.com/en/africa/20260427-street-battles-withdrawal-russian-mercenaries-inside-48-hour-fall-mali-kidal",
       "source": "France 24 - Africa",
       "published_at": "2026-04-27T14:09:04+00:00",
-      "score": 2.05,
+      "score": 1.94,
       "tags": [
         "conflict_intensity"
       ],
@@ -180,7 +195,7 @@
       "link": "https://allafrica.com/stories/202604280285.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-28T10:45:38+00:00",
-      "score": 1.89,
+      "score": 1.82,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -189,46 +204,31 @@
         "sahel",
         "mali"
       ]
-    },
-    {
-      "title": "Mali's Defence Minister Camara Killed in Rebel Assault On Residential Compound",
-      "link": "https://allafrica.com/stories/202604270175.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-04-27T08:24:31+00:00",
-      "score": 1.71,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "bamako"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-28T14:19:48.768872+00:00",
+      "timestamp": "2026-04-28T17:16:45.983939+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-28T16:44:26.760219+00:00",
+      "timestamp": "2026-04-28T19:57:33.587146+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-28T19:09:04.751566+00:00",
+      "timestamp": "2026-04-28T22:38:21.190353+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-28T21:33:42.742913+00:00",
+      "timestamp": "2026-04-29T01:19:08.793560+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-28T23:58:20.734260+00:00",
+      "timestamp": "2026-04-29T03:59:56.396767+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-29T02:22:58.725607+00:00",
+      "timestamp": "2026-04-29T06:40:43.999974+00:00",
       "score": 70.0
     }
   ]
