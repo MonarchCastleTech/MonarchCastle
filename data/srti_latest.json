@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-30T14:19:57.974161+00:00",
+  "fetched_at": "2026-04-30T16:41:52.339904+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 39,
+  "items_count": 36,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260430-mali-holds-tribute-for-assassinated-defence-minister-under-tight-security",
       "source": "France 24 - Africa",
       "published_at": "2026-04-30T14:07:51+00:00",
-      "score": 4.19,
+      "score": 4.05,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/mali-crisis-deepens-as-separatists-and-jihadists-step-up-attacks",
       "source": "France 24 - Africa",
       "published_at": "2026-04-30T11:04:16+00:00",
-      "score": 2.81,
+      "score": 2.71,
       "tags": [
         "conflict_intensity"
       ],
@@ -127,7 +127,7 @@
       "link": "https://allafrica.com/stories/202604300334.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-30T12:33:24+00:00",
-      "score": 2.69,
+      "score": 2.6,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Sant\u00e9 : \u00ab On peut vivre avec un cancer et mener une bonne vie \u00bb, rassure le professeur Nayi Zongo",
       "link": "https://lefaso.net/spip.php?article146126",
       "source": "LeFaso",
-      "published_at": "2026-04-30T14:19:57.974161+00:00",
+      "published_at": "2026-04-30T16:41:52.339904+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "Nakamb\u00e9/Education : \u00ab L'abandon scolaire des filles est un fl\u00e9au qui menace l'avenir des apprenants dans la r\u00e9gion \u00bb, s'inqui\u00e8te le secr\u00e9taire g\u00e9n\u00e9ral de la r\u00e9gion, Tass\u00e9r\u00e9 Nacoulma",
       "link": "https://lefaso.net/spip.php?article146106",
       "source": "LeFaso",
-      "published_at": "2026-04-30T14:19:57.974161+00:00",
+      "published_at": "2026-04-30T16:41:52.339904+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -162,7 +162,7 @@
       "title": "Burkina/De l'universit\u00e9 au chantier : Le pari r\u00e9ussi d'Abdoulaye Ki",
       "link": "https://lefaso.net/spip.php?article146100",
       "source": "LeFaso",
-      "published_at": "2026-04-30T14:19:57.974161+00:00",
+      "published_at": "2026-04-30T16:41:52.339904+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -176,7 +176,7 @@
       "title": "SNC 2026 : Les acteurs du livre en qu\u00eate de visibilit\u00e9 \u00e0 l'exposition litt\u00e9raire",
       "link": "https://lefaso.net/spip.php?article146056",
       "source": "LeFaso",
-      "published_at": "2026-04-30T14:19:57.974161+00:00",
+      "published_at": "2026-04-30T16:41:52.339904+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -189,7 +189,7 @@
       "title": "SNC 2026 : Les acteurs du livre en qu\u00eate de visibilit\u00e9 \u00e0 l'exposition litt\u00e9raire",
       "link": "https://lefaso.net/spip.php?article146066",
       "source": "LeFaso",
-      "published_at": "2026-04-30T14:19:57.974161+00:00",
+      "published_at": "2026-04-30T16:41:52.339904+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -201,27 +201,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-30T16:52:49.377936+00:00",
+      "timestamp": "2026-04-30T19:03:46.705647+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-30T19:25:40.781711+00:00",
+      "timestamp": "2026-04-30T21:25:41.071390+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-30T21:58:32.185486+00:00",
+      "timestamp": "2026-04-30T23:47:35.437133+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-01T00:31:23.589261+00:00",
+      "timestamp": "2026-05-01T02:09:29.802876+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-01T03:04:14.993036+00:00",
+      "timestamp": "2026-05-01T04:31:24.168619+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-01T05:37:06.396811+00:00",
+      "timestamp": "2026-05-01T06:53:18.534362+00:00",
       "score": 70.0
     }
   ]
