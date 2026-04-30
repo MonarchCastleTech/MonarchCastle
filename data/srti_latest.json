@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-30T03:58:46.082877+00:00",
+  "fetched_at": "2026-04-30T06:35:48.078783+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 36,
+  "items_count": 39,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 21
+      "items": 22
     },
     {
       "name": "AllAfrica - Niger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mali-leader-says-situation-under-control",
       "source": "France 24 - Africa",
       "published_at": "2026-04-28T21:20:00+00:00",
-      "score": 1.85,
+      "score": 1.73,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Sant\u00e9 : \u00ab On peut vivre avec un cancer et mener une bonne vie \u00bb, rassure le professeur Nayi Zongo",
       "link": "https://lefaso.net/spip.php?article146126",
       "source": "LeFaso",
-      "published_at": "2026-04-30T03:58:46.082877+00:00",
+      "published_at": "2026-04-30T06:35:48.078783+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Nakamb\u00e9/Education : \u00ab L'abandon scolaire des filles est un fl\u00e9au qui menace l'avenir des apprenants dans la r\u00e9gion \u00bb, s'inqui\u00e8te le secr\u00e9taire g\u00e9n\u00e9ral de la r\u00e9gion, Tass\u00e9r\u00e9 Nacoulma",
       "link": "https://lefaso.net/spip.php?article146106",
       "source": "LeFaso",
-      "published_at": "2026-04-30T03:58:46.082877+00:00",
+      "published_at": "2026-04-30T06:35:48.078783+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +134,7 @@
       "title": "Burkina/De l'universit\u00e9 au chantier : Le pari r\u00e9ussi d'Abdoulaye Ki",
       "link": "https://lefaso.net/spip.php?article146100",
       "source": "LeFaso",
-      "published_at": "2026-04-30T03:58:46.082877+00:00",
+      "published_at": "2026-04-30T06:35:48.078783+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,7 +148,7 @@
       "title": "SNC 2026 : Les acteurs du livre en qu\u00eate de visibilit\u00e9 \u00e0 l'exposition litt\u00e9raire",
       "link": "https://lefaso.net/spip.php?article146056",
       "source": "LeFaso",
-      "published_at": "2026-04-30T03:58:46.082877+00:00",
+      "published_at": "2026-04-30T06:35:48.078783+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -161,7 +161,7 @@
       "title": "SNC 2026 : Les acteurs du livre en qu\u00eate de visibilit\u00e9 \u00e0 l'exposition litt\u00e9raire",
       "link": "https://lefaso.net/spip.php?article146066",
       "source": "LeFaso",
-      "published_at": "2026-04-30T03:58:46.082877+00:00",
+      "published_at": "2026-04-30T06:35:48.078783+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -174,7 +174,7 @@
       "title": "SNC 2026 : Les activit\u00e9s litt\u00e9raires lanc\u00e9es \u00e0 l'Universit\u00e9 Nazi Boni, une premi\u00e8re",
       "link": "https://lefaso.net/spip.php?article146053",
       "source": "LeFaso",
-      "published_at": "2026-04-30T03:58:46.082877+00:00",
+      "published_at": "2026-04-30T06:35:48.078783+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -182,43 +182,42 @@
       "regions": []
     },
     {
-      "title": "Gunmen kill at least 29 in northeast Nigeria after targeting young people at football pitch",
-      "link": "https://www.france24.com/en/africa/20260428-gunmen-kill-at-least-29-northeast-nigeria-after-targeting-young-people-football-pitch",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-28T08:08:56+00:00",
+      "title": "Mali: Project highlights: Emergency support to vulnerable agricultural and pastoral households in crisis-affected communities (OSRO/MLI/083/AUS)",
+      "link": "https://reliefweb.int/report/mali/mali-project-highlights-emergency-support-vulnerable-agricultural-and-pastoral-households-crisis-affected-communities-osromli083aus",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-04-30T06:35:48.078783+00:00",
       "score": 1.26,
       "tags": [
-        "conflict_intensity",
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "niger"
+        "mali"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-04-30T07:54:30.778869+00:00",
+      "timestamp": "2026-04-30T09:12:50.074689+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-30T11:50:15.474861+00:00",
+      "timestamp": "2026-04-30T11:49:52.070595+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-30T15:46:00.170853+00:00",
+      "timestamp": "2026-04-30T14:26:54.066501+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-30T19:41:44.866845+00:00",
+      "timestamp": "2026-04-30T17:03:56.062407+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-04-30T23:37:29.562837+00:00",
+      "timestamp": "2026-04-30T19:40:58.058313+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-01T03:33:14.258829+00:00",
+      "timestamp": "2026-04-30T22:18:00.054219+00:00",
       "score": 70.0
     }
   ]
