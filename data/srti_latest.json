@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-01T22:59:11.901829+00:00",
+  "fetched_at": "2026-05-01T23:58:19.660226+00:00",
   "window_hours": 72,
-  "score": 70.0,
+  "score": 63.7,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 100.0
+    "civilian_risk": 68.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 26,
+  "items_count": 24,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 92
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260430-mali-holds-tribute-for-assassinated-defence-minister-under-tight-security",
       "source": "France 24 - Africa",
       "published_at": "2026-04-30T14:07:51+00:00",
-      "score": 2.28,
+      "score": 2.23,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,24 +109,10 @@
       ]
     },
     {
-      "title": "Mali crisis deepens as separatists and jihadists step up attacks",
-      "link": "https://www.france24.com/en/mali-crisis-deepens-as-separatists-and-jihadists-step-up-attacks",
-      "source": "France 24 - Africa",
-      "published_at": "2026-04-30T11:04:16+00:00",
-      "score": 1.47,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "bamako"
-      ]
-    },
-    {
       "title": "\"Pr\u00e9-campagne\" pr\u00e9sidentielle 2027 en France : Dominique de Villepin et la statuette offerte par Blaise Compaor\u00e9",
       "link": "https://lefaso.net/spip.php?article146163",
       "source": "LeFaso",
-      "published_at": "2026-05-01T22:59:11.901829+00:00",
+      "published_at": "2026-05-01T23:58:19.660226+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +123,7 @@
       "title": "Sant\u00e9 : \u00ab On peut vivre avec un cancer et mener une bonne vie \u00bb, rassure le professeur Nayi Zongo",
       "link": "https://lefaso.net/spip.php?article146126",
       "source": "LeFaso",
-      "published_at": "2026-05-01T22:59:11.901829+00:00",
+      "published_at": "2026-05-01T23:58:19.660226+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -145,28 +131,17 @@
       "regions": []
     },
     {
-      "title": "Nakamb\u00e9/Education : \u00ab L'abandon scolaire des filles est un fl\u00e9au qui menace l'avenir des apprenants dans la r\u00e9gion \u00bb, s'inqui\u00e8te le secr\u00e9taire g\u00e9n\u00e9ral de la r\u00e9gion, Tass\u00e9r\u00e9 Nacoulma",
-      "link": "https://lefaso.net/spip.php?article146106",
-      "source": "LeFaso",
-      "published_at": "2026-05-01T22:59:11.901829+00:00",
-      "score": 1.44,
+      "title": "Mali crisis deepens as separatists and jihadists step up attacks",
+      "link": "https://www.france24.com/en/mali-crisis-deepens-as-separatists-and-jihadists-step-up-attacks",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-30T11:04:16+00:00",
+      "score": 1.43,
       "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Burkina/De l'universit\u00e9 au chantier : Le pari r\u00e9ussi d'Abdoulaye Ki",
-      "link": "https://lefaso.net/spip.php?article146100",
-      "source": "LeFaso",
-      "published_at": "2026-05-01T22:59:11.901829+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "burkina",
-        "ouagadougou"
+        "mali",
+        "bamako"
       ]
     },
     {
@@ -174,7 +149,7 @@
       "link": "https://allafrica.com/stories/202604300334.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-30T12:33:24+00:00",
-      "score": 1.44,
+      "score": 1.4,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -188,7 +163,7 @@
       "link": "https://www.france24.com/en/africa/20260501-common-enemy-but-not-common-project-fragile-jihadist-separatist-alliance-in-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-05-01T12:38:57+00:00",
-      "score": 0.84,
+      "score": 0.83,
       "tags": [
         "conflict_intensity"
       ],
@@ -196,32 +171,62 @@
         "mali",
         "bamako"
       ]
+    },
+    {
+      "title": "Mali jihadists vow to blockade capital",
+      "link": "https://www.france24.com/en/mali-jihadists-vow-to-blockade-capital",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-01T09:43:05+00:00",
+      "score": 0.79,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "niger",
+        "burkina",
+        "burkina faso",
+        "bamako"
+      ]
+    },
+    {
+      "title": "Mali pays tribute to Defence Minister Sadio Camara",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260430-mali-pays-tribute-to-defence-minister-sadio-camara",
+      "source": "France 24 - Africa",
+      "published_at": "2026-04-30T20:50:50+00:00",
+      "score": 0.79,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-01T23:57:19.609665+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-02T00:57:27.418623+00:00",
+      "score": 69.0
     },
     {
-      "timestamp": "2026-05-02T00:55:27.317501+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-02T01:56:35.177020+00:00",
+      "score": 68.9
     },
     {
-      "timestamp": "2026-05-02T01:53:35.025337+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-02T02:55:42.935417+00:00",
+      "score": 68.8
     },
     {
-      "timestamp": "2026-05-02T02:51:42.733173+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-02T03:54:50.693814+00:00",
+      "score": 68.8
     },
     {
-      "timestamp": "2026-05-02T03:49:50.441009+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-02T04:53:58.452211+00:00",
+      "score": 68.7
     },
     {
-      "timestamp": "2026-05-02T04:47:58.148845+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-02T05:53:06.210608+00:00",
+      "score": 68.6
     }
   ]
 }
