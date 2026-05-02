@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T19:13:07.171597+00:00",
+  "fetched_at": "2026-05-02T20:54:04.048898+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 25,
+  "items_count": 23,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 90
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T18:44:47+00:00",
-      "score": 4.17,
+      "score": 4.07,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T14:27:05+00:00",
-      "score": 2.09,
+      "score": 2.04,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T12:19:43+00:00",
-      "score": 2.03,
+      "score": 1.97,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -141,7 +141,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:13:04+00:00",
-      "score": 1.9,
+      "score": 1.85,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -155,7 +155,7 @@
       "link": "https://www.france24.com/en/tuareg-separatists-and-jihadists-wage-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:12:11+00:00",
-      "score": 1.66,
+      "score": 1.61,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,7 +182,7 @@
       "title": "Ouagadougou : Le gouvernement lance les travaux de curage des barrages et accompagne les mara\u00eechers impact\u00e9s",
       "link": "https://lefaso.net/spip.php?article146197",
       "source": "LeFaso",
-      "published_at": "2026-05-02T19:13:07.171597+00:00",
+      "published_at": "2026-05-02T20:54:04.048898+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -196,7 +196,7 @@
       "title": "\"Pr\u00e9-campagne\" pr\u00e9sidentielle 2027 en France : Dominique de Villepin et la statuette offerte par Blaise Compaor\u00e9",
       "link": "https://lefaso.net/spip.php?article146163",
       "source": "LeFaso",
-      "published_at": "2026-05-02T19:13:07.171597+00:00",
+      "published_at": "2026-05-02T20:54:04.048898+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-02T20:31:17.453682+00:00",
-      "score": 68.0
+      "timestamp": "2026-05-02T22:35:00.926199+00:00",
+      "score": 68.4
     },
     {
-      "timestamp": "2026-05-02T21:49:27.735767+00:00",
-      "score": 68.0
+      "timestamp": "2026-05-03T00:15:57.803500+00:00",
+      "score": 68.3
     },
     {
-      "timestamp": "2026-05-02T23:07:38.017852+00:00",
-      "score": 67.9
+      "timestamp": "2026-05-03T01:56:54.680801+00:00",
+      "score": 68.3
     },
     {
-      "timestamp": "2026-05-03T00:25:48.299937+00:00",
-      "score": 67.9
+      "timestamp": "2026-05-03T03:37:51.558102+00:00",
+      "score": 68.3
     },
     {
-      "timestamp": "2026-05-03T01:43:58.582022+00:00",
-      "score": 67.8
+      "timestamp": "2026-05-03T05:18:48.435403+00:00",
+      "score": 68.2
     },
     {
-      "timestamp": "2026-05-03T03:02:08.864107+00:00",
-      "score": 67.7
+      "timestamp": "2026-05-03T06:59:45.312704+00:00",
+      "score": 68.2
     }
   ]
 }
