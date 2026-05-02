@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-02T08:25:49.049995+00:00",
+  "fetched_at": "2026-05-02T10:05:19.482700+00:00",
   "window_hours": 72,
-  "score": 66.0,
+  "score": 65.7,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 80.0
+    "civilian_risk": 78.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 24,
+  "items_count": 22,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:13:04+00:00",
-      "score": 2.23,
+      "score": 2.18,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/tuareg-separatists-and-jihadists-wage-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:12:11+00:00",
-      "score": 1.95,
+      "score": 1.91,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +125,7 @@
       "link": "https://www.france24.com/en/africa/20260430-mali-holds-tribute-for-assassinated-defence-minister-under-tight-security",
       "source": "France 24 - Africa",
       "published_at": "2026-04-30T14:07:51+00:00",
-      "score": 1.73,
+      "score": 1.64,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "\"Pr\u00e9-campagne\" pr\u00e9sidentielle 2027 en France : Dominique de Villepin et la statuette offerte par Blaise Compaor\u00e9",
       "link": "https://lefaso.net/spip.php?article146163",
       "source": "LeFaso",
-      "published_at": "2026-05-02T08:25:49.049995+00:00",
+      "published_at": "2026-05-02T10:05:19.482700+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,7 +150,7 @@
       "title": "Sant\u00e9 : \u00ab On peut vivre avec un cancer et mener une bonne vie \u00bb, rassure le professeur Nayi Zongo",
       "link": "https://lefaso.net/spip.php?article146126",
       "source": "LeFaso",
-      "published_at": "2026-05-02T08:25:49.049995+00:00",
+      "published_at": "2026-05-02T10:05:19.482700+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -158,28 +158,11 @@
       "regions": []
     },
     {
-      "title": "The enduring resilience of children of the Central Sahel in the midst of crisis: Statement by UNICEF Deputy Executive Director Ted Chaiban after visiting Niger, Burkina Faso, and Mali",
-      "link": "https://reliefweb.int/report/niger/enduring-resilience-children-central-sahel-midst-crisis-statement-unicef-deputy-executive-director-ted-chaiban-after-visiting-niger-burkina-faso-and-mali",
-      "source": "ReliefWeb - Niger",
-      "published_at": "2026-05-02T08:25:49.049995+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel",
-        "mali",
-        "niger",
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Mali crisis deepens as separatists and jihadists step up attacks",
       "link": "https://www.france24.com/en/mali-crisis-deepens-as-separatists-and-jihadists-step-up-attacks",
       "source": "France 24 - Africa",
       "published_at": "2026-04-30T11:04:16+00:00",
-      "score": 1.09,
+      "score": 1.03,
       "tags": [
         "conflict_intensity"
       ],
@@ -193,7 +176,7 @@
       "link": "https://allafrica.com/stories/202604300334.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-04-30T12:33:24+00:00",
-      "score": 1.08,
+      "score": 1.01,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -201,32 +184,46 @@
       "regions": [
         "mali"
       ]
+    },
+    {
+      "title": "'A common enemy, but not a common project':\u00a0A fragile jihadist-separatist alliance in Mali",
+      "link": "https://www.france24.com/en/africa/20260501-common-enemy-but-not-common-project-fragile-jihadist-separatist-alliance-in-mali",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-01T12:38:57+00:00",
+      "score": 0.69,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "bamako"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-02T10:33:58.857893+00:00",
-      "score": 66.4
+      "timestamp": "2026-05-02T11:44:49.915405+00:00",
+      "score": 65.9
     },
     {
-      "timestamp": "2026-05-02T12:42:08.665791+00:00",
-      "score": 66.2
+      "timestamp": "2026-05-02T13:24:20.348110+00:00",
+      "score": 65.7
     },
     {
-      "timestamp": "2026-05-02T14:50:18.473689+00:00",
-      "score": 66.0
-    },
-    {
-      "timestamp": "2026-05-02T16:58:28.281587+00:00",
-      "score": 65.8
-    },
-    {
-      "timestamp": "2026-05-02T19:06:38.089485+00:00",
+      "timestamp": "2026-05-02T15:03:50.780815+00:00",
       "score": 65.5
     },
     {
-      "timestamp": "2026-05-02T21:14:47.897383+00:00",
-      "score": 65.3
+      "timestamp": "2026-05-02T16:43:21.213520+00:00",
+      "score": 65.2
+    },
+    {
+      "timestamp": "2026-05-02T18:22:51.646225+00:00",
+      "score": 65.0
+    },
+    {
+      "timestamp": "2026-05-02T20:02:22.078930+00:00",
+      "score": 64.8
     }
   ]
 }
