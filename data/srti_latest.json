@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T17:54:56.889512+00:00",
+  "fetched_at": "2026-05-02T19:13:07.171597+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 24,
+  "items_count": 25,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -94,11 +94,26 @@
   ],
   "top_headlines": [
     {
+      "title": "Mali in crisis: Jihadist fighters and Tuareg separatists threaten Bamako",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-02T18:44:47+00:00",
+      "score": 4.17,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "bamako"
+      ]
+    },
+    {
       "title": "Mali probes soldiers working with rebels",
       "link": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T14:27:05+00:00",
-      "score": 2.13,
+      "score": 2.09,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +127,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T12:19:43+00:00",
-      "score": 2.07,
+      "score": 2.03,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +141,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:13:04+00:00",
-      "score": 1.94,
+      "score": 1.9,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +155,7 @@
       "link": "https://www.france24.com/en/tuareg-separatists-and-jihadists-wage-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:12:11+00:00",
-      "score": 1.7,
+      "score": 1.66,
       "tags": [
         "conflict_intensity"
       ],
@@ -167,7 +182,7 @@
       "title": "Ouagadougou : Le gouvernement lance les travaux de curage des barrages et accompagne les mara\u00eechers impact\u00e9s",
       "link": "https://lefaso.net/spip.php?article146197",
       "source": "LeFaso",
-      "published_at": "2026-05-02T17:54:56.889512+00:00",
+      "published_at": "2026-05-02T19:13:07.171597+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -181,18 +196,7 @@
       "title": "\"Pr\u00e9-campagne\" pr\u00e9sidentielle 2027 en France : Dominique de Villepin et la statuette offerte par Blaise Compaor\u00e9",
       "link": "https://lefaso.net/spip.php?article146163",
       "source": "LeFaso",
-      "published_at": "2026-05-02T17:54:56.889512+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Sant\u00e9 : \u00ab On peut vivre avec un cancer et mener une bonne vie \u00bb, rassure le professeur Nayi Zongo",
-      "link": "https://lefaso.net/spip.php?article146126",
-      "source": "LeFaso",
-      "published_at": "2026-05-02T17:54:56.889512+00:00",
+      "published_at": "2026-05-02T19:13:07.171597+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -202,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-02T18:49:06.159748+00:00",
+      "timestamp": "2026-05-02T20:31:17.453682+00:00",
+      "score": 68.0
+    },
+    {
+      "timestamp": "2026-05-02T21:49:27.735767+00:00",
+      "score": 68.0
+    },
+    {
+      "timestamp": "2026-05-02T23:07:38.017852+00:00",
+      "score": 67.9
+    },
+    {
+      "timestamp": "2026-05-03T00:25:48.299937+00:00",
+      "score": 67.9
+    },
+    {
+      "timestamp": "2026-05-03T01:43:58.582022+00:00",
+      "score": 67.8
+    },
+    {
+      "timestamp": "2026-05-03T03:02:08.864107+00:00",
       "score": 67.7
-    },
-    {
-      "timestamp": "2026-05-02T19:43:15.429984+00:00",
-      "score": 67.6
-    },
-    {
-      "timestamp": "2026-05-02T20:37:24.700220+00:00",
-      "score": 67.6
-    },
-    {
-      "timestamp": "2026-05-02T21:31:33.970456+00:00",
-      "score": 67.5
-    },
-    {
-      "timestamp": "2026-05-02T22:25:43.240692+00:00",
-      "score": 67.4
-    },
-    {
-      "timestamp": "2026-05-02T23:19:52.510928+00:00",
-      "score": 67.3
     }
   ]
 }
