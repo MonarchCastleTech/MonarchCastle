@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T21:53:08.486385+00:00",
+  "fetched_at": "2026-05-02T22:55:05.281074+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 25,
+  "items_count": 24,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T18:44:47+00:00",
-      "score": 4.02,
+      "score": 3.96,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T14:27:05+00:00",
-      "score": 2.01,
+      "score": 1.98,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T12:19:43+00:00",
-      "score": 1.94,
+      "score": 1.91,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -141,7 +141,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:13:04+00:00",
-      "score": 1.81,
+      "score": 1.78,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -155,7 +155,7 @@
       "link": "https://www.france24.com/en/tuareg-separatists-and-jihadists-wage-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:12:11+00:00",
-      "score": 1.59,
+      "score": 1.56,
       "tags": [
         "conflict_intensity"
       ],
@@ -182,7 +182,7 @@
       "title": "Autosuffisance alimentaire : 2 500 tonnes de riz pour renforcer les stocks nationaux",
       "link": "https://lefaso.net/spip.php?article146209",
       "source": "LeFaso",
-      "published_at": "2026-05-02T21:53:08.486385+00:00",
+      "published_at": "2026-05-02T22:55:05.281074+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -193,7 +193,7 @@
       "title": "Ouagadougou : Le gouvernement lance les travaux de curage des barrages et accompagne les mara\u00eechers impact\u00e9s",
       "link": "https://lefaso.net/spip.php?article146197",
       "source": "LeFaso",
-      "published_at": "2026-05-02T21:53:08.486385+00:00",
+      "published_at": "2026-05-02T22:55:05.281074+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-02T22:52:12.923872+00:00",
-      "score": 68.7
+      "timestamp": "2026-05-02T23:57:02.075763+00:00",
+      "score": 69.0
     },
     {
-      "timestamp": "2026-05-02T23:51:17.361359+00:00",
-      "score": 68.7
+      "timestamp": "2026-05-03T00:58:58.870452+00:00",
+      "score": 69.0
     },
     {
-      "timestamp": "2026-05-03T00:50:21.798846+00:00",
-      "score": 68.7
+      "timestamp": "2026-05-03T02:00:55.665141+00:00",
+      "score": 69.0
     },
     {
-      "timestamp": "2026-05-03T01:49:26.236333+00:00",
-      "score": 68.7
+      "timestamp": "2026-05-03T03:02:52.459830+00:00",
+      "score": 69.0
     },
     {
-      "timestamp": "2026-05-03T02:48:30.673820+00:00",
-      "score": 68.6
+      "timestamp": "2026-05-03T04:04:49.254519+00:00",
+      "score": 69.1
     },
     {
-      "timestamp": "2026-05-03T03:47:35.111307+00:00",
-      "score": 68.6
+      "timestamp": "2026-05-03T05:06:46.049208+00:00",
+      "score": 69.1
     }
   ]
 }
