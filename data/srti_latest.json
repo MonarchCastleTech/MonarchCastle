@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-02T11:53:26.869192+00:00",
+  "fetched_at": "2026-05-02T13:40:30.578646+00:00",
   "window_hours": 72,
-  "score": 69.4,
+  "score": 70.0,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 97.0
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 23,
+  "items_count": 24,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 84
+      "items": 87
     },
     {
       "name": "ActuNiger",
@@ -95,10 +95,24 @@
   "top_headlines": [
     {
       "title": "Mali: Rebels take key Tessalit military camp",
+      "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-02T12:19:43+00:00",
+      "score": 2.2,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Mali: Rebels take key Tessalit military camp",
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:13:04+00:00",
-      "score": 2.13,
+      "score": 2.07,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +126,7 @@
       "link": "https://www.france24.com/en/tuareg-separatists-and-jihadists-wage-attacks-across-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:12:11+00:00",
-      "score": 1.86,
+      "score": 1.81,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +139,7 @@
       "link": "https://www.france24.com/en/africa/20260430-mali-holds-tribute-for-assassinated-defence-minister-under-tight-security",
       "source": "France 24 - Africa",
       "published_at": "2026-04-30T14:07:51+00:00",
-      "score": 1.53,
+      "score": 1.47,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +153,7 @@
       "title": "Ouagadougou : Le gouvernement lance les travaux de curage des barrages et accompagne les mara\u00eechers impact\u00e9s",
       "link": "https://lefaso.net/spip.php?article146197",
       "source": "LeFaso",
-      "published_at": "2026-05-02T11:53:26.869192+00:00",
+      "published_at": "2026-05-02T13:40:30.578646+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -153,7 +167,7 @@
       "title": "\"Pr\u00e9-campagne\" pr\u00e9sidentielle 2027 en France : Dominique de Villepin et la statuette offerte par Blaise Compaor\u00e9",
       "link": "https://lefaso.net/spip.php?article146163",
       "source": "LeFaso",
-      "published_at": "2026-05-02T11:53:26.869192+00:00",
+      "published_at": "2026-05-02T13:40:30.578646+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,7 +178,7 @@
       "title": "Sant\u00e9 : \u00ab On peut vivre avec un cancer et mener une bonne vie \u00bb, rassure le professeur Nayi Zongo",
       "link": "https://lefaso.net/spip.php?article146126",
       "source": "LeFaso",
-      "published_at": "2026-05-02T11:53:26.869192+00:00",
+      "published_at": "2026-05-02T13:40:30.578646+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -175,7 +189,7 @@
       "title": "The enduring resilience of children of the Central Sahel in the midst of crisis: Statement by UNICEF Deputy Executive Director Ted Chaiban after visiting Niger, Burkina Faso, and Mali",
       "link": "https://reliefweb.int/report/niger/enduring-resilience-children-central-sahel-midst-crisis-statement-unicef-deputy-executive-director-ted-chaiban-after-visiting-niger-burkina-faso-and-mali",
       "source": "ReliefWeb - Niger",
-      "published_at": "2026-05-02T11:53:26.869192+00:00",
+      "published_at": "2026-05-02T13:40:30.578646+00:00",
       "score": 1.26,
       "tags": [
         "conflict_intensity"
@@ -187,48 +201,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "Niger : Niamey d\u00e9cr\u00e8te un jour de je\u00fbne et de pri\u00e8re pour la victoire sur le terrorisme dans l'espace AES",
-      "link": "https://lefaso.net/spip.php?article146196",
-      "source": "LeFaso",
-      "published_at": "2026-05-02T11:53:26.869192+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel",
-        "mali",
-        "niger",
-        "niamey"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-02T13:41:34.255684+00:00",
+      "timestamp": "2026-05-02T15:27:34.288100+00:00",
+      "score": 66.5
+    },
+    {
+      "timestamp": "2026-05-02T17:14:37.997554+00:00",
+      "score": 66.3
+    },
+    {
+      "timestamp": "2026-05-02T19:01:41.707008+00:00",
       "score": 66.1
     },
     {
-      "timestamp": "2026-05-02T15:29:41.642176+00:00",
+      "timestamp": "2026-05-02T20:48:45.416462+00:00",
       "score": 65.9
     },
     {
-      "timestamp": "2026-05-02T17:17:49.028668+00:00",
+      "timestamp": "2026-05-02T22:35:49.125916+00:00",
       "score": 65.7
     },
     {
-      "timestamp": "2026-05-02T19:05:56.415160+00:00",
+      "timestamp": "2026-05-03T00:22:52.835370+00:00",
       "score": 65.5
-    },
-    {
-      "timestamp": "2026-05-02T20:54:03.801652+00:00",
-      "score": 65.3
-    },
-    {
-      "timestamp": "2026-05-02T22:42:11.188144+00:00",
-      "score": 65.1
     }
   ]
 }
