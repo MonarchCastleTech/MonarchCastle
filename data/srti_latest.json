@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T14:58:47.219377+00:00",
+  "fetched_at": "2026-05-03T15:56:27.090678+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T18:44:47+00:00",
-      "score": 3.02,
+      "score": 2.96,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T14:27:05+00:00",
-      "score": 1.48,
+      "score": 1.45,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Autosuffisance alimentaire : 2 500 tonnes de riz pour renforcer les stocks nationaux",
       "link": "https://lefaso.net/spip.php?article146209",
       "source": "LeFaso",
-      "published_at": "2026-05-03T14:58:47.219377+00:00",
+      "published_at": "2026-05-03T15:56:27.090678+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Ouagadougou : Le gouvernement lance les travaux de curage des barrages et accompagne les mara\u00eechers impact\u00e9s",
       "link": "https://lefaso.net/spip.php?article146197",
       "source": "LeFaso",
-      "published_at": "2026-05-03T14:58:47.219377+00:00",
+      "published_at": "2026-05-03T15:56:27.090678+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "\"Pr\u00e9-campagne\" pr\u00e9sidentielle 2027 en France : Dominique de Villepin et la statuette offerte par Blaise Compaor\u00e9",
       "link": "https://lefaso.net/spip.php?article146163",
       "source": "LeFaso",
-      "published_at": "2026-05-03T14:58:47.219377+00:00",
+      "published_at": "2026-05-03T15:56:27.090678+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,21 +163,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T12:19:43+00:00",
-      "score": 1.41,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Mali: Rebels take key Tessalit military camp",
-      "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-02T08:13:04+00:00",
-      "score": 1.28,
+      "score": 1.38,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -190,7 +176,7 @@
       "title": "The enduring resilience of children of the Central Sahel in the midst of crisis: Statement by UNICEF Deputy Executive Director Ted Chaiban after visiting Niger, Burkina Faso, and Mali",
       "link": "https://reliefweb.int/report/niger/enduring-resilience-children-central-sahel-midst-crisis-statement-unicef-deputy-executive-director-ted-chaiban-after-visiting-niger-burkina-faso-and-mali",
       "source": "ReliefWeb - Niger",
-      "published_at": "2026-05-03T14:58:47.219377+00:00",
+      "published_at": "2026-05-03T15:56:27.090678+00:00",
       "score": 1.26,
       "tags": [
         "conflict_intensity"
@@ -202,32 +188,46 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "Mali: Rebels take key Tessalit military camp",
+      "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-02T08:13:04+00:00",
+      "score": 1.25,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-03T16:15:45.898407+00:00",
-      "score": 71.5
+      "timestamp": "2026-05-03T16:54:06.961979+00:00",
+      "score": 71.9
     },
     {
-      "timestamp": "2026-05-03T17:32:44.577437+00:00",
-      "score": 71.8
+      "timestamp": "2026-05-03T17:51:46.833280+00:00",
+      "score": 72.1
     },
     {
-      "timestamp": "2026-05-03T18:49:43.256467+00:00",
-      "score": 72.0
+      "timestamp": "2026-05-03T18:49:26.704581+00:00",
+      "score": 72.3
     },
     {
-      "timestamp": "2026-05-03T20:06:41.935497+00:00",
-      "score": 72.2
-    },
-    {
-      "timestamp": "2026-05-03T21:23:40.614527+00:00",
-      "score": 72.4
-    },
-    {
-      "timestamp": "2026-05-03T22:40:39.293557+00:00",
+      "timestamp": "2026-05-03T19:47:06.575882+00:00",
       "score": 72.6
+    },
+    {
+      "timestamp": "2026-05-03T20:44:46.447183+00:00",
+      "score": 72.8
+    },
+    {
+      "timestamp": "2026-05-03T21:42:26.318484+00:00",
+      "score": 73.1
     }
   ]
 }
