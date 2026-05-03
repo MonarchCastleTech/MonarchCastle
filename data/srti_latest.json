@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-03T22:56:01.073156+00:00",
+  "fetched_at": "2026-05-03T23:57:29.429274+00:00",
   "window_hours": 72,
-  "score": 69.6,
+  "score": 65.4,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 98.2
+    "civilian_risk": 77.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 17,
+  "items_count": 16,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 65
+      "items": 58
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T18:44:47+00:00",
-      "score": 2.56,
+      "score": 2.5,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Autosuffisance alimentaire : 2 500 tonnes de riz pour renforcer les stocks nationaux",
       "link": "https://lefaso.net/spip.php?article146209",
       "source": "LeFaso",
-      "published_at": "2026-05-03T22:56:01.073156+00:00",
+      "published_at": "2026-05-03T23:57:29.429274+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Ouagadougou : Le gouvernement lance les travaux de curage des barrages et accompagne les mara\u00eechers impact\u00e9s",
       "link": "https://lefaso.net/spip.php?article146197",
       "source": "LeFaso",
-      "published_at": "2026-05-03T22:56:01.073156+00:00",
+      "published_at": "2026-05-03T23:57:29.429274+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,21 +134,10 @@
       ]
     },
     {
-      "title": "\"Pr\u00e9-campagne\" pr\u00e9sidentielle 2027 en France : Dominique de Villepin et la statuette offerte par Blaise Compaor\u00e9",
-      "link": "https://lefaso.net/spip.php?article146163",
-      "source": "LeFaso",
-      "published_at": "2026-05-03T22:56:01.073156+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
       "title": "The enduring resilience of children of the Central Sahel in the midst of crisis: Statement by UNICEF Deputy Executive Director Ted Chaiban after visiting Niger, Burkina Faso, and Mali",
       "link": "https://reliefweb.int/report/niger/enduring-resilience-children-central-sahel-midst-crisis-statement-unicef-deputy-executive-director-ted-chaiban-after-visiting-niger-burkina-faso-and-mali",
       "source": "ReliefWeb - Niger",
-      "published_at": "2026-05-03T22:56:01.073156+00:00",
+      "published_at": "2026-05-03T23:57:29.429274+00:00",
       "score": 1.26,
       "tags": [
         "conflict_intensity"
@@ -166,7 +155,7 @@
       "link": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T14:27:05+00:00",
-      "score": 1.23,
+      "score": 1.2,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -180,7 +169,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T12:19:43+00:00",
-      "score": 1.16,
+      "score": 1.13,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -193,38 +182,54 @@
       "title": "Vie de couple : La famille et l'entourage ont-ils encore leur mot \u00e0 dire dans le choix du partenaire de vie chez les jeunes aujourd'hui ?",
       "link": "https://lefaso.net/spip.php?article146224",
       "source": "LeFaso",
-      "published_at": "2026-05-03T22:56:01.073156+00:00",
+      "published_at": "2026-05-03T23:57:29.429274+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": []
+    },
+    {
+      "title": "Niger : Niamey d\u00e9cr\u00e8te un jour de je\u00fbne et de pri\u00e8re pour la victoire sur le terrorisme dans l'espace AES",
+      "link": "https://lefaso.net/spip.php?article146196",
+      "source": "LeFaso",
+      "published_at": "2026-05-03T23:57:29.429274+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "sahel",
+        "mali",
+        "niger",
+        "niamey"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-03T23:57:43.208772+00:00",
-      "score": 69.7
+      "timestamp": "2026-05-04T00:58:57.785392+00:00",
+      "score": 69.0
     },
     {
-      "timestamp": "2026-05-04T00:59:25.344388+00:00",
-      "score": 69.7
+      "timestamp": "2026-05-04T02:00:26.141510+00:00",
+      "score": 68.9
     },
     {
-      "timestamp": "2026-05-04T02:01:07.480004+00:00",
-      "score": 69.7
+      "timestamp": "2026-05-04T03:01:54.497628+00:00",
+      "score": 68.8
     },
     {
-      "timestamp": "2026-05-04T03:02:49.615620+00:00",
-      "score": 69.7
+      "timestamp": "2026-05-04T04:03:22.853746+00:00",
+      "score": 68.8
     },
     {
-      "timestamp": "2026-05-04T04:04:31.751236+00:00",
-      "score": 69.6
+      "timestamp": "2026-05-04T05:04:51.209864+00:00",
+      "score": 68.7
     },
     {
-      "timestamp": "2026-05-04T05:06:13.886852+00:00",
-      "score": 69.6
+      "timestamp": "2026-05-04T06:06:19.565982+00:00",
+      "score": 68.7
     }
   ]
 }
