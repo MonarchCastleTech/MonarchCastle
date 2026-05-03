@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T10:12:41.221369+00:00",
+  "fetched_at": "2026-05-03T11:53:15.110503+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,7 +11,7 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 21,
+  "items_count": 19,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T18:44:47+00:00",
-      "score": 3.3,
+      "score": 3.2,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T14:27:05+00:00",
-      "score": 1.63,
+      "score": 1.57,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp-1",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T12:19:43+00:00",
-      "score": 1.56,
+      "score": 1.51,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -155,7 +155,7 @@
       "title": "Autosuffisance alimentaire : 2 500 tonnes de riz pour renforcer les stocks nationaux",
       "link": "https://lefaso.net/spip.php?article146209",
       "source": "LeFaso",
-      "published_at": "2026-05-03T10:12:41.221369+00:00",
+      "published_at": "2026-05-03T11:53:15.110503+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -166,7 +166,7 @@
       "title": "Ouagadougou : Le gouvernement lance les travaux de curage des barrages et accompagne les mara\u00eechers impact\u00e9s",
       "link": "https://lefaso.net/spip.php?article146197",
       "source": "LeFaso",
-      "published_at": "2026-05-03T10:12:41.221369+00:00",
+      "published_at": "2026-05-03T11:53:15.110503+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -180,7 +180,7 @@
       "title": "\"Pr\u00e9-campagne\" pr\u00e9sidentielle 2027 en France : Dominique de Villepin et la statuette offerte par Blaise Compaor\u00e9",
       "link": "https://lefaso.net/spip.php?article146163",
       "source": "LeFaso",
-      "published_at": "2026-05-03T10:12:41.221369+00:00",
+      "published_at": "2026-05-03T11:53:15.110503+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -192,7 +192,7 @@
       "link": "https://www.france24.com/en/mali-rebels-take-key-tessalit-military-camp",
       "source": "France 24 - Africa",
       "published_at": "2026-05-02T08:13:04+00:00",
-      "score": 1.43,
+      "score": 1.38,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -204,28 +204,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-03T11:32:30.453474+00:00",
-      "score": 70.6
-    },
-    {
-      "timestamp": "2026-05-03T12:52:19.685579+00:00",
-      "score": 70.7
-    },
-    {
-      "timestamp": "2026-05-03T14:12:08.917684+00:00",
+      "timestamp": "2026-05-03T13:33:48.999637+00:00",
       "score": 70.9
     },
     {
-      "timestamp": "2026-05-03T15:31:58.149789+00:00",
-      "score": 71.0
+      "timestamp": "2026-05-03T15:14:22.888771+00:00",
+      "score": 71.1
     },
     {
-      "timestamp": "2026-05-03T16:51:47.381894+00:00",
+      "timestamp": "2026-05-03T16:54:56.777905+00:00",
       "score": 71.2
     },
     {
-      "timestamp": "2026-05-03T18:11:36.613999+00:00",
-      "score": 71.3
+      "timestamp": "2026-05-03T18:35:30.667039+00:00",
+      "score": 71.4
+    },
+    {
+      "timestamp": "2026-05-03T20:16:04.556173+00:00",
+      "score": 71.6
+    },
+    {
+      "timestamp": "2026-05-03T21:56:38.445307+00:00",
+      "score": 71.7
     }
   ]
 }
