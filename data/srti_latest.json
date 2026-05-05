@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-05T18:19:17.256983+00:00",
+  "fetched_at": "2026-05-05T20:13:25.625870+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
       "source": "UN News Africa",
       "published_at": "2026-05-05T12:00:00+00:00",
-      "score": 5.25,
+      "score": 5.1,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260504-mali-leader-assimi-go%C3%AFta-assumes-role-of-defence-minister-after-attacks",
       "source": "France 24 - Africa",
       "published_at": "2026-05-04T15:01:57+00:00",
-      "score": 2.0,
+      "score": 1.91,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://allafrica.com/stories/202605050097.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-05T06:38:33+00:00",
-      "score": 1.61,
+      "score": 1.56,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202605050019.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-05T04:57:53+00:00",
-      "score": 1.56,
+      "score": 1.51,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -150,25 +150,24 @@
       ]
     },
     {
-      "title": "Mali in crisis: Jihadist fighters and Tuareg separatists threaten Bamako",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-02T18:44:47+00:00",
-      "score": 1.47,
+      "title": "Circulation routi\u00e8re : Quand la lumi\u00e8re s'\u00e9teint la nuit, que chacun allume son courage",
+      "link": "https://lefaso.net/spip.php?article146268",
+      "source": "LeFaso",
+      "published_at": "2026-05-05T20:13:25.625870+00:00",
+      "score": 1.44,
       "tags": [
-        "conflict_intensity",
         "civilian_risk"
       ],
       "regions": [
-        "mali",
-        "bamako"
+        "burkina",
+        "ouagadougou"
       ]
     },
     {
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-05T18:19:17.256983+00:00",
+      "published_at": "2026-05-05T20:13:25.625870+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -181,7 +180,7 @@
       "title": "Sant\u00e9 : Pied bot, vaincre les peurs et les croyances pour remettre les enfants debout",
       "link": "https://lefaso.net/spip.php?article146237",
       "source": "LeFaso",
-      "published_at": "2026-05-05T18:19:17.256983+00:00",
+      "published_at": "2026-05-05T20:13:25.625870+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -194,7 +193,7 @@
       "title": "R\u00e9gion des Kouls\u00e9 : Sous l'impulsion du PCRSS-Burkina, l'agriculture renforce la r\u00e9silience et rallume l'espoir",
       "link": "https://lefaso.net/spip.php?article146228",
       "source": "LeFaso",
-      "published_at": "2026-05-05T18:19:17.256983+00:00",
+      "published_at": "2026-05-05T20:13:25.625870+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -208,28 +207,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-05T19:50:21.340438+00:00",
-      "score": 70.0
-    },
-    {
-      "timestamp": "2026-05-05T21:21:25.423893+00:00",
-      "score": 70.1
-    },
-    {
-      "timestamp": "2026-05-05T22:52:29.507348+00:00",
-      "score": 70.2
-    },
-    {
-      "timestamp": "2026-05-06T00:23:33.590803+00:00",
+      "timestamp": "2026-05-05T22:07:33.994757+00:00",
       "score": 70.3
     },
     {
-      "timestamp": "2026-05-06T01:54:37.674258+00:00",
-      "score": 70.4
+      "timestamp": "2026-05-06T00:01:42.363644+00:00",
+      "score": 70.5
     },
     {
-      "timestamp": "2026-05-06T03:25:41.757713+00:00",
-      "score": 70.5
+      "timestamp": "2026-05-06T01:55:50.732531+00:00",
+      "score": 70.6
+    },
+    {
+      "timestamp": "2026-05-06T03:49:59.101418+00:00",
+      "score": 70.7
+    },
+    {
+      "timestamp": "2026-05-06T05:44:07.470305+00:00",
+      "score": 70.8
+    },
+    {
+      "timestamp": "2026-05-06T07:38:15.839192+00:00",
+      "score": 70.9
     }
   ]
 }
