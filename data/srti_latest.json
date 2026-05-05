@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-05T14:19:07.862942+00:00",
+  "fetched_at": "2026-05-05T16:48:13.173528+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 67
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "UN warns of worsening human rights crisis in Mali after deadly attacks",
+      "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
+      "source": "UN News Africa",
+      "published_at": "2026-05-05T12:00:00+00:00",
+      "score": 5.38,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Mali leader Assimi Go\u00efta assumes role of defence minister after attacks kill previous minister",
       "link": "https://www.france24.com/en/africa/20260504-mali-leader-assimi-go%C3%AFta-assumes-role-of-defence-minister-after-attacks",
       "source": "France 24 - Africa",
       "published_at": "2026-05-04T15:01:57+00:00",
-      "score": 2.18,
+      "score": 2.07,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +126,7 @@
       "link": "https://allafrica.com/stories/202605050097.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-05T06:38:33+00:00",
-      "score": 1.72,
+      "score": 1.65,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +140,7 @@
       "link": "https://allafrica.com/stories/202605050019.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-05T04:57:53+00:00",
-      "score": 1.67,
+      "score": 1.6,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,24 +165,10 @@
       ]
     },
     {
-      "title": "Bamako Under Siege - How Coordinated Attacks Exposed the Mali Government's Fragility - and Tested the Aes",
-      "link": "https://allafrica.com/stories/202605050021.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-05-05T04:57:54+00:00",
-      "score": 1.46,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "bamako"
-      ]
-    },
-    {
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-05T14:19:07.862942+00:00",
+      "published_at": "2026-05-05T16:48:13.173528+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -181,7 +181,7 @@
       "title": "Sant\u00e9 : Pied bot, vaincre les peurs et les croyances pour remettre les enfants debout",
       "link": "https://lefaso.net/spip.php?article146237",
       "source": "LeFaso",
-      "published_at": "2026-05-05T14:19:07.862942+00:00",
+      "published_at": "2026-05-05T16:48:13.173528+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -194,7 +194,7 @@
       "title": "R\u00e9gion des Kouls\u00e9 : Sous l'impulsion du PCRSS-Burkina, l'agriculture renforce la r\u00e9silience et rallume l'espoir",
       "link": "https://lefaso.net/spip.php?article146228",
       "source": "LeFaso",
-      "published_at": "2026-05-05T14:19:07.862942+00:00",
+      "published_at": "2026-05-05T16:48:13.173528+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -208,28 +208,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-05T17:15:17.770237+00:00",
-      "score": 69.4
-    },
-    {
-      "timestamp": "2026-05-05T20:11:27.677532+00:00",
-      "score": 69.5
-    },
-    {
-      "timestamp": "2026-05-05T23:07:37.584827+00:00",
-      "score": 69.5
-    },
-    {
-      "timestamp": "2026-05-06T02:03:47.492122+00:00",
-      "score": 69.6
-    },
-    {
-      "timestamp": "2026-05-06T04:59:57.399417+00:00",
-      "score": 69.6
-    },
-    {
-      "timestamp": "2026-05-06T07:56:07.306712+00:00",
+      "timestamp": "2026-05-05T19:17:18.484114+00:00",
       "score": 69.7
+    },
+    {
+      "timestamp": "2026-05-05T21:46:23.794700+00:00",
+      "score": 69.8
+    },
+    {
+      "timestamp": "2026-05-06T00:15:29.105286+00:00",
+      "score": 69.9
+    },
+    {
+      "timestamp": "2026-05-06T02:44:34.415872+00:00",
+      "score": 69.9
+    },
+    {
+      "timestamp": "2026-05-06T05:13:39.726458+00:00",
+      "score": 70.0
+    },
+    {
+      "timestamp": "2026-05-06T07:42:45.037044+00:00",
+      "score": 70.1
     }
   ]
 }
