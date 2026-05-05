@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-05T16:48:13.173528+00:00",
+  "fetched_at": "2026-05-05T18:19:17.256983+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -83,13 +83,13 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 1
+      "items": 3
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 12
     }
   ],
   "top_headlines": [
@@ -98,7 +98,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
       "source": "UN News Africa",
       "published_at": "2026-05-05T12:00:00+00:00",
-      "score": 5.38,
+      "score": 5.25,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260504-mali-leader-assimi-go%C3%AFta-assumes-role-of-defence-minister-after-attacks",
       "source": "France 24 - Africa",
       "published_at": "2026-05-04T15:01:57+00:00",
-      "score": 2.07,
+      "score": 2.0,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://allafrica.com/stories/202605050097.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-05T06:38:33+00:00",
-      "score": 1.65,
+      "score": 1.61,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://allafrica.com/stories/202605050019.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-05T04:57:53+00:00",
-      "score": 1.6,
+      "score": 1.56,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -168,7 +168,7 @@
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-05T16:48:13.173528+00:00",
+      "published_at": "2026-05-05T18:19:17.256983+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -181,7 +181,7 @@
       "title": "Sant\u00e9 : Pied bot, vaincre les peurs et les croyances pour remettre les enfants debout",
       "link": "https://lefaso.net/spip.php?article146237",
       "source": "LeFaso",
-      "published_at": "2026-05-05T16:48:13.173528+00:00",
+      "published_at": "2026-05-05T18:19:17.256983+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -194,7 +194,7 @@
       "title": "R\u00e9gion des Kouls\u00e9 : Sous l'impulsion du PCRSS-Burkina, l'agriculture renforce la r\u00e9silience et rallume l'espoir",
       "link": "https://lefaso.net/spip.php?article146228",
       "source": "LeFaso",
-      "published_at": "2026-05-05T16:48:13.173528+00:00",
+      "published_at": "2026-05-05T18:19:17.256983+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -208,28 +208,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-05T19:17:18.484114+00:00",
-      "score": 69.7
-    },
-    {
-      "timestamp": "2026-05-05T21:46:23.794700+00:00",
-      "score": 69.8
-    },
-    {
-      "timestamp": "2026-05-06T00:15:29.105286+00:00",
-      "score": 69.9
-    },
-    {
-      "timestamp": "2026-05-06T02:44:34.415872+00:00",
-      "score": 69.9
-    },
-    {
-      "timestamp": "2026-05-06T05:13:39.726458+00:00",
+      "timestamp": "2026-05-05T19:50:21.340438+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-06T07:42:45.037044+00:00",
+      "timestamp": "2026-05-05T21:21:25.423893+00:00",
       "score": 70.1
+    },
+    {
+      "timestamp": "2026-05-05T22:52:29.507348+00:00",
+      "score": 70.2
+    },
+    {
+      "timestamp": "2026-05-06T00:23:33.590803+00:00",
+      "score": 70.3
+    },
+    {
+      "timestamp": "2026-05-06T01:54:37.674258+00:00",
+      "score": 70.4
+    },
+    {
+      "timestamp": "2026-05-06T03:25:41.757713+00:00",
+      "score": 70.5
     }
   ]
 }
