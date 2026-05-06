@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-06T20:41:43.066421+00:00",
+  "fetched_at": "2026-05-06T22:04:21.149173+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 81
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605060002.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-06T04:46:58+00:00",
-      "score": 4.49,
+      "score": 4.38,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
       "source": "UN News Africa",
       "published_at": "2026-05-05T12:00:00+00:00",
-      "score": 3.14,
+      "score": 3.03,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "UNICEF calls for the protection of children, schools and health facilities following deadly attacks in Mali",
       "link": "https://reliefweb.int/report/mali/unicef-calls-protection-children-schools-and-health-facilities-following-deadly-attacks-mali",
       "source": "ReliefWeb - Mali",
-      "published_at": "2026-05-06T20:41:43.066421+00:00",
+      "published_at": "2026-05-06T22:04:21.149173+00:00",
       "score": 2.88,
       "tags": [
         "conflict_intensity",
@@ -136,10 +136,23 @@
       ]
     },
     {
+      "title": "Burkina/S\u00e9curit\u00e9 sociale : La CNSS D\u00e9dougou vulgarise ses offres de prestations sociales aupr\u00e8s des travailleurs de la SOFITEX",
+      "link": "https://lefaso.net/spip.php?article146295",
+      "source": "LeFaso",
+      "published_at": "2026-05-06T22:04:21.149173+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-06T20:41:43.066421+00:00",
+      "published_at": "2026-05-06T22:04:21.149173+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +165,7 @@
       "title": "Circulation routi\u00e8re : Quand la lumi\u00e8re s'\u00e9teint la nuit, que chacun allume son courage",
       "link": "https://lefaso.net/spip.php?article146268",
       "source": "LeFaso",
-      "published_at": "2026-05-06T20:41:43.066421+00:00",
+      "published_at": "2026-05-06T22:04:21.149173+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -166,7 +179,7 @@
       "title": "Sant\u00e9 : Pied bot, vaincre les peurs et les croyances pour remettre les enfants debout",
       "link": "https://lefaso.net/spip.php?article146237",
       "source": "LeFaso",
-      "published_at": "2026-05-06T20:41:43.066421+00:00",
+      "published_at": "2026-05-06T22:04:21.149173+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +192,7 @@
       "title": "R\u00e9gion des Kouls\u00e9 : Sous l'impulsion du PCRSS-Burkina, l'agriculture renforce la r\u00e9silience et rallume l'espoir",
       "link": "https://lefaso.net/spip.php?article146228",
       "source": "LeFaso",
-      "published_at": "2026-05-06T20:41:43.066421+00:00",
+      "published_at": "2026-05-06T22:04:21.149173+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -189,45 +202,31 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "Burkina/Sant\u00e9 oculaire : Plus de 4 000 \u00e9l\u00e8ves cibl\u00e9s par une campagne de d\u00e9pistage \u00e0 Nioko 1",
-      "link": "https://lefaso.net/spip.php?article146245",
-      "source": "LeFaso",
-      "published_at": "2026-05-06T20:41:43.066421+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-06T22:56:53.258099+00:00",
+      "timestamp": "2026-05-06T23:26:59.231925+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T01:12:03.449777+00:00",
+      "timestamp": "2026-05-07T00:49:37.314677+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T03:27:13.641455+00:00",
+      "timestamp": "2026-05-07T02:12:15.397429+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T05:42:23.833133+00:00",
+      "timestamp": "2026-05-07T03:34:53.480181+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T07:57:34.024811+00:00",
+      "timestamp": "2026-05-07T04:57:31.562933+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T10:12:44.216489+00:00",
+      "timestamp": "2026-05-07T06:20:09.645685+00:00",
       "score": 70.0
     }
   ]
