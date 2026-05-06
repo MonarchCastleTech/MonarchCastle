@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-06T06:38:49.459930+00:00",
+  "fetched_at": "2026-05-06T09:32:49.843993+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 22,
+  "items_count": 20,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -70,8 +70,8 @@
     {
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
-      "status": "ok",
-      "items": 30
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "AllAfrica - Mali",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605060002.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-06T04:46:58+00:00",
-      "score": 5.61,
+      "score": 5.38,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,21 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
       "source": "UN News Africa",
       "published_at": "2026-05-05T12:00:00+00:00",
-      "score": 4.27,
+      "score": 4.04,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "UNICEF calls for the protection of children, schools and health facilities following deadly attacks in Mali",
+      "link": "https://reliefweb.int/report/mali/unicef-calls-protection-children-schools-and-health-facilities-following-deadly-attacks-mali",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-06T09:32:49.843993+00:00",
+      "score": 2.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,23 +140,9 @@
       "link": "https://allafrica.com/stories/202605060006.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-06T05:01:14+00:00",
-      "score": 1.64,
+      "score": 1.57,
       "tags": [
         "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Mali leader Assimi Go\u00efta assumes role of defence minister after attacks kill previous minister",
-      "link": "https://www.france24.com/en/africa/20260504-mali-leader-assimi-go%C3%AFta-assumes-role-of-defence-minister-after-attacks",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-04T15:01:57+00:00",
-      "score": 1.45,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
       ],
       "regions": [
         "mali"
@@ -152,7 +152,7 @@
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-06T06:38:49.459930+00:00",
+      "published_at": "2026-05-06T09:32:49.843993+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +165,7 @@
       "title": "Circulation routi\u00e8re : Quand la lumi\u00e8re s'\u00e9teint la nuit, que chacun allume son courage",
       "link": "https://lefaso.net/spip.php?article146268",
       "source": "LeFaso",
-      "published_at": "2026-05-06T06:38:49.459930+00:00",
+      "published_at": "2026-05-06T09:32:49.843993+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +179,7 @@
       "title": "Sant\u00e9 : Pied bot, vaincre les peurs et les croyances pour remettre les enfants debout",
       "link": "https://lefaso.net/spip.php?article146237",
       "source": "LeFaso",
-      "published_at": "2026-05-06T06:38:49.459930+00:00",
+      "published_at": "2026-05-06T09:32:49.843993+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -192,7 +192,7 @@
       "title": "R\u00e9gion des Kouls\u00e9 : Sous l'impulsion du PCRSS-Burkina, l'agriculture renforce la r\u00e9silience et rallume l'espoir",
       "link": "https://lefaso.net/spip.php?article146228",
       "source": "LeFaso",
-      "published_at": "2026-05-06T06:38:49.459930+00:00",
+      "published_at": "2026-05-06T09:32:49.843993+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-06T09:20:53.050139+00:00",
-      "score": 71.4
+      "timestamp": "2026-05-06T12:26:50.228056+00:00",
+      "score": 71.6
     },
     {
-      "timestamp": "2026-05-06T12:02:56.640348+00:00",
-      "score": 71.5
+      "timestamp": "2026-05-06T15:20:50.612119+00:00",
+      "score": 71.8
     },
     {
-      "timestamp": "2026-05-06T14:45:00.230557+00:00",
-      "score": 71.7
+      "timestamp": "2026-05-06T18:14:50.996182+00:00",
+      "score": 72.0
     },
     {
-      "timestamp": "2026-05-06T17:27:03.820766+00:00",
-      "score": 71.9
+      "timestamp": "2026-05-06T21:08:51.380245+00:00",
+      "score": 72.2
     },
     {
-      "timestamp": "2026-05-06T20:09:07.410975+00:00",
-      "score": 72.1
+      "timestamp": "2026-05-07T00:02:51.764308+00:00",
+      "score": 72.5
     },
     {
-      "timestamp": "2026-05-06T22:51:11.001184+00:00",
-      "score": 72.3
+      "timestamp": "2026-05-07T02:56:52.148371+00:00",
+      "score": 72.7
     }
   ]
 }
