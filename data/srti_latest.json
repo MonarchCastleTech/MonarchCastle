@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-07T00:00:03.925457+00:00",
+  "fetched_at": "2026-05-07T03:55:56.458364+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605060002.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-06T04:46:58+00:00",
-      "score": 4.22,
+      "score": 3.91,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
       "source": "UN News Africa",
       "published_at": "2026-05-05T12:00:00+00:00",
-      "score": 2.88,
+      "score": 2.57,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina/S\u00e9curit\u00e9 sociale : La CNSS D\u00e9dougou vulgarise ses offres de prestations sociales aupr\u00e8s des travailleurs de la SOFITEX",
       "link": "https://lefaso.net/spip.php?article146295",
       "source": "LeFaso",
-      "published_at": "2026-05-07T00:00:03.925457+00:00",
+      "published_at": "2026-05-07T03:55:56.458364+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-07T00:00:03.925457+00:00",
+      "published_at": "2026-05-07T03:55:56.458364+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "Circulation routi\u00e8re : Quand la lumi\u00e8re s'\u00e9teint la nuit, que chacun allume son courage",
       "link": "https://lefaso.net/spip.php?article146268",
       "source": "LeFaso",
-      "published_at": "2026-05-07T00:00:03.925457+00:00",
+      "published_at": "2026-05-07T03:55:56.458364+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +165,7 @@
       "title": "Sant\u00e9 : Pied bot, vaincre les peurs et les croyances pour remettre les enfants debout",
       "link": "https://lefaso.net/spip.php?article146237",
       "source": "LeFaso",
-      "published_at": "2026-05-07T00:00:03.925457+00:00",
+      "published_at": "2026-05-07T03:55:56.458364+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -178,7 +178,7 @@
       "title": "R\u00e9gion des Kouls\u00e9 : Sous l'impulsion du PCRSS-Burkina, l'agriculture renforce la r\u00e9silience et rallume l'espoir",
       "link": "https://lefaso.net/spip.php?article146228",
       "source": "LeFaso",
-      "published_at": "2026-05-07T00:00:03.925457+00:00",
+      "published_at": "2026-05-07T03:55:56.458364+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -193,7 +193,7 @@
       "title": "Burkina/Sant\u00e9 oculaire : Plus de 4 000 \u00e9l\u00e8ves cibl\u00e9s par une campagne de d\u00e9pistage \u00e0 Nioko 1",
       "link": "https://lefaso.net/spip.php?article146245",
       "source": "LeFaso",
-      "published_at": "2026-05-07T00:00:03.925457+00:00",
+      "published_at": "2026-05-07T03:55:56.458364+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -206,27 +206,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-07T00:56:41.883411+00:00",
+      "timestamp": "2026-05-07T07:51:48.991271+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T01:53:19.841365+00:00",
+      "timestamp": "2026-05-07T11:47:41.524178+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T02:49:57.799319+00:00",
+      "timestamp": "2026-05-07T15:43:34.057085+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T03:46:35.757273+00:00",
+      "timestamp": "2026-05-07T19:39:26.589992+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T04:43:13.715227+00:00",
+      "timestamp": "2026-05-07T23:35:19.122899+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T05:39:51.673181+00:00",
+      "timestamp": "2026-05-08T03:31:11.655806+00:00",
       "score": 70.0
     }
   ]
