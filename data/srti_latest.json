@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-07T16:59:35.844710+00:00",
+  "fetched_at": "2026-05-07T18:51:00.658635+00:00",
   "window_hours": 72,
-  "score": 70.0,
+  "score": 69.5,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 100.0,
+    "conflict_intensity": 99.0,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605060002.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-06T04:46:58+00:00",
-      "score": 2.86,
+      "score": 2.71,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -122,24 +122,10 @@
       ]
     },
     {
-      "title": "Burkina Faso's Junta Escalates Attack On Information",
-      "link": "https://allafrica.com/stories/202605070050.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-05-07T07:08:21+00:00",
-      "score": 1.45,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Burkina/S\u00e9curit\u00e9 sociale : La CNSS D\u00e9dougou vulgarise ses offres de prestations sociales aupr\u00e8s des travailleurs de la SOFITEX",
       "link": "https://lefaso.net/spip.php?article146295",
       "source": "LeFaso",
-      "published_at": "2026-05-07T16:59:35.844710+00:00",
+      "published_at": "2026-05-07T18:51:00.658635+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +138,7 @@
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-07T16:59:35.844710+00:00",
+      "published_at": "2026-05-07T18:51:00.658635+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +151,7 @@
       "title": "Circulation routi\u00e8re : Quand la lumi\u00e8re s'\u00e9teint la nuit, que chacun allume son courage",
       "link": "https://lefaso.net/spip.php?article146268",
       "source": "LeFaso",
-      "published_at": "2026-05-07T16:59:35.844710+00:00",
+      "published_at": "2026-05-07T18:51:00.658635+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +165,7 @@
       "title": "Sant\u00e9 : Pied bot, vaincre les peurs et les croyances pour remettre les enfants debout",
       "link": "https://lefaso.net/spip.php?article146237",
       "source": "LeFaso",
-      "published_at": "2026-05-07T16:59:35.844710+00:00",
+      "published_at": "2026-05-07T18:51:00.658635+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -192,7 +178,7 @@
       "title": "R\u00e9gion des Kouls\u00e9 : Sous l'impulsion du PCRSS-Burkina, l'agriculture renforce la r\u00e9silience et rallume l'espoir",
       "link": "https://lefaso.net/spip.php?article146228",
       "source": "LeFaso",
-      "published_at": "2026-05-07T16:59:35.844710+00:00",
+      "published_at": "2026-05-07T18:51:00.658635+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -202,32 +188,46 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "Burkina/Sant\u00e9 oculaire : Plus de 4 000 \u00e9l\u00e8ves cibl\u00e9s par une campagne de d\u00e9pistage \u00e0 Nioko 1",
+      "link": "https://lefaso.net/spip.php?article146245",
+      "source": "LeFaso",
+      "published_at": "2026-05-07T18:51:00.658635+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-07T19:18:14.125052+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-07T20:42:25.472560+00:00",
+      "score": 69.9
     },
     {
-      "timestamp": "2026-05-07T21:36:52.405394+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-07T22:33:50.286485+00:00",
+      "score": 69.9
     },
     {
-      "timestamp": "2026-05-07T23:55:30.685736+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-08T00:25:15.100410+00:00",
+      "score": 69.9
     },
     {
-      "timestamp": "2026-05-08T02:14:08.966078+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-08T02:16:39.914335+00:00",
+      "score": 69.9
     },
     {
-      "timestamp": "2026-05-08T04:32:47.246420+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-08T04:08:04.728260+00:00",
+      "score": 69.9
     },
     {
-      "timestamp": "2026-05-08T06:51:25.526762+00:00",
-      "score": 70.0
+      "timestamp": "2026-05-08T05:59:29.542185+00:00",
+      "score": 69.9
     }
   ]
 }
