@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-07T09:42:26.126611+00:00",
+  "fetched_at": "2026-05-07T11:57:23.513903+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 22,
+  "items_count": 21,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 30
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605060002.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-06T04:46:58+00:00",
-      "score": 3.45,
+      "score": 3.27,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
       "source": "UN News Africa",
       "published_at": "2026-05-05T12:00:00+00:00",
-      "score": 2.1,
+      "score": 2.02,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://allafrica.com/stories/202605070050.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-05-07T07:08:21+00:00",
-      "score": 1.62,
+      "score": 1.57,
       "tags": [
         "conflict_intensity"
       ],
@@ -139,7 +139,7 @@
       "title": "Burkina/S\u00e9curit\u00e9 sociale : La CNSS D\u00e9dougou vulgarise ses offres de prestations sociales aupr\u00e8s des travailleurs de la SOFITEX",
       "link": "https://lefaso.net/spip.php?article146295",
       "source": "LeFaso",
-      "published_at": "2026-05-07T09:42:26.126611+00:00",
+      "published_at": "2026-05-07T11:57:23.513903+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-07T09:42:26.126611+00:00",
+      "published_at": "2026-05-07T11:57:23.513903+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +165,7 @@
       "title": "Circulation routi\u00e8re : Quand la lumi\u00e8re s'\u00e9teint la nuit, que chacun allume son courage",
       "link": "https://lefaso.net/spip.php?article146268",
       "source": "LeFaso",
-      "published_at": "2026-05-07T09:42:26.126611+00:00",
+      "published_at": "2026-05-07T11:57:23.513903+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +179,7 @@
       "title": "Sant\u00e9 : Pied bot, vaincre les peurs et les croyances pour remettre les enfants debout",
       "link": "https://lefaso.net/spip.php?article146237",
       "source": "LeFaso",
-      "published_at": "2026-05-07T09:42:26.126611+00:00",
+      "published_at": "2026-05-07T11:57:23.513903+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -192,7 +192,7 @@
       "title": "R\u00e9gion des Kouls\u00e9 : Sous l'impulsion du PCRSS-Burkina, l'agriculture renforce la r\u00e9silience et rallume l'espoir",
       "link": "https://lefaso.net/spip.php?article146228",
       "source": "LeFaso",
-      "published_at": "2026-05-07T09:42:26.126611+00:00",
+      "published_at": "2026-05-07T11:57:23.513903+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -206,27 +206,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-07T12:38:16.873276+00:00",
+      "timestamp": "2026-05-07T14:12:20.901195+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T15:34:07.619941+00:00",
+      "timestamp": "2026-05-07T16:27:18.288487+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T18:29:58.366606+00:00",
+      "timestamp": "2026-05-07T18:42:15.675779+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-07T21:25:49.113271+00:00",
+      "timestamp": "2026-05-07T20:57:13.063071+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-08T00:21:39.859936+00:00",
+      "timestamp": "2026-05-07T23:12:10.450363+00:00",
       "score": 70.0
     },
     {
-      "timestamp": "2026-05-08T03:17:30.606601+00:00",
+      "timestamp": "2026-05-08T01:27:07.837655+00:00",
       "score": 70.0
     }
   ]
