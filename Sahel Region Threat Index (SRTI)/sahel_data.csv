@@ -330,3 +330,4 @@ fetched_at,published_at,source,title,link,regions,tags,score
 2026-05-08T09:47:38.689291+00:00,2026-05-08T09:47:38.689291+00:00,France 24 - Africa,Al-Qaeda-linked attacks in central Mali kill more than 30 people,,mali,conflict_intensity,0.98
 2026-05-08T09:47:38.689291+00:00,2026-05-08T09:47:38.689291+00:00,France 24 - Africa,Nigeria to evacuate citizens from South Africa after attacks,,niger,conflict_intensity,0.98
 2026-05-08T14:09:36.975620+00:00,2026-05-08T14:09:36.975620+00:00,LeFaso,Burkina / Leo Club Ouagadougou Reflets : Une journée de sensibilisation au profit des élèves du lycée municipal Bambata,https://lefaso.net/spip.php?article146352,"burkina,ouagadougou",civilian_risk,1.44
+2026-05-08T18:17:44.049917+00:00,2026-05-08T12:00:00+00:00,UN News Africa,Somalia teeters on the brink of catastrophe as hunger crisis deepens,https://news.un.org/feed/view/en/story/2026/05/1167473,mali,conflict_intensity,0.77
