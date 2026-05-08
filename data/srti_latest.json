@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-08T03:47:59.474650+00:00",
+  "fetched_at": "2026-05-08T06:05:05.543048+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -11,7 +11,7 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 16,
+  "items_count": 14,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260508-al-qaeda-linked-attacks-in-central-mali-kill-more-than-30-people",
       "source": "France 24 - Africa",
       "published_at": "2026-05-08T01:24:29+00:00",
-      "score": 4.06,
+      "score": 3.93,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Burkina/S\u00e9curit\u00e9 sociale : La CNSS D\u00e9dougou vulgarise ses offres de prestations sociales aupr\u00e8s des travailleurs de la SOFITEX",
       "link": "https://lefaso.net/spip.php?article146295",
       "source": "LeFaso",
-      "published_at": "2026-05-08T03:47:59.474650+00:00",
+      "published_at": "2026-05-08T06:05:05.543048+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-08T03:47:59.474650+00:00",
+      "published_at": "2026-05-08T06:05:05.543048+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +165,7 @@
       "title": "Circulation routi\u00e8re : Quand la lumi\u00e8re s'\u00e9teint la nuit, que chacun allume son courage",
       "link": "https://lefaso.net/spip.php?article146268",
       "source": "LeFaso",
-      "published_at": "2026-05-08T03:47:59.474650+00:00",
+      "published_at": "2026-05-08T06:05:05.543048+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -180,7 +180,7 @@
       "link": "https://allafrica.com/stories/202605070050.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-05-07T07:08:21+00:00",
-      "score": 1.2,
+      "score": 1.14,
       "tags": [
         "conflict_intensity"
       ],
@@ -190,13 +190,14 @@
       ]
     },
     {
-      "title": "Mali, Russia, and the Collapse of Illusion",
-      "link": "https://allafrica.com/stories/202605070481.html",
+      "title": "Mali's Leader Assumes Defense Role After Minister Was Killed in Bombing",
+      "link": "https://allafrica.com/stories/202605050097.html",
       "source": "AllAfrica - Mali",
-      "published_at": "2026-05-07T13:55:15+00:00",
-      "score": 0.68,
+      "published_at": "2026-05-05T06:38:33+00:00",
+      "score": 0.67,
       "tags": [
-        "conflict_intensity"
+        "conflict_intensity",
+        "civilian_risk"
       ],
       "regions": [
         "mali"
@@ -205,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-08T07:34:10.586415+00:00",
+      "timestamp": "2026-05-08T08:22:11.611446+00:00",
+      "score": 68.2
+    },
+    {
+      "timestamp": "2026-05-08T10:39:17.679844+00:00",
+      "score": 68.1
+    },
+    {
+      "timestamp": "2026-05-08T12:56:23.748242+00:00",
       "score": 68.0
     },
     {
-      "timestamp": "2026-05-08T11:20:21.698180+00:00",
+      "timestamp": "2026-05-08T15:13:29.816640+00:00",
       "score": 67.9
     },
     {
-      "timestamp": "2026-05-08T15:06:32.809945+00:00",
+      "timestamp": "2026-05-08T17:30:35.885038+00:00",
       "score": 67.8
     },
     {
-      "timestamp": "2026-05-08T18:52:43.921710+00:00",
+      "timestamp": "2026-05-08T19:47:41.953436+00:00",
       "score": 67.7
-    },
-    {
-      "timestamp": "2026-05-08T22:38:55.033475+00:00",
-      "score": 67.6
-    },
-    {
-      "timestamp": "2026-05-09T02:25:06.145240+00:00",
-      "score": 67.5
     }
   ]
 }
