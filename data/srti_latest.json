@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-08T11:26:07.304171+00:00",
+  "fetched_at": "2026-05-08T14:09:36.975620+00:00",
   "window_hours": 72,
-  "score": 70.0,
+  "score": 63.0,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 100.0,
+    "conflict_intensity": 86.1,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 14,
+  "items_count": 13,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 97
     },
     {
       "name": "ActuNiger",
@@ -98,21 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260508-al-qaeda-linked-attacks-in-central-mali-kill-more-than-30-people",
       "source": "France 24 - Africa",
       "published_at": "2026-05-08T01:24:29+00:00",
-      "score": 3.62,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "UN warns of worsening human rights crisis in Mali after deadly attacks",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167441",
-      "source": "UN News Africa",
-      "published_at": "2026-05-05T12:00:00+00:00",
-      "score": 2.02,
+      "score": 3.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +126,7 @@
       "link": "https://www.bbc.com/news/articles/c5yeg0rkdkxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-08T07:15:49+00:00",
-      "score": 1.81,
+      "score": 1.74,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -150,10 +136,24 @@
       ]
     },
     {
+      "title": "Burkina / Leo Club Ouagadougou Reflets : Une journ\u00e9e de sensibilisation au profit des \u00e9l\u00e8ves du lyc\u00e9e municipal Bambata",
+      "link": "https://lefaso.net/spip.php?article146352",
+      "source": "LeFaso",
+      "published_at": "2026-05-08T14:09:36.975620+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Burkina/S\u00e9curit\u00e9 sociale : La CNSS D\u00e9dougou vulgarise ses offres de prestations sociales aupr\u00e8s des travailleurs de la SOFITEX",
       "link": "https://lefaso.net/spip.php?article146295",
       "source": "LeFaso",
-      "published_at": "2026-05-08T11:26:07.304171+00:00",
+      "published_at": "2026-05-08T14:09:36.975620+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -166,7 +166,7 @@
       "title": "R\u00e9gion du Nakamb\u00e9 : Des leaders coutumiers et religieux s'engagent en faveur de la scolarisation et du maintien des filles \u00e0 l'\u00e9cole",
       "link": "https://lefaso.net/spip.php?article146259",
       "source": "LeFaso",
-      "published_at": "2026-05-08T11:26:07.304171+00:00",
+      "published_at": "2026-05-08T14:09:36.975620+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +179,7 @@
       "title": "Circulation routi\u00e8re : Quand la lumi\u00e8re s'\u00e9teint la nuit, que chacun allume son courage",
       "link": "https://lefaso.net/spip.php?article146268",
       "source": "LeFaso",
-      "published_at": "2026-05-08T11:26:07.304171+00:00",
+      "published_at": "2026-05-08T14:09:36.975620+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -194,7 +194,7 @@
       "link": "https://allafrica.com/stories/202605070050.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-05-07T07:08:21+00:00",
-      "score": 1.02,
+      "score": 0.96,
       "tags": [
         "conflict_intensity"
       ],
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-08T13:04:35.919051+00:00",
-      "score": 67.7
+      "timestamp": "2026-05-08T16:53:06.647069+00:00",
+      "score": 66.7
     },
     {
-      "timestamp": "2026-05-08T14:43:04.533931+00:00",
-      "score": 67.6
+      "timestamp": "2026-05-08T19:36:36.318518+00:00",
+      "score": 66.6
     },
     {
-      "timestamp": "2026-05-08T16:21:33.148811+00:00",
-      "score": 67.5
+      "timestamp": "2026-05-08T22:20:05.989967+00:00",
+      "score": 66.4
     },
     {
-      "timestamp": "2026-05-08T18:00:01.763691+00:00",
-      "score": 67.3
+      "timestamp": "2026-05-09T01:03:35.661416+00:00",
+      "score": 66.2
     },
     {
-      "timestamp": "2026-05-08T19:38:30.378571+00:00",
-      "score": 67.2
+      "timestamp": "2026-05-09T03:47:05.332865+00:00",
+      "score": 66.1
     },
     {
-      "timestamp": "2026-05-08T21:16:58.993451+00:00",
-      "score": 67.1
+      "timestamp": "2026-05-09T06:30:35.004314+00:00",
+      "score": 65.9
     }
   ]
 }
