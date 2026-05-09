@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-09T22:57:31.026156+00:00",
+  "fetched_at": "2026-05-09T23:57:31.794165+00:00",
   "window_hours": 72,
-  "score": 38.1,
+  "score": 37.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 46.7,
-    "civilian_risk": 73.7
+    "conflict_intensity": 45.9,
+    "civilian_risk": 73.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260508-al-qaeda-linked-attacks-in-central-mali-kill-more-than-30-people",
       "source": "France 24 - Africa",
       "published_at": "2026-05-08T01:24:29+00:00",
-      "score": 1.54,
+      "score": 1.48,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Production de ma\u00efs : Le minist\u00e8re de l'Agriculture et la BRAKINA misent sur une vari\u00e9t\u00e9 \u00e0 faible teneur en aflatoxines",
       "link": "https://lefaso.net/spip.php?article146369",
       "source": "LeFaso",
-      "published_at": "2026-05-09T22:57:31.026156+00:00",
+      "published_at": "2026-05-09T23:57:31.794165+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina/Sant\u00e9 : Une campagne de chirurgie orthop\u00e9dique redonne espoir \u00e0 des patients au CHR de Banfora",
       "link": "https://lefaso.net/spip.php?article146362",
       "source": "LeFaso",
-      "published_at": "2026-05-09T22:57:31.026156+00:00",
+      "published_at": "2026-05-09T23:57:31.794165+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina / Leo Club Ouagadougou Reflets : Une journ\u00e9e de sensibilisation au profit des \u00e9l\u00e8ves du lyc\u00e9e municipal Bambata",
       "link": "https://lefaso.net/spip.php?article146352",
       "source": "LeFaso",
-      "published_at": "2026-05-09T22:57:31.026156+00:00",
+      "published_at": "2026-05-09T23:57:31.794165+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "Op\u00e9ration contre faux m\u00e9dicaments dans 90 pays : Le Burkina fait la plus forte saisie africaine, les m\u00e9dicaments contre les troubles de l'\u00e9rection en t\u00eate de liste",
       "link": "https://lefaso.net/spip.php?article146377",
       "source": "LeFaso",
-      "published_at": "2026-05-09T22:57:31.026156+00:00",
+      "published_at": "2026-05-09T23:57:31.794165+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -166,7 +166,7 @@
       "link": "https://www.bbc.com/news/articles/c5yeg0rkdkxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-08T07:15:49+00:00",
-      "score": 0.86,
+      "score": 0.83,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -194,7 +194,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/05/1167473",
       "source": "UN News Africa",
       "published_at": "2026-05-08T12:00:00+00:00",
-      "score": 0.43,
+      "score": 0.42,
       "tags": [
         "conflict_intensity"
       ],
@@ -205,28 +205,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-09T23:59:25.973053+00:00",
-      "score": 33.4
+      "timestamp": "2026-05-10T00:57:32.562174+00:00",
+      "score": 32.2
     },
     {
-      "timestamp": "2026-05-10T01:01:20.919950+00:00",
-      "score": 31.7
+      "timestamp": "2026-05-10T01:57:33.330183+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-05-10T02:03:15.866847+00:00",
-      "score": 30.1
+      "timestamp": "2026-05-10T02:57:34.098192+00:00",
+      "score": 29.0
     },
     {
-      "timestamp": "2026-05-10T03:05:10.813744+00:00",
-      "score": 28.5
+      "timestamp": "2026-05-10T03:57:34.866201+00:00",
+      "score": 27.4
     },
     {
-      "timestamp": "2026-05-10T04:07:05.760641+00:00",
-      "score": 26.9
+      "timestamp": "2026-05-10T04:57:35.634210+00:00",
+      "score": 25.8
     },
     {
-      "timestamp": "2026-05-10T05:09:00.707538+00:00",
-      "score": 25.2
+      "timestamp": "2026-05-10T05:57:36.402219+00:00",
+      "score": 24.2
     }
   ]
 }
