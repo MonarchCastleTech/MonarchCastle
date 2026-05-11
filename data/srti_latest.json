@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-11T08:30:47.608401+00:00",
+  "fetched_at": "2026-05-11T12:18:55.680443+00:00",
   "window_hours": 72,
-  "score": 39.6,
+  "score": 37.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 39.3,
+    "conflict_intensity": 33.9,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60
+      "items": 58
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260510-dozens-killed-in-jihadist-attacks-in-central-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-05-10T06:02:45+00:00",
-      "score": 3.45,
+      "score": 3.16,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202605110052.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-11T05:23:19+00:00",
-      "score": 2.07,
+      "score": 1.95,
       "tags": [
         "civilian_risk"
       ],
@@ -124,7 +124,7 @@
       "title": "R\u00e9publique populaire de Chine : Deux anciens ministres de la d\u00e9fense condamn\u00e9s \u00e0 mort pour corruption",
       "link": "https://lefaso.net/spip.php?article146388",
       "source": "LeFaso",
-      "published_at": "2026-05-11T08:30:47.608401+00:00",
+      "published_at": "2026-05-11T12:18:55.680443+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Production de ma\u00efs : Le minist\u00e8re de l'Agriculture et la BRAKINA misent sur une vari\u00e9t\u00e9 \u00e0 faible teneur en aflatoxines",
       "link": "https://lefaso.net/spip.php?article146369",
       "source": "LeFaso",
-      "published_at": "2026-05-11T08:30:47.608401+00:00",
+      "published_at": "2026-05-11T12:18:55.680443+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,7 +148,7 @@
       "title": "Burkina/Sant\u00e9 : Une campagne de chirurgie orthop\u00e9dique redonne espoir \u00e0 des patients au CHR de Banfora",
       "link": "https://lefaso.net/spip.php?article146362",
       "source": "LeFaso",
-      "published_at": "2026-05-11T08:30:47.608401+00:00",
+      "published_at": "2026-05-11T12:18:55.680443+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -161,7 +161,7 @@
       "title": "Burkina / Leo Club Ouagadougou Reflets : Une journ\u00e9e de sensibilisation au profit des \u00e9l\u00e8ves du lyc\u00e9e municipal Bambata",
       "link": "https://lefaso.net/spip.php?article146352",
       "source": "LeFaso",
-      "published_at": "2026-05-11T08:30:47.608401+00:00",
+      "published_at": "2026-05-11T12:18:55.680443+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -175,7 +175,7 @@
       "title": "Op\u00e9ration contre faux m\u00e9dicaments dans 90 pays : Le Burkina fait la plus forte saisie africaine, les m\u00e9dicaments contre les troubles de l'\u00e9rection en t\u00eate de liste",
       "link": "https://lefaso.net/spip.php?article146377",
       "source": "LeFaso",
-      "published_at": "2026-05-11T08:30:47.608401+00:00",
+      "published_at": "2026-05-11T12:18:55.680443+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -184,45 +184,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "Somalia teeters on the brink of catastrophe as hunger crisis deepens",
-      "link": "https://news.un.org/feed/view/en/story/2026/05/1167473",
-      "source": "UN News Africa",
-      "published_at": "2026-05-08T12:00:00+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-11T12:44:17.601939+00:00",
-      "score": 50.9
+      "timestamp": "2026-05-11T16:07:03.752485+00:00",
+      "score": 49.4
     },
     {
-      "timestamp": "2026-05-11T16:57:47.595477+00:00",
-      "score": 51.2
+      "timestamp": "2026-05-11T19:55:11.824527+00:00",
+      "score": 49.6
     },
     {
-      "timestamp": "2026-05-11T21:11:17.589015+00:00",
-      "score": 51.6
+      "timestamp": "2026-05-11T23:43:19.896569+00:00",
+      "score": 49.8
     },
     {
-      "timestamp": "2026-05-12T01:24:47.582553+00:00",
-      "score": 51.9
+      "timestamp": "2026-05-12T03:31:27.968611+00:00",
+      "score": 50.0
     },
     {
-      "timestamp": "2026-05-12T05:38:17.576091+00:00",
-      "score": 52.2
+      "timestamp": "2026-05-12T07:19:36.040653+00:00",
+      "score": 50.3
     },
     {
-      "timestamp": "2026-05-12T09:51:47.569629+00:00",
-      "score": 52.5
+      "timestamp": "2026-05-12T11:07:44.112695+00:00",
+      "score": 50.5
     }
   ]
 }
