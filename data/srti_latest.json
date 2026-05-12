@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-12T10:42:49.430573+00:00",
+  "fetched_at": "2026-05-12T13:09:22.479481+00:00",
   "window_hours": 72,
-  "score": 33.6,
+  "score": 26.3,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 42.6,
-    "civilian_risk": 61.7
+    "conflict_intensity": 28.5,
+    "civilian_risk": 60.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 47
+      "items": 46
     },
     {
       "name": "ActuNiger",
@@ -71,7 +71,7 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 30
+      "items": 29
     },
     {
       "name": "AllAfrica - Mali",
@@ -111,7 +111,7 @@
       "title": "R\u00e9publique populaire de Chine : Deux anciens ministres de la d\u00e9fense condamn\u00e9s \u00e0 mort pour corruption",
       "link": "https://lefaso.net/spip.php?article146388",
       "source": "LeFaso",
-      "published_at": "2026-05-12T10:42:49.430573+00:00",
+      "published_at": "2026-05-12T13:09:22.479481+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "link": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-11T16:30:04+00:00",
-      "score": 1.43,
+      "score": 1.37,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -137,7 +137,7 @@
       "link": "https://allafrica.com/stories/202605110052.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-11T05:23:19+00:00",
-      "score": 1.28,
+      "score": 1.21,
       "tags": [
         "civilian_risk"
       ],
@@ -146,25 +146,11 @@
       ]
     },
     {
-      "title": "Op\u00e9ration contre faux m\u00e9dicaments dans 90 pays : Le Burkina fait la plus forte saisie africaine, les m\u00e9dicaments contre les troubles de l'\u00e9rection en t\u00eate de liste",
-      "link": "https://lefaso.net/spip.php?article146377",
-      "source": "LeFaso",
-      "published_at": "2026-05-12T10:42:49.430573+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "'Sovereignty Will Be Consolidated', Reiterates Malian President After 'Foreign-Sponsored' Terror Attacks in Six Cities",
       "link": "https://allafrica.com/stories/202605120039.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-12T05:20:52+00:00",
-      "score": 0.78,
+      "score": 0.75,
       "tags": [
         "conflict_intensity"
       ],
@@ -175,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-12T13:35:31.037648+00:00",
-      "score": 30.3
+      "timestamp": "2026-05-12T15:35:55.528389+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-05-12T16:28:12.644723+00:00",
-      "score": 29.1
+      "timestamp": "2026-05-12T18:02:28.577297+00:00",
+      "score": 27.2
     },
     {
-      "timestamp": "2026-05-12T19:20:54.251798+00:00",
-      "score": 27.9
+      "timestamp": "2026-05-12T20:29:01.626205+00:00",
+      "score": 26.0
     },
     {
-      "timestamp": "2026-05-12T22:13:35.858873+00:00",
-      "score": 26.7
+      "timestamp": "2026-05-12T22:55:34.675113+00:00",
+      "score": 24.8
     },
     {
-      "timestamp": "2026-05-13T01:06:17.465948+00:00",
-      "score": 25.5
+      "timestamp": "2026-05-13T01:22:07.724021+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-05-13T03:58:59.073023+00:00",
-      "score": 24.3
+      "timestamp": "2026-05-13T03:48:40.772929+00:00",
+      "score": 22.3
     }
   ]
 }
