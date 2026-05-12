@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-12T16:27:18.460861+00:00",
+  "fetched_at": "2026-05-12T19:03:21.626321+00:00",
   "window_hours": 72,
-  "score": 25.4,
+  "score": 24.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 27.6,
-    "civilian_risk": 58.1
+    "conflict_intensity": 26.9,
+    "civilian_risk": 56.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 52
+      "items": 55
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 26
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -111,7 +111,7 @@
       "title": "R\u00e9publique populaire de Chine : Deux anciens ministres de la d\u00e9fense condamn\u00e9s \u00e0 mort pour corruption",
       "link": "https://lefaso.net/spip.php?article146388",
       "source": "LeFaso",
-      "published_at": "2026-05-12T16:27:18.460861+00:00",
+      "published_at": "2026-05-12T19:03:21.626321+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "link": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-11T16:30:04+00:00",
-      "score": 1.28,
+      "score": 1.21,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -137,7 +137,7 @@
       "link": "https://allafrica.com/stories/202605110052.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-11T05:23:19+00:00",
-      "score": 1.11,
+      "score": 1.03,
       "tags": [
         "civilian_risk"
       ],
@@ -150,7 +150,7 @@
       "link": "https://allafrica.com/stories/202605120039.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-12T05:20:52+00:00",
-      "score": 0.71,
+      "score": 0.68,
       "tags": [
         "conflict_intensity"
       ],
@@ -161,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-12T19:45:14.442241+00:00",
-      "score": 26.4
+      "timestamp": "2026-05-12T21:39:24.791781+00:00",
+      "score": 24.6
     },
     {
-      "timestamp": "2026-05-12T23:03:10.423621+00:00",
-      "score": 25.2
+      "timestamp": "2026-05-13T00:15:27.957241+00:00",
+      "score": 23.3
     },
     {
-      "timestamp": "2026-05-13T02:21:06.405001+00:00",
-      "score": 23.9
+      "timestamp": "2026-05-13T02:51:31.122701+00:00",
+      "score": 22.0
     },
     {
-      "timestamp": "2026-05-13T05:39:02.386381+00:00",
-      "score": 22.6
+      "timestamp": "2026-05-13T05:27:34.288161+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-05-13T08:56:58.367761+00:00",
-      "score": 21.3
+      "timestamp": "2026-05-13T08:03:37.453621+00:00",
+      "score": 19.3
     },
     {
-      "timestamp": "2026-05-13T12:14:54.349141+00:00",
-      "score": 20.0
+      "timestamp": "2026-05-13T10:39:40.619081+00:00",
+      "score": 17.9
     }
   ]
 }

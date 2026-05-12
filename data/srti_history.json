@@ -1,15 +1,5 @@
 [
   {
-    "timestamp": "2026-03-21T20:38:06.177618+00:00",
-    "score": 26.0,
-    "risk_level": "GUARDED",
-    "components": {
-      "conflict_intensity": 32.5,
-      "civilian_risk": 48.8
-    },
-    "items": 3
-  },
-  {
     "timestamp": "2026-03-21T21:34:04.884297+00:00",
     "score": 25.7,
     "risk_level": "GUARDED",
@@ -7196,6 +7186,16 @@
     "components": {
       "conflict_intensity": 27.6,
       "civilian_risk": 58.1
+    },
+    "items": 5
+  },
+  {
+    "timestamp": "2026-05-12T19:03:21.626321+00:00",
+    "score": 24.8,
+    "risk_level": "GUARDED",
+    "components": {
+      "conflict_intensity": 26.9,
+      "civilian_risk": 56.5
     },
     "items": 5
   }
