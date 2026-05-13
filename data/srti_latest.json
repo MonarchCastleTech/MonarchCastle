@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-13T17:21:17.426221+00:00",
+  "fetched_at": "2026-05-13T20:05:21.241101+00:00",
   "window_hours": 72,
-  "score": 13.0,
+  "score": 12.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 13.7,
+    "conflict_intensity": 12.9,
     "civilian_risk": 30.7
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "R\u00e9publique populaire de Chine : Deux anciens ministres de la d\u00e9fense condamn\u00e9s \u00e0 mort pour corruption",
       "link": "https://lefaso.net/spip.php?article146388",
       "source": "LeFaso",
-      "published_at": "2026-05-13T17:21:17.426221+00:00",
+      "published_at": "2026-05-13T20:05:21.241101+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "link": "https://allafrica.com/stories/202605130095.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-13T07:14:21+00:00",
-      "score": 0.72,
+      "score": 0.69,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,7 +135,7 @@
       "link": "https://allafrica.com/stories/202605120039.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-12T05:20:52+00:00",
-      "score": 0.42,
+      "score": 0.39,
       "tags": [
         "conflict_intensity"
       ],
@@ -146,28 +146,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-13T19:49:01.182286+00:00",
-      "score": 14.0
+      "timestamp": "2026-05-13T22:49:25.055981+00:00",
+      "score": 12.7
     },
     {
-      "timestamp": "2026-05-13T22:16:44.938351+00:00",
-      "score": 12.6
+      "timestamp": "2026-05-14T01:33:28.870861+00:00",
+      "score": 11.3
     },
     {
-      "timestamp": "2026-05-14T00:44:28.694416+00:00",
-      "score": 11.2
+      "timestamp": "2026-05-14T04:17:32.685741+00:00",
+      "score": 10.0
     },
     {
-      "timestamp": "2026-05-14T03:12:12.450481+00:00",
-      "score": 9.9
+      "timestamp": "2026-05-14T07:01:36.500621+00:00",
+      "score": 8.6
     },
     {
-      "timestamp": "2026-05-14T05:39:56.206546+00:00",
-      "score": 8.5
+      "timestamp": "2026-05-14T09:45:40.315501+00:00",
+      "score": 7.3
     },
     {
-      "timestamp": "2026-05-14T08:07:39.962611+00:00",
-      "score": 7.2
+      "timestamp": "2026-05-14T12:29:44.130381+00:00",
+      "score": 6.0
     }
   ]
 }
