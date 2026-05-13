@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-13T04:55:12.633433+00:00",
+  "fetched_at": "2026-05-13T08:05:48.095132+00:00",
   "window_hours": 72,
-  "score": 22.2,
-  "risk_level": "GUARDED",
+  "score": 17.9,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 24.1,
-    "civilian_risk": 50.6
+    "conflict_intensity": 20.8,
+    "civilian_risk": 37.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Dozens killed in jihadist attacks in central Mali",
-      "link": "https://www.france24.com/en/africa/20260510-dozens-killed-in-jihadist-attacks-in-central-mali",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-10T06:02:45+00:00",
-      "score": 1.91,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "R\u00e9publique populaire de Chine : Deux anciens ministres de la d\u00e9fense condamn\u00e9s \u00e0 mort pour corruption",
       "link": "https://lefaso.net/spip.php?article146388",
       "source": "LeFaso",
-      "published_at": "2026-05-13T04:55:12.633433+00:00",
+      "published_at": "2026-05-13T08:05:48.095132+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,13 +109,26 @@
       "link": "https://www.bbc.com/news/articles/cr5p85v446ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-11T16:30:04+00:00",
-      "score": 0.95,
+      "score": 0.86,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
       ],
       "regions": [
         "niger"
+      ]
+    },
+    {
+      "title": "Thousands of Malians Demonstrate in Support of the Government's Fight Against Terror Groups",
+      "link": "https://allafrica.com/stories/202605130095.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-05-13T07:14:21+00:00",
+      "score": 0.83,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
       ]
     },
     {
@@ -150,7 +149,7 @@
       "link": "https://allafrica.com/stories/202605120039.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-12T05:20:52+00:00",
-      "score": 0.56,
+      "score": 0.53,
       "tags": [
         "conflict_intensity"
       ],
@@ -161,28 +160,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-13T09:40:34.231355+00:00",
-      "score": 20.2
+      "timestamp": "2026-05-13T11:16:23.556831+00:00",
+      "score": 18.4
     },
     {
-      "timestamp": "2026-05-13T14:25:55.829277+00:00",
-      "score": 18.9
+      "timestamp": "2026-05-13T14:26:59.018530+00:00",
+      "score": 17.1
     },
     {
-      "timestamp": "2026-05-13T19:11:17.427199+00:00",
-      "score": 17.5
+      "timestamp": "2026-05-13T17:37:34.480229+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-05-13T23:56:39.025121+00:00",
-      "score": 16.2
+      "timestamp": "2026-05-13T20:48:09.941928+00:00",
+      "score": 14.4
     },
     {
-      "timestamp": "2026-05-14T04:42:00.623043+00:00",
-      "score": 14.9
+      "timestamp": "2026-05-13T23:58:45.403627+00:00",
+      "score": 13.0
     },
     {
-      "timestamp": "2026-05-14T09:27:22.220965+00:00",
-      "score": 13.6
+      "timestamp": "2026-05-14T03:09:20.865326+00:00",
+      "score": 11.6
     }
   ]
 }
