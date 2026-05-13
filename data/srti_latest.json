@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-13T11:34:07.790206+00:00",
+  "fetched_at": "2026-05-13T14:53:33.670156+00:00",
   "window_hours": 72,
-  "score": 21.3,
-  "risk_level": "GUARDED",
+  "score": 13.3,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 30.4,
+    "conflict_intensity": 14.4,
     "civilian_risk": 30.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -97,38 +97,12 @@
       "title": "R\u00e9publique populaire de Chine : Deux anciens ministres de la d\u00e9fense condamn\u00e9s \u00e0 mort pour corruption",
       "link": "https://lefaso.net/spip.php?article146388",
       "source": "LeFaso",
-      "published_at": "2026-05-13T11:34:07.790206+00:00",
+      "published_at": "2026-05-13T14:53:33.670156+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": []
-    },
-    {
-      "title": "Mali: Humanitarian situation following the attacks on 25 April 2026",
-      "link": "https://reliefweb.int/report/mali/mali-humanitarian-situation-following-attacks-25-april-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-05-13T11:34:07.790206+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Thousands of Malians Demonstrate in Support of the Government's Fight Against Terror Groups",
-      "link": "https://allafrica.com/stories/202605130095.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-05-13T07:14:21+00:00",
-      "score": 0.79,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
     },
     {
       "title": "Malian Filmmaker Captures Disappearing Tuareg Culture and Traditions",
@@ -144,11 +118,24 @@
       ]
     },
     {
+      "title": "Thousands of Malians Demonstrate in Support of the Government's Fight Against Terror Groups",
+      "link": "https://allafrica.com/stories/202605130095.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-05-13T07:14:21+00:00",
+      "score": 0.75,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "'Sovereignty Will Be Consolidated', Reiterates Malian President After 'Foreign-Sponsored' Terror Attacks in Six Cities",
       "link": "https://allafrica.com/stories/202605120039.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-12T05:20:52+00:00",
-      "score": 0.49,
+      "score": 0.45,
       "tags": [
         "conflict_intensity"
       ],
@@ -159,28 +146,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-13T15:02:27.485280+00:00",
-      "score": 17.5
+      "timestamp": "2026-05-13T18:12:59.550106+00:00",
+      "score": 15.6
     },
     {
-      "timestamp": "2026-05-13T18:30:47.180354+00:00",
-      "score": 16.2
+      "timestamp": "2026-05-13T21:32:25.430056+00:00",
+      "score": 14.2
     },
     {
-      "timestamp": "2026-05-13T21:59:06.875428+00:00",
-      "score": 14.9
+      "timestamp": "2026-05-14T00:51:51.310006+00:00",
+      "score": 12.9
     },
     {
-      "timestamp": "2026-05-14T01:27:26.570502+00:00",
-      "score": 13.5
+      "timestamp": "2026-05-14T04:11:17.189956+00:00",
+      "score": 11.5
     },
     {
-      "timestamp": "2026-05-14T04:55:46.265576+00:00",
-      "score": 12.2
+      "timestamp": "2026-05-14T07:30:43.069906+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-05-14T08:24:05.960650+00:00",
-      "score": 10.9
+      "timestamp": "2026-05-14T10:50:08.949856+00:00",
+      "score": 8.8
     }
   ]
 }
