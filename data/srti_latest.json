@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-14T10:28:33.130899+00:00",
+  "fetched_at": "2026-05-14T12:59:53.038846+00:00",
   "window_hours": 72,
-  "score": 25.6,
+  "score": 36.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 51.2,
-    "civilian_risk": 0.0
+    "conflict_intensity": 64.9,
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 83
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605140003.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-14T05:02:36+00:00",
-      "score": 2.33,
+      "score": 2.24,
       "tags": [
         "conflict_intensity"
       ],
@@ -108,10 +108,37 @@
       ]
     },
     {
+      "title": "Burkina/Sant\u00e9 oculaire : 3825 \u00e9l\u00e8ves d\u00e9pist\u00e9s \u00e0 quelques heures de la fin de la \u00ab campagne ma vision \u00bb initi\u00e9e par la Fondation BOA",
+      "link": "https://lefaso.net/spip.php?article146481",
+      "source": "LeFaso",
+      "published_at": "2026-05-14T12:59:53.038846+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
+      "title": "Mali: Humanitarian situation following the attacks on 25 April 2026",
+      "link": "https://reliefweb.int/report/mali/mali-humanitarian-situation-following-attacks-25-april-2026",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-14T12:59:53.038846+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Fada N'Gourma : Des engins saisis bient\u00f4t vendus aux ench\u00e8res, les propri\u00e9taires invit\u00e9s \u00e0 se manifester",
       "link": "https://lefaso.net/spip.php?article146469",
       "source": "LeFaso",
-      "published_at": "2026-05-14T10:28:33.130899+00:00",
+      "published_at": "2026-05-14T12:59:53.038846+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +152,7 @@
       "link": "https://allafrica.com/stories/202605130095.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-13T07:14:21+00:00",
-      "score": 0.52,
+      "score": 0.49,
       "tags": [
         "conflict_intensity"
       ],
@@ -149,28 +176,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-14T13:07:00.764525+00:00",
-      "score": 14.3
+      "timestamp": "2026-05-14T15:31:12.946793+00:00",
+      "score": 17.6
     },
     {
-      "timestamp": "2026-05-14T15:45:28.398151+00:00",
-      "score": 13.4
+      "timestamp": "2026-05-14T18:02:32.854740+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-05-14T18:23:56.031777+00:00",
-      "score": 12.6
+      "timestamp": "2026-05-14T20:33:52.762687+00:00",
+      "score": 16.4
     },
     {
-      "timestamp": "2026-05-14T21:02:23.665403+00:00",
-      "score": 11.7
+      "timestamp": "2026-05-14T23:05:12.670634+00:00",
+      "score": 15.8
     },
     {
-      "timestamp": "2026-05-14T23:40:51.299029+00:00",
-      "score": 10.8
+      "timestamp": "2026-05-15T01:36:32.578581+00:00",
+      "score": 15.2
     },
     {
-      "timestamp": "2026-05-15T02:19:18.932655+00:00",
-      "score": 10.0
+      "timestamp": "2026-05-15T04:07:52.486528+00:00",
+      "score": 14.6
     }
   ]
 }
