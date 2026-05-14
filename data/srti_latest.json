@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-14T00:10:52.124497+00:00",
+  "fetched_at": "2026-05-14T04:53:29.464891+00:00",
   "window_hours": 72,
-  "score": 22.3,
+  "score": 21.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 40.4,
+    "conflict_intensity": 39.1,
     "civilian_risk": 10.6
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 75
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Mali: Humanitarian situation following the attacks on 25 April 2026",
       "link": "https://reliefweb.int/report/mali/mali-humanitarian-situation-following-attacks-25-april-2026",
       "source": "ReliefWeb - Mali",
-      "published_at": "2026-05-14T00:10:52.124497+00:00",
+      "published_at": "2026-05-14T04:53:29.464891+00:00",
       "score": 1.26,
       "tags": [
         "conflict_intensity"
@@ -110,7 +110,7 @@
       "title": "Fada N'Gourma : Des engins saisis bient\u00f4t vendus aux ench\u00e8res, les propri\u00e9taires invit\u00e9s \u00e0 se manifester",
       "link": "https://lefaso.net/spip.php?article146469",
       "source": "LeFaso",
-      "published_at": "2026-05-14T00:10:52.124497+00:00",
+      "published_at": "2026-05-14T04:53:29.464891+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "link": "https://allafrica.com/stories/202605130095.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-13T07:14:21+00:00",
-      "score": 0.64,
+      "score": 0.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -150,7 +150,7 @@
       "link": "https://allafrica.com/stories/202605120039.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-12T05:20:52+00:00",
-      "score": 0.34,
+      "score": 0.29,
       "tags": [
         "conflict_intensity"
       ],
@@ -161,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-14T02:01:01.786294+00:00",
-      "score": 11.5
+      "timestamp": "2026-05-14T09:36:06.805285+00:00",
+      "score": 11.8
     },
     {
-      "timestamp": "2026-05-14T03:51:11.448091+00:00",
-      "score": 10.3
+      "timestamp": "2026-05-14T14:18:44.145679+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-05-14T05:41:21.109888+00:00",
-      "score": 9.1
+      "timestamp": "2026-05-14T19:01:21.486073+00:00",
+      "score": 9.5
     },
     {
-      "timestamp": "2026-05-14T07:31:30.771685+00:00",
-      "score": 7.8
+      "timestamp": "2026-05-14T23:43:58.826467+00:00",
+      "score": 8.4
     },
     {
-      "timestamp": "2026-05-14T09:21:40.433482+00:00",
-      "score": 6.6
+      "timestamp": "2026-05-15T04:26:36.166861+00:00",
+      "score": 7.3
     },
     {
-      "timestamp": "2026-05-14T11:11:50.095279+00:00",
-      "score": 5.4
+      "timestamp": "2026-05-15T09:09:13.507255+00:00",
+      "score": 6.1
     }
   ]
 }
