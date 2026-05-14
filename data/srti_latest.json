@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-14T07:50:05.497273+00:00",
+  "fetched_at": "2026-05-14T10:28:33.130899+00:00",
   "window_hours": 72,
-  "score": 26.4,
+  "score": 25.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 52.7,
+    "conflict_intensity": 51.2,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 78
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605140003.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-14T05:02:36+00:00",
-      "score": 2.42,
+      "score": 2.33,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "title": "Fada N'Gourma : Des engins saisis bient\u00f4t vendus aux ench\u00e8res, les propri\u00e9taires invit\u00e9s \u00e0 se manifester",
       "link": "https://lefaso.net/spip.php?article146469",
       "source": "LeFaso",
-      "published_at": "2026-05-14T07:50:05.497273+00:00",
+      "published_at": "2026-05-14T10:28:33.130899+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "link": "https://allafrica.com/stories/202605130095.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-13T07:14:21+00:00",
-      "score": 0.55,
+      "score": 0.52,
       "tags": [
         "conflict_intensity"
       ],
@@ -149,28 +149,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-14T10:46:41.529655+00:00",
-      "score": 12.9
+      "timestamp": "2026-05-14T13:07:00.764525+00:00",
+      "score": 14.3
     },
     {
-      "timestamp": "2026-05-14T13:43:17.562037+00:00",
-      "score": 11.9
+      "timestamp": "2026-05-14T15:45:28.398151+00:00",
+      "score": 13.4
     },
     {
-      "timestamp": "2026-05-14T16:39:53.594419+00:00",
+      "timestamp": "2026-05-14T18:23:56.031777+00:00",
+      "score": 12.6
+    },
+    {
+      "timestamp": "2026-05-14T21:02:23.665403+00:00",
+      "score": 11.7
+    },
+    {
+      "timestamp": "2026-05-14T23:40:51.299029+00:00",
       "score": 10.8
     },
     {
-      "timestamp": "2026-05-14T19:36:29.626801+00:00",
-      "score": 9.8
-    },
-    {
-      "timestamp": "2026-05-14T22:33:05.659183+00:00",
-      "score": 8.8
-    },
-    {
-      "timestamp": "2026-05-15T01:29:41.691565+00:00",
-      "score": 7.8
+      "timestamp": "2026-05-15T02:19:18.932655+00:00",
+      "score": 10.0
     }
   ]
 }
