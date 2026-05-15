@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-15T11:26:42.599530+00:00",
+  "fetched_at": "2026-05-15T14:28:29.397177+00:00",
   "window_hours": 72,
-  "score": 28.0,
+  "score": 39.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 47.9,
-    "civilian_risk": 20.2
+    "conflict_intensity": 61.7,
+    "civilian_risk": 42.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86
+      "items": 87
     },
     {
       "name": "ActuNiger",
@@ -94,13 +94,13 @@
   ],
   "top_headlines": [
     {
-      "title": "Azawad Never Left - Reading Mali's 2026 Crisis Through 2012",
-      "link": "https://allafrica.com/stories/202605140003.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-05-14T05:02:36+00:00",
-      "score": 1.46,
+      "title": "Mali: GSIM must observe international humanitarian law and ensure safety of civilians as Bamako is under siege",
+      "link": "https://reliefweb.int/report/mali/mali-gsim-must-observe-international-humanitarian-law-and-ensure-safety-civilians-bamako-under-siege",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-15T14:28:29.397177+00:00",
+      "score": 1.62,
       "tags": [
-        "conflict_intensity"
+        "civilian_risk"
       ],
       "regions": [
         "mali",
@@ -111,7 +111,7 @@
       "title": "Burkina/Sant\u00e9 oculaire : 3825 \u00e9l\u00e8ves d\u00e9pist\u00e9s \u00e0 quelques heures de la fin de la \u00ab campagne ma vision \u00bb initi\u00e9e par la Fondation BOA",
       "link": "https://lefaso.net/spip.php?article146481",
       "source": "LeFaso",
-      "published_at": "2026-05-15T11:26:42.599530+00:00",
+      "published_at": "2026-05-15T14:28:29.397177+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,10 +122,37 @@
       ]
     },
     {
+      "title": "Azawad Never Left - Reading Mali's 2026 Crisis Through 2012",
+      "link": "https://allafrica.com/stories/202605140003.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-05-14T05:02:36+00:00",
+      "score": 1.35,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "bamako"
+      ]
+    },
+    {
+      "title": "Mali: Humanitarian situation following the attacks on 25 April 2026",
+      "link": "https://reliefweb.int/report/mali/mali-humanitarian-situation-following-attacks-25-april-2026",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-15T14:28:29.397177+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Koudougou : Des produits frauduleux d'une valeur de plus d'un milliard de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article146492",
       "source": "LeFaso",
-      "published_at": "2026-05-15T11:26:42.599530+00:00",
+      "published_at": "2026-05-15T14:28:29.397177+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +163,7 @@
       "title": "Fada N'Gourma : Des engins saisis bient\u00f4t vendus aux ench\u00e8res, les propri\u00e9taires invit\u00e9s \u00e0 se manifester",
       "link": "https://lefaso.net/spip.php?article146469",
       "source": "LeFaso",
-      "published_at": "2026-05-15T11:26:42.599530+00:00",
+      "published_at": "2026-05-15T14:28:29.397177+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-15T14:31:39.430904+00:00",
-      "score": 31.9
+      "timestamp": "2026-05-15T17:30:16.194824+00:00",
+      "score": 34.3
     },
     {
-      "timestamp": "2026-05-15T17:36:36.262278+00:00",
-      "score": 32.4
+      "timestamp": "2026-05-15T20:32:02.992471+00:00",
+      "score": 35.0
     },
     {
-      "timestamp": "2026-05-15T20:41:33.093652+00:00",
-      "score": 33.0
+      "timestamp": "2026-05-15T23:33:49.790118+00:00",
+      "score": 35.7
     },
     {
-      "timestamp": "2026-05-15T23:46:29.925026+00:00",
-      "score": 33.6
+      "timestamp": "2026-05-16T02:35:36.587765+00:00",
+      "score": 36.4
     },
     {
-      "timestamp": "2026-05-16T02:51:26.756400+00:00",
-      "score": 34.1
+      "timestamp": "2026-05-16T05:37:23.385412+00:00",
+      "score": 37.1
     },
     {
-      "timestamp": "2026-05-16T05:56:23.587774+00:00",
-      "score": 34.7
+      "timestamp": "2026-05-16T08:39:10.183059+00:00",
+      "score": 37.8
     }
   ]
 }
