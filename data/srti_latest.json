@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-15T04:11:35.553203+00:00",
+  "fetched_at": "2026-05-15T08:21:45.768156+00:00",
   "window_hours": 72,
-  "score": 31.4,
+  "score": 28.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 54.7,
+    "conflict_intensity": 49.2,
     "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605140003.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-14T05:02:36+00:00",
-      "score": 1.71,
+      "score": 1.56,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "title": "Burkina/Sant\u00e9 oculaire : 3825 \u00e9l\u00e8ves d\u00e9pist\u00e9s \u00e0 quelques heures de la fin de la \u00ab campagne ma vision \u00bb initi\u00e9e par la Fondation BOA",
       "link": "https://lefaso.net/spip.php?article146481",
       "source": "LeFaso",
-      "published_at": "2026-05-15T04:11:35.553203+00:00",
+      "published_at": "2026-05-15T08:21:45.768156+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Koudougou : Des produits frauduleux d'une valeur de plus d'un milliard de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article146492",
       "source": "LeFaso",
-      "published_at": "2026-05-15T04:11:35.553203+00:00",
+      "published_at": "2026-05-15T08:21:45.768156+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +136,7 @@
       "title": "Fada N'Gourma : Des engins saisis bient\u00f4t vendus aux ench\u00e8res, les propri\u00e9taires invit\u00e9s \u00e0 se manifester",
       "link": "https://lefaso.net/spip.php?article146469",
       "source": "LeFaso",
-      "published_at": "2026-05-15T04:11:35.553203+00:00",
+      "published_at": "2026-05-15T08:21:45.768156+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,19 +150,6 @@
       "link": "https://allafrica.com/stories/202605130095.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-13T07:14:21+00:00",
-      "score": 0.32,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "'Sovereignty Will Be Consolidated', Reiterates Malian President After 'Foreign-Sponsored' Terror Attacks in Six Cities",
-      "link": "https://allafrica.com/stories/202605120039.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-05-12T05:20:52+00:00",
       "score": 0.29,
       "tags": [
         "conflict_intensity"
@@ -174,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-15T09:17:16.758108+00:00",
-      "score": 30.5
+      "timestamp": "2026-05-15T12:31:55.983109+00:00",
+      "score": 31.3
     },
     {
-      "timestamp": "2026-05-15T14:22:57.963013+00:00",
-      "score": 30.9
+      "timestamp": "2026-05-15T16:42:06.198062+00:00",
+      "score": 31.8
     },
     {
-      "timestamp": "2026-05-15T19:28:39.167918+00:00",
-      "score": 31.4
-    },
-    {
-      "timestamp": "2026-05-16T00:34:20.372823+00:00",
-      "score": 31.9
-    },
-    {
-      "timestamp": "2026-05-16T05:40:01.577728+00:00",
+      "timestamp": "2026-05-15T20:52:16.413015+00:00",
       "score": 32.3
     },
     {
-      "timestamp": "2026-05-16T10:45:42.782633+00:00",
-      "score": 32.8
+      "timestamp": "2026-05-16T01:02:26.627968+00:00",
+      "score": 32.9
+    },
+    {
+      "timestamp": "2026-05-16T05:12:36.842921+00:00",
+      "score": 33.4
+    },
+    {
+      "timestamp": "2026-05-16T09:22:47.057874+00:00",
+      "score": 33.9
     }
   ]
 }
