@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-16T00:00:23.321661+00:00",
+  "fetched_at": "2026-05-16T03:53:32.805055+00:00",
   "window_hours": 72,
-  "score": 37.4,
+  "score": 24.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 57.7,
-    "civilian_risk": 42.8
+    "conflict_intensity": 41.0,
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Mali: GSIM must observe international humanitarian law and ensure safety of civilians as Bamako is under siege",
-      "link": "https://reliefweb.int/report/mali/mali-gsim-must-observe-international-humanitarian-law-and-ensure-safety-civilians-bamako-under-siege",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-05-16T00:00:23.321661+00:00",
-      "score": 1.62,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "bamako"
-      ]
-    },
-    {
       "title": "Burkina/Sant\u00e9 oculaire : 3825 \u00e9l\u00e8ves d\u00e9pist\u00e9s \u00e0 quelques heures de la fin de la \u00ab campagne ma vision \u00bb initi\u00e9e par la Fondation BOA",
       "link": "https://lefaso.net/spip.php?article146481",
       "source": "LeFaso",
-      "published_at": "2026-05-16T00:00:23.321661+00:00",
+      "published_at": "2026-05-16T03:53:32.805055+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,23 +108,10 @@
       ]
     },
     {
-      "title": "Mali: Humanitarian situation following the attacks on 25 April 2026",
-      "link": "https://reliefweb.int/report/mali/mali-humanitarian-situation-following-attacks-25-april-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-05-16T00:00:23.321661+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Koudougou : Des produits frauduleux d'une valeur de plus d'un milliard de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article146492",
       "source": "LeFaso",
-      "published_at": "2026-05-16T00:00:23.321661+00:00",
+      "published_at": "2026-05-16T03:53:32.805055+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,7 +122,7 @@
       "title": "Fada N'Gourma : Des engins saisis bient\u00f4t vendus aux ench\u00e8res, les propri\u00e9taires invit\u00e9s \u00e0 se manifester",
       "link": "https://lefaso.net/spip.php?article146469",
       "source": "LeFaso",
-      "published_at": "2026-05-16T00:00:23.321661+00:00",
+      "published_at": "2026-05-16T03:53:32.805055+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +136,7 @@
       "link": "https://allafrica.com/stories/202605140003.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-14T05:02:36+00:00",
-      "score": 1.02,
+      "score": 0.88,
       "tags": [
         "conflict_intensity"
       ],
@@ -188,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-16T01:54:53.412149+00:00",
-      "score": 39.3
+      "timestamp": "2026-05-16T07:46:42.288449+00:00",
+      "score": 38.2
     },
     {
-      "timestamp": "2026-05-16T03:49:23.502637+00:00",
-      "score": 40.2
+      "timestamp": "2026-05-16T11:39:51.771843+00:00",
+      "score": 39.1
     },
     {
-      "timestamp": "2026-05-16T05:43:53.593125+00:00",
-      "score": 41.2
+      "timestamp": "2026-05-16T15:33:01.255237+00:00",
+      "score": 39.9
     },
     {
-      "timestamp": "2026-05-16T07:38:23.683613+00:00",
-      "score": 42.1
+      "timestamp": "2026-05-16T19:26:10.738631+00:00",
+      "score": 40.8
     },
     {
-      "timestamp": "2026-05-16T09:32:53.774101+00:00",
-      "score": 43.1
+      "timestamp": "2026-05-16T23:19:20.222025+00:00",
+      "score": 41.6
     },
     {
-      "timestamp": "2026-05-16T11:27:23.864589+00:00",
-      "score": 44.0
+      "timestamp": "2026-05-17T03:12:29.705419+00:00",
+      "score": 42.5
     }
   ]
 }
