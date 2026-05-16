@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-16T20:59:35.452798+00:00",
+  "fetched_at": "2026-05-16T21:57:13.250235+00:00",
   "window_hours": 72,
-  "score": 57.6,
+  "score": 57.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 77.7,
-    "civilian_risk": 93.7
+    "conflict_intensity": 77.1,
+    "civilian_risk": 92.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/us-and-nigeria-claim-killing-of-islamic-state-second-in-command",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T14:25:46+00:00",
-      "score": 2.04,
+      "score": 2.01,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/trump-says-islamic-state-group-leader-was-killed-in-a-joint-us-nigerian-mission",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T14:17:50+00:00",
-      "score": 2.03,
+      "score": 2.0,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/africa/20260516-us-and-nigerian-forces-eliminate-is-group-senior-leader-in-joint-mission",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T07:26:08+00:00",
-      "score": 1.82,
+      "score": 1.79,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-16T15:50:09+00:00",
-      "score": 1.78,
+      "score": 1.76,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -153,7 +153,7 @@
       "title": "Burkina/Sant\u00e9 oculaire : 3825 \u00e9l\u00e8ves d\u00e9pist\u00e9s \u00e0 quelques heures de la fin de la \u00ab campagne ma vision \u00bb initi\u00e9e par la Fondation BOA",
       "link": "https://lefaso.net/spip.php?article146481",
       "source": "LeFaso",
-      "published_at": "2026-05-16T20:59:35.452798+00:00",
+      "published_at": "2026-05-16T21:57:13.250235+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -167,7 +167,7 @@
       "title": "Koudougou : Des produits frauduleux d'une valeur de plus d'un milliard de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article146492",
       "source": "LeFaso",
-      "published_at": "2026-05-16T20:59:35.452798+00:00",
+      "published_at": "2026-05-16T21:57:13.250235+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -178,7 +178,7 @@
       "title": "Fada N'Gourma : Des engins saisis bient\u00f4t vendus aux ench\u00e8res, les propri\u00e9taires invit\u00e9s \u00e0 se manifester",
       "link": "https://lefaso.net/spip.php?article146469",
       "source": "LeFaso",
-      "published_at": "2026-05-16T20:59:35.452798+00:00",
+      "published_at": "2026-05-16T21:57:13.250235+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -192,7 +192,7 @@
       "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-16T11:44:54+00:00",
-      "score": 0.94,
+      "score": 0.93,
       "tags": [
         "civilian_risk"
       ],
@@ -203,28 +203,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-16T22:40:22.949655+00:00",
-      "score": 50.7
-    },
-    {
-      "timestamp": "2026-05-17T00:21:10.446512+00:00",
-      "score": 51.7
-    },
-    {
-      "timestamp": "2026-05-17T02:01:57.943369+00:00",
-      "score": 52.8
-    },
-    {
-      "timestamp": "2026-05-17T03:42:45.440226+00:00",
+      "timestamp": "2026-05-16T22:54:51.047672+00:00",
       "score": 53.8
     },
     {
-      "timestamp": "2026-05-17T05:23:32.937083+00:00",
-      "score": 54.9
+      "timestamp": "2026-05-16T23:52:28.845109+00:00",
+      "score": 55.0
     },
     {
-      "timestamp": "2026-05-17T07:04:20.433940+00:00",
-      "score": 55.9
+      "timestamp": "2026-05-17T00:50:06.642546+00:00",
+      "score": 56.2
+    },
+    {
+      "timestamp": "2026-05-17T01:47:44.439983+00:00",
+      "score": 57.4
+    },
+    {
+      "timestamp": "2026-05-17T02:45:22.237420+00:00",
+      "score": 58.7
+    },
+    {
+      "timestamp": "2026-05-17T03:43:00.034857+00:00",
+      "score": 59.9
     }
   ]
 }
