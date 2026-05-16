@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-16T15:06:45.297237+00:00",
+  "fetched_at": "2026-05-16T17:09:52.361209+00:00",
   "window_hours": 72,
-  "score": 60.6,
+  "score": 67.7,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 81.2,
+    "conflict_intensity": 95.3,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 11,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/us-and-nigeria-claim-killing-of-islamic-state-second-in-command",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T14:25:46+00:00",
-      "score": 2.22,
+      "score": 2.15,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/trump-says-islamic-state-group-leader-was-killed-in-a-joint-us-nigerian-mission",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T14:17:50+00:00",
-      "score": 2.21,
+      "score": 2.15,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://www.france24.com/en/africa/20260516-us-and-nigerian-forces-eliminate-is-group-senior-leader-in-joint-mission",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T07:26:08+00:00",
-      "score": 2.0,
+      "score": 1.94,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,8 +139,8 @@
       "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
       "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-05-16T13:55:14+00:00",
-      "score": 1.89,
+      "published_at": "2026-05-16T15:50:09+00:00",
+      "score": 1.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -150,10 +150,24 @@
       ]
     },
     {
+      "title": "Mali: GSIM must observe international humanitarian law and ensure safety of civilians as Bamako is under siege",
+      "link": "https://reliefweb.int/report/mali/mali-gsim-must-observe-international-humanitarian-law-and-ensure-safety-civilians-bamako-under-siege",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-16T17:09:52.361209+00:00",
+      "score": 1.62,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "bamako"
+      ]
+    },
+    {
       "title": "Burkina/Sant\u00e9 oculaire : 3825 \u00e9l\u00e8ves d\u00e9pist\u00e9s \u00e0 quelques heures de la fin de la \u00ab campagne ma vision \u00bb initi\u00e9e par la Fondation BOA",
       "link": "https://lefaso.net/spip.php?article146481",
       "source": "LeFaso",
-      "published_at": "2026-05-16T15:06:45.297237+00:00",
+      "published_at": "2026-05-16T17:09:52.361209+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,67 +178,54 @@
       ]
     },
     {
+      "title": "Mali: Humanitarian situation following the attacks on 25 April 2026",
+      "link": "https://reliefweb.int/report/mali/mali-humanitarian-situation-following-attacks-25-april-2026",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-16T17:09:52.361209+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Koudougou : Des produits frauduleux d'une valeur de plus d'un milliard de francs CFA saisis",
       "link": "https://lefaso.net/spip.php?article146492",
       "source": "LeFaso",
-      "published_at": "2026-05-16T15:06:45.297237+00:00",
+      "published_at": "2026-05-16T17:09:52.361209+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": []
-    },
-    {
-      "title": "Fada N'Gourma : Des engins saisis bient\u00f4t vendus aux ench\u00e8res, les propri\u00e9taires invit\u00e9s \u00e0 se manifester",
-      "link": "https://lefaso.net/spip.php?article146469",
-      "source": "LeFaso",
-      "published_at": "2026-05-16T15:06:45.297237+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-05-16T11:44:54+00:00",
-      "score": 1.03,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-16T16:22:14.400652+00:00",
-      "score": 39.3
+      "timestamp": "2026-05-16T19:12:59.425181+00:00",
+      "score": 44.3
     },
     {
-      "timestamp": "2026-05-16T17:37:43.504067+00:00",
-      "score": 39.7
+      "timestamp": "2026-05-16T21:16:06.489153+00:00",
+      "score": 45.0
     },
     {
-      "timestamp": "2026-05-16T18:53:12.607482+00:00",
-      "score": 40.2
+      "timestamp": "2026-05-16T23:19:13.553125+00:00",
+      "score": 45.7
     },
     {
-      "timestamp": "2026-05-16T20:08:41.710897+00:00",
-      "score": 40.6
+      "timestamp": "2026-05-17T01:22:20.617097+00:00",
+      "score": 46.4
     },
     {
-      "timestamp": "2026-05-16T21:24:10.814312+00:00",
-      "score": 41.1
+      "timestamp": "2026-05-17T03:25:27.681069+00:00",
+      "score": 47.1
     },
     {
-      "timestamp": "2026-05-16T22:39:39.917727+00:00",
-      "score": 41.5
+      "timestamp": "2026-05-17T05:28:34.745041+00:00",
+      "score": 47.9
     }
   ]
 }
