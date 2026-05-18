@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-18T04:24:16.550260+00:00",
+  "fetched_at": "2026-05-18T08:50:13.754177+00:00",
   "window_hours": 72,
-  "score": 24.6,
+  "score": 31.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 29.1,
-    "civilian_risk": 50.3
+    "conflict_intensity": 45.1,
+    "civilian_risk": 44.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 44
+      "items": 43
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Junta Ally Says Malians Still 'Love Their Army' Despite Rebel Gains",
+      "link": "https://allafrica.com/stories/202605180014.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-05-18T05:03:30+00:00",
+      "score": 1.59,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Joint US-Nigeria operation killed a senior militant leader of IS",
       "link": "https://www.france24.com/en/joint-us-nigeria-operation-killed-a-senior-militant-leader-of-is",
       "source": "France 24 - Africa",
       "published_at": "2026-05-17T09:20:34+00:00",
-      "score": 1.65,
+      "score": 1.51,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +125,7 @@
       "link": "https://www.france24.com/en/us-and-nigeria-claim-killing-of-islamic-state-second-in-command",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T14:25:46+00:00",
-      "score": 1.06,
+      "score": 0.92,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +139,7 @@
       "link": "https://www.france24.com/en/trump-says-islamic-state-group-leader-was-killed-in-a-joint-us-nigerian-mission",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T14:17:50+00:00",
-      "score": 1.05,
+      "score": 0.92,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -140,7 +153,7 @@
       "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-16T15:50:09+00:00",
-      "score": 0.94,
+      "score": 0.83,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -154,7 +167,7 @@
       "link": "https://www.france24.com/en/africa/20260516-us-and-nigerian-forces-eliminate-is-group-senior-leader-in-joint-mission",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T07:26:08+00:00",
-      "score": 0.84,
+      "score": 0.78,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -168,7 +181,7 @@
       "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-16T11:44:54+00:00",
-      "score": 0.47,
+      "score": 0.4,
       "tags": [
         "civilian_risk"
       ],
@@ -179,28 +192,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-18T09:40:10.593102+00:00",
-      "score": 41.8
+      "timestamp": "2026-05-18T13:16:10.958094+00:00",
+      "score": 38.6
     },
     {
-      "timestamp": "2026-05-18T14:56:04.635944+00:00",
-      "score": 41.5
+      "timestamp": "2026-05-18T17:42:08.162011+00:00",
+      "score": 38.1
     },
     {
-      "timestamp": "2026-05-18T20:11:58.678786+00:00",
-      "score": 41.2
+      "timestamp": "2026-05-18T22:08:05.365928+00:00",
+      "score": 37.5
     },
     {
-      "timestamp": "2026-05-19T01:27:52.721628+00:00",
-      "score": 40.9
+      "timestamp": "2026-05-19T02:34:02.569845+00:00",
+      "score": 37.0
     },
     {
-      "timestamp": "2026-05-19T06:43:46.764470+00:00",
-      "score": 40.6
+      "timestamp": "2026-05-19T06:59:59.773762+00:00",
+      "score": 36.4
     },
     {
-      "timestamp": "2026-05-19T11:59:40.807312+00:00",
-      "score": 40.3
+      "timestamp": "2026-05-19T11:25:56.977679+00:00",
+      "score": 35.9
     }
   ]
 }
