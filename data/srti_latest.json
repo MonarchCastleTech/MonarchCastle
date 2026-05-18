@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-18T16:30:22.558575+00:00",
+  "fetched_at": "2026-05-18T18:57:56.178524+00:00",
   "window_hours": 72,
-  "score": 54.4,
+  "score": 53.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 86.3,
-    "civilian_risk": 56.1
+    "conflict_intensity": 84.1,
+    "civilian_risk": 54.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 26
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/nigeria-who-was-the-targeted-islamic-state-leader-why-was-he-targeted-by-the-us",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T13:57:03+00:00",
-      "score": 2.16,
+      "score": 2.08,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T12:02:45+00:00",
-      "score": 1.84,
+      "score": 1.77,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +125,7 @@
       "link": "https://allafrica.com/stories/202605180014.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-18T05:03:30+00:00",
-      "score": 1.41,
+      "score": 1.36,
       "tags": [
         "conflict_intensity"
       ],
@@ -138,7 +138,7 @@
       "link": "https://www.france24.com/en/joint-us-nigeria-operation-killed-a-senior-militant-leader-of-is",
       "source": "France 24 - Africa",
       "published_at": "2026-05-17T09:20:34+00:00",
-      "score": 1.27,
+      "score": 1.19,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -148,17 +148,16 @@
       ]
     },
     {
-      "title": "Burkina Faso/Lutte contre les trafics illicites : Plus de 6 millions de FCFA de drogue et de m\u00e9dicaments saisis par les douanes",
+      "title": "Burkina/Lutte contre les trafics illicites : Plus de 6 millions de FCFA de drogue et de m\u00e9dicaments saisis par les douanes",
       "link": "https://lefaso.net/spip.php?article146548",
       "source": "LeFaso",
-      "published_at": "2026-05-18T16:30:22.558575+00:00",
+      "published_at": "2026-05-18T18:57:56.178524+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "burkina",
-        "burkina faso",
         "ouagadougou"
       ]
     },
@@ -207,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-18T20:17:50.700407+00:00",
-      "score": 39.5
+      "timestamp": "2026-05-18T21:25:29.798473+00:00",
+      "score": 39.3
     },
     {
-      "timestamp": "2026-05-19T00:05:18.842239+00:00",
-      "score": 38.9
+      "timestamp": "2026-05-18T23:53:03.418422+00:00",
+      "score": 38.7
     },
     {
-      "timestamp": "2026-05-19T03:52:46.984071+00:00",
-      "score": 38.3
+      "timestamp": "2026-05-19T02:20:37.038371+00:00",
+      "score": 38.0
     },
     {
-      "timestamp": "2026-05-19T07:40:15.125903+00:00",
-      "score": 37.7
+      "timestamp": "2026-05-19T04:48:10.658320+00:00",
+      "score": 37.3
     },
     {
-      "timestamp": "2026-05-19T11:27:43.267735+00:00",
-      "score": 37.1
+      "timestamp": "2026-05-19T07:15:44.278269+00:00",
+      "score": 36.6
     },
     {
-      "timestamp": "2026-05-19T15:15:11.409567+00:00",
-      "score": 36.5
+      "timestamp": "2026-05-19T09:43:17.898218+00:00",
+      "score": 36.0
     }
   ]
 }
