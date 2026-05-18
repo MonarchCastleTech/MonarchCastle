@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-18T08:50:13.754177+00:00",
+  "fetched_at": "2026-05-18T12:42:54.416743+00:00",
   "window_hours": 72,
-  "score": 31.5,
-  "risk_level": "GUARDED",
+  "score": 54.9,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 45.1,
-    "civilian_risk": 44.7
+    "conflict_intensity": 93.5,
+    "civilian_risk": 40.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 43
+      "items": 54
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "US, Nigeria carry out fresh strikes on Islamic State group",
+      "link": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-18T12:02:45+00:00",
+      "score": 1.94,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Junta Ally Says Malians Still 'Love Their Army' Despite Rebel Gains",
       "link": "https://allafrica.com/stories/202605180014.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-18T05:03:30+00:00",
-      "score": 1.59,
+      "score": 1.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +124,7 @@
       "link": "https://www.france24.com/en/joint-us-nigeria-operation-killed-a-senior-militant-leader-of-is",
       "source": "France 24 - Africa",
       "published_at": "2026-05-17T09:20:34+00:00",
-      "score": 1.51,
+      "score": 1.39,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -121,11 +134,38 @@
       ]
     },
     {
+      "title": "UNFPA Situation Report: Crisis in Mali - March 2026",
+      "link": "https://reliefweb.int/report/mali/unfpa-situation-report-crisis-mali-march-2026",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-18T12:42:54.416743+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Burkina/Lutte contre les trafics illicites : De la drogue et des comprim\u00e9s d'une valeur de plus de 6 millions de FCFA saisis par la douane",
+      "link": "https://lefaso.net/spip.php?article146548",
+      "source": "LeFaso",
+      "published_at": "2026-05-18T12:42:54.416743+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "US and Nigeria claim killing of Islamic State second-in-command",
       "link": "https://www.france24.com/en/us-and-nigeria-claim-killing-of-islamic-state-second-in-command",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T14:25:46+00:00",
-      "score": 0.92,
+      "score": 0.8,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,21 +179,7 @@
       "link": "https://www.france24.com/en/trump-says-islamic-state-group-leader-was-killed-in-a-joint-us-nigerian-mission",
       "source": "France 24 - Africa",
       "published_at": "2026-05-16T14:17:50+00:00",
-      "score": 0.92,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-      "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-05-16T15:50:09+00:00",
-      "score": 0.83,
+      "score": 0.8,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -175,45 +201,32 @@
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-      "link": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-05-16T11:44:54+00:00",
-      "score": 0.4,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-18T13:16:10.958094+00:00",
-      "score": 38.6
+      "timestamp": "2026-05-18T16:35:35.079309+00:00",
+      "score": 39.2
     },
     {
-      "timestamp": "2026-05-18T17:42:08.162011+00:00",
+      "timestamp": "2026-05-18T20:28:15.741875+00:00",
+      "score": 38.7
+    },
+    {
+      "timestamp": "2026-05-19T00:20:56.404441+00:00",
       "score": 38.1
     },
     {
-      "timestamp": "2026-05-18T22:08:05.365928+00:00",
+      "timestamp": "2026-05-19T04:13:37.067007+00:00",
       "score": 37.5
     },
     {
-      "timestamp": "2026-05-19T02:34:02.569845+00:00",
+      "timestamp": "2026-05-19T08:06:17.729573+00:00",
       "score": 37.0
     },
     {
-      "timestamp": "2026-05-19T06:59:59.773762+00:00",
+      "timestamp": "2026-05-19T11:58:58.392139+00:00",
       "score": 36.4
-    },
-    {
-      "timestamp": "2026-05-19T11:25:56.977679+00:00",
-      "score": 35.9
     }
   ]
 }
