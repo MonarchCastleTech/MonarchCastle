@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-18T20:43:49.012596+00:00",
+  "fetched_at": "2026-05-18T22:08:25.644898+00:00",
   "window_hours": 72,
-  "score": 52.0,
+  "score": 51.2,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 82.4,
-    "civilian_risk": 54.1
+    "conflict_intensity": 81.1,
+    "civilian_risk": 53.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/nigeria-who-was-the-targeted-islamic-state-leader-why-was-he-targeted-by-the-us",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T13:57:03+00:00",
-      "score": 2.03,
+      "score": 1.99,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T12:02:45+00:00",
-      "score": 1.72,
+      "score": 1.69,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +125,7 @@
       "link": "https://allafrica.com/stories/202605180014.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-18T05:03:30+00:00",
-      "score": 1.31,
+      "score": 1.28,
       "tags": [
         "conflict_intensity"
       ],
@@ -134,24 +134,10 @@
       ]
     },
     {
-      "title": "Joint US-Nigeria operation killed a senior militant leader of IS",
-      "link": "https://www.france24.com/en/joint-us-nigeria-operation-killed-a-senior-militant-leader-of-is",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-17T09:20:34+00:00",
-      "score": 1.14,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Burkina/Lutte contre les trafics illicites : Plus de 6 millions de FCFA de drogue et de m\u00e9dicaments saisis par les douanes",
       "link": "https://lefaso.net/spip.php?article146548",
       "source": "LeFaso",
-      "published_at": "2026-05-18T20:43:49.012596+00:00",
+      "published_at": "2026-05-18T22:08:25.644898+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,6 +145,20 @@
       "regions": [
         "burkina",
         "ouagadougou"
+      ]
+    },
+    {
+      "title": "Joint US-Nigeria operation killed a senior militant leader of IS",
+      "link": "https://www.france24.com/en/joint-us-nigeria-operation-killed-a-senior-militant-leader-of-is",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-17T09:20:34+00:00",
+      "score": 1.1,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
       ]
     },
     {
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-18T22:29:41.846668+00:00",
-      "score": 38.8
+      "timestamp": "2026-05-18T23:33:02.277200+00:00",
+      "score": 40.4
     },
     {
-      "timestamp": "2026-05-19T00:15:34.680740+00:00",
-      "score": 38.0
+      "timestamp": "2026-05-19T00:57:38.909502+00:00",
+      "score": 39.7
     },
     {
-      "timestamp": "2026-05-19T02:01:27.514812+00:00",
-      "score": 37.2
+      "timestamp": "2026-05-19T02:22:15.541804+00:00",
+      "score": 39.1
     },
     {
-      "timestamp": "2026-05-19T03:47:20.348884+00:00",
-      "score": 36.4
+      "timestamp": "2026-05-19T03:46:52.174106+00:00",
+      "score": 38.5
     },
     {
-      "timestamp": "2026-05-19T05:33:13.182956+00:00",
-      "score": 35.7
+      "timestamp": "2026-05-19T05:11:28.806408+00:00",
+      "score": 37.9
     },
     {
-      "timestamp": "2026-05-19T07:19:06.017028+00:00",
-      "score": 34.9
+      "timestamp": "2026-05-19T06:36:05.438710+00:00",
+      "score": 37.3
     }
   ]
 }
