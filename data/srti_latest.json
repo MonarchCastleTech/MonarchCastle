@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-19T16:28:37.783292+00:00",
+  "fetched_at": "2026-05-19T19:10:19.386752+00:00",
   "window_hours": 72,
-  "score": 28.2,
+  "score": 27.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 49.5,
-    "civilian_risk": 17.3
+    "conflict_intensity": 47.4,
+    "civilian_risk": 16.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 4
+      "items": 5
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/nigeria-who-was-the-targeted-islamic-state-leader-why-was-he-targeted-by-the-us",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T13:57:03+00:00",
-      "score": 1.41,
+      "score": 1.33,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,23 +108,10 @@
       ]
     },
     {
-      "title": "US, Nigeria carry out fresh strikes on Islamic State group",
-      "link": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-18T12:02:45+00:00",
-      "score": 1.19,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Burkina/Lutte contre les trafics illicites : Plus de 6 millions de FCFA de drogue et de m\u00e9dicaments saisis par les douanes",
       "link": "https://lefaso.net/spip.php?article146548",
       "source": "LeFaso",
-      "published_at": "2026-05-19T16:28:37.783292+00:00",
+      "published_at": "2026-05-19T19:10:19.386752+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -135,11 +122,24 @@
       ]
     },
     {
+      "title": "US, Nigeria carry out fresh strikes on Islamic State group",
+      "link": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-18T12:02:45+00:00",
+      "score": 1.11,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Junta Ally Says Malians Still 'Love Their Army' Despite Rebel Gains",
       "link": "https://allafrica.com/stories/202605180014.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-18T05:03:30+00:00",
-      "score": 0.85,
+      "score": 0.79,
       "tags": [
         "conflict_intensity"
       ],
@@ -164,28 +164,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-19T20:08:37.335939+00:00",
-      "score": 41.0
+      "timestamp": "2026-05-19T21:52:00.990212+00:00",
+      "score": 38.5
     },
     {
-      "timestamp": "2026-05-19T23:48:36.888586+00:00",
-      "score": 40.7
+      "timestamp": "2026-05-20T00:33:42.593672+00:00",
+      "score": 38.1
     },
     {
-      "timestamp": "2026-05-20T03:28:36.441233+00:00",
-      "score": 40.4
+      "timestamp": "2026-05-20T03:15:24.197132+00:00",
+      "score": 37.7
     },
     {
-      "timestamp": "2026-05-20T07:08:35.993880+00:00",
-      "score": 40.1
+      "timestamp": "2026-05-20T05:57:05.800592+00:00",
+      "score": 37.3
     },
     {
-      "timestamp": "2026-05-20T10:48:35.546527+00:00",
-      "score": 39.9
+      "timestamp": "2026-05-20T08:38:47.404052+00:00",
+      "score": 36.8
     },
     {
-      "timestamp": "2026-05-20T14:28:35.099174+00:00",
-      "score": 39.6
+      "timestamp": "2026-05-20T11:20:29.007512+00:00",
+      "score": 36.4
     }
   ]
 }
