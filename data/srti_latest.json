@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-18T22:08:25.644898+00:00",
+  "fetched_at": "2026-05-19T00:15:19.589866+00:00",
   "window_hours": 72,
-  "score": 51.2,
+  "score": 50.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 81.1,
-    "civilian_risk": 53.4
+    "conflict_intensity": 79.1,
+    "civilian_risk": 52.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/nigeria-who-was-the-targeted-islamic-state-leader-why-was-he-targeted-by-the-us",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T13:57:03+00:00",
-      "score": 1.99,
+      "score": 1.92,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T12:02:45+00:00",
-      "score": 1.69,
+      "score": 1.63,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +125,7 @@
       "link": "https://allafrica.com/stories/202605180014.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-18T05:03:30+00:00",
-      "score": 1.28,
+      "score": 1.23,
       "tags": [
         "conflict_intensity"
       ],
@@ -137,7 +137,7 @@
       "title": "Burkina/Lutte contre les trafics illicites : Plus de 6 millions de FCFA de drogue et de m\u00e9dicaments saisis par les douanes",
       "link": "https://lefaso.net/spip.php?article146548",
       "source": "LeFaso",
-      "published_at": "2026-05-18T22:08:25.644898+00:00",
+      "published_at": "2026-05-19T00:15:19.589866+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,7 +152,7 @@
       "link": "https://www.france24.com/en/joint-us-nigeria-operation-killed-a-senior-militant-leader-of-is",
       "source": "France 24 - Africa",
       "published_at": "2026-05-17T09:20:34+00:00",
-      "score": 1.1,
+      "score": 1.03,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -206,28 +206,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-18T23:33:02.277200+00:00",
-      "score": 40.4
+      "timestamp": "2026-05-19T02:22:13.534834+00:00",
+      "score": 42.5
     },
     {
-      "timestamp": "2026-05-19T00:57:38.909502+00:00",
-      "score": 39.7
+      "timestamp": "2026-05-19T04:29:07.479802+00:00",
+      "score": 42.1
     },
     {
-      "timestamp": "2026-05-19T02:22:15.541804+00:00",
-      "score": 39.1
+      "timestamp": "2026-05-19T06:36:01.424770+00:00",
+      "score": 41.7
     },
     {
-      "timestamp": "2026-05-19T03:46:52.174106+00:00",
-      "score": 38.5
+      "timestamp": "2026-05-19T08:42:55.369738+00:00",
+      "score": 41.3
     },
     {
-      "timestamp": "2026-05-19T05:11:28.806408+00:00",
-      "score": 37.9
+      "timestamp": "2026-05-19T10:49:49.314706+00:00",
+      "score": 41.0
     },
     {
-      "timestamp": "2026-05-19T06:36:05.438710+00:00",
-      "score": 37.3
+      "timestamp": "2026-05-19T12:56:43.259674+00:00",
+      "score": 40.6
     }
   ]
 }
