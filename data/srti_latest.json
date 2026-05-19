@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-19T12:48:38.230645+00:00",
+  "fetched_at": "2026-05-19T16:28:37.783292+00:00",
   "window_hours": 72,
-  "score": 39.2,
+  "score": 28.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 64.0,
-    "civilian_risk": 35.9
+    "conflict_intensity": 49.5,
+    "civilian_risk": 17.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 70
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/nigeria-who-was-the-targeted-islamic-state-leader-why-was-he-targeted-by-the-us",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T13:57:03+00:00",
-      "score": 1.53,
+      "score": 1.41,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
       "source": "France 24 - Africa",
       "published_at": "2026-05-18T12:02:45+00:00",
-      "score": 1.29,
+      "score": 1.19,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,7 +124,7 @@
       "title": "Burkina/Lutte contre les trafics illicites : Plus de 6 millions de FCFA de drogue et de m\u00e9dicaments saisis par les douanes",
       "link": "https://lefaso.net/spip.php?article146548",
       "source": "LeFaso",
-      "published_at": "2026-05-19T12:48:38.230645+00:00",
+      "published_at": "2026-05-19T16:28:37.783292+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "link": "https://allafrica.com/stories/202605180014.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-18T05:03:30+00:00",
-      "score": 0.94,
+      "score": 0.85,
       "tags": [
         "conflict_intensity"
       ],
@@ -160,74 +160,32 @@
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "US and Nigeria claim killing of Islamic State second-in-command",
-      "link": "https://www.france24.com/en/us-and-nigeria-claim-killing-of-islamic-state-second-in-command",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-16T14:25:46+00:00",
-      "score": 0.78,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Trump says Islamic State group leader was killed in a joint US-Nigerian mission",
-      "link": "https://www.france24.com/en/trump-says-islamic-state-group-leader-was-killed-in-a-joint-us-nigerian-mission",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-16T14:17:50+00:00",
-      "score": 0.78,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Toddlers among more than 50 schoolchildren kidnapped in Nigeria",
-      "link": "https://www.bbc.com/news/articles/c202vrxlwqgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-05-16T15:50:09+00:00",
-      "score": 0.67,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-19T15:36:14.226210+00:00",
-      "score": 43.5
+      "timestamp": "2026-05-19T20:08:37.335939+00:00",
+      "score": 41.0
     },
     {
-      "timestamp": "2026-05-19T18:23:50.221775+00:00",
-      "score": 43.3
+      "timestamp": "2026-05-19T23:48:36.888586+00:00",
+      "score": 40.7
     },
     {
-      "timestamp": "2026-05-19T21:11:26.217340+00:00",
-      "score": 43.2
+      "timestamp": "2026-05-20T03:28:36.441233+00:00",
+      "score": 40.4
     },
     {
-      "timestamp": "2026-05-19T23:59:02.212905+00:00",
-      "score": 43.0
+      "timestamp": "2026-05-20T07:08:35.993880+00:00",
+      "score": 40.1
     },
     {
-      "timestamp": "2026-05-20T02:46:38.208470+00:00",
-      "score": 42.8
+      "timestamp": "2026-05-20T10:48:35.546527+00:00",
+      "score": 39.9
     },
     {
-      "timestamp": "2026-05-20T05:34:14.204035+00:00",
-      "score": 42.7
+      "timestamp": "2026-05-20T14:28:35.099174+00:00",
+      "score": 39.6
     }
   ]
 }
