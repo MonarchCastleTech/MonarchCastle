@@ -1,47 +1,47 @@
 {
-  "fetched_at": "2026-05-21T09:58:51.829479+00:00",
+  "fetched_at": "2026-05-21T12:51:38.977273+00:00",
   "window_hours": 72,
-  "score": 28.2,
+  "score": 23.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 42.5,
-    "civilian_risk": 34.7
+    "conflict_intensity": 32.8,
+    "civilian_risk": 34.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
       "url": "https://www.maliweb.net/feed",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260519-joint-nigeria-us-strikes-kill-175-islamic-state-group-fighters-both-militaries-say",
       "source": "France 24 - Africa",
       "published_at": "2026-05-19T20:01:14+00:00",
-      "score": 1.99,
+      "score": 1.82,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Longues files d'attente : Ceux qui refusent de prendre le rang l\u00e0 fument quoi ?",
       "link": "https://lefaso.net/spip.php?article146615",
       "source": "LeFaso",
-      "published_at": "2026-05-21T09:58:51.829479+00:00",
+      "published_at": "2026-05-21T12:51:38.977273+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Burkina/Lutte contre les trafics illicites : Plus de 6 millions de FCFA de drogue et de m\u00e9dicaments saisis par les douanes",
       "link": "https://lefaso.net/spip.php?article146548",
       "source": "LeFaso",
-      "published_at": "2026-05-21T09:58:51.829479+00:00",
+      "published_at": "2026-05-21T12:51:38.977273+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -145,45 +145,32 @@
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "US, Nigeria carry out fresh strikes on Islamic State group",
-      "link": "https://www.france24.com/en/africa/20260518-us-nigeria-carry-out-fresh-strikes-on-islamic-state-group",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-18T12:02:45+00:00",
-      "score": 0.69,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-21T14:42:27.330841+00:00",
-      "score": 27.6
+      "timestamp": "2026-05-21T15:44:26.125067+00:00",
+      "score": 24.1
     },
     {
-      "timestamp": "2026-05-21T19:26:02.832203+00:00",
-      "score": 26.7
+      "timestamp": "2026-05-21T18:37:13.272861+00:00",
+      "score": 22.9
     },
     {
-      "timestamp": "2026-05-22T00:09:38.333565+00:00",
-      "score": 25.7
+      "timestamp": "2026-05-21T21:30:00.420655+00:00",
+      "score": 21.7
     },
     {
-      "timestamp": "2026-05-22T04:53:13.834927+00:00",
-      "score": 24.7
+      "timestamp": "2026-05-22T00:22:47.568449+00:00",
+      "score": 20.4
     },
     {
-      "timestamp": "2026-05-22T09:36:49.336289+00:00",
-      "score": 23.8
+      "timestamp": "2026-05-22T03:15:34.716243+00:00",
+      "score": 19.2
     },
     {
-      "timestamp": "2026-05-22T14:20:24.837651+00:00",
-      "score": 22.8
+      "timestamp": "2026-05-22T06:08:21.864037+00:00",
+      "score": 18.0
     }
   ]
 }
