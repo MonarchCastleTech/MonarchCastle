@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-21T21:43:27.908494+00:00",
+  "fetched_at": "2026-05-21T23:11:54.059172+00:00",
   "window_hours": 72,
-  "score": 18.2,
+  "score": 11.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 25.8,
+    "conflict_intensity": 12.3,
     "civilian_risk": 26.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 67
     },
     {
       "name": "ActuNiger",
@@ -111,52 +111,38 @@
       "title": "Longues files d'attente : Ceux qui refusent de prendre le rang l\u00e0 fument quoi ?",
       "link": "https://lefaso.net/spip.php?article146615",
       "source": "LeFaso",
-      "published_at": "2026-05-21T21:43:27.908494+00:00",
+      "published_at": "2026-05-21T23:11:54.059172+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": []
-    },
-    {
-      "title": "Burkina/Lutte contre les trafics illicites : Plus de 6 millions de FCFA de drogue et de m\u00e9dicaments saisis par les douanes",
-      "link": "https://lefaso.net/spip.php?article146548",
-      "source": "LeFaso",
-      "published_at": "2026-05-21T21:43:27.908494+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-22T00:20:34.671565+00:00",
-      "score": 19.0
+      "timestamp": "2026-05-22T00:40:20.209850+00:00",
+      "score": 16.7
     },
     {
-      "timestamp": "2026-05-22T02:57:41.434636+00:00",
-      "score": 17.7
+      "timestamp": "2026-05-22T02:08:46.360528+00:00",
+      "score": 15.3
     },
     {
-      "timestamp": "2026-05-22T05:34:48.197707+00:00",
-      "score": 16.4
+      "timestamp": "2026-05-22T03:37:12.511206+00:00",
+      "score": 14.0
     },
     {
-      "timestamp": "2026-05-22T08:11:54.960778+00:00",
-      "score": 15.1
+      "timestamp": "2026-05-22T05:05:38.661884+00:00",
+      "score": 12.7
     },
     {
-      "timestamp": "2026-05-22T10:49:01.723849+00:00",
-      "score": 13.9
+      "timestamp": "2026-05-22T06:34:04.812562+00:00",
+      "score": 11.3
     },
     {
-      "timestamp": "2026-05-22T13:26:08.486920+00:00",
-      "score": 12.6
+      "timestamp": "2026-05-22T08:02:30.963240+00:00",
+      "score": 10.0
     }
   ]
 }
