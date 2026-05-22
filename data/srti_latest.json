@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T08:28:00.810421+00:00",
+  "fetched_at": "2026-05-22T11:51:38.984336+00:00",
   "window_hours": 72,
   "score": 11.4,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76
+      "items": 77
     },
     {
       "name": "ActuNiger",
@@ -111,7 +111,7 @@
       "title": "Longues files d'attente : Ceux qui refusent de prendre le rang l\u00e0 fument quoi ?",
       "link": "https://lefaso.net/spip.php?article146615",
       "source": "LeFaso",
-      "published_at": "2026-05-22T08:28:00.810421+00:00",
+      "published_at": "2026-05-22T11:51:38.984336+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,28 +121,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-22T12:32:50.916183+00:00",
-      "score": 13.1
+      "timestamp": "2026-05-22T15:15:17.158251+00:00",
+      "score": 11.6
     },
     {
-      "timestamp": "2026-05-22T16:37:41.021945+00:00",
-      "score": 11.7
+      "timestamp": "2026-05-22T18:38:55.332166+00:00",
+      "score": 10.3
     },
     {
-      "timestamp": "2026-05-22T20:42:31.127707+00:00",
-      "score": 10.4
+      "timestamp": "2026-05-22T22:02:33.506081+00:00",
+      "score": 8.9
     },
     {
-      "timestamp": "2026-05-23T00:47:21.233469+00:00",
-      "score": 9.0
+      "timestamp": "2026-05-23T01:26:11.679996+00:00",
+      "score": 7.6
     },
     {
-      "timestamp": "2026-05-23T04:52:11.339231+00:00",
-      "score": 7.7
+      "timestamp": "2026-05-23T04:49:49.853911+00:00",
+      "score": 6.2
     },
     {
-      "timestamp": "2026-05-23T08:57:01.444993+00:00",
-      "score": 6.3
+      "timestamp": "2026-05-23T08:13:28.027826+00:00",
+      "score": 4.9
     }
   ]
 }
