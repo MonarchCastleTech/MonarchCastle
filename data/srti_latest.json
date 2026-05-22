@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-22T18:02:00.202146+00:00",
+  "fetched_at": "2026-05-22T20:02:13.485196+00:00",
   "window_hours": 72,
-  "score": 11.4,
+  "score": 4.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 12.3,
-    "civilian_risk": 26.3
+    "conflict_intensity": 0.0,
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 1,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Joint Nigeria-US strikes kill 175 Islamic State group fighters, both militaries say",
-      "link": "https://www.france24.com/en/africa/20260519-joint-nigeria-us-strikes-kill-175-islamic-state-group-fighters-both-militaries-say",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-19T20:01:14+00:00",
-      "score": 1.47,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Longues files d'attente : Ceux qui refusent de prendre le rang l\u00e0 fument quoi ?",
       "link": "https://lefaso.net/spip.php?article146615",
       "source": "LeFaso",
-      "published_at": "2026-05-22T18:02:00.202146+00:00",
+      "published_at": "2026-05-22T20:02:13.485196+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,28 +107,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-22T20:49:07.267688+00:00",
-      "score": 8.5
+      "timestamp": "2026-05-22T22:02:26.768246+00:00",
+      "score": 5.0
     },
     {
-      "timestamp": "2026-05-22T23:36:14.333230+00:00",
-      "score": 7.1
+      "timestamp": "2026-05-23T00:02:40.051296+00:00",
+      "score": 3.4
     },
     {
-      "timestamp": "2026-05-23T02:23:21.398772+00:00",
-      "score": 5.7
+      "timestamp": "2026-05-23T02:02:53.334346+00:00",
+      "score": 1.8
     },
     {
-      "timestamp": "2026-05-23T05:10:28.464314+00:00",
-      "score": 4.3
+      "timestamp": "2026-05-23T04:03:06.617396+00:00",
+      "score": 0.2
     },
     {
-      "timestamp": "2026-05-23T07:57:35.529856+00:00",
-      "score": 2.8
+      "timestamp": "2026-05-23T06:03:19.900446+00:00",
+      "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T10:44:42.595398+00:00",
-      "score": 1.4
+      "timestamp": "2026-05-23T08:03:33.183496+00:00",
+      "score": 0.0
     }
   ]
 }
