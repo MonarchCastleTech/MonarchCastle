@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T21:19:52.878435+00:00",
+  "fetched_at": "2026-05-22T23:13:25.093075+00:00",
   "window_hours": 72,
   "score": 4.0,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 83
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Longues files d'attente : Ceux qui refusent de prendre le rang l\u00e0 fument quoi ?",
       "link": "https://lefaso.net/spip.php?article146615",
       "source": "LeFaso",
-      "published_at": "2026-05-22T21:19:52.878435+00:00",
+      "published_at": "2026-05-22T23:13:25.093075+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,27 +107,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-22T22:37:32.271674+00:00",
-      "score": 1.7
+      "timestamp": "2026-05-23T01:06:57.307715+00:00",
+      "score": 0.4
     },
     {
-      "timestamp": "2026-05-22T23:55:11.664913+00:00",
+      "timestamp": "2026-05-23T03:00:29.522355+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T01:12:51.058152+00:00",
+      "timestamp": "2026-05-23T04:54:01.736995+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T02:30:30.451391+00:00",
+      "timestamp": "2026-05-23T06:47:33.951635+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T03:48:09.844630+00:00",
+      "timestamp": "2026-05-23T08:41:06.166275+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T05:05:49.237869+00:00",
+      "timestamp": "2026-05-23T10:34:38.380915+00:00",
       "score": 0.0
     }
   ]
