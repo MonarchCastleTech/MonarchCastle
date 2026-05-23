@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-22T23:13:25.093075+00:00",
+  "fetched_at": "2026-05-23T04:02:12.015913+00:00",
   "window_hours": 72,
   "score": 4.0,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 77
     },
     {
       "name": "ActuNiger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 7
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Longues files d'attente : Ceux qui refusent de prendre le rang l\u00e0 fument quoi ?",
       "link": "https://lefaso.net/spip.php?article146615",
       "source": "LeFaso",
-      "published_at": "2026-05-22T23:13:25.093075+00:00",
+      "published_at": "2026-05-23T04:02:12.015913+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,27 +107,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-23T01:06:57.307715+00:00",
-      "score": 0.4
-    },
-    {
-      "timestamp": "2026-05-23T03:00:29.522355+00:00",
+      "timestamp": "2026-05-23T08:50:58.938751+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T04:54:01.736995+00:00",
+      "timestamp": "2026-05-23T13:39:45.861589+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T06:47:33.951635+00:00",
+      "timestamp": "2026-05-23T18:28:32.784427+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T08:41:06.166275+00:00",
+      "timestamp": "2026-05-23T23:17:19.707265+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T10:34:38.380915+00:00",
+      "timestamp": "2026-05-24T04:06:06.630103+00:00",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2026-05-24T08:54:53.552941+00:00",
       "score": 0.0
     }
   ]
