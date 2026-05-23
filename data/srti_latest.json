@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T04:02:12.015913+00:00",
+  "fetched_at": "2026-05-23T09:07:51.788431+00:00",
   "window_hours": 72,
   "score": 4.0,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 78
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Longues files d'attente : Ceux qui refusent de prendre le rang l\u00e0 fument quoi ?",
       "link": "https://lefaso.net/spip.php?article146615",
       "source": "LeFaso",
-      "published_at": "2026-05-23T04:02:12.015913+00:00",
+      "published_at": "2026-05-23T09:07:51.788431+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,27 +107,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-23T08:50:58.938751+00:00",
+      "timestamp": "2026-05-23T14:13:31.560949+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T13:39:45.861589+00:00",
+      "timestamp": "2026-05-23T19:19:11.333467+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T18:28:32.784427+00:00",
+      "timestamp": "2026-05-24T00:24:51.105985+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-23T23:17:19.707265+00:00",
+      "timestamp": "2026-05-24T05:30:30.878503+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-24T04:06:06.630103+00:00",
+      "timestamp": "2026-05-24T10:36:10.651021+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-24T08:54:53.552941+00:00",
+      "timestamp": "2026-05-24T15:41:50.423539+00:00",
       "score": 0.0
     }
   ]
