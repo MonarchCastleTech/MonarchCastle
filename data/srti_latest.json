@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-24T20:13:03.509226+00:00",
+  "fetched_at": "2026-05-24T22:03:44.700818+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 5.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 11.4,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 0,
+  "items_count": 1,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -92,30 +92,44 @@
       "items": 7
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "Senegal parliament speaker El Malick Ndiaye steps down as political crisis deepens",
+      "link": "https://www.france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-24T20:09:13+00:00",
+      "score": 0.95,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    }
+  ],
   "forecast": [
     {
-      "timestamp": "2026-05-24T22:19:55.733955+00:00",
+      "timestamp": "2026-05-24T23:54:25.892410+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-25T00:26:47.958684+00:00",
+      "timestamp": "2026-05-25T01:45:07.084002+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-25T02:33:40.183413+00:00",
+      "timestamp": "2026-05-25T03:35:48.275594+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-25T04:40:32.408142+00:00",
+      "timestamp": "2026-05-25T05:26:29.467186+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-25T06:47:24.632871+00:00",
+      "timestamp": "2026-05-25T07:17:10.658778+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-25T08:54:16.857600+00:00",
+      "timestamp": "2026-05-25T09:07:51.850370+00:00",
       "score": 0.0
     }
   ]
