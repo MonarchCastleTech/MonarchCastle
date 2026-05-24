@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-23T23:04:23.716007+00:00",
+  "fetched_at": "2026-05-24T00:08:12.813501+00:00",
   "window_hours": 72,
-  "score": 4.0,
+  "score": 0.0,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 20.2
+    "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 1,
+  "items_count": 0,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 70
     },
     {
       "name": "ActuNiger",
@@ -92,42 +92,30 @@
       "items": 7
     }
   ],
-  "top_headlines": [
-    {
-      "title": "Longues files d'attente : Ceux qui refusent de prendre le rang l\u00e0 fument quoi ?",
-      "link": "https://lefaso.net/spip.php?article146615",
-      "source": "LeFaso",
-      "published_at": "2026-05-23T23:04:23.716007+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    }
-  ],
+  "top_headlines": [],
   "forecast": [
     {
-      "timestamp": "2026-05-24T00:05:39.491303+00:00",
+      "timestamp": "2026-05-24T01:12:01.910995+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-24T01:06:55.266599+00:00",
+      "timestamp": "2026-05-24T02:15:51.008489+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-24T02:08:11.041895+00:00",
+      "timestamp": "2026-05-24T03:19:40.105983+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-24T03:09:26.817191+00:00",
+      "timestamp": "2026-05-24T04:23:29.203477+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-24T04:10:42.592487+00:00",
+      "timestamp": "2026-05-24T05:27:18.300971+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-05-24T05:11:58.367783+00:00",
+      "timestamp": "2026-05-24T06:31:07.398465+00:00",
       "score": 0.0
     }
   ]
