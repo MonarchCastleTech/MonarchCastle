@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-24T22:03:44.700818+00:00",
+  "fetched_at": "2026-05-24T23:10:22.668896+00:00",
   "window_hours": 72,
   "score": 5.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 11.4,
+    "conflict_intensity": 11.3,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis",
       "source": "France 24 - Africa",
       "published_at": "2026-05-24T20:09:13+00:00",
-      "score": 0.95,
+      "score": 0.94,
       "tags": [
         "conflict_intensity"
       ],
@@ -109,28 +109,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-24T23:54:25.892410+00:00",
-      "score": 0.0
+      "timestamp": "2026-05-25T00:17:00.636974+00:00",
+      "score": 0.9
     },
     {
-      "timestamp": "2026-05-25T01:45:07.084002+00:00",
-      "score": 0.0
+      "timestamp": "2026-05-25T01:23:38.605052+00:00",
+      "score": 0.8
     },
     {
-      "timestamp": "2026-05-25T03:35:48.275594+00:00",
-      "score": 0.0
+      "timestamp": "2026-05-25T02:30:16.573130+00:00",
+      "score": 0.6
     },
     {
-      "timestamp": "2026-05-25T05:26:29.467186+00:00",
-      "score": 0.0
+      "timestamp": "2026-05-25T03:36:54.541208+00:00",
+      "score": 0.5
     },
     {
-      "timestamp": "2026-05-25T07:17:10.658778+00:00",
-      "score": 0.0
+      "timestamp": "2026-05-25T04:43:32.509286+00:00",
+      "score": 0.3
     },
     {
-      "timestamp": "2026-05-25T09:07:51.850370+00:00",
-      "score": 0.0
+      "timestamp": "2026-05-25T05:50:10.477364+00:00",
+      "score": 0.2
     }
   ]
 }
