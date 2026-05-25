@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-25T21:18:31.177669+00:00",
+  "fetched_at": "2026-05-25T23:16:35.672444+00:00",
   "window_hours": 72,
-  "score": 7.7,
+  "score": 7.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 15.4,
+    "conflict_intensity": 14.8,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 60
     },
     {
       "name": "ActuNiger",
@@ -94,24 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "Senegal parliament speaker El Malick Ndiaye steps down as political crisis deepens",
-      "link": "https://www.france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis",
-      "source": "France 24 - Africa",
-      "published_at": "2026-05-24T20:09:13+00:00",
-      "score": 0.64,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Mali's Security Crisis Holds Warnings for Nigeria - Here's Why",
       "link": "https://allafrica.com/stories/202605250011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-25T04:28:47+00:00",
-      "score": 0.64,
+      "score": 0.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -120,32 +107,45 @@
         "mali",
         "niger"
       ]
+    },
+    {
+      "title": "Senegal parliament speaker El Malick Ndiaye steps down as political crisis deepens",
+      "link": "https://www.france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-24T20:09:13+00:00",
+      "score": 0.61,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-25T22:43:08.908299+00:00",
-      "score": 6.2
+      "timestamp": "2026-05-26T01:14:40.167219+00:00",
+      "score": 6.9
     },
     {
-      "timestamp": "2026-05-26T00:07:46.638929+00:00",
-      "score": 6.4
+      "timestamp": "2026-05-26T03:12:44.661994+00:00",
+      "score": 7.1
     },
     {
-      "timestamp": "2026-05-26T01:32:24.369559+00:00",
-      "score": 6.6
+      "timestamp": "2026-05-26T05:10:49.156769+00:00",
+      "score": 7.4
     },
     {
-      "timestamp": "2026-05-26T02:57:02.100189+00:00",
-      "score": 6.8
+      "timestamp": "2026-05-26T07:08:53.651544+00:00",
+      "score": 7.6
     },
     {
-      "timestamp": "2026-05-26T04:21:39.830819+00:00",
-      "score": 7.0
+      "timestamp": "2026-05-26T09:06:58.146319+00:00",
+      "score": 7.9
     },
     {
-      "timestamp": "2026-05-26T05:46:17.561449+00:00",
-      "score": 7.2
+      "timestamp": "2026-05-26T11:05:02.641094+00:00",
+      "score": 8.1
     }
   ]
 }
