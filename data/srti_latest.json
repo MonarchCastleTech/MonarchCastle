@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-25T17:49:48.975577+00:00",
+  "fetched_at": "2026-05-25T19:53:53.447039+00:00",
   "window_hours": 72,
-  "score": 8.2,
+  "score": 7.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 16.4,
+    "conflict_intensity": 15.8,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis",
       "source": "France 24 - Africa",
       "published_at": "2026-05-24T20:09:13+00:00",
-      "score": 0.68,
+      "score": 0.66,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://allafrica.com/stories/202605250011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-25T04:28:47+00:00",
-      "score": 0.68,
+      "score": 0.66,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-25T19:44:04.716173+00:00",
-      "score": 4.6
+      "timestamp": "2026-05-25T21:57:57.918501+00:00",
+      "score": 5.4
     },
     {
-      "timestamp": "2026-05-25T21:38:20.456769+00:00",
-      "score": 4.7
+      "timestamp": "2026-05-26T00:02:02.389963+00:00",
+      "score": 5.6
     },
     {
-      "timestamp": "2026-05-25T23:32:36.197365+00:00",
-      "score": 4.8
+      "timestamp": "2026-05-26T02:06:06.861425+00:00",
+      "score": 5.8
     },
     {
-      "timestamp": "2026-05-26T01:26:51.937961+00:00",
-      "score": 4.9
+      "timestamp": "2026-05-26T04:10:11.332887+00:00",
+      "score": 5.9
     },
     {
-      "timestamp": "2026-05-26T03:21:07.678557+00:00",
-      "score": 5.0
+      "timestamp": "2026-05-26T06:14:15.804349+00:00",
+      "score": 6.1
     },
     {
-      "timestamp": "2026-05-26T05:15:23.419153+00:00",
-      "score": 5.1
+      "timestamp": "2026-05-26T08:18:20.275811+00:00",
+      "score": 6.2
     }
   ]
 }
