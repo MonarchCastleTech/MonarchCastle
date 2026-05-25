@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-25T15:55:33.234981+00:00",
+  "fetched_at": "2026-05-25T17:49:48.975577+00:00",
   "window_hours": 72,
-  "score": 4.2,
+  "score": 8.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 8.5,
+    "conflict_intensity": 16.4,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 1,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 59
+      "items": 60
     },
     {
       "name": "ActuNiger",
@@ -70,8 +70,8 @@
     {
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 30
     },
     {
       "name": "AllAfrica - Mali",
@@ -94,11 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Senegal parliament speaker El Malick Ndiaye steps down as political crisis deepens",
+      "link": "https://www.france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis",
+      "source": "France 24 - Africa",
+      "published_at": "2026-05-24T20:09:13+00:00",
+      "score": 0.68,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Mali's Security Crisis Holds Warnings for Nigeria - Here's Why",
       "link": "https://allafrica.com/stories/202605250011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-25T04:28:47+00:00",
-      "score": 0.71,
+      "score": 0.68,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-25T19:09:59.148137+00:00",
-      "score": 3.7
+      "timestamp": "2026-05-25T19:44:04.716173+00:00",
+      "score": 4.6
     },
     {
-      "timestamp": "2026-05-25T22:24:25.061293+00:00",
-      "score": 3.7
+      "timestamp": "2026-05-25T21:38:20.456769+00:00",
+      "score": 4.7
     },
     {
-      "timestamp": "2026-05-26T01:38:50.974449+00:00",
-      "score": 3.8
+      "timestamp": "2026-05-25T23:32:36.197365+00:00",
+      "score": 4.8
     },
     {
-      "timestamp": "2026-05-26T04:53:16.887605+00:00",
-      "score": 3.8
+      "timestamp": "2026-05-26T01:26:51.937961+00:00",
+      "score": 4.9
     },
     {
-      "timestamp": "2026-05-26T08:07:42.800761+00:00",
-      "score": 3.8
+      "timestamp": "2026-05-26T03:21:07.678557+00:00",
+      "score": 5.0
     },
     {
-      "timestamp": "2026-05-26T11:22:08.713917+00:00",
-      "score": 3.9
+      "timestamp": "2026-05-26T05:15:23.419153+00:00",
+      "score": 5.1
     }
   ]
 }
