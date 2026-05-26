@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-26T19:24:31.385857+00:00",
+  "fetched_at": "2026-05-26T21:54:40.993349+00:00",
   "window_hours": 72,
-  "score": 6.8,
+  "score": 6.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 8.7,
-    "civilian_risk": 12.1
+    "conflict_intensity": 8.4,
+    "civilian_risk": 11.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 59
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605260012.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-05-26T05:01:43+00:00",
-      "score": 0.86,
+      "score": 0.83,
       "tags": [
         "civilian_risk"
       ],
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202605250011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-25T04:28:47+00:00",
-      "score": 0.39,
+      "score": 0.36,
       "tags": [
         "conflict_intensity"
       ],
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-26T21:59:22.842751+00:00",
-      "score": 9.1
-    },
-    {
-      "timestamp": "2026-05-27T00:34:14.299645+00:00",
+      "timestamp": "2026-05-27T00:24:50.600841+00:00",
       "score": 9.5
     },
     {
-      "timestamp": "2026-05-27T03:09:05.756539+00:00",
+      "timestamp": "2026-05-27T02:55:00.208333+00:00",
       "score": 9.9
     },
     {
-      "timestamp": "2026-05-27T05:43:57.213433+00:00",
+      "timestamp": "2026-05-27T05:25:09.815825+00:00",
       "score": 10.3
     },
     {
-      "timestamp": "2026-05-27T08:18:48.670327+00:00",
+      "timestamp": "2026-05-27T07:55:19.423317+00:00",
       "score": 10.7
     },
     {
-      "timestamp": "2026-05-27T10:53:40.127221+00:00",
+      "timestamp": "2026-05-27T10:25:29.030809+00:00",
       "score": 11.1
+    },
+    {
+      "timestamp": "2026-05-27T12:55:38.638301+00:00",
+      "score": 11.5
     }
   ]
 }
