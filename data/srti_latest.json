@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-05-25T23:16:35.672444+00:00",
+  "fetched_at": "2026-05-26T04:19:56.725168+00:00",
   "window_hours": 72,
-  "score": 7.4,
+  "score": 6.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 14.8,
+    "conflict_intensity": 13.2,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60
+      "items": 59
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605250011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-25T04:28:47+00:00",
-      "score": 0.62,
+      "score": 0.56,
       "tags": [
         "conflict_intensity"
       ],
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis",
       "source": "France 24 - Africa",
       "published_at": "2026-05-24T20:09:13+00:00",
-      "score": 0.61,
+      "score": 0.54,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-26T01:14:40.167219+00:00",
-      "score": 6.9
-    },
-    {
-      "timestamp": "2026-05-26T03:12:44.661994+00:00",
-      "score": 7.1
-    },
-    {
-      "timestamp": "2026-05-26T05:10:49.156769+00:00",
+      "timestamp": "2026-05-26T09:23:17.777892+00:00",
       "score": 7.4
     },
     {
-      "timestamp": "2026-05-26T07:08:53.651544+00:00",
+      "timestamp": "2026-05-26T14:26:38.830616+00:00",
       "score": 7.6
     },
     {
-      "timestamp": "2026-05-26T09:06:58.146319+00:00",
+      "timestamp": "2026-05-26T19:29:59.883340+00:00",
       "score": 7.9
     },
     {
-      "timestamp": "2026-05-26T11:05:02.641094+00:00",
-      "score": 8.1
+      "timestamp": "2026-05-27T00:33:20.936064+00:00",
+      "score": 8.2
+    },
+    {
+      "timestamp": "2026-05-27T05:36:41.988788+00:00",
+      "score": 8.5
+    },
+    {
+      "timestamp": "2026-05-27T10:40:03.041512+00:00",
+      "score": 8.8
     }
   ]
 }
