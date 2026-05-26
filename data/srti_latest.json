@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-26T04:19:56.725168+00:00",
+  "fetched_at": "2026-05-26T08:39:02.806830+00:00",
   "window_hours": 72,
-  "score": 6.6,
+  "score": 8.8,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 13.2,
-    "civilian_risk": 0.0
+    "conflict_intensity": 11.9,
+    "civilian_risk": 14.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 59
+      "items": 49
     },
     {
       "name": "ActuNiger",
@@ -89,16 +89,30 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 7
+      "items": 8
     }
   ],
   "top_headlines": [
+    {
+      "title": "Former NORCAP Expert New Head of Burkina Faso National Met Agency",
+      "link": "https://allafrica.com/stories/202605260012.html",
+      "source": "AllAfrica - Burkina Faso",
+      "published_at": "2026-05-26T05:01:43+00:00",
+      "score": 1.03,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
     {
       "title": "Mali's Security Crisis Holds Warnings for Nigeria - Here's Why",
       "link": "https://allafrica.com/stories/202605250011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-25T04:28:47+00:00",
-      "score": 0.56,
+      "score": 0.51,
       "tags": [
         "conflict_intensity"
       ],
@@ -113,7 +127,7 @@
       "link": "https://www.france24.com/en/africa/20260524-senegal-parliament-speaker-steps-down-in-political-crisis",
       "source": "France 24 - Africa",
       "published_at": "2026-05-24T20:09:13+00:00",
-      "score": 0.54,
+      "score": 0.48,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-26T09:23:17.777892+00:00",
-      "score": 7.4
-    },
-    {
-      "timestamp": "2026-05-26T14:26:38.830616+00:00",
-      "score": 7.6
-    },
-    {
-      "timestamp": "2026-05-26T19:29:59.883340+00:00",
-      "score": 7.9
-    },
-    {
-      "timestamp": "2026-05-27T00:33:20.936064+00:00",
+      "timestamp": "2026-05-26T12:58:08.888492+00:00",
       "score": 8.2
     },
     {
-      "timestamp": "2026-05-27T05:36:41.988788+00:00",
+      "timestamp": "2026-05-26T17:17:14.970154+00:00",
       "score": 8.5
     },
     {
-      "timestamp": "2026-05-27T10:40:03.041512+00:00",
-      "score": 8.8
+      "timestamp": "2026-05-26T21:36:21.051816+00:00",
+      "score": 8.9
+    },
+    {
+      "timestamp": "2026-05-27T01:55:27.133478+00:00",
+      "score": 9.2
+    },
+    {
+      "timestamp": "2026-05-27T06:14:33.215140+00:00",
+      "score": 9.5
+    },
+    {
+      "timestamp": "2026-05-27T10:33:39.296802+00:00",
+      "score": 9.9
     }
   ]
 }
