@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-27T16:42:56.765340+00:00",
+  "fetched_at": "2026-05-27T19:30:33.451548+00:00",
   "window_hours": 72,
-  "score": 5.3,
+  "score": 5.2,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 7.6,
-    "civilian_risk": 7.6
+    "civilian_risk": 7.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605260012.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-05-26T05:01:43+00:00",
-      "score": 0.54,
+      "score": 0.5,
       "tags": [
         "civilian_risk"
       ],
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-27T20:57:14.134414+00:00",
+      "timestamp": "2026-05-27T22:18:10.137756+00:00",
+      "score": 7.9
+    },
+    {
+      "timestamp": "2026-05-28T01:05:46.823964+00:00",
+      "score": 8.0
+    },
+    {
+      "timestamp": "2026-05-28T03:53:23.510172+00:00",
+      "score": 8.2
+    },
+    {
+      "timestamp": "2026-05-28T06:41:00.196380+00:00",
       "score": 8.4
     },
     {
-      "timestamp": "2026-05-28T01:11:31.503488+00:00",
+      "timestamp": "2026-05-28T09:28:36.882588+00:00",
       "score": 8.6
     },
     {
-      "timestamp": "2026-05-28T05:25:48.872562+00:00",
-      "score": 8.9
-    },
-    {
-      "timestamp": "2026-05-28T09:40:06.241636+00:00",
-      "score": 9.1
-    },
-    {
-      "timestamp": "2026-05-28T13:54:23.610710+00:00",
-      "score": 9.4
-    },
-    {
-      "timestamp": "2026-05-28T18:08:40.979784+00:00",
-      "score": 9.6
+      "timestamp": "2026-05-28T12:16:13.568796+00:00",
+      "score": 8.7
     }
   ]
 }
