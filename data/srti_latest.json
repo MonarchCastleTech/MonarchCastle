@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-26T23:17:48.704052+00:00",
+  "fetched_at": "2026-05-27T04:42:40.459581+00:00",
   "window_hours": 72,
-  "score": 6.4,
+  "score": 5.8,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 8.2,
-    "civilian_risk": 11.3
+    "conflict_intensity": 7.6,
+    "civilian_risk": 10.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 59
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605260012.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-05-26T05:01:43+00:00",
-      "score": 0.81,
+      "score": 0.72,
       "tags": [
         "civilian_risk"
       ],
@@ -125,7 +125,7 @@
       "link": "https://allafrica.com/stories/202605250011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-05-25T04:28:47+00:00",
-      "score": 0.34,
+      "score": 0.29,
       "tags": [
         "conflict_intensity"
       ],
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-27T00:40:56.414755+00:00",
-      "score": 9.8
+      "timestamp": "2026-05-27T10:07:32.215110+00:00",
+      "score": 9.6
     },
     {
-      "timestamp": "2026-05-27T02:04:04.125458+00:00",
-      "score": 10.2
+      "timestamp": "2026-05-27T15:32:23.970639+00:00",
+      "score": 9.9
     },
     {
-      "timestamp": "2026-05-27T03:27:11.836161+00:00",
-      "score": 10.6
+      "timestamp": "2026-05-27T20:57:15.726168+00:00",
+      "score": 10.3
     },
     {
-      "timestamp": "2026-05-27T04:50:19.546864+00:00",
-      "score": 11.0
+      "timestamp": "2026-05-28T02:22:07.481697+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-05-27T06:13:27.257567+00:00",
+      "timestamp": "2026-05-28T07:46:59.237226+00:00",
+      "score": 11.1
+    },
+    {
+      "timestamp": "2026-05-28T13:11:50.992755+00:00",
       "score": 11.5
-    },
-    {
-      "timestamp": "2026-05-27T07:36:34.968270+00:00",
-      "score": 11.9
     }
   ]
 }
