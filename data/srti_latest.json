@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-27T23:35:58.903029+00:00",
+  "fetched_at": "2026-05-28T04:22:28.269607+00:00",
   "window_hours": 72,
-  "score": 3.0,
+  "score": 2.8,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 3.5,
-    "civilian_risk": 6.2
+    "civilian_risk": 5.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202605260012.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-05-26T05:01:43+00:00",
-      "score": 0.44,
+      "score": 0.38,
       "tags": [
         "civilian_risk"
       ],
@@ -125,28 +125,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-28T01:08:08.817156+00:00",
-      "score": 5.6
+      "timestamp": "2026-05-28T09:08:57.636185+00:00",
+      "score": 4.5
     },
     {
-      "timestamp": "2026-05-28T02:40:18.731283+00:00",
-      "score": 5.6
+      "timestamp": "2026-05-28T13:55:27.002763+00:00",
+      "score": 4.4
     },
     {
-      "timestamp": "2026-05-28T04:12:28.645410+00:00",
-      "score": 5.6
+      "timestamp": "2026-05-28T18:41:56.369341+00:00",
+      "score": 4.3
     },
     {
-      "timestamp": "2026-05-28T05:44:38.559537+00:00",
-      "score": 5.5
+      "timestamp": "2026-05-28T23:28:25.735919+00:00",
+      "score": 4.2
     },
     {
-      "timestamp": "2026-05-28T07:16:48.473664+00:00",
-      "score": 5.5
+      "timestamp": "2026-05-29T04:14:55.102497+00:00",
+      "score": 4.1
     },
     {
-      "timestamp": "2026-05-28T08:48:58.387791+00:00",
-      "score": 5.5
+      "timestamp": "2026-05-29T09:01:24.469075+00:00",
+      "score": 4.0
     }
   ]
 }
