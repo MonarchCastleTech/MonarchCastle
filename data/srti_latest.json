@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-28T08:50:05.943403+00:00",
+  "fetched_at": "2026-05-28T12:37:56.149752+00:00",
   "window_hours": 72,
-  "score": 1.1,
+  "score": 7.8,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 13.4,
     "civilian_risk": 5.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 1,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -94,6 +94,20 @@
   ],
   "top_headlines": [
     {
+      "title": "17e \u00e9dition de la foire aux semences et des innovations agricoles du 29 au 31 mai 2026",
+      "link": "https://lefaso.net/spip.php?article146767",
+      "source": "LeFaso",
+      "published_at": "2026-05-28T12:37:56.149752+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Former NORCAP Expert New Head of Burkina Faso National Met Agency",
       "link": "https://allafrica.com/stories/202605260012.html",
       "source": "AllAfrica - Burkina Faso",
@@ -110,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-28T13:17:43.617199+00:00",
+      "timestamp": "2026-05-28T16:25:46.356101+00:00",
+      "score": 3.4
+    },
+    {
+      "timestamp": "2026-05-28T20:13:36.562450+00:00",
       "score": 3.2
     },
     {
-      "timestamp": "2026-05-28T17:45:21.290995+00:00",
-      "score": 2.9
+      "timestamp": "2026-05-29T00:01:26.768799+00:00",
+      "score": 3.0
     },
     {
-      "timestamp": "2026-05-28T22:12:58.964791+00:00",
-      "score": 2.7
+      "timestamp": "2026-05-29T03:49:16.975148+00:00",
+      "score": 2.8
     },
     {
-      "timestamp": "2026-05-29T02:40:36.638587+00:00",
-      "score": 2.5
+      "timestamp": "2026-05-29T07:37:07.181497+00:00",
+      "score": 2.6
     },
     {
-      "timestamp": "2026-05-29T07:08:14.312383+00:00",
-      "score": 2.3
-    },
-    {
-      "timestamp": "2026-05-29T11:35:51.986179+00:00",
-      "score": 2.0
+      "timestamp": "2026-05-29T11:24:57.387846+00:00",
+      "score": 2.4
     }
   ]
 }
