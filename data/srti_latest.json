@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T19:41:02.628785+00:00",
+  "fetched_at": "2026-05-28T22:01:36.817662+00:00",
   "window_hours": 72,
   "score": 7.8,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "17e \u00e9dition de la foire aux semences et des innovations agricoles du 29 au 31 mai 2026",
       "link": "https://lefaso.net/spip.php?article146767",
       "source": "LeFaso",
-      "published_at": "2026-05-28T19:41:02.628785+00:00",
+      "published_at": "2026-05-28T22:01:36.817662+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-28T22:22:18.342997+00:00",
-      "score": 4.3
+      "timestamp": "2026-05-29T00:22:11.006539+00:00",
+      "score": 4.9
     },
     {
-      "timestamp": "2026-05-29T01:03:34.057209+00:00",
-      "score": 4.2
+      "timestamp": "2026-05-29T02:42:45.195416+00:00",
+      "score": 4.8
     },
     {
-      "timestamp": "2026-05-29T03:44:49.771421+00:00",
-      "score": 4.1
+      "timestamp": "2026-05-29T05:03:19.384293+00:00",
+      "score": 4.7
     },
     {
-      "timestamp": "2026-05-29T06:26:05.485633+00:00",
-      "score": 3.9
+      "timestamp": "2026-05-29T07:23:53.573170+00:00",
+      "score": 4.6
     },
     {
-      "timestamp": "2026-05-29T09:07:21.199845+00:00",
-      "score": 3.8
+      "timestamp": "2026-05-29T09:44:27.762047+00:00",
+      "score": 4.5
     },
     {
-      "timestamp": "2026-05-29T11:48:36.914057+00:00",
-      "score": 3.6
+      "timestamp": "2026-05-29T12:05:01.950924+00:00",
+      "score": 4.5
     }
   ]
 }
