@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-29T22:00:02.882898+00:00",
+  "fetched_at": "2026-05-29T23:22:12.632164+00:00",
   "window_hours": 72,
-  "score": 18.3,
+  "score": 10.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 28.6,
+    "conflict_intensity": 13.4,
     "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-05-29T22:00:02.882898+00:00",
+      "published_at": "2026-05-29T23:22:12.632164+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,23 +108,10 @@
       ]
     },
     {
-      "title": "UNFPA Situation Report: Crisis in Mali - April 2026",
-      "link": "https://reliefweb.int/report/mali/unfpa-situation-report-crisis-mali-april-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-05-29T22:00:02.882898+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "17e \u00e9dition de la foire aux semences et des innovations agricoles du 29 au 31 mai 2026",
       "link": "https://lefaso.net/spip.php?article146767",
       "source": "LeFaso",
-      "published_at": "2026-05-29T22:00:02.882898+00:00",
+      "published_at": "2026-05-29T23:22:12.632164+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-30T00:22:44.856167+00:00",
-      "score": 10.9
-    },
-    {
-      "timestamp": "2026-05-30T02:45:26.829436+00:00",
-      "score": 11.2
-    },
-    {
-      "timestamp": "2026-05-30T05:08:08.802705+00:00",
+      "timestamp": "2026-05-30T00:44:22.381430+00:00",
       "score": 11.5
     },
     {
-      "timestamp": "2026-05-30T07:30:50.775974+00:00",
-      "score": 11.8
+      "timestamp": "2026-05-30T02:06:32.130696+00:00",
+      "score": 11.9
     },
     {
-      "timestamp": "2026-05-30T09:53:32.749243+00:00",
-      "score": 12.1
+      "timestamp": "2026-05-30T03:28:41.879962+00:00",
+      "score": 12.2
     },
     {
-      "timestamp": "2026-05-30T12:16:14.722512+00:00",
-      "score": 12.4
+      "timestamp": "2026-05-30T04:50:51.629228+00:00",
+      "score": 12.6
+    },
+    {
+      "timestamp": "2026-05-30T06:13:01.378494+00:00",
+      "score": 12.9
+    },
+    {
+      "timestamp": "2026-05-30T07:35:11.127760+00:00",
+      "score": 13.2
     }
   ]
 }
