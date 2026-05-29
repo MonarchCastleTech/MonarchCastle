@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T23:39:53.236898+00:00",
+  "fetched_at": "2026-05-29T04:26:01.175748+00:00",
   "window_hours": 72,
   "score": 7.8,
   "risk_level": "LOW",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 5
+      "items": 4
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -97,7 +97,7 @@
       "title": "17e \u00e9dition de la foire aux semences et des innovations agricoles du 29 au 31 mai 2026",
       "link": "https://lefaso.net/spip.php?article146767",
       "source": "LeFaso",
-      "published_at": "2026-05-28T23:39:53.236898+00:00",
+      "published_at": "2026-05-29T04:26:01.175748+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-29T01:18:09.656134+00:00",
-      "score": 5.0
+      "timestamp": "2026-05-29T09:12:09.114598+00:00",
+      "score": 5.5
     },
     {
-      "timestamp": "2026-05-29T02:56:26.075370+00:00",
-      "score": 4.9
+      "timestamp": "2026-05-29T13:58:17.053448+00:00",
+      "score": 5.4
     },
     {
-      "timestamp": "2026-05-29T04:34:42.494606+00:00",
-      "score": 4.8
+      "timestamp": "2026-05-29T18:44:24.992298+00:00",
+      "score": 5.4
     },
     {
-      "timestamp": "2026-05-29T06:12:58.913842+00:00",
-      "score": 4.7
+      "timestamp": "2026-05-29T23:30:32.931148+00:00",
+      "score": 5.3
     },
     {
-      "timestamp": "2026-05-29T07:51:15.333078+00:00",
-      "score": 4.7
+      "timestamp": "2026-05-30T04:16:40.869998+00:00",
+      "score": 5.3
     },
     {
-      "timestamp": "2026-05-29T09:29:31.752314+00:00",
-      "score": 4.6
+      "timestamp": "2026-05-30T09:02:48.808848+00:00",
+      "score": 5.2
     }
   ]
 }
