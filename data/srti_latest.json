@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-29T08:48:32.704997+00:00",
+  "fetched_at": "2026-05-29T12:24:23.556531+00:00",
   "window_hours": 72,
-  "score": 6.7,
+  "score": 14.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 13.4,
+    "conflict_intensity": 28.6,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 1,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 36
+      "items": 32
     },
     {
       "name": "UN News Africa",
@@ -94,10 +94,23 @@
   ],
   "top_headlines": [
     {
+      "title": "UNFPA Situation Report: Crisis in Mali - April 2026",
+      "link": "https://reliefweb.int/report/mali/unfpa-situation-report-crisis-mali-april-2026",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-29T12:24:23.556531+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "17e \u00e9dition de la foire aux semences et des innovations agricoles du 29 au 31 mai 2026",
       "link": "https://lefaso.net/spip.php?article146767",
       "source": "LeFaso",
-      "published_at": "2026-05-29T08:48:32.704997+00:00",
+      "published_at": "2026-05-29T12:24:23.556531+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -110,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-29T13:11:04.234246+00:00",
-      "score": 5.7
+      "timestamp": "2026-05-29T16:00:14.408065+00:00",
+      "score": 7.3
     },
     {
-      "timestamp": "2026-05-29T17:33:35.763495+00:00",
-      "score": 5.7
+      "timestamp": "2026-05-29T19:36:05.259599+00:00",
+      "score": 7.3
     },
     {
-      "timestamp": "2026-05-29T21:56:07.292744+00:00",
-      "score": 5.7
+      "timestamp": "2026-05-29T23:11:56.111133+00:00",
+      "score": 7.4
     },
     {
-      "timestamp": "2026-05-30T02:18:38.821993+00:00",
-      "score": 5.6
+      "timestamp": "2026-05-30T02:47:46.962667+00:00",
+      "score": 7.5
     },
     {
-      "timestamp": "2026-05-30T06:41:10.351242+00:00",
-      "score": 5.6
+      "timestamp": "2026-05-30T06:23:37.814201+00:00",
+      "score": 7.5
     },
     {
-      "timestamp": "2026-05-30T11:03:41.880491+00:00",
-      "score": 5.6
+      "timestamp": "2026-05-30T09:59:28.665735+00:00",
+      "score": 7.6
     }
   ]
 }
