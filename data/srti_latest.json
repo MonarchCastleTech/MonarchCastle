@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-30T16:11:20.715988+00:00",
+  "fetched_at": "2026-05-30T18:10:10.126565+00:00",
   "window_hours": 72,
   "score": 8.1,
   "risk_level": "LOW",
@@ -71,25 +71,25 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 30
+      "items": 29
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
-      "status": "ok",
-      "items": 30
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
-      "status": "ok",
-      "items": 4
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-05-30T16:11:20.715988+00:00",
+      "published_at": "2026-05-30T18:10:10.126565+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-05-30T16:11:20.715988+00:00",
+      "published_at": "2026-05-30T18:10:10.126565+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-30T17:38:06.360570+00:00",
+      "timestamp": "2026-05-30T20:08:59.537142+00:00",
+      "score": 15.0
+    },
+    {
+      "timestamp": "2026-05-30T22:07:48.947719+00:00",
       "score": 15.5
     },
     {
-      "timestamp": "2026-05-30T19:04:52.005152+00:00",
-      "score": 16.0
+      "timestamp": "2026-05-31T00:06:38.358296+00:00",
+      "score": 15.9
     },
     {
-      "timestamp": "2026-05-30T20:31:37.649734+00:00",
-      "score": 16.5
+      "timestamp": "2026-05-31T02:05:27.768873+00:00",
+      "score": 16.4
     },
     {
-      "timestamp": "2026-05-30T21:58:23.294316+00:00",
-      "score": 17.0
+      "timestamp": "2026-05-31T04:04:17.179450+00:00",
+      "score": 16.9
     },
     {
-      "timestamp": "2026-05-30T23:25:08.938898+00:00",
-      "score": 17.6
-    },
-    {
-      "timestamp": "2026-05-31T00:51:54.583480+00:00",
-      "score": 18.1
+      "timestamp": "2026-05-31T06:03:06.590027+00:00",
+      "score": 17.3
     }
   ]
 }
