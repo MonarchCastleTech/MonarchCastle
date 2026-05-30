@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-30T14:44:35.071406+00:00",
+  "fetched_at": "2026-05-30T16:11:20.715988+00:00",
   "window_hours": 72,
-  "score": 15.6,
+  "score": 8.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 15.1,
+    "conflict_intensity": 0.0,
     "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-05-30T14:44:35.071406+00:00",
+      "published_at": "2026-05-30T16:11:20.715988+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-05-30T14:44:35.071406+00:00",
+      "published_at": "2026-05-30T16:11:20.715988+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,45 +120,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "UNFPA Situation Report: Crisis in Mali - April 2026",
-      "link": "https://reliefweb.int/report/mali/unfpa-situation-report-crisis-mali-april-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-05-30T14:44:35.071406+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-30T17:19:00.711398+00:00",
-      "score": 15.9
+      "timestamp": "2026-05-30T17:38:06.360570+00:00",
+      "score": 15.5
     },
     {
-      "timestamp": "2026-05-30T19:53:26.351390+00:00",
+      "timestamp": "2026-05-30T19:04:52.005152+00:00",
+      "score": 16.0
+    },
+    {
+      "timestamp": "2026-05-30T20:31:37.649734+00:00",
       "score": 16.5
     },
     {
-      "timestamp": "2026-05-30T22:27:51.991382+00:00",
-      "score": 17.1
+      "timestamp": "2026-05-30T21:58:23.294316+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-05-31T01:02:17.631374+00:00",
+      "timestamp": "2026-05-30T23:25:08.938898+00:00",
       "score": 17.6
     },
     {
-      "timestamp": "2026-05-31T03:36:43.271366+00:00",
-      "score": 18.2
-    },
-    {
-      "timestamp": "2026-05-31T06:11:08.911358+00:00",
-      "score": 18.8
+      "timestamp": "2026-05-31T00:51:54.583480+00:00",
+      "score": 18.1
     }
   ]
 }
