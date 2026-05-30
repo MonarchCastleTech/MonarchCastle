@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-30T18:10:10.126565+00:00",
+  "fetched_at": "2026-05-30T20:13:46.534221+00:00",
   "window_hours": 72,
-  "score": 8.1,
+  "score": 15.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 15.1,
     "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -76,20 +76,20 @@
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 30
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 4
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-05-30T18:10:10.126565+00:00",
+      "published_at": "2026-05-30T20:13:46.534221+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-05-30T18:10:10.126565+00:00",
+      "published_at": "2026-05-30T20:13:46.534221+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,32 +120,45 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "UNFPA Situation Report: Crisis in Mali - April 2026",
+      "link": "https://reliefweb.int/report/mali/unfpa-situation-report-crisis-mali-april-2026",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-05-30T20:13:46.534221+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-30T20:08:59.537142+00:00",
-      "score": 15.0
+      "timestamp": "2026-05-30T22:17:22.941877+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-05-30T22:07:48.947719+00:00",
-      "score": 15.5
+      "timestamp": "2026-05-31T00:20:59.349533+00:00",
+      "score": 16.2
     },
     {
-      "timestamp": "2026-05-31T00:06:38.358296+00:00",
-      "score": 15.9
+      "timestamp": "2026-05-31T02:24:35.757189+00:00",
+      "score": 16.7
     },
     {
-      "timestamp": "2026-05-31T02:05:27.768873+00:00",
-      "score": 16.4
+      "timestamp": "2026-05-31T04:28:12.164845+00:00",
+      "score": 17.2
     },
     {
-      "timestamp": "2026-05-31T04:04:17.179450+00:00",
-      "score": 16.9
+      "timestamp": "2026-05-31T06:31:48.572501+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-05-31T06:03:06.590027+00:00",
-      "score": 17.3
+      "timestamp": "2026-05-31T08:35:24.980157+00:00",
+      "score": 18.2
     }
   ]
 }
