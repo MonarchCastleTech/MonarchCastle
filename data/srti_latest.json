@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-05-31T17:17:56.086912+00:00",
+  "fetched_at": "2026-05-31T19:38:00.713397+00:00",
   "window_hours": 72,
-  "score": 17.6,
-  "risk_level": "LOW",
+  "score": 21.5,
+  "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 13.4,
-    "civilian_risk": 54.4
+    "civilian_risk": 74.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
+      "link": "https://lefaso.net/spip.php?article146840",
+      "source": "LeFaso",
+      "published_at": "2026-05-31T19:38:00.713397+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso",
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-05-31T17:17:56.086912+00:00",
+      "published_at": "2026-05-31T19:38:00.713397+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +126,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-05-31T17:17:56.086912+00:00",
+      "published_at": "2026-05-31T19:38:00.713397+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +140,7 @@
       "title": "Burkina/Recherche agricole : L'INERA tient sa 17\u1d49 foire aux semences sous le signe de la tra\u00e7abilit\u00e9 et de l'innovation",
       "link": "https://lefaso.net/spip.php?article146823",
       "source": "LeFaso",
-      "published_at": "2026-05-31T17:17:56.086912+00:00",
+      "published_at": "2026-05-31T19:38:00.713397+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +155,7 @@
       "link": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-31T12:11:32+00:00",
-      "score": 1.0,
+      "score": 0.97,
       "tags": [
         "civilian_risk"
       ],
@@ -151,28 +166,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-31T18:57:36.243597+00:00",
-      "score": 20.1
+      "timestamp": "2026-05-31T21:58:05.339882+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-05-31T20:37:16.400282+00:00",
-      "score": 20.6
+      "timestamp": "2026-06-01T00:18:09.966367+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-05-31T22:16:56.556967+00:00",
-      "score": 21.0
+      "timestamp": "2026-06-01T02:38:14.592852+00:00",
+      "score": 21.7
     },
     {
-      "timestamp": "2026-05-31T23:56:36.713652+00:00",
-      "score": 21.5
+      "timestamp": "2026-06-01T04:58:19.219337+00:00",
+      "score": 22.2
     },
     {
-      "timestamp": "2026-06-01T01:36:16.870337+00:00",
-      "score": 22.0
+      "timestamp": "2026-06-01T07:18:23.845822+00:00",
+      "score": 22.6
     },
     {
-      "timestamp": "2026-06-01T03:15:57.027022+00:00",
-      "score": 22.5
+      "timestamp": "2026-06-01T09:38:28.472307+00:00",
+      "score": 23.1
     }
   ]
 }
