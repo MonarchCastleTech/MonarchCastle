@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-05-31T15:38:15.930227+00:00",
+  "fetched_at": "2026-05-31T17:17:56.086912+00:00",
   "window_hours": 72,
-  "score": 25.2,
-  "risk_level": "GUARDED",
+  "score": 17.6,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 28.6,
-    "civilian_risk": 54.7
+    "conflict_intensity": 13.4,
+    "civilian_risk": 54.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 60
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-05-31T15:38:15.930227+00:00",
+      "published_at": "2026-05-31T17:17:56.086912+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-05-31T15:38:15.930227+00:00",
+      "published_at": "2026-05-31T17:17:56.086912+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,23 +122,10 @@
       ]
     },
     {
-      "title": "UNFPA Situation Report: Crisis in Mali - April 2026",
-      "link": "https://reliefweb.int/report/mali/unfpa-situation-report-crisis-mali-april-2026",
-      "source": "ReliefWeb - Mali",
-      "published_at": "2026-05-31T15:38:15.930227+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Burkina/Recherche agricole : L'INERA tient sa 17\u1d49 foire aux semences sous le signe de la tra\u00e7abilit\u00e9 et de l'innovation",
       "link": "https://lefaso.net/spip.php?article146823",
       "source": "LeFaso",
-      "published_at": "2026-05-31T15:38:15.930227+00:00",
+      "published_at": "2026-05-31T17:17:56.086912+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,7 +140,7 @@
       "link": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-31T12:11:32+00:00",
-      "score": 1.03,
+      "score": 1.0,
       "tags": [
         "civilian_risk"
       ],
@@ -164,27 +151,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-31T17:11:31.047266+00:00",
-      "score": 20.0
+      "timestamp": "2026-05-31T18:57:36.243597+00:00",
+      "score": 20.1
     },
     {
-      "timestamp": "2026-05-31T18:44:46.164305+00:00",
-      "score": 20.5
+      "timestamp": "2026-05-31T20:37:16.400282+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-05-31T20:18:01.281344+00:00",
+      "timestamp": "2026-05-31T22:16:56.556967+00:00",
       "score": 21.0
     },
     {
-      "timestamp": "2026-05-31T21:51:16.398383+00:00",
+      "timestamp": "2026-05-31T23:56:36.713652+00:00",
       "score": 21.5
     },
     {
-      "timestamp": "2026-05-31T23:24:31.515422+00:00",
+      "timestamp": "2026-06-01T01:36:16.870337+00:00",
       "score": 22.0
     },
     {
-      "timestamp": "2026-06-01T00:57:46.632461+00:00",
+      "timestamp": "2026-06-01T03:15:57.027022+00:00",
       "score": 22.5
     }
   ]
