@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-31T05:25:47.351339+00:00",
+  "fetched_at": "2026-05-31T09:17:19.075724+00:00",
   "window_hours": 72,
   "score": 14.8,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 62
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-05-31T05:25:47.351339+00:00",
+      "published_at": "2026-05-31T09:17:19.075724+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-05-31T05:25:47.351339+00:00",
+      "published_at": "2026-05-31T09:17:19.075724+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina/Recherche agricole : L'INERA tient sa 17\u1d49 foire aux semences sous le signe de la tra\u00e7abilit\u00e9 et de l'innovation",
       "link": "https://lefaso.net/spip.php?article146823",
       "source": "LeFaso",
-      "published_at": "2026-05-31T05:25:47.351339+00:00",
+      "published_at": "2026-05-31T09:17:19.075724+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-05-31T10:41:47.617616+00:00",
-      "score": 17.1
+      "timestamp": "2026-05-31T13:08:50.800109+00:00",
+      "score": 16.6
     },
     {
-      "timestamp": "2026-05-31T15:57:47.883893+00:00",
-      "score": 17.5
+      "timestamp": "2026-05-31T17:00:22.524494+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-05-31T21:13:48.150170+00:00",
-      "score": 18.0
+      "timestamp": "2026-05-31T20:51:54.248879+00:00",
+      "score": 17.4
     },
     {
-      "timestamp": "2026-06-01T02:29:48.416447+00:00",
-      "score": 18.4
+      "timestamp": "2026-06-01T00:43:25.973264+00:00",
+      "score": 17.8
     },
     {
-      "timestamp": "2026-06-01T07:45:48.682724+00:00",
-      "score": 18.9
+      "timestamp": "2026-06-01T04:34:57.697649+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-06-01T13:01:48.949001+00:00",
-      "score": 19.3
+      "timestamp": "2026-06-01T08:26:29.422034+00:00",
+      "score": 18.5
     }
   ]
 }
