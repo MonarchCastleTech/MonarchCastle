@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-01T11:52:29.142843+00:00",
+  "fetched_at": "2026-06-01T18:13:04.111213+00:00",
   "window_hours": 72,
-  "score": 25.8,
+  "score": 30.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 23.3,
-    "civilian_risk": 70.6
+    "conflict_intensity": 35.8,
+    "civilian_risk": 60.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 57
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
       "link": "https://lefaso.net/spip.php?article146840",
       "source": "LeFaso",
-      "published_at": "2026-06-01T11:52:29.142843+00:00",
+      "published_at": "2026-06-01T18:13:04.111213+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-06-01T11:52:29.142843+00:00",
+      "published_at": "2026-06-01T18:13:04.111213+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-06-01T11:52:29.142843+00:00",
+      "published_at": "2026-06-01T18:13:04.111213+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,10 +137,23 @@
       ]
     },
     {
+      "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
+      "link": "https://lefaso.net/spip.php?article146859",
+      "source": "LeFaso",
+      "published_at": "2026-06-01T18:13:04.111213+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Burkina/Recherche agricole : L'INERA tient sa 17\u1d49 foire aux semences sous le signe de la tra\u00e7abilit\u00e9 et de l'innovation",
       "link": "https://lefaso.net/spip.php?article146823",
       "source": "LeFaso",
-      "published_at": "2026-06-01T11:52:29.142843+00:00",
+      "published_at": "2026-06-01T18:13:04.111213+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -155,22 +168,9 @@
       "link": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-01T10:02:49+00:00",
-      "score": 0.82,
+      "score": 0.74,
       "tags": [
         "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Nigerian retired general abducted with his wife in the north-west",
-      "link": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-05-31T12:11:32+00:00",
-      "score": 0.72,
-      "tags": [
-        "civilian_risk"
       ],
       "regions": [
         "niger"
@@ -179,28 +179,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-01T18:37:29.130787+00:00",
-      "score": 24.3
+      "timestamp": "2026-06-02T00:33:39.079583+00:00",
+      "score": 25.8
     },
     {
-      "timestamp": "2026-06-02T01:22:29.118731+00:00",
-      "score": 24.9
+      "timestamp": "2026-06-02T06:54:14.047953+00:00",
+      "score": 26.5
     },
     {
-      "timestamp": "2026-06-02T08:07:29.106675+00:00",
-      "score": 25.4
+      "timestamp": "2026-06-02T13:14:49.016323+00:00",
+      "score": 27.1
     },
     {
-      "timestamp": "2026-06-02T14:52:29.094619+00:00",
-      "score": 26.0
+      "timestamp": "2026-06-02T19:35:23.984693+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-06-02T21:37:29.082563+00:00",
-      "score": 26.6
+      "timestamp": "2026-06-03T01:55:58.953063+00:00",
+      "score": 28.4
     },
     {
-      "timestamp": "2026-06-03T04:22:29.070507+00:00",
-      "score": 27.2
+      "timestamp": "2026-06-03T08:16:33.921433+00:00",
+      "score": 29.0
     }
   ]
 }
