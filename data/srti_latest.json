@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-01T05:07:29.154899+00:00",
+  "fetched_at": "2026-06-01T11:52:29.142843+00:00",
   "window_hours": 72,
-  "score": 21.1,
+  "score": 25.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 13.4,
-    "civilian_risk": 72.0
+    "conflict_intensity": 23.3,
+    "civilian_risk": 70.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 54
+      "items": 57
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 38
+      "items": 30
     },
     {
       "name": "UN News Africa",
@@ -77,13 +77,13 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 4
+      "items": 5
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
       "link": "https://lefaso.net/spip.php?article146840",
       "source": "LeFaso",
-      "published_at": "2026-06-01T05:07:29.154899+00:00",
+      "published_at": "2026-06-01T11:52:29.142843+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-06-01T05:07:29.154899+00:00",
+      "published_at": "2026-06-01T11:52:29.142843+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-06-01T05:07:29.154899+00:00",
+      "published_at": "2026-06-01T11:52:29.142843+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/Recherche agricole : L'INERA tient sa 17\u1d49 foire aux semences sous le signe de la tra\u00e7abilit\u00e9 et de l'innovation",
       "link": "https://lefaso.net/spip.php?article146823",
       "source": "LeFaso",
-      "published_at": "2026-06-01T05:07:29.154899+00:00",
+      "published_at": "2026-06-01T11:52:29.142843+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,11 +151,24 @@
       ]
     },
     {
+      "title": "Nigeria police warn against reprisal attacks against South Africans",
+      "link": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-06-01T10:02:49+00:00",
+      "score": 0.82,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Nigerian retired general abducted with his wife in the north-west",
       "link": "https://www.bbc.com/news/articles/cz02zgkgn08o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-05-31T12:11:32+00:00",
-      "score": 0.83,
+      "score": 0.72,
       "tags": [
         "civilian_risk"
       ],
@@ -166,28 +179,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-01T11:03:07.618604+00:00",
-      "score": 23.3
+      "timestamp": "2026-06-01T18:37:29.130787+00:00",
+      "score": 24.3
     },
     {
-      "timestamp": "2026-06-01T16:58:46.082309+00:00",
-      "score": 23.8
-    },
-    {
-      "timestamp": "2026-06-01T22:54:24.546014+00:00",
-      "score": 24.4
-    },
-    {
-      "timestamp": "2026-06-02T04:50:03.009719+00:00",
+      "timestamp": "2026-06-02T01:22:29.118731+00:00",
       "score": 24.9
     },
     {
-      "timestamp": "2026-06-02T10:45:41.473424+00:00",
-      "score": 25.5
+      "timestamp": "2026-06-02T08:07:29.106675+00:00",
+      "score": 25.4
     },
     {
-      "timestamp": "2026-06-02T16:41:19.937129+00:00",
+      "timestamp": "2026-06-02T14:52:29.094619+00:00",
       "score": 26.0
+    },
+    {
+      "timestamp": "2026-06-02T21:37:29.082563+00:00",
+      "score": 26.6
+    },
+    {
+      "timestamp": "2026-06-03T04:22:29.070507+00:00",
+      "score": 27.2
     }
   ]
 }
