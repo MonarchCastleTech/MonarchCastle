@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-02T18:48:39.393904+00:00",
+  "fetched_at": "2026-06-02T21:55:04.419700+00:00",
   "window_hours": 72,
   "score": 17.5,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 65
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
       "link": "https://lefaso.net/spip.php?article146840",
       "source": "LeFaso",
-      "published_at": "2026-06-02T18:48:39.393904+00:00",
+      "published_at": "2026-06-02T21:55:04.419700+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -109,10 +109,23 @@
       ]
     },
     {
+      "title": "S\u00e9curisation de la 22e \u00e9dition de la SNC Bobo 2026 : Plus de 280 g d'or saisis lors des contr\u00f4les par le Bureau Central National-Interpol",
+      "link": "https://lefaso.net/spip.php?article146887",
+      "source": "LeFaso",
+      "published_at": "2026-06-02T21:55:04.419700+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-02T18:48:39.393904+00:00",
+      "published_at": "2026-06-02T21:55:04.419700+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -120,46 +133,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "Burkina/Recherche agricole : L'INERA tient sa 17\u1d49 foire aux semences sous le signe de la tra\u00e7abilit\u00e9 et de l'innovation",
-      "link": "https://lefaso.net/spip.php?article146823",
-      "source": "LeFaso",
-      "published_at": "2026-06-02T18:48:39.393904+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-02T22:36:24.232110+00:00",
-      "score": 27.8
+      "timestamp": "2026-06-03T01:01:29.445496+00:00",
+      "score": 26.9
     },
     {
-      "timestamp": "2026-06-03T02:24:09.070316+00:00",
+      "timestamp": "2026-06-03T04:07:54.471292+00:00",
+      "score": 27.4
+    },
+    {
+      "timestamp": "2026-06-03T07:14:19.497088+00:00",
+      "score": 27.9
+    },
+    {
+      "timestamp": "2026-06-03T10:20:44.522884+00:00",
       "score": 28.4
     },
     {
-      "timestamp": "2026-06-03T06:11:53.908522+00:00",
-      "score": 29.0
+      "timestamp": "2026-06-03T13:27:09.548680+00:00",
+      "score": 28.9
     },
     {
-      "timestamp": "2026-06-03T09:59:38.746728+00:00",
-      "score": 29.6
-    },
-    {
-      "timestamp": "2026-06-03T13:47:23.584934+00:00",
-      "score": 30.2
-    },
-    {
-      "timestamp": "2026-06-03T17:35:08.423140+00:00",
-      "score": 30.8
+      "timestamp": "2026-06-03T16:33:34.574476+00:00",
+      "score": 29.4
     }
   ]
 }
