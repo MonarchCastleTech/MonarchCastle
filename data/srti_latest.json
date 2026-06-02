@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-02T10:51:35.160104+00:00",
+  "fetched_at": "2026-06-02T15:00:54.555698+00:00",
   "window_hours": 72,
-  "score": 24.8,
-  "risk_level": "GUARDED",
+  "score": 17.5,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 33.5,
-    "civilian_risk": 40.3
+    "conflict_intensity": 26.9,
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 54
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31
+      "items": 32
     },
     {
       "name": "UN News Africa",
@@ -71,7 +71,7 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "AllAfrica - Mali",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
       "link": "https://lefaso.net/spip.php?article146840",
       "source": "LeFaso",
-      "published_at": "2026-06-02T10:51:35.160104+00:00",
+      "published_at": "2026-06-02T15:00:54.555698+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -109,24 +109,10 @@
       ]
     },
     {
-      "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
-      "link": "https://lefaso.net/spip.php?article146813",
-      "source": "LeFaso",
-      "published_at": "2026-06-02T10:51:35.160104+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-02T10:51:35.160104+00:00",
+      "published_at": "2026-06-02T15:00:54.555698+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +125,7 @@
       "title": "Burkina/Recherche agricole : L'INERA tient sa 17\u1d49 foire aux semences sous le signe de la tra\u00e7abilit\u00e9 et de l'innovation",
       "link": "https://lefaso.net/spip.php?article146823",
       "source": "LeFaso",
-      "published_at": "2026-06-02T10:51:35.160104+00:00",
+      "published_at": "2026-06-02T15:00:54.555698+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -148,45 +134,32 @@
         "burkina",
         "ouagadougou"
       ]
-    },
-    {
-      "title": "Nigeria police warn against reprisal attacks against South Africans",
-      "link": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-06-01T10:02:49+00:00",
-      "score": 0.55,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-02T15:45:39.034283+00:00",
-      "score": 30.0
+      "timestamp": "2026-06-02T19:10:13.951292+00:00",
+      "score": 29.4
     },
     {
-      "timestamp": "2026-06-02T20:39:42.908462+00:00",
-      "score": 30.8
+      "timestamp": "2026-06-02T23:19:33.346886+00:00",
+      "score": 30.1
     },
     {
-      "timestamp": "2026-06-03T01:33:46.782641+00:00",
+      "timestamp": "2026-06-03T03:28:52.742480+00:00",
+      "score": 30.9
+    },
+    {
+      "timestamp": "2026-06-03T07:38:12.138074+00:00",
       "score": 31.6
     },
     {
-      "timestamp": "2026-06-03T06:27:50.656820+00:00",
-      "score": 32.3
+      "timestamp": "2026-06-03T11:47:31.533668+00:00",
+      "score": 32.4
     },
     {
-      "timestamp": "2026-06-03T11:21:54.530999+00:00",
+      "timestamp": "2026-06-03T15:56:50.929262+00:00",
       "score": 33.1
-    },
-    {
-      "timestamp": "2026-06-03T16:15:58.405178+00:00",
-      "score": 33.9
     }
   ]
 }
