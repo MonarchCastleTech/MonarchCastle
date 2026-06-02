@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-06-01T22:14:12.432646+00:00",
+  "fetched_at": "2026-06-02T00:22:02.729985+00:00",
   "window_hours": 72,
-  "score": 29.8,
+  "score": 29.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.3,
+    "conflict_intensity": 35.0,
     "civilian_risk": 60.5
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 65
+      "items": 51
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
       "link": "https://lefaso.net/spip.php?article146840",
       "source": "LeFaso",
-      "published_at": "2026-06-01T22:14:12.432646+00:00",
+      "published_at": "2026-06-02T00:22:02.729985+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Loukman Koanda, le parcours d'une \u00e9toile montante de l'humour burkinab\u00e8",
       "link": "https://lefaso.net/spip.php?article146813",
       "source": "LeFaso",
-      "published_at": "2026-06-01T22:14:12.432646+00:00",
+      "published_at": "2026-06-02T00:22:02.729985+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Sanctions am\u00e9ricaines contre Cuba : \u00ab Elles s'inscrivent dans une campagne syst\u00e9matique d'agression et de diabolisation contre notre pays \u00bb, (Enith P\u00e9rez Retureta, ambassadrice)",
       "link": "https://lefaso.net/spip.php?article146799",
       "source": "LeFaso",
-      "published_at": "2026-06-01T22:14:12.432646+00:00",
+      "published_at": "2026-06-02T00:22:02.729985+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-01T22:14:12.432646+00:00",
+      "published_at": "2026-06-02T00:22:02.729985+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,7 +153,7 @@
       "title": "Burkina/Recherche agricole : L'INERA tient sa 17\u1d49 foire aux semences sous le signe de la tra\u00e7abilit\u00e9 et de l'innovation",
       "link": "https://lefaso.net/spip.php?article146823",
       "source": "LeFaso",
-      "published_at": "2026-06-01T22:14:12.432646+00:00",
+      "published_at": "2026-06-02T00:22:02.729985+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -168,7 +168,7 @@
       "link": "https://www.bbc.com/news/articles/ce8prypdpz6o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-01T10:02:49+00:00",
-      "score": 0.7,
+      "score": 0.67,
       "tags": [
         "conflict_intensity"
       ],
@@ -179,28 +179,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-02T02:15:20.754079+00:00",
-      "score": 27.9
+      "timestamp": "2026-06-02T02:29:53.027324+00:00",
+      "score": 29.0
     },
     {
-      "timestamp": "2026-06-02T06:16:29.075512+00:00",
-      "score": 28.6
+      "timestamp": "2026-06-02T04:37:43.324663+00:00",
+      "score": 29.8
     },
     {
-      "timestamp": "2026-06-02T10:17:37.396945+00:00",
-      "score": 29.4
+      "timestamp": "2026-06-02T06:45:33.622002+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-06-02T14:18:45.718378+00:00",
-      "score": 30.1
+      "timestamp": "2026-06-02T08:53:23.919341+00:00",
+      "score": 31.3
     },
     {
-      "timestamp": "2026-06-02T18:19:54.039811+00:00",
-      "score": 30.9
+      "timestamp": "2026-06-02T11:01:14.216680+00:00",
+      "score": 32.1
     },
     {
-      "timestamp": "2026-06-02T22:21:02.361244+00:00",
-      "score": 31.6
+      "timestamp": "2026-06-02T13:09:04.514019+00:00",
+      "score": 32.9
     }
   ]
 }
