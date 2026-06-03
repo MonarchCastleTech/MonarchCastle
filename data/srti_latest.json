@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-02T23:55:55.422204+00:00",
+  "fetched_at": "2026-06-03T05:04:50.094026+00:00",
   "window_hours": 72,
   "score": 17.5,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
       "link": "https://lefaso.net/spip.php?article146840",
       "source": "LeFaso",
-      "published_at": "2026-06-02T23:55:55.422204+00:00",
+      "published_at": "2026-06-03T05:04:50.094026+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "S\u00e9curisation de la 22e \u00e9dition de la SNC Bobo 2026 : Plus de 280 g d'or saisis lors des contr\u00f4les par le Bureau Central National-Interpol",
       "link": "https://lefaso.net/spip.php?article146887",
       "source": "LeFaso",
-      "published_at": "2026-06-02T23:55:55.422204+00:00",
+      "published_at": "2026-06-03T05:04:50.094026+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-02T23:55:55.422204+00:00",
+      "published_at": "2026-06-03T05:04:50.094026+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,28 +137,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-03T01:56:46.424708+00:00",
-      "score": 25.2
+      "timestamp": "2026-06-03T10:13:44.765848+00:00",
+      "score": 23.4
     },
     {
-      "timestamp": "2026-06-03T03:57:37.427212+00:00",
-      "score": 25.6
+      "timestamp": "2026-06-03T15:22:39.437670+00:00",
+      "score": 23.6
     },
     {
-      "timestamp": "2026-06-03T05:58:28.429716+00:00",
-      "score": 25.9
+      "timestamp": "2026-06-03T20:31:34.109492+00:00",
+      "score": 23.8
     },
     {
-      "timestamp": "2026-06-03T07:59:19.432220+00:00",
-      "score": 26.2
+      "timestamp": "2026-06-04T01:40:28.781314+00:00",
+      "score": 24.0
     },
     {
-      "timestamp": "2026-06-03T10:00:10.434724+00:00",
-      "score": 26.6
+      "timestamp": "2026-06-04T06:49:23.453136+00:00",
+      "score": 24.1
     },
     {
-      "timestamp": "2026-06-03T12:01:01.437228+00:00",
-      "score": 26.9
+      "timestamp": "2026-06-04T11:58:18.124958+00:00",
+      "score": 24.3
     }
   ]
 }
