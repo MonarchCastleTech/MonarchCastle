@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-03T10:02:08.577096+00:00",
+  "fetched_at": "2026-06-03T14:55:43.856748+00:00",
   "window_hours": 72,
-  "score": 17.5,
-  "risk_level": "LOW",
+  "score": 24.2,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 26.9,
+    "conflict_intensity": 40.3,
     "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
       "link": "https://lefaso.net/spip.php?article146840",
       "source": "LeFaso",
-      "published_at": "2026-06-03T10:02:08.577096+00:00",
+      "published_at": "2026-06-03T14:55:43.856748+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -109,10 +109,23 @@
       ]
     },
     {
+      "title": "\u200eOuagadougou : 150 batteries solaires et 60 r\u00e9gulateurs non conformes install\u00e9s sur des \u00e9quipements marchands saisis",
+      "link": "https://lefaso.net/spip.php?article146902",
+      "source": "LeFaso",
+      "published_at": "2026-06-03T14:55:43.856748+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "S\u00e9curisation de la 22e \u00e9dition de la SNC Bobo 2026 : Plus de 280 g d'or saisis lors des contr\u00f4les par le Bureau Central National-Interpol",
       "link": "https://lefaso.net/spip.php?article146887",
       "source": "LeFaso",
-      "published_at": "2026-06-03T10:02:08.577096+00:00",
+      "published_at": "2026-06-03T14:55:43.856748+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +138,7 @@
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-03T10:02:08.577096+00:00",
+      "published_at": "2026-06-03T14:55:43.856748+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-03T14:59:27.060166+00:00",
+      "timestamp": "2026-06-03T19:49:19.136400+00:00",
+      "score": 22.1
+    },
+    {
+      "timestamp": "2026-06-04T00:42:54.416052+00:00",
+      "score": 22.2
+    },
+    {
+      "timestamp": "2026-06-04T05:36:29.695704+00:00",
+      "score": 22.2
+    },
+    {
+      "timestamp": "2026-06-04T10:30:04.975356+00:00",
+      "score": 22.2
+    },
+    {
+      "timestamp": "2026-06-04T15:23:40.255008+00:00",
+      "score": 22.2
+    },
+    {
+      "timestamp": "2026-06-04T20:17:15.534660+00:00",
       "score": 22.3
-    },
-    {
-      "timestamp": "2026-06-03T19:56:45.543236+00:00",
-      "score": 22.3
-    },
-    {
-      "timestamp": "2026-06-04T00:54:04.026306+00:00",
-      "score": 22.4
-    },
-    {
-      "timestamp": "2026-06-04T05:51:22.509376+00:00",
-      "score": 22.5
-    },
-    {
-      "timestamp": "2026-06-04T10:48:40.992446+00:00",
-      "score": 22.6
-    },
-    {
-      "timestamp": "2026-06-04T15:45:59.475516+00:00",
-      "score": 22.6
     }
   ]
 }
