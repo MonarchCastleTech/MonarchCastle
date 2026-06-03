@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-03T21:56:57.573177+00:00",
+  "fetched_at": "2026-06-03T23:53:47.052759+00:00",
   "window_hours": 72,
-  "score": 28.2,
+  "score": 24.2,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 40.3,
-    "civilian_risk": 40.3
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76
+      "items": 72
     },
     {
       "name": "ActuNiger",
@@ -97,22 +97,7 @@
       "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
       "link": "https://lefaso.net/spip.php?article146913",
       "source": "LeFaso",
-      "published_at": "2026-06-03T21:56:57.573177+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Bobo-Dioulasso : Le Manifeste de la R\u00e9volution progressiste populaire expliqu\u00e9 aux femmes et aux jeunes du Guiriko",
-      "link": "https://lefaso.net/spip.php?article146840",
-      "source": "LeFaso",
-      "published_at": "2026-06-03T21:56:57.573177+00:00",
+      "published_at": "2026-06-03T23:53:47.052759+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -127,7 +112,7 @@
       "title": "\u200eOuagadougou : 150 batteries solaires et 60 r\u00e9gulateurs non conformes install\u00e9s sur des \u00e9quipements marchands saisis",
       "link": "https://lefaso.net/spip.php?article146902",
       "source": "LeFaso",
-      "published_at": "2026-06-03T21:56:57.573177+00:00",
+      "published_at": "2026-06-03T23:53:47.052759+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -140,7 +125,7 @@
       "title": "S\u00e9curisation de la 22e \u00e9dition de la SNC Bobo 2026 : Plus de 280 g d'or saisis lors des contr\u00f4les par le Bureau Central National-Interpol",
       "link": "https://lefaso.net/spip.php?article146887",
       "source": "LeFaso",
-      "published_at": "2026-06-03T21:56:57.573177+00:00",
+      "published_at": "2026-06-03T23:53:47.052759+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,7 +138,7 @@
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-03T21:56:57.573177+00:00",
+      "published_at": "2026-06-03T23:53:47.052759+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-04T01:01:12.609347+00:00",
-      "score": 23.6
+      "timestamp": "2026-06-04T01:50:36.532341+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-06-04T04:05:27.645517+00:00",
-      "score": 23.7
+      "timestamp": "2026-06-04T03:47:26.011923+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-06-04T07:09:42.681687+00:00",
-      "score": 23.8
+      "timestamp": "2026-06-04T05:44:15.491505+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-06-04T10:13:57.717857+00:00",
-      "score": 23.9
+      "timestamp": "2026-06-04T07:41:04.971087+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-06-04T13:18:12.754027+00:00",
-      "score": 23.9
+      "timestamp": "2026-06-04T09:37:54.450669+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-06-04T16:22:27.790197+00:00",
-      "score": 24.0
+      "timestamp": "2026-06-04T11:34:43.930251+00:00",
+      "score": 23.2
     }
   ]
 }
