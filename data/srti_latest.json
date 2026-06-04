@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-04T04:58:01.963435+00:00",
+  "fetched_at": "2026-06-04T08:55:55.625888+00:00",
   "window_hours": 72,
-  "score": 27.1,
+  "score": 27.0,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 40.3,
-    "civilian_risk": 35.0
+    "civilian_risk": 34.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
       "link": "https://lefaso.net/spip.php?article146913",
       "source": "LeFaso",
-      "published_at": "2026-06-04T04:58:01.963435+00:00",
+      "published_at": "2026-06-04T08:55:55.625888+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "\u200eOuagadougou : 150 batteries solaires et 60 r\u00e9gulateurs non conformes install\u00e9s sur des \u00e9quipements marchands saisis",
       "link": "https://lefaso.net/spip.php?article146902",
       "source": "LeFaso",
-      "published_at": "2026-06-04T04:58:01.963435+00:00",
+      "published_at": "2026-06-04T08:55:55.625888+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "title": "S\u00e9curisation de la 22e \u00e9dition de la SNC Bobo 2026 : Plus de 280 g d'or saisis lors des contr\u00f4les par le Bureau Central National-Interpol",
       "link": "https://lefaso.net/spip.php?article146887",
       "source": "LeFaso",
-      "published_at": "2026-06-04T04:58:01.963435+00:00",
+      "published_at": "2026-06-04T08:55:55.625888+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,7 +138,7 @@
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-04T04:58:01.963435+00:00",
+      "published_at": "2026-06-04T08:55:55.625888+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,7 +152,7 @@
       "link": "https://allafrica.com/stories/202606040039.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-04T03:50:54+00:00",
-      "score": 1.06,
+      "score": 1.0,
       "tags": [
         "civilian_risk"
       ],
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-04T10:02:16.874111+00:00",
-      "score": 23.1
+      "timestamp": "2026-06-04T12:53:49.288341+00:00",
+      "score": 23.8
     },
     {
-      "timestamp": "2026-06-04T15:06:31.784787+00:00",
-      "score": 23.0
+      "timestamp": "2026-06-04T16:51:42.950794+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-06-04T20:10:46.695463+00:00",
-      "score": 23.0
+      "timestamp": "2026-06-04T20:49:36.613247+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-06-05T01:15:01.606139+00:00",
-      "score": 23.0
+      "timestamp": "2026-06-05T00:47:30.275700+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-06-05T06:19:16.516815+00:00",
-      "score": 23.0
+      "timestamp": "2026-06-05T04:45:23.938153+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-06-05T11:23:31.427491+00:00",
-      "score": 22.9
+      "timestamp": "2026-06-05T08:43:17.600606+00:00",
+      "score": 24.0
     }
   ]
 }
