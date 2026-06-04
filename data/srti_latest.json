@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-04T12:09:27.294336+00:00",
+  "fetched_at": "2026-06-04T16:26:07.232440+00:00",
   "window_hours": 72,
-  "score": 26.8,
+  "score": 26.7,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 40.3,
-    "civilian_risk": 33.5
+    "civilian_risk": 32.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
       "link": "https://lefaso.net/spip.php?article146913",
       "source": "LeFaso",
-      "published_at": "2026-06-04T12:09:27.294336+00:00",
+      "published_at": "2026-06-04T16:26:07.232440+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "\u200eOuagadougou : 150 batteries solaires et 60 r\u00e9gulateurs non conformes install\u00e9s sur des \u00e9quipements marchands saisis",
       "link": "https://lefaso.net/spip.php?article146902",
       "source": "LeFaso",
-      "published_at": "2026-06-04T12:09:27.294336+00:00",
+      "published_at": "2026-06-04T16:26:07.232440+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "title": "S\u00e9curisation de la 22e \u00e9dition de la SNC Bobo 2026 : Plus de 280 g d'or saisis lors des contr\u00f4les par le Bureau Central National-Interpol",
       "link": "https://lefaso.net/spip.php?article146887",
       "source": "LeFaso",
-      "published_at": "2026-06-04T12:09:27.294336+00:00",
+      "published_at": "2026-06-04T16:26:07.232440+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,7 +138,7 @@
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-04T12:09:27.294336+00:00",
+      "published_at": "2026-06-04T16:26:07.232440+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,7 +152,7 @@
       "link": "https://allafrica.com/stories/202606040039.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-04T03:50:54+00:00",
-      "score": 0.96,
+      "score": 0.89,
       "tags": [
         "civilian_risk"
       ],
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-04T15:22:58.962784+00:00",
+      "timestamp": "2026-06-04T20:42:47.170544+00:00",
       "score": 24.5
     },
     {
-      "timestamp": "2026-06-04T18:36:30.631232+00:00",
+      "timestamp": "2026-06-05T00:59:27.108648+00:00",
+      "score": 24.5
+    },
+    {
+      "timestamp": "2026-06-05T05:16:07.046752+00:00",
       "score": 24.6
     },
     {
-      "timestamp": "2026-06-04T21:50:02.299680+00:00",
+      "timestamp": "2026-06-05T09:32:46.984856+00:00",
+      "score": 24.6
+    },
+    {
+      "timestamp": "2026-06-05T13:49:26.922960+00:00",
       "score": 24.7
     },
     {
-      "timestamp": "2026-06-05T01:03:33.968128+00:00",
-      "score": 24.8
-    },
-    {
-      "timestamp": "2026-06-05T04:17:05.636576+00:00",
-      "score": 24.8
-    },
-    {
-      "timestamp": "2026-06-05T07:30:37.305024+00:00",
-      "score": 24.9
+      "timestamp": "2026-06-05T18:06:06.861064+00:00",
+      "score": 24.7
     }
   ]
 }
