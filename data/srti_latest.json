@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-04T19:28:29.621863+00:00",
+  "fetched_at": "2026-06-04T21:49:41.748833+00:00",
   "window_hours": 72,
-  "score": 26.5,
+  "score": 32.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 40.3,
-    "civilian_risk": 32.0
+    "conflict_intensity": 51.9,
+    "civilian_risk": 31.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
       "link": "https://lefaso.net/spip.php?article146913",
       "source": "LeFaso",
-      "published_at": "2026-06-04T19:28:29.621863+00:00",
+      "published_at": "2026-06-04T21:49:41.748833+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "\u200eOuagadougou : 150 batteries solaires et 60 r\u00e9gulateurs non conformes install\u00e9s sur des \u00e9quipements marchands saisis",
       "link": "https://lefaso.net/spip.php?article146902",
       "source": "LeFaso",
-      "published_at": "2026-06-04T19:28:29.621863+00:00",
+      "published_at": "2026-06-04T21:49:41.748833+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "title": "S\u00e9curisation de la 22e \u00e9dition de la SNC Bobo 2026 : Plus de 280 g d'or saisis lors des contr\u00f4les par le Bureau Central National-Interpol",
       "link": "https://lefaso.net/spip.php?article146887",
       "source": "LeFaso",
-      "published_at": "2026-06-04T19:28:29.621863+00:00",
+      "published_at": "2026-06-04T21:49:41.748833+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,7 +138,7 @@
       "title": "Profanation de la mosqu\u00e9e de Mopti : col\u00e8re populaire au Mali et enqu\u00eates sur l'implication d'acteurs ext\u00e9rieurs",
       "link": "https://lefaso.net/spip.php?article146859",
       "source": "LeFaso",
-      "published_at": "2026-06-04T19:28:29.621863+00:00",
+      "published_at": "2026-06-04T21:49:41.748833+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -148,11 +148,25 @@
       ]
     },
     {
+      "title": "Somalia's capital rocked by gunfire",
+      "link": "https://www.france24.com/en/somali-military-and-opposition-allied-militias-trade-fire",
+      "source": "France 24 - Africa",
+      "published_at": "2026-06-04T20:33:21+00:00",
+      "score": 0.96,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "niger"
+      ]
+    },
+    {
       "title": "Security Cooperation With Niger Overlooks Rights Violations",
       "link": "https://allafrica.com/stories/202606040039.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-04T03:50:54+00:00",
-      "score": 0.85,
+      "score": 0.81,
       "tags": [
         "civilian_risk"
       ],
@@ -163,28 +177,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-04T22:30:52.011286+00:00",
-      "score": 24.7
+      "timestamp": "2026-06-05T00:10:53.875803+00:00",
+      "score": 25.7
     },
     {
-      "timestamp": "2026-06-05T01:33:14.400709+00:00",
-      "score": 24.7
+      "timestamp": "2026-06-05T02:32:06.002773+00:00",
+      "score": 25.8
     },
     {
-      "timestamp": "2026-06-05T04:35:36.790132+00:00",
-      "score": 24.8
+      "timestamp": "2026-06-05T04:53:18.129743+00:00",
+      "score": 25.9
     },
     {
-      "timestamp": "2026-06-05T07:37:59.179555+00:00",
-      "score": 24.8
+      "timestamp": "2026-06-05T07:14:30.256713+00:00",
+      "score": 26.0
     },
     {
-      "timestamp": "2026-06-05T10:40:21.568978+00:00",
-      "score": 24.8
+      "timestamp": "2026-06-05T09:35:42.383683+00:00",
+      "score": 26.1
     },
     {
-      "timestamp": "2026-06-05T13:42:43.958401+00:00",
-      "score": 24.9
+      "timestamp": "2026-06-05T11:56:54.510653+00:00",
+      "score": 26.2
     }
   ]
 }
