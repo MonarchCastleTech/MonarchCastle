@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-05T12:16:43.901214+00:00",
+  "fetched_at": "2026-06-05T16:06:39.893238+00:00",
   "window_hours": 72,
-  "score": 35.4,
+  "score": 34.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 59.4,
-    "civilian_risk": 28.5
+    "conflict_intensity": 58.2,
+    "civilian_risk": 27.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71
+      "items": 75
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 33
+      "items": 34
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
       "link": "https://lefaso.net/spip.php?article146913",
       "source": "LeFaso",
-      "published_at": "2026-06-05T12:16:43.901214+00:00",
+      "published_at": "2026-06-05T16:06:39.893238+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "R\u00e9publique du B\u00e9nin : Investi le 24 mai, Romuald Wadagni lance son mandat sur les chapeaux de roue",
       "link": "https://lefaso.net/spip.php?article146938",
       "source": "LeFaso",
-      "published_at": "2026-06-05T12:16:43.901214+00:00",
+      "published_at": "2026-06-05T16:06:39.893238+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "\u200eOuagadougou : 150 batteries solaires et 60 r\u00e9gulateurs non conformes install\u00e9s sur des \u00e9quipements marchands saisis",
       "link": "https://lefaso.net/spip.php?article146902",
       "source": "LeFaso",
-      "published_at": "2026-06-05T12:16:43.901214+00:00",
+      "published_at": "2026-06-05T16:06:39.893238+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +136,7 @@
       "title": "S\u00e9curisation de la 22e \u00e9dition de la SNC Bobo 2026 : Plus de 280 g d'or saisis lors des contr\u00f4les par le Bureau Central National-Interpol",
       "link": "https://lefaso.net/spip.php?article146887",
       "source": "LeFaso",
-      "published_at": "2026-06-05T12:16:43.901214+00:00",
+      "published_at": "2026-06-05T16:06:39.893238+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,7 +150,7 @@
       "link": "https://allafrica.com/stories/202606050250.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-05T10:39:35+00:00",
-      "score": 0.82,
+      "score": 0.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -164,7 +164,7 @@
       "link": "https://www.france24.com/en/somali-military-and-opposition-allied-militias-trade-fire",
       "source": "France 24 - Africa",
       "published_at": "2026-06-04T20:33:21+00:00",
-      "score": 0.77,
+      "score": 0.71,
       "tags": [
         "conflict_intensity"
       ],
@@ -178,7 +178,7 @@
       "link": "https://allafrica.com/stories/202606040039.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-04T03:50:54+00:00",
-      "score": 0.59,
+      "score": 0.54,
       "tags": [
         "civilian_risk"
       ],
@@ -189,28 +189,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-05T15:43:46.744309+00:00",
-      "score": 28.3
+      "timestamp": "2026-06-05T19:56:35.885262+00:00",
+      "score": 30.4
     },
     {
-      "timestamp": "2026-06-05T19:10:49.587404+00:00",
-      "score": 28.6
+      "timestamp": "2026-06-05T23:46:31.877286+00:00",
+      "score": 30.9
     },
     {
-      "timestamp": "2026-06-05T22:37:52.430499+00:00",
-      "score": 28.9
+      "timestamp": "2026-06-06T03:36:27.869310+00:00",
+      "score": 31.3
     },
     {
-      "timestamp": "2026-06-06T02:04:55.273594+00:00",
-      "score": 29.2
+      "timestamp": "2026-06-06T07:26:23.861334+00:00",
+      "score": 31.7
     },
     {
-      "timestamp": "2026-06-06T05:31:58.116689+00:00",
-      "score": 29.4
+      "timestamp": "2026-06-06T11:16:19.853358+00:00",
+      "score": 32.2
     },
     {
-      "timestamp": "2026-06-06T08:59:00.959784+00:00",
-      "score": 29.7
+      "timestamp": "2026-06-06T15:06:15.845382+00:00",
+      "score": 32.6
     }
   ]
 }
