@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-06T12:12:37.792549+00:00",
+  "fetched_at": "2026-06-06T14:49:42.943157+00:00",
   "window_hours": 72,
-  "score": 24.5,
-  "risk_level": "GUARDED",
+  "score": 17.3,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 38.7,
+    "conflict_intensity": 24.4,
     "civilian_risk": 25.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
       "link": "https://lefaso.net/spip.php?article146913",
       "source": "LeFaso",
-      "published_at": "2026-06-06T12:12:37.792549+00:00",
+      "published_at": "2026-06-06T14:49:42.943157+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "R\u00e9publique du B\u00e9nin : Investi le 24 mai, Romuald Wadagni lance son mandat sur les chapeaux de roue",
       "link": "https://lefaso.net/spip.php?article146938",
       "source": "LeFaso",
-      "published_at": "2026-06-06T12:12:37.792549+00:00",
+      "published_at": "2026-06-06T14:49:42.943157+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -120,24 +120,11 @@
       "regions": []
     },
     {
-      "title": "\u200eOuagadougou : 150 batteries solaires et 60 r\u00e9gulateurs non conformes install\u00e9s sur des \u00e9quipements marchands saisis",
-      "link": "https://lefaso.net/spip.php?article146902",
-      "source": "LeFaso",
-      "published_at": "2026-06-06T12:12:37.792549+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "ouagadougou"
-      ]
-    },
-    {
       "title": "Mali Junta Puts &#x20AC;3m Bounty On Sahel Al-Qaeda Leader Ag Ghali",
       "link": "https://allafrica.com/stories/202606050250.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-05T10:39:35+00:00",
-      "score": 0.54,
+      "score": 0.51,
       "tags": [
         "conflict_intensity"
       ],
@@ -151,7 +138,7 @@
       "link": "https://www.france24.com/en/somali-military-and-opposition-allied-militias-trade-fire",
       "source": "France 24 - Africa",
       "published_at": "2026-06-04T20:33:21+00:00",
-      "score": 0.44,
+      "score": 0.4,
       "tags": [
         "conflict_intensity"
       ],
@@ -176,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-06T14:10:25.671882+00:00",
-      "score": 28.2
+      "timestamp": "2026-06-06T17:26:48.093765+00:00",
+      "score": 25.7
     },
     {
-      "timestamp": "2026-06-06T16:08:13.551215+00:00",
-      "score": 28.3
+      "timestamp": "2026-06-06T20:03:53.244373+00:00",
+      "score": 25.6
     },
     {
-      "timestamp": "2026-06-06T18:06:01.430548+00:00",
-      "score": 28.4
+      "timestamp": "2026-06-06T22:40:58.394981+00:00",
+      "score": 25.5
     },
     {
-      "timestamp": "2026-06-06T20:03:49.309881+00:00",
-      "score": 28.5
+      "timestamp": "2026-06-07T01:18:03.545589+00:00",
+      "score": 25.4
     },
     {
-      "timestamp": "2026-06-06T22:01:37.189214+00:00",
-      "score": 28.6
+      "timestamp": "2026-06-07T03:55:08.696197+00:00",
+      "score": 25.3
     },
     {
-      "timestamp": "2026-06-06T23:59:25.068547+00:00",
-      "score": 28.7
+      "timestamp": "2026-06-07T06:32:13.846805+00:00",
+      "score": 25.2
     }
   ]
 }
