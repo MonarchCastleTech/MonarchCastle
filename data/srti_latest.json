@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-06T20:17:10.517067+00:00",
+  "fetched_at": "2026-06-06T22:12:25.871437+00:00",
   "window_hours": 72,
-  "score": 19.4,
+  "score": 19.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 22.9,
-    "civilian_risk": 39.6
+    "conflict_intensity": 22.7,
+    "civilian_risk": 39.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
       "link": "https://lefaso.net/spip.php?article146913",
       "source": "LeFaso",
-      "published_at": "2026-06-06T20:17:10.517067+00:00",
+      "published_at": "2026-06-06T22:12:25.871437+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "R\u00e9publique du B\u00e9nin : Investi le 24 mai, Romuald Wadagni lance son mandat sur les chapeaux de roue",
       "link": "https://lefaso.net/spip.php?article146938",
       "source": "LeFaso",
-      "published_at": "2026-06-06T20:17:10.517067+00:00",
+      "published_at": "2026-06-06T22:12:25.871437+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "link": "https://allafrica.com/stories/202606060131.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-06T15:35:42+00:00",
-      "score": 1.01,
+      "score": 0.98,
       "tags": [
         "civilian_risk"
       ],
@@ -137,7 +137,7 @@
       "link": "https://allafrica.com/stories/202606050250.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-05T10:39:35+00:00",
-      "score": 0.45,
+      "score": 0.43,
       "tags": [
         "conflict_intensity"
       ],
@@ -176,28 +176,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-06T22:18:43.459584+00:00",
-      "score": 22.3
+      "timestamp": "2026-06-07T00:07:41.225807+00:00",
+      "score": 21.0
     },
     {
-      "timestamp": "2026-06-07T00:20:16.402101+00:00",
-      "score": 22.0
+      "timestamp": "2026-06-07T02:02:56.580177+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-06-07T02:21:49.344618+00:00",
-      "score": 21.7
+      "timestamp": "2026-06-07T03:58:11.934547+00:00",
+      "score": 20.2
     },
     {
-      "timestamp": "2026-06-07T04:23:22.287135+00:00",
-      "score": 21.4
+      "timestamp": "2026-06-07T05:53:27.288917+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-06-07T06:24:55.229652+00:00",
-      "score": 21.1
+      "timestamp": "2026-06-07T07:48:42.643287+00:00",
+      "score": 19.4
     },
     {
-      "timestamp": "2026-06-07T08:26:28.172169+00:00",
-      "score": 20.8
+      "timestamp": "2026-06-07T09:43:57.997657+00:00",
+      "score": 19.0
     }
   ]
 }
