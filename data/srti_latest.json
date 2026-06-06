@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-06-06T10:14:49.913216+00:00",
+  "fetched_at": "2026-06-06T12:12:37.792549+00:00",
   "window_hours": 72,
-  "score": 24.8,
+  "score": 24.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 39.3,
+    "conflict_intensity": 38.7,
     "civilian_risk": 25.5
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
       "link": "https://lefaso.net/spip.php?article146913",
       "source": "LeFaso",
-      "published_at": "2026-06-06T10:14:49.913216+00:00",
+      "published_at": "2026-06-06T12:12:37.792549+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "R\u00e9publique du B\u00e9nin : Investi le 24 mai, Romuald Wadagni lance son mandat sur les chapeaux de roue",
       "link": "https://lefaso.net/spip.php?article146938",
       "source": "LeFaso",
-      "published_at": "2026-06-06T10:14:49.913216+00:00",
+      "published_at": "2026-06-06T12:12:37.792549+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "title": "\u200eOuagadougou : 150 batteries solaires et 60 r\u00e9gulateurs non conformes install\u00e9s sur des \u00e9quipements marchands saisis",
       "link": "https://lefaso.net/spip.php?article146902",
       "source": "LeFaso",
-      "published_at": "2026-06-06T10:14:49.913216+00:00",
+      "published_at": "2026-06-06T12:12:37.792549+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "link": "https://allafrica.com/stories/202606050250.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-05T10:39:35+00:00",
-      "score": 0.56,
+      "score": 0.54,
       "tags": [
         "conflict_intensity"
       ],
@@ -151,7 +151,7 @@
       "link": "https://www.france24.com/en/somali-military-and-opposition-allied-militias-trade-fire",
       "source": "France 24 - Africa",
       "published_at": "2026-06-04T20:33:21+00:00",
-      "score": 0.47,
+      "score": 0.44,
       "tags": [
         "conflict_intensity"
       ],
@@ -176,28 +176,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-06T12:37:23.985375+00:00",
-      "score": 29.4
+      "timestamp": "2026-06-06T14:10:25.671882+00:00",
+      "score": 28.2
     },
     {
-      "timestamp": "2026-06-06T14:59:58.057534+00:00",
-      "score": 29.7
+      "timestamp": "2026-06-06T16:08:13.551215+00:00",
+      "score": 28.3
     },
     {
-      "timestamp": "2026-06-06T17:22:32.129693+00:00",
-      "score": 29.9
+      "timestamp": "2026-06-06T18:06:01.430548+00:00",
+      "score": 28.4
     },
     {
-      "timestamp": "2026-06-06T19:45:06.201852+00:00",
-      "score": 30.1
+      "timestamp": "2026-06-06T20:03:49.309881+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-06-06T22:07:40.274011+00:00",
-      "score": 30.3
+      "timestamp": "2026-06-06T22:01:37.189214+00:00",
+      "score": 28.6
     },
     {
-      "timestamp": "2026-06-07T00:30:14.346170+00:00",
-      "score": 30.6
+      "timestamp": "2026-06-06T23:59:25.068547+00:00",
+      "score": 28.7
     }
   ]
 }
