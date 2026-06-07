@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-07T18:12:42.199872+00:00",
+  "fetched_at": "2026-06-07T20:20:30.807039+00:00",
   "window_hours": 72,
-  "score": 23.0,
+  "score": 22.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 31.5,
-    "civilian_risk": 36.4
+    "conflict_intensity": 31.2,
+    "civilian_risk": 35.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260607-nigeria-hundreds-kidnapped-women-children-freed-from-boko-haram-jihadists",
       "source": "France 24 - Africa",
       "published_at": "2026-06-07T10:09:52+00:00",
-      "score": 1.99,
+      "score": 1.92,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "R\u00e9publique du B\u00e9nin : Investi le 24 mai, Romuald Wadagni lance son mandat sur les chapeaux de roue",
       "link": "https://lefaso.net/spip.php?article146938",
       "source": "LeFaso",
-      "published_at": "2026-06-07T18:12:42.199872+00:00",
+      "published_at": "2026-06-07T20:20:30.807039+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "link": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-06T23:25:20+00:00",
-      "score": 0.8,
+      "score": 0.77,
       "tags": [
         "civilian_risk"
       ],
@@ -136,7 +136,7 @@
       "link": "https://allafrica.com/stories/202606060131.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-06T15:35:42+00:00",
-      "score": 0.68,
+      "score": 0.65,
       "tags": [
         "civilian_risk"
       ],
@@ -175,28 +175,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-07T20:00:05.209186+00:00",
-      "score": 17.5
+      "timestamp": "2026-06-07T22:28:19.414206+00:00",
+      "score": 17.4
     },
     {
-      "timestamp": "2026-06-07T21:47:28.218500+00:00",
-      "score": 17.0
+      "timestamp": "2026-06-08T00:36:08.021373+00:00",
+      "score": 16.9
     },
     {
-      "timestamp": "2026-06-07T23:34:51.227814+00:00",
-      "score": 16.5
+      "timestamp": "2026-06-08T02:43:56.628540+00:00",
+      "score": 16.4
     },
     {
-      "timestamp": "2026-06-08T01:22:14.237128+00:00",
-      "score": 16.0
+      "timestamp": "2026-06-08T04:51:45.235707+00:00",
+      "score": 15.9
     },
     {
-      "timestamp": "2026-06-08T03:09:37.246442+00:00",
-      "score": 15.5
+      "timestamp": "2026-06-08T06:59:33.842874+00:00",
+      "score": 15.4
     },
     {
-      "timestamp": "2026-06-08T04:57:00.255756+00:00",
-      "score": 15.0
+      "timestamp": "2026-06-08T09:07:22.450041+00:00",
+      "score": 14.9
     }
   ]
 }
