@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-07T16:25:19.190558+00:00",
+  "fetched_at": "2026-06-07T18:12:42.199872+00:00",
   "window_hours": 72,
-  "score": 23.4,
+  "score": 23.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 31.8,
-    "civilian_risk": 37.6
+    "conflict_intensity": 31.5,
+    "civilian_risk": 36.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260607-nigeria-hundreds-kidnapped-women-children-freed-from-boko-haram-jihadists",
       "source": "France 24 - Africa",
       "published_at": "2026-06-07T10:09:52+00:00",
-      "score": 2.05,
+      "score": 1.99,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "R\u00e9publique du B\u00e9nin : Investi le 24 mai, Romuald Wadagni lance son mandat sur les chapeaux de roue",
       "link": "https://lefaso.net/spip.php?article146938",
       "source": "LeFaso",
-      "published_at": "2026-06-07T16:25:19.190558+00:00",
+      "published_at": "2026-06-07T18:12:42.199872+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +123,7 @@
       "link": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-06T23:25:20+00:00",
-      "score": 0.83,
+      "score": 0.8,
       "tags": [
         "civilian_risk"
       ],
@@ -136,7 +136,7 @@
       "link": "https://allafrica.com/stories/202606060131.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-06T15:35:42+00:00",
-      "score": 0.71,
+      "score": 0.68,
       "tags": [
         "civilian_risk"
       ],
@@ -175,28 +175,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-07T18:37:11.804590+00:00",
+      "timestamp": "2026-06-07T20:00:05.209186+00:00",
       "score": 17.5
     },
     {
-      "timestamp": "2026-06-07T20:49:04.418622+00:00",
+      "timestamp": "2026-06-07T21:47:28.218500+00:00",
       "score": 17.0
     },
     {
-      "timestamp": "2026-06-07T23:00:57.032654+00:00",
-      "score": 16.4
+      "timestamp": "2026-06-07T23:34:51.227814+00:00",
+      "score": 16.5
     },
     {
-      "timestamp": "2026-06-08T01:12:49.646686+00:00",
-      "score": 15.9
+      "timestamp": "2026-06-08T01:22:14.237128+00:00",
+      "score": 16.0
     },
     {
-      "timestamp": "2026-06-08T03:24:42.260718+00:00",
-      "score": 15.4
+      "timestamp": "2026-06-08T03:09:37.246442+00:00",
+      "score": 15.5
     },
     {
-      "timestamp": "2026-06-08T05:36:34.874750+00:00",
-      "score": 14.9
+      "timestamp": "2026-06-08T04:57:00.255756+00:00",
+      "score": 15.0
     }
   ]
 }
