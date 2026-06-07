@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-06T22:12:25.871437+00:00",
+  "fetched_at": "2026-06-07T00:13:45.898708+00:00",
   "window_hours": 72,
-  "score": 19.2,
+  "score": 14.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 22.7,
-    "civilian_risk": 39.2
+    "conflict_intensity": 22.4,
+    "civilian_risk": 18.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -94,25 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Burkina : La police nationale renforce la pr\u00e9vention des risques professionnels \u00e0 travers ses 72 heures de sant\u00e9 pr\u00e9ventive",
-      "link": "https://lefaso.net/spip.php?article146913",
-      "source": "LeFaso",
-      "published_at": "2026-06-06T22:12:25.871437+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso",
-        "ouagadougou"
-      ]
-    },
-    {
       "title": "R\u00e9publique du B\u00e9nin : Investi le 24 mai, Romuald Wadagni lance son mandat sur les chapeaux de roue",
       "link": "https://lefaso.net/spip.php?article146938",
       "source": "LeFaso",
-      "published_at": "2026-06-06T22:12:25.871437+00:00",
+      "published_at": "2026-06-07T00:13:45.898708+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +109,7 @@
       "link": "https://allafrica.com/stories/202606060131.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-06T15:35:42+00:00",
-      "score": 0.98,
+      "score": 0.95,
       "tags": [
         "civilian_risk"
       ],
@@ -137,7 +122,7 @@
       "link": "https://allafrica.com/stories/202606050250.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-05T10:39:35+00:00",
-      "score": 0.43,
+      "score": 0.4,
       "tags": [
         "conflict_intensity"
       ],
@@ -176,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-07T00:07:41.225807+00:00",
-      "score": 21.0
+      "timestamp": "2026-06-07T02:15:05.925979+00:00",
+      "score": 19.3
     },
     {
-      "timestamp": "2026-06-07T02:02:56.580177+00:00",
-      "score": 20.6
+      "timestamp": "2026-06-07T04:16:25.953250+00:00",
+      "score": 18.8
     },
     {
-      "timestamp": "2026-06-07T03:58:11.934547+00:00",
-      "score": 20.2
+      "timestamp": "2026-06-07T06:17:45.980521+00:00",
+      "score": 18.3
     },
     {
-      "timestamp": "2026-06-07T05:53:27.288917+00:00",
-      "score": 19.8
+      "timestamp": "2026-06-07T08:19:06.007792+00:00",
+      "score": 17.8
     },
     {
-      "timestamp": "2026-06-07T07:48:42.643287+00:00",
-      "score": 19.4
+      "timestamp": "2026-06-07T10:20:26.035063+00:00",
+      "score": 17.3
     },
     {
-      "timestamp": "2026-06-07T09:43:57.997657+00:00",
-      "score": 19.0
+      "timestamp": "2026-06-07T12:21:46.062334+00:00",
+      "score": 16.8
     }
   ]
 }
