@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-08T19:29:17.237718+00:00",
+  "fetched_at": "2026-06-08T21:57:20.647296+00:00",
   "window_hours": 72,
-  "score": 22.1,
+  "score": 21.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 19.8,
-    "civilian_risk": 61.0
+    "conflict_intensity": 19.4,
+    "civilian_risk": 59.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 65
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Burkina/Solidarit\u00e9 : La Fa\u00eeti\u00e8re des caisses populaires fait un don de vivres d'une valeur de 5 millions de francs CFA aux veuves et orphelins des FDS",
-      "link": "https://lefaso.net/spip.php?article147000",
+      "title": "Publicit\u00e9/Utilisation d'images g\u00e9n\u00e9r\u00e9es par l'IA : \u00ab Les demandes de mannequins se font de plus en plus rares \u00bb, d\u00e9plore Francis G. Campbell",
+      "link": "https://lefaso.net/spip.php?article146999",
       "source": "LeFaso",
-      "published_at": "2026-06-08T19:29:17.237718+00:00",
+      "published_at": "2026-06-08T21:57:20.647296+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,10 +107,10 @@
       ]
     },
     {
-      "title": "Publicit\u00e9/Utilisation d'images g\u00e9n\u00e9r\u00e9es par l'IA : \u00ab Les demandes de mannequins se font de plus en plus rares \u00bb, d\u00e9plore Francis G. Campbell",
-      "link": "https://lefaso.net/spip.php?article146999",
+      "title": "Burkina/Solidarit\u00e9 : La Fa\u00eeti\u00e8re des caisses populaires fait un don de vivres d'une valeur de 5 millions de francs CFA aux veuves et orphelins des FDS",
+      "link": "https://lefaso.net/spip.php?article147000",
       "source": "LeFaso",
-      "published_at": "2026-06-08T19:29:17.237718+00:00",
+      "published_at": "2026-06-08T21:57:20.647296+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "link": "https://www.france24.com/en/africa/20260607-nigeria-hundreds-kidnapped-women-children-freed-from-boko-haram-jihadists",
       "source": "France 24 - Africa",
       "published_at": "2026-06-07T10:09:52+00:00",
-      "score": 1.2,
+      "score": 1.13,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "R\u00e9publique du B\u00e9nin : Investi le 24 mai, Romuald Wadagni lance son mandat sur les chapeaux de roue",
       "link": "https://lefaso.net/spip.php?article146938",
       "source": "LeFaso",
-      "published_at": "2026-06-08T19:29:17.237718+00:00",
+      "published_at": "2026-06-08T21:57:20.647296+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,7 +149,7 @@
       "link": "https://www.bbc.com/news/articles/c98r7zxdxe7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-06T23:25:20+00:00",
-      "score": 0.42,
+      "score": 0.38,
       "tags": [
         "civilian_risk"
       ],
@@ -173,28 +173,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-08T22:46:36.323786+00:00",
-      "score": 19.1
+      "timestamp": "2026-06-09T00:25:24.056874+00:00",
+      "score": 19.7
     },
     {
-      "timestamp": "2026-06-09T02:03:55.409854+00:00",
-      "score": 19.0
+      "timestamp": "2026-06-09T02:53:27.466452+00:00",
+      "score": 19.7
     },
     {
-      "timestamp": "2026-06-09T05:21:14.495922+00:00",
-      "score": 18.8
+      "timestamp": "2026-06-09T05:21:30.876030+00:00",
+      "score": 19.6
     },
     {
-      "timestamp": "2026-06-09T08:38:33.581990+00:00",
-      "score": 18.7
+      "timestamp": "2026-06-09T07:49:34.285608+00:00",
+      "score": 19.5
     },
     {
-      "timestamp": "2026-06-09T11:55:52.668058+00:00",
-      "score": 18.5
+      "timestamp": "2026-06-09T10:17:37.695186+00:00",
+      "score": 19.4
     },
     {
-      "timestamp": "2026-06-09T15:13:11.754126+00:00",
-      "score": 18.4
+      "timestamp": "2026-06-09T12:45:41.104764+00:00",
+      "score": 19.3
     }
   ]
 }
