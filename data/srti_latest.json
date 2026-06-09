@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-09T08:37:27.182363+00:00",
+  "fetched_at": "2026-06-09T12:12:25.100953+00:00",
   "window_hours": 72,
-  "score": 13.5,
-  "risk_level": "LOW",
+  "score": 20.9,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 4.2,
-    "civilian_risk": 57.2
+    "conflict_intensity": 13.4,
+    "civilian_risk": 71.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 55
+      "items": 58
     },
     {
       "name": "ActuNiger",
@@ -71,7 +71,7 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "AllAfrica - Mali",
@@ -94,10 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "Ebola cases reach more than 500",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260608-ebola-cases-reach-to-more-than-500",
+      "source": "France 24 - Africa",
+      "published_at": "2026-06-08T21:02:33+00:00",
+      "score": 1.77,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "niger"
+      ]
+    },
+    {
       "title": "Publicit\u00e9/Utilisation d'images g\u00e9n\u00e9r\u00e9es par l'IA : \u00ab Les demandes de mannequins se font de plus en plus rares \u00bb, d\u00e9plore Francis G. Campbell",
       "link": "https://lefaso.net/spip.php?article146999",
       "source": "LeFaso",
-      "published_at": "2026-06-09T08:37:27.182363+00:00",
+      "published_at": "2026-06-09T12:12:25.100953+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +125,7 @@
       "title": "Burkina/Solidarit\u00e9 : La Fa\u00eeti\u00e8re des caisses populaires fait un don de vivres d'une valeur de 5 millions de francs CFA aux veuves et orphelins des FDS",
       "link": "https://lefaso.net/spip.php?article147000",
       "source": "LeFaso",
-      "published_at": "2026-06-09T08:37:27.182363+00:00",
+      "published_at": "2026-06-09T12:12:25.100953+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +139,7 @@
       "link": "https://www.france24.com/en/africa/20260607-nigeria-hundreds-kidnapped-women-children-freed-from-boko-haram-jihadists",
       "source": "France 24 - Africa",
       "published_at": "2026-06-07T10:09:52+00:00",
-      "score": 0.79,
+      "score": 0.78,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -162,28 +177,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-09T12:56:38.893737+00:00",
-      "score": 20.0
+      "timestamp": "2026-06-09T15:47:23.019543+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-06-09T17:15:50.605111+00:00",
-      "score": 20.0
+      "timestamp": "2026-06-09T19:22:20.938133+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-06-09T21:35:02.316485+00:00",
-      "score": 20.0
+      "timestamp": "2026-06-09T22:57:18.856723+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-06-10T01:54:14.027859+00:00",
-      "score": 20.0
+      "timestamp": "2026-06-10T02:32:16.775313+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-06-10T06:13:25.739233+00:00",
-      "score": 20.0
+      "timestamp": "2026-06-10T06:07:14.693903+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-06-10T10:32:37.450607+00:00",
-      "score": 20.0
+      "timestamp": "2026-06-10T09:42:12.612493+00:00",
+      "score": 20.8
     }
   ]
 }
