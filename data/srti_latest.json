@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-11T00:24:34.399330+00:00",
+  "fetched_at": "2026-06-11T06:00:28.698665+00:00",
   "window_hours": 72,
-  "score": 15.3,
+  "score": 14.8,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 4.1,
-    "civilian_risk": 66.2
+    "civilian_risk": 63.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 21
+      "items": 22
     },
     {
       "name": "AllAfrica - Niger",
@@ -97,7 +97,7 @@
       "title": "Publicit\u00e9/Utilisation d'images g\u00e9n\u00e9r\u00e9es par l'IA : \u00ab Les demandes de mannequins se font de plus en plus rares \u00bb, d\u00e9plore Francis G. Campbell",
       "link": "https://lefaso.net/spip.php?article146999",
       "source": "LeFaso",
-      "published_at": "2026-06-11T00:24:34.399330+00:00",
+      "published_at": "2026-06-11T06:00:28.698665+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,26 +110,13 @@
       "title": "Burkina/Solidarit\u00e9 : La Fa\u00eeti\u00e8re des caisses populaires fait un don de vivres d'une valeur de 5 millions de francs CFA aux veuves et orphelins des FDS",
       "link": "https://lefaso.net/spip.php?article147000",
       "source": "LeFaso",
-      "published_at": "2026-06-11T00:24:34.399330+00:00",
+      "published_at": "2026-06-11T06:00:28.698665+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "burkina"
-      ]
-    },
-    {
-      "title": "Kenya: One dead in protest against US Ebola quarantine centre",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260609-violence-flares-in-kenya-over-the-us-ebola-quarantine-centre",
-      "source": "France 24 - Africa",
-      "published_at": "2026-06-09T21:15:15+00:00",
-      "score": 0.78,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
       ]
     },
     {
@@ -148,11 +135,24 @@
       ]
     },
     {
+      "title": "Kenya: One dead in protest against US Ebola quarantine centre",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260609-violence-flares-in-kenya-over-the-us-ebola-quarantine-centre",
+      "source": "France 24 - Africa",
+      "published_at": "2026-06-09T21:15:15+00:00",
+      "score": 0.69,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "The Burkinab&#xE8; Migration Surge Requires Urgent and Coordinated Government Action",
       "link": "https://allafrica.com/stories/202606090753.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-06-09T17:51:43+00:00",
-      "score": 0.62,
+      "score": 0.54,
       "tags": [
         "civilian_risk"
       ],
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-11T02:35:23.572227+00:00",
-      "score": 19.0
+      "timestamp": "2026-06-11T11:36:22.998000+00:00",
+      "score": 18.4
     },
     {
-      "timestamp": "2026-06-11T04:46:12.745124+00:00",
-      "score": 18.9
+      "timestamp": "2026-06-11T17:12:17.297335+00:00",
+      "score": 18.2
     },
     {
-      "timestamp": "2026-06-11T06:57:01.918021+00:00",
-      "score": 18.8
+      "timestamp": "2026-06-11T22:48:11.596670+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-06-11T09:07:51.090918+00:00",
-      "score": 18.7
+      "timestamp": "2026-06-12T04:24:05.896005+00:00",
+      "score": 18.0
     },
     {
-      "timestamp": "2026-06-11T11:18:40.263815+00:00",
-      "score": 18.6
+      "timestamp": "2026-06-12T10:00:00.195340+00:00",
+      "score": 17.9
     },
     {
-      "timestamp": "2026-06-11T13:29:29.436712+00:00",
-      "score": 18.5
+      "timestamp": "2026-06-12T15:35:54.494675+00:00",
+      "score": 17.8
     }
   ]
 }
