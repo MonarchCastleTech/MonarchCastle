@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-11T21:27:28.673602+00:00",
+  "fetched_at": "2026-06-11T23:46:14.626216+00:00",
   "window_hours": 72,
-  "score": 27.2,
-  "risk_level": "GUARDED",
+  "score": 11.2,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 24.5,
-    "civilian_risk": 74.8
+    "conflict_intensity": 9.1,
+    "civilian_risk": 33.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
       "source": "France 24 - Africa",
       "published_at": "2026-06-10T20:26:10+00:00",
-      "score": 1.64,
+      "score": 1.56,
       "tags": [
         "civilian_risk"
       ],
@@ -107,50 +107,11 @@
       ]
     },
     {
-      "title": "Publicit\u00e9/Utilisation d'images g\u00e9n\u00e9r\u00e9es par l'IA : \u00ab Les demandes de mannequins se font de plus en plus rares \u00bb, d\u00e9plore Francis G. Campbell",
-      "link": "https://lefaso.net/spip.php?article146999",
-      "source": "LeFaso",
-      "published_at": "2026-06-11T21:27:28.673602+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
-      "title": "Burkina/Solidarit\u00e9 : La Fa\u00eeti\u00e8re des caisses populaires fait un don de vivres d'une valeur de 5 millions de francs CFA aux veuves et orphelins des FDS",
-      "link": "https://lefaso.net/spip.php?article147000",
-      "source": "LeFaso",
-      "published_at": "2026-06-11T21:27:28.673602+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
-      "title": "Sahel Protection Crisis: ETC Sahel Project Final Report (Reporting period: 2021 - 2026)",
-      "link": "https://reliefweb.int/report/niger/sahel-protection-crisis-etc-sahel-project-final-report-reporting-period-2021-2026",
-      "source": "ReliefWeb - Niger",
-      "published_at": "2026-06-11T21:27:28.673602+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel"
-      ]
-    },
-    {
       "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
       "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-11T16:25:17+00:00",
-      "score": 0.78,
+      "score": 0.75,
       "tags": [
         "conflict_intensity"
       ],
@@ -187,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-12T00:31:25.796832+00:00",
-      "score": 22.8
+      "timestamp": "2026-06-12T02:05:00.578830+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-06-12T03:35:22.920062+00:00",
-      "score": 22.9
+      "timestamp": "2026-06-12T04:23:46.531444+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-06-12T06:39:20.043292+00:00",
-      "score": 23.1
+      "timestamp": "2026-06-12T06:42:32.484058+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-06-12T09:43:17.166522+00:00",
-      "score": 23.2
+      "timestamp": "2026-06-12T09:01:18.436672+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-06-12T12:47:14.289752+00:00",
-      "score": 23.4
+      "timestamp": "2026-06-12T11:20:04.389286+00:00",
+      "score": 20.7
     },
     {
-      "timestamp": "2026-06-12T15:51:11.412982+00:00",
-      "score": 23.5
+      "timestamp": "2026-06-12T13:38:50.341900+00:00",
+      "score": 20.7
     }
   ]
 }
