@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-11T18:23:31.550372+00:00",
+  "fetched_at": "2026-06-11T21:27:28.673602+00:00",
   "window_hours": 72,
-  "score": 23.5,
+  "score": 27.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 13.9,
-    "civilian_risk": 82.9
+    "conflict_intensity": 24.5,
+    "civilian_risk": 74.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86
+      "items": 81
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
       "source": "France 24 - Africa",
       "published_at": "2026-06-10T20:26:10+00:00",
-      "score": 1.75,
+      "score": 1.64,
       "tags": [
         "civilian_risk"
       ],
@@ -110,7 +110,7 @@
       "title": "Publicit\u00e9/Utilisation d'images g\u00e9n\u00e9r\u00e9es par l'IA : \u00ab Les demandes de mannequins se font de plus en plus rares \u00bb, d\u00e9plore Francis G. Campbell",
       "link": "https://lefaso.net/spip.php?article146999",
       "source": "LeFaso",
-      "published_at": "2026-06-11T18:23:31.550372+00:00",
+      "published_at": "2026-06-11T21:27:28.673602+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina/Solidarit\u00e9 : La Fa\u00eeti\u00e8re des caisses populaires fait un don de vivres d'une valeur de 5 millions de francs CFA aux veuves et orphelins des FDS",
       "link": "https://lefaso.net/spip.php?article147000",
       "source": "LeFaso",
-      "published_at": "2026-06-11T18:23:31.550372+00:00",
+      "published_at": "2026-06-11T21:27:28.673602+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,11 +133,24 @@
       ]
     },
     {
+      "title": "Sahel Protection Crisis: ETC Sahel Project Final Report (Reporting period: 2021 - 2026)",
+      "link": "https://reliefweb.int/report/niger/sahel-protection-crisis-etc-sahel-project-final-report-reporting-period-2021-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-06-11T21:27:28.673602+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "sahel"
+      ]
+    },
+    {
       "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
       "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-11T16:25:17+00:00",
-      "score": 0.82,
+      "score": 0.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -146,26 +159,11 @@
       ]
     },
     {
-      "title": "Ebola cases reach more than 500",
-      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260608-ebola-cases-reach-to-more-than-500",
-      "source": "France 24 - Africa",
-      "published_at": "2026-06-08T21:02:33+00:00",
-      "score": 0.78,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali",
-        "niger"
-      ]
-    },
-    {
       "title": "Kenya: One dead in protest against US Ebola quarantine centre",
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260609-violence-flares-in-kenya-over-the-us-ebola-quarantine-centre",
       "source": "France 24 - Africa",
       "published_at": "2026-06-09T21:15:15+00:00",
-      "score": 0.47,
+      "score": 0.44,
       "tags": [
         "civilian_risk"
       ],
@@ -189,28 +187,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-11T21:57:41.566555+00:00",
-      "score": 21.8
+      "timestamp": "2026-06-12T00:31:25.796832+00:00",
+      "score": 22.8
     },
     {
-      "timestamp": "2026-06-12T01:31:51.582738+00:00",
-      "score": 22.0
+      "timestamp": "2026-06-12T03:35:22.920062+00:00",
+      "score": 22.9
     },
     {
-      "timestamp": "2026-06-12T05:06:01.598921+00:00",
-      "score": 22.1
+      "timestamp": "2026-06-12T06:39:20.043292+00:00",
+      "score": 23.1
     },
     {
-      "timestamp": "2026-06-12T08:40:11.615104+00:00",
-      "score": 22.2
+      "timestamp": "2026-06-12T09:43:17.166522+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-06-12T12:14:21.631287+00:00",
-      "score": 22.3
+      "timestamp": "2026-06-12T12:47:14.289752+00:00",
+      "score": 23.4
     },
     {
-      "timestamp": "2026-06-12T15:48:31.647470+00:00",
-      "score": 22.4
+      "timestamp": "2026-06-12T15:51:11.412982+00:00",
+      "score": 23.5
     }
   ]
 }
