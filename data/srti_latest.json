@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-11T14:49:21.534189+00:00",
+  "fetched_at": "2026-06-11T18:23:31.550372+00:00",
   "window_hours": 72,
-  "score": 23.9,
+  "score": 23.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 13.5,
-    "civilian_risk": 85.9
+    "conflict_intensity": 13.9,
+    "civilian_risk": 82.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
       "source": "France 24 - Africa",
       "published_at": "2026-06-10T20:26:10+00:00",
-      "score": 1.88,
+      "score": 1.75,
       "tags": [
         "civilian_risk"
       ],
@@ -110,7 +110,7 @@
       "title": "Publicit\u00e9/Utilisation d'images g\u00e9n\u00e9r\u00e9es par l'IA : \u00ab Les demandes de mannequins se font de plus en plus rares \u00bb, d\u00e9plore Francis G. Campbell",
       "link": "https://lefaso.net/spip.php?article146999",
       "source": "LeFaso",
-      "published_at": "2026-06-11T14:49:21.534189+00:00",
+      "published_at": "2026-06-11T18:23:31.550372+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina/Solidarit\u00e9 : La Fa\u00eeti\u00e8re des caisses populaires fait un don de vivres d'une valeur de 5 millions de francs CFA aux veuves et orphelins des FDS",
       "link": "https://lefaso.net/spip.php?article147000",
       "source": "LeFaso",
-      "published_at": "2026-06-11T14:49:21.534189+00:00",
+      "published_at": "2026-06-11T18:23:31.550372+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,8 +136,8 @@
       "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
       "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-06-11T09:57:52+00:00",
-      "score": 0.78,
+      "published_at": "2026-06-11T16:25:17+00:00",
+      "score": 0.82,
       "tags": [
         "conflict_intensity"
       ],
@@ -165,7 +165,7 @@
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260609-violence-flares-in-kenya-over-the-us-ebola-quarantine-centre",
       "source": "France 24 - Africa",
       "published_at": "2026-06-09T21:15:15+00:00",
-      "score": 0.53,
+      "score": 0.47,
       "tags": [
         "civilian_risk"
       ],
@@ -178,7 +178,7 @@
       "link": "https://allafrica.com/stories/202606090753.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-06-09T17:51:43+00:00",
-      "score": 0.41,
+      "score": 0.38,
       "tags": [
         "civilian_risk"
       ],
@@ -189,28 +189,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-11T18:44:49.898620+00:00",
-      "score": 21.4
-    },
-    {
-      "timestamp": "2026-06-11T22:40:18.263051+00:00",
-      "score": 21.5
-    },
-    {
-      "timestamp": "2026-06-12T02:35:46.627482+00:00",
-      "score": 21.5
-    },
-    {
-      "timestamp": "2026-06-12T06:31:14.991913+00:00",
-      "score": 21.6
-    },
-    {
-      "timestamp": "2026-06-12T10:26:43.356344+00:00",
-      "score": 21.7
-    },
-    {
-      "timestamp": "2026-06-12T14:22:11.720775+00:00",
+      "timestamp": "2026-06-11T21:57:41.566555+00:00",
       "score": 21.8
+    },
+    {
+      "timestamp": "2026-06-12T01:31:51.582738+00:00",
+      "score": 22.0
+    },
+    {
+      "timestamp": "2026-06-12T05:06:01.598921+00:00",
+      "score": 22.1
+    },
+    {
+      "timestamp": "2026-06-12T08:40:11.615104+00:00",
+      "score": 22.2
+    },
+    {
+      "timestamp": "2026-06-12T12:14:21.631287+00:00",
+      "score": 22.3
+    },
+    {
+      "timestamp": "2026-06-12T15:48:31.647470+00:00",
+      "score": 22.4
     }
   ]
 }
