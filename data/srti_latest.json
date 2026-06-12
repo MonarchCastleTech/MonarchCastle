@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-12T13:35:55.134317+00:00",
+  "fetched_at": "2026-06-12T16:52:44.506277+00:00",
   "window_hours": 72,
-  "score": 8.9,
+  "score": 16.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 7.1,
-    "civilian_risk": 26.6
+    "conflict_intensity": 16.4,
+    "civilian_risk": 39.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 27
+      "items": 31
     },
     {
       "name": "UN News Africa",
@@ -94,11 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "'Surrender or face full force' of state, Nigerian president warns armed groups",
+      "link": "https://www.bbc.com/news/articles/c17ydzqr70do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-06-12T14:35:44+00:00",
+      "score": 1.86,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "HRW report accuses M23 of detaining and abusing thousands in DR Congo",
       "link": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
       "source": "France 24 - Africa",
       "published_at": "2026-06-10T20:26:10+00:00",
-      "score": 1.08,
+      "score": 0.96,
       "tags": [
         "civilian_risk"
       ],
@@ -111,7 +125,7 @@
       "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-11T16:25:17+00:00",
-      "score": 0.59,
+      "score": 0.55,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,28 +162,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-12T18:04:46.036500+00:00",
-      "score": 17.1
-    },
-    {
-      "timestamp": "2026-06-12T22:33:36.938683+00:00",
-      "score": 17.0
-    },
-    {
-      "timestamp": "2026-06-13T03:02:27.840866+00:00",
+      "timestamp": "2026-06-12T20:09:33.878237+00:00",
       "score": 16.8
     },
     {
-      "timestamp": "2026-06-13T07:31:18.743049+00:00",
+      "timestamp": "2026-06-12T23:26:23.250197+00:00",
       "score": 16.6
     },
     {
-      "timestamp": "2026-06-13T12:00:09.645232+00:00",
+      "timestamp": "2026-06-13T02:43:12.622157+00:00",
       "score": 16.4
     },
     {
-      "timestamp": "2026-06-13T16:29:00.547415+00:00",
+      "timestamp": "2026-06-13T06:00:01.994117+00:00",
       "score": 16.2
+    },
+    {
+      "timestamp": "2026-06-13T09:16:51.366077+00:00",
+      "score": 16.0
+    },
+    {
+      "timestamp": "2026-06-13T12:33:40.738037+00:00",
+      "score": 15.8
     }
   ]
 }
