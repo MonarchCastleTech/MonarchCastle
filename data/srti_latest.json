@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-12T04:55:49.872283+00:00",
+  "fetched_at": "2026-06-12T09:07:04.232134+00:00",
   "window_hours": 72,
-  "score": 10.3,
+  "score": 17.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 8.3,
-    "civilian_risk": 30.8
+    "conflict_intensity": 22.9,
+    "civilian_risk": 28.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -94,11 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Sahel Protection Crisis: ETC Sahel Project Final Report (Reporting period: 2021 - 2026)",
+      "link": "https://reliefweb.int/report/niger/sahel-protection-crisis-etc-sahel-project-final-report-reporting-period-2021-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-06-12T09:07:04.232134+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "sahel"
+      ]
+    },
+    {
       "title": "HRW report accuses M23 of detaining and abusing thousands in DR Congo",
       "link": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
       "source": "France 24 - Africa",
       "published_at": "2026-06-10T20:26:10+00:00",
-      "score": 1.38,
+      "score": 1.24,
       "tags": [
         "civilian_risk"
       ],
@@ -111,7 +124,7 @@
       "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-11T16:25:17+00:00",
-      "score": 0.69,
+      "score": 0.65,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-12T10:05:25.118350+00:00",
-      "score": 19.1
-    },
-    {
-      "timestamp": "2026-06-12T15:15:00.364417+00:00",
-      "score": 19.0
-    },
-    {
-      "timestamp": "2026-06-12T20:24:35.610484+00:00",
-      "score": 19.0
-    },
-    {
-      "timestamp": "2026-06-13T01:34:10.856551+00:00",
-      "score": 18.9
-    },
-    {
-      "timestamp": "2026-06-13T06:43:46.102618+00:00",
+      "timestamp": "2026-06-12T13:18:18.591985+00:00",
       "score": 18.8
     },
     {
-      "timestamp": "2026-06-13T11:53:21.348685+00:00",
+      "timestamp": "2026-06-12T17:29:32.951836+00:00",
       "score": 18.7
+    },
+    {
+      "timestamp": "2026-06-12T21:40:47.311687+00:00",
+      "score": 18.6
+    },
+    {
+      "timestamp": "2026-06-13T01:52:01.671538+00:00",
+      "score": 18.5
+    },
+    {
+      "timestamp": "2026-06-13T06:03:16.031389+00:00",
+      "score": 18.5
+    },
+    {
+      "timestamp": "2026-06-13T10:14:30.391240+00:00",
+      "score": 18.4
     }
   ]
 }
