@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-12T16:52:44.506277+00:00",
+  "fetched_at": "2026-06-12T19:17:52.540052+00:00",
   "window_hours": 72,
-  "score": 16.1,
+  "score": 11.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 16.4,
-    "civilian_risk": 39.6
+    "conflict_intensity": 9.4,
+    "civilian_risk": 32.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/c17ydzqr70do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-12T14:35:44+00:00",
-      "score": 1.86,
+      "score": 1.79,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,25 +112,12 @@
       "link": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
       "source": "France 24 - Africa",
       "published_at": "2026-06-10T20:26:10+00:00",
-      "score": 0.96,
+      "score": 0.88,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "mali"
-      ]
-    },
-    {
-      "title": "Nigeria evacuates citizens from South Africa as anti-migrant sentiment rises",
-      "link": "https://www.bbc.com/news/articles/cq512vgyzl9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-06-11T16:25:17+00:00",
-      "score": 0.55,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
       ]
     },
     {
@@ -145,45 +132,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "The Burkinab&#xE8; Migration Surge Requires Urgent and Coordinated Government Action",
-      "link": "https://allafrica.com/stories/202606090753.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-06-09T17:51:43+00:00",
-      "score": 0.38,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-12T20:09:33.878237+00:00",
-      "score": 16.8
+      "timestamp": "2026-06-12T21:43:00.573827+00:00",
+      "score": 15.6
     },
     {
-      "timestamp": "2026-06-12T23:26:23.250197+00:00",
-      "score": 16.6
+      "timestamp": "2026-06-13T00:08:08.607602+00:00",
+      "score": 15.3
     },
     {
-      "timestamp": "2026-06-13T02:43:12.622157+00:00",
-      "score": 16.4
+      "timestamp": "2026-06-13T02:33:16.641377+00:00",
+      "score": 15.1
     },
     {
-      "timestamp": "2026-06-13T06:00:01.994117+00:00",
-      "score": 16.2
+      "timestamp": "2026-06-13T04:58:24.675152+00:00",
+      "score": 14.8
     },
     {
-      "timestamp": "2026-06-13T09:16:51.366077+00:00",
-      "score": 16.0
+      "timestamp": "2026-06-13T07:23:32.708927+00:00",
+      "score": 14.6
     },
     {
-      "timestamp": "2026-06-13T12:33:40.738037+00:00",
-      "score": 15.8
+      "timestamp": "2026-06-13T09:48:40.742702+00:00",
+      "score": 14.3
     }
   ]
 }
