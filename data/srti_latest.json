@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-13T20:22:31.937726+00:00",
+  "fetched_at": "2026-06-13T22:14:15.855492+00:00",
   "window_hours": 72,
-  "score": 14.1,
+  "score": 11.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 5.9,
-    "civilian_risk": 55.5
+    "conflict_intensity": 5.7,
+    "civilian_risk": 42.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
       "link": "https://lefaso.net/spip.php?article147112",
       "source": "LeFaso",
-      "published_at": "2026-06-13T20:22:31.937726+00:00",
+      "published_at": "2026-06-13T22:14:15.855492+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "link": "https://www.bbc.com/news/articles/c17ydzqr70do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-12T14:35:44+00:00",
-      "score": 1.13,
+      "score": 1.08,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,52 +125,39 @@
       "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-13T15:25:09+00:00",
-      "score": 1.01,
+      "score": 0.98,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "niger"
       ]
-    },
-    {
-      "title": "HRW report accuses M23 of detaining and abusing thousands in DR Congo",
-      "link": "https://www.france24.com/en/m23-fighters-detaining-abusing-thousands-in-drc",
-      "source": "France 24 - Africa",
-      "published_at": "2026-06-10T20:26:10+00:00",
-      "score": 0.88,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-13T22:27:13.857073+00:00",
-      "score": 12.3
+      "timestamp": "2026-06-14T00:05:59.773258+00:00",
+      "score": 11.5
     },
     {
-      "timestamp": "2026-06-14T00:31:55.776420+00:00",
-      "score": 12.0
+      "timestamp": "2026-06-14T01:57:43.691024+00:00",
+      "score": 11.1
     },
     {
-      "timestamp": "2026-06-14T02:36:37.695767+00:00",
-      "score": 11.7
-    },
-    {
-      "timestamp": "2026-06-14T04:41:19.615114+00:00",
-      "score": 11.3
-    },
-    {
-      "timestamp": "2026-06-14T06:46:01.534461+00:00",
-      "score": 11.0
-    },
-    {
-      "timestamp": "2026-06-14T08:50:43.453808+00:00",
+      "timestamp": "2026-06-14T03:49:27.608790+00:00",
       "score": 10.7
+    },
+    {
+      "timestamp": "2026-06-14T05:41:11.526556+00:00",
+      "score": 10.3
+    },
+    {
+      "timestamp": "2026-06-14T07:32:55.444322+00:00",
+      "score": 9.9
+    },
+    {
+      "timestamp": "2026-06-14T09:24:39.362088+00:00",
+      "score": 9.5
     }
   ]
 }
