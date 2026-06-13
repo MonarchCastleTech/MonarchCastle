@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-13T14:19:38.885503+00:00",
+  "fetched_at": "2026-06-13T16:23:35.585300+00:00",
   "window_hours": 72,
-  "score": 11.9,
+  "score": 14.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 6.8,
-    "civilian_risk": 42.6
+    "conflict_intensity": 6.5,
+    "civilian_risk": 57.1
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71
+      "items": 70
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
       "link": "https://lefaso.net/spip.php?article147112",
       "source": "LeFaso",
-      "published_at": "2026-06-13T14:19:38.885503+00:00",
+      "published_at": "2026-06-13T16:23:35.585300+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,9 +111,22 @@
       "link": "https://www.bbc.com/news/articles/c17ydzqr70do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-12T14:35:44+00:00",
-      "score": 1.29,
+      "score": 1.23,
       "tags": [
         "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Kidnapped Nigerian retired general dies in captivity",
+      "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-06-13T15:25:09+00:00",
+      "score": 1.07,
+      "tags": [
         "civilian_risk"
       ],
       "regions": [
@@ -136,28 +149,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-13T17:16:48.988337+00:00",
-      "score": 12.3
+      "timestamp": "2026-06-13T18:27:32.285097+00:00",
+      "score": 12.0
     },
     {
-      "timestamp": "2026-06-13T20:13:59.091171+00:00",
-      "score": 11.9
+      "timestamp": "2026-06-13T20:31:28.984894+00:00",
+      "score": 11.6
     },
     {
-      "timestamp": "2026-06-13T23:11:09.194005+00:00",
-      "score": 11.5
+      "timestamp": "2026-06-13T22:35:25.684691+00:00",
+      "score": 11.2
     },
     {
-      "timestamp": "2026-06-14T02:08:19.296839+00:00",
-      "score": 11.1
+      "timestamp": "2026-06-14T00:39:22.384488+00:00",
+      "score": 10.8
     },
     {
-      "timestamp": "2026-06-14T05:05:29.399673+00:00",
-      "score": 10.7
+      "timestamp": "2026-06-14T02:43:19.084285+00:00",
+      "score": 10.4
     },
     {
-      "timestamp": "2026-06-14T08:02:39.502507+00:00",
-      "score": 10.2
+      "timestamp": "2026-06-14T04:47:15.784082+00:00",
+      "score": 9.9
     }
   ]
 }
