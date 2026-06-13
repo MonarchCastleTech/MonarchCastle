@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-13T11:22:28.782669+00:00",
+  "fetched_at": "2026-06-13T14:19:38.885503+00:00",
   "window_hours": 72,
-  "score": 19.8,
+  "score": 11.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 22.3,
-    "civilian_risk": 43.3
+    "conflict_intensity": 6.8,
+    "civilian_risk": 42.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
       "link": "https://lefaso.net/spip.php?article147112",
       "source": "LeFaso",
-      "published_at": "2026-06-13T11:22:28.782669+00:00",
+      "published_at": "2026-06-13T14:19:38.885503+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,26 +111,13 @@
       "link": "https://www.bbc.com/news/articles/c17ydzqr70do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-12T14:35:44+00:00",
-      "score": 1.37,
+      "score": 1.29,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
       ],
       "regions": [
         "niger"
-      ]
-    },
-    {
-      "title": "Sahel Protection Crisis: ETC Sahel Project Final Report (Reporting period: 2021 - 2026)",
-      "link": "https://reliefweb.int/report/niger/sahel-protection-crisis-etc-sahel-project-final-report-reporting-period-2021-2026",
-      "source": "ReliefWeb - Niger",
-      "published_at": "2026-06-13T11:22:28.782669+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel"
       ]
     },
     {
@@ -149,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-13T14:15:40.244693+00:00",
-      "score": 12.9
+      "timestamp": "2026-06-13T17:16:48.988337+00:00",
+      "score": 12.3
     },
     {
-      "timestamp": "2026-06-13T17:08:51.706717+00:00",
-      "score": 12.5
+      "timestamp": "2026-06-13T20:13:59.091171+00:00",
+      "score": 11.9
     },
     {
-      "timestamp": "2026-06-13T20:02:03.168741+00:00",
-      "score": 12.2
+      "timestamp": "2026-06-13T23:11:09.194005+00:00",
+      "score": 11.5
     },
     {
-      "timestamp": "2026-06-13T22:55:14.630765+00:00",
-      "score": 11.8
+      "timestamp": "2026-06-14T02:08:19.296839+00:00",
+      "score": 11.1
     },
     {
-      "timestamp": "2026-06-14T01:48:26.092789+00:00",
-      "score": 11.4
+      "timestamp": "2026-06-14T05:05:29.399673+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-06-14T04:41:37.554813+00:00",
-      "score": 11.0
+      "timestamp": "2026-06-14T08:02:39.502507+00:00",
+      "score": 10.2
     }
   ]
 }
