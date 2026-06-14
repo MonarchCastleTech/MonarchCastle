@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-14T00:17:36.946300+00:00",
+  "fetched_at": "2026-06-14T05:59:53.572620+00:00",
   "window_hours": 72,
-  "score": 18.6,
+  "score": 10.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 20.5,
-    "civilian_risk": 41.5
+    "conflict_intensity": 4.6,
+    "civilian_risk": 39.1
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32
+      "items": 33
     },
     {
       "name": "UN News Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 18
+      "items": 17
     },
     {
       "name": "AllAfrica - Niger",
@@ -97,7 +97,7 @@
       "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
       "link": "https://lefaso.net/spip.php?article147112",
       "source": "LeFaso",
-      "published_at": "2026-06-14T00:17:36.946300+00:00",
+      "published_at": "2026-06-14T05:59:53.572620+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,24 +107,11 @@
       ]
     },
     {
-      "title": "Sahel Protection Crisis: ETC Sahel Project Final Report (Reporting period: 2021 - 2026)",
-      "link": "https://reliefweb.int/report/niger/sahel-protection-crisis-etc-sahel-project-final-report-reporting-period-2021-2026",
-      "source": "ReliefWeb - Niger",
-      "published_at": "2026-06-14T00:17:36.946300+00:00",
-      "score": 1.26,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel"
-      ]
-    },
-    {
       "title": "'Surrender or face full force' of state, Nigerian president warns armed groups",
       "link": "https://www.bbc.com/news/articles/c17ydzqr70do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-12T14:35:44+00:00",
-      "score": 1.02,
+      "score": 0.87,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -138,7 +125,7 @@
       "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-13T15:25:09+00:00",
-      "score": 0.95,
+      "score": 0.86,
       "tags": [
         "civilian_risk"
       ],
@@ -149,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-14T02:20:58.037108+00:00",
-      "score": 12.5
+      "timestamp": "2026-06-14T11:42:10.198940+00:00",
+      "score": 11.5
     },
     {
-      "timestamp": "2026-06-14T04:24:19.127916+00:00",
-      "score": 12.2
-    },
-    {
-      "timestamp": "2026-06-14T06:27:40.218724+00:00",
-      "score": 12.0
-    },
-    {
-      "timestamp": "2026-06-14T08:31:01.309532+00:00",
-      "score": 11.7
-    },
-    {
-      "timestamp": "2026-06-14T10:34:22.400340+00:00",
-      "score": 11.4
-    },
-    {
-      "timestamp": "2026-06-14T12:37:43.491148+00:00",
+      "timestamp": "2026-06-14T17:24:26.825260+00:00",
       "score": 11.1
+    },
+    {
+      "timestamp": "2026-06-14T23:06:43.451580+00:00",
+      "score": 10.8
+    },
+    {
+      "timestamp": "2026-06-15T04:49:00.077900+00:00",
+      "score": 10.4
+    },
+    {
+      "timestamp": "2026-06-15T10:31:16.704220+00:00",
+      "score": 10.1
+    },
+    {
+      "timestamp": "2026-06-15T16:13:33.330540+00:00",
+      "score": 9.8
     }
   ]
 }
