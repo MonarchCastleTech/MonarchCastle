@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-14T17:38:01.683527+00:00",
+  "fetched_at": "2026-06-14T19:49:48.483726+00:00",
   "window_hours": 72,
-  "score": 8.8,
+  "score": 16.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 3.5,
-    "civilian_risk": 35.1
+    "conflict_intensity": 18.6,
+    "civilian_risk": 34.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 59
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
       "link": "https://lefaso.net/spip.php?article147112",
       "source": "LeFaso",
-      "published_at": "2026-06-14T17:38:01.683527+00:00",
+      "published_at": "2026-06-14T19:49:48.483726+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,16 +107,16 @@
       ]
     },
     {
-      "title": "Kidnapped Nigerian retired general dies in captivity",
-      "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-06-13T15:25:09+00:00",
-      "score": 0.69,
+      "title": "Sahel Protection Crisis: ETC Sahel Project Final Report (Reporting period: 2021 - 2026)",
+      "link": "https://reliefweb.int/report/niger/sahel-protection-crisis-etc-sahel-project-final-report-reporting-period-2021-2026",
+      "source": "ReliefWeb - Niger",
+      "published_at": "2026-06-14T19:49:48.483726+00:00",
+      "score": 1.26,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "niger"
+        "sahel"
       ]
     },
     {
@@ -132,32 +132,45 @@
       "regions": [
         "niger"
       ]
+    },
+    {
+      "title": "Kidnapped Nigerian retired general dies in captivity",
+      "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-06-13T15:25:09+00:00",
+      "score": 0.65,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-14T20:04:04.416687+00:00",
-      "score": 9.8
+      "timestamp": "2026-06-14T22:01:35.283925+00:00",
+      "score": 11.1
     },
     {
-      "timestamp": "2026-06-14T22:30:07.149847+00:00",
-      "score": 9.5
+      "timestamp": "2026-06-15T00:13:22.084124+00:00",
+      "score": 10.9
     },
     {
-      "timestamp": "2026-06-15T00:56:09.883007+00:00",
-      "score": 9.1
+      "timestamp": "2026-06-15T02:25:08.884323+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-06-15T03:22:12.616167+00:00",
-      "score": 8.8
+      "timestamp": "2026-06-15T04:36:55.684522+00:00",
+      "score": 10.6
     },
     {
-      "timestamp": "2026-06-15T05:48:15.349327+00:00",
-      "score": 8.5
+      "timestamp": "2026-06-15T06:48:42.484721+00:00",
+      "score": 10.4
     },
     {
-      "timestamp": "2026-06-15T08:14:18.082487+00:00",
-      "score": 8.2
+      "timestamp": "2026-06-15T09:00:29.284920+00:00",
+      "score": 10.2
     }
   ]
 }
