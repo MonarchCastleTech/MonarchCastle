@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-14T21:22:44.149046+00:00",
+  "fetched_at": "2026-06-14T23:19:58.600767+00:00",
   "window_hours": 72,
-  "score": 8.6,
+  "score": 12.6,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 3.5,
-    "civilian_risk": 34.3
+    "civilian_risk": 54.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 56
+      "items": 52
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,21 @@
   ],
   "top_headlines": [
     {
+      "title": "\u200eCollecte des archives de Thomas Sankara : Une promotrice culturelle de D\u00e9dougou remet des documents au ministre de la culture \u200e",
+      "link": "https://lefaso.net/spip.php?article147138",
+      "source": "LeFaso",
+      "published_at": "2026-06-14T23:19:58.600767+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
       "link": "https://lefaso.net/spip.php?article147112",
       "source": "LeFaso",
-      "published_at": "2026-06-14T21:22:44.149046+00:00",
+      "published_at": "2026-06-14T23:19:58.600767+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +136,7 @@
       "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-13T15:25:09+00:00",
-      "score": 0.63,
+      "score": 0.6,
       "tags": [
         "civilian_risk"
       ],
@@ -136,28 +147,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-14T22:55:39.814366+00:00",
-      "score": 11.6
-    },
-    {
-      "timestamp": "2026-06-15T00:28:35.479686+00:00",
+      "timestamp": "2026-06-15T01:17:13.052488+00:00",
       "score": 11.5
     },
     {
-      "timestamp": "2026-06-15T02:01:31.145006+00:00",
+      "timestamp": "2026-06-15T03:14:27.504209+00:00",
       "score": 11.4
     },
     {
-      "timestamp": "2026-06-15T03:34:26.810326+00:00",
-      "score": 11.4
-    },
-    {
-      "timestamp": "2026-06-15T05:07:22.475646+00:00",
+      "timestamp": "2026-06-15T05:11:41.955930+00:00",
       "score": 11.3
     },
     {
-      "timestamp": "2026-06-15T06:40:18.140966+00:00",
+      "timestamp": "2026-06-15T07:08:56.407651+00:00",
       "score": 11.2
+    },
+    {
+      "timestamp": "2026-06-15T09:06:10.859372+00:00",
+      "score": 11.1
+    },
+    {
+      "timestamp": "2026-06-15T11:03:25.311093+00:00",
+      "score": 11.0
     }
   ]
 }
