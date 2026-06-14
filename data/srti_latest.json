@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-14T09:51:38.385579+00:00",
+  "fetched_at": "2026-06-14T12:06:24.281587+00:00",
   "window_hours": 72,
-  "score": 9.5,
+  "score": 9.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 4.0,
-    "civilian_risk": 37.4
+    "conflict_intensity": 3.7,
+    "civilian_risk": 36.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 60
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
       "link": "https://lefaso.net/spip.php?article147112",
       "source": "LeFaso",
-      "published_at": "2026-06-14T09:51:38.385579+00:00",
+      "published_at": "2026-06-14T12:06:24.281587+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-13T15:25:09+00:00",
-      "score": 0.8,
+      "score": 0.77,
       "tags": [
         "civilian_risk"
       ],
@@ -124,7 +124,7 @@
       "link": "https://www.bbc.com/news/articles/c17ydzqr70do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-12T14:35:44+00:00",
-      "score": 0.77,
+      "score": 0.71,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -136,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-14T13:43:23.198538+00:00",
-      "score": 10.4
+      "timestamp": "2026-06-14T14:21:10.177595+00:00",
+      "score": 9.3
     },
     {
-      "timestamp": "2026-06-14T17:35:08.011497+00:00",
-      "score": 10.0
+      "timestamp": "2026-06-14T16:35:56.073603+00:00",
+      "score": 8.8
     },
     {
-      "timestamp": "2026-06-14T21:26:52.824456+00:00",
-      "score": 9.6
-    },
-    {
-      "timestamp": "2026-06-15T01:18:37.637415+00:00",
-      "score": 9.1
-    },
-    {
-      "timestamp": "2026-06-15T05:10:22.450374+00:00",
-      "score": 8.7
-    },
-    {
-      "timestamp": "2026-06-15T09:02:07.263333+00:00",
+      "timestamp": "2026-06-14T18:50:41.969611+00:00",
       "score": 8.3
+    },
+    {
+      "timestamp": "2026-06-14T21:05:27.865619+00:00",
+      "score": 7.8
+    },
+    {
+      "timestamp": "2026-06-14T23:20:13.761627+00:00",
+      "score": 7.3
+    },
+    {
+      "timestamp": "2026-06-15T01:34:59.657635+00:00",
+      "score": 6.8
     }
   ]
 }
