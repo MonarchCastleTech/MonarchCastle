@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-15T21:14:32.384417+00:00",
+  "fetched_at": "2026-06-15T23:55:15.169502+00:00",
   "window_hours": 72,
-  "score": 14.6,
+  "score": 14.5,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 73.1
+    "civilian_risk": 72.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,21 @@
   ],
   "top_headlines": [
     {
+      "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
+      "link": "https://lefaso.net/spip.php?article147165",
+      "source": "LeFaso",
+      "published_at": "2026-06-15T23:55:15.169502+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-15T21:14:32.384417+00:00",
+      "published_at": "2026-06-15T23:55:15.169502+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +121,7 @@
       "title": "\u200eCollecte des archives de Thomas Sankara : Une promotrice culturelle de D\u00e9dougou remet des documents au ministre de la culture \u200e",
       "link": "https://lefaso.net/spip.php?article147138",
       "source": "LeFaso",
-      "published_at": "2026-06-15T21:14:32.384417+00:00",
+      "published_at": "2026-06-15T23:55:15.169502+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -118,24 +129,11 @@
       "regions": []
     },
     {
-      "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
-      "link": "https://lefaso.net/spip.php?article147112",
-      "source": "LeFaso",
-      "published_at": "2026-06-15T21:14:32.384417+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
       "title": "Kidnapped Nigerian retired general dies in captivity",
       "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-15T09:34:11+00:00",
-      "score": 0.9,
+      "score": 0.86,
       "tags": [
         "civilian_risk"
       ],
@@ -146,28 +144,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-16T00:29:34.859702+00:00",
+      "timestamp": "2026-06-16T02:35:57.954587+00:00",
+      "score": 12.1
+    },
+    {
+      "timestamp": "2026-06-16T05:16:40.739672+00:00",
+      "score": 12.0
+    },
+    {
+      "timestamp": "2026-06-16T07:57:23.524757+00:00",
+      "score": 12.0
+    },
+    {
+      "timestamp": "2026-06-16T10:38:06.309842+00:00",
       "score": 11.9
     },
     {
-      "timestamp": "2026-06-16T03:44:37.334987+00:00",
+      "timestamp": "2026-06-16T13:18:49.094927+00:00",
       "score": 11.9
     },
     {
-      "timestamp": "2026-06-16T06:59:39.810272+00:00",
+      "timestamp": "2026-06-16T15:59:31.880012+00:00",
       "score": 11.8
-    },
-    {
-      "timestamp": "2026-06-16T10:14:42.285557+00:00",
-      "score": 11.8
-    },
-    {
-      "timestamp": "2026-06-16T13:29:44.760842+00:00",
-      "score": 11.7
-    },
-    {
-      "timestamp": "2026-06-16T16:44:47.236127+00:00",
-      "score": 11.6
     }
   ]
 }
