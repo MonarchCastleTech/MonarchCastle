@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-15T12:37:00.334055+00:00",
+  "fetched_at": "2026-06-15T17:59:29.909132+00:00",
   "window_hours": 72,
-  "score": 11.0,
+  "score": 14.8,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 54.8
+    "civilian_risk": 73.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 50
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -94,10 +94,23 @@
   ],
   "top_headlines": [
     {
+      "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
+      "link": "https://lefaso.net/spip.php?article147150",
+      "source": "LeFaso",
+      "published_at": "2026-06-15T17:59:29.909132+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "\u200eCollecte des archives de Thomas Sankara : Une promotrice culturelle de D\u00e9dougou remet des documents au ministre de la culture \u200e",
       "link": "https://lefaso.net/spip.php?article147138",
       "source": "LeFaso",
-      "published_at": "2026-06-15T12:37:00.334055+00:00",
+      "published_at": "2026-06-15T17:59:29.909132+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +121,7 @@
       "title": "Burkina : Le minist\u00e8re de l'Agriculture suspend les formations des agents d\u00e9concentr\u00e9s jusqu'\u00e0 nouvel ordre",
       "link": "https://lefaso.net/spip.php?article147112",
       "source": "LeFaso",
-      "published_at": "2026-06-15T12:37:00.334055+00:00",
+      "published_at": "2026-06-15T17:59:29.909132+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +135,7 @@
       "link": "https://www.bbc.com/news/articles/cvgq4veq2eqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-15T09:34:11+00:00",
-      "score": 1.03,
+      "score": 0.95,
       "tags": [
         "civilian_risk"
       ],
@@ -133,27 +146,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-15T19:53:14.704506+00:00",
+      "timestamp": "2026-06-15T23:21:59.484209+00:00",
       "score": 11.3
     },
     {
-      "timestamp": "2026-06-16T03:09:29.074957+00:00",
+      "timestamp": "2026-06-16T04:44:29.059286+00:00",
       "score": 11.2
     },
     {
-      "timestamp": "2026-06-16T10:25:43.445408+00:00",
+      "timestamp": "2026-06-16T10:06:58.634363+00:00",
       "score": 11.1
     },
     {
-      "timestamp": "2026-06-16T17:41:57.815859+00:00",
+      "timestamp": "2026-06-16T15:29:28.209440+00:00",
       "score": 11.0
     },
     {
-      "timestamp": "2026-06-17T00:58:12.186310+00:00",
+      "timestamp": "2026-06-16T20:51:57.784517+00:00",
       "score": 10.9
     },
     {
-      "timestamp": "2026-06-17T08:14:26.556761+00:00",
+      "timestamp": "2026-06-17T02:14:27.359594+00:00",
       "score": 10.8
     }
   ]
