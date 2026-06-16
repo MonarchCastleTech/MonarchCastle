@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-16T17:16:07.125111+00:00",
+  "fetched_at": "2026-06-16T21:14:30.679439+00:00",
   "window_hours": 72,
-  "score": 14.8,
+  "score": 14.6,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 73.9
+    "civilian_risk": 73.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
       "link": "https://lefaso.net/spip.php?article147165",
       "source": "LeFaso",
-      "published_at": "2026-06-16T17:16:07.125111+00:00",
+      "published_at": "2026-06-16T21:14:30.679439+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-16T17:16:07.125111+00:00",
+      "published_at": "2026-06-16T21:14:30.679439+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "\u200eCollecte des archives de Thomas Sankara : Une promotrice culturelle de D\u00e9dougou remet des documents au ministre de la culture \u200e",
       "link": "https://lefaso.net/spip.php?article147138",
       "source": "LeFaso",
-      "published_at": "2026-06-16T17:16:07.125111+00:00",
+      "published_at": "2026-06-16T21:14:30.679439+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "link": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-16T09:06:57+00:00",
-      "score": 0.96,
+      "score": 0.9,
       "tags": [
         "civilian_risk"
       ],
@@ -144,28 +144,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-16T23:02:52.169821+00:00",
-      "score": 12.3
+      "timestamp": "2026-06-17T01:12:54.233767+00:00",
+      "score": 13.1
     },
     {
-      "timestamp": "2026-06-17T04:49:37.214531+00:00",
-      "score": 12.2
+      "timestamp": "2026-06-17T05:11:17.788095+00:00",
+      "score": 13.1
     },
     {
-      "timestamp": "2026-06-17T10:36:22.259241+00:00",
-      "score": 12.1
+      "timestamp": "2026-06-17T09:09:41.342423+00:00",
+      "score": 13.1
     },
     {
-      "timestamp": "2026-06-17T16:23:07.303951+00:00",
-      "score": 12.0
+      "timestamp": "2026-06-17T13:08:04.896751+00:00",
+      "score": 13.1
     },
     {
-      "timestamp": "2026-06-17T22:09:52.348661+00:00",
-      "score": 11.9
+      "timestamp": "2026-06-17T17:06:28.451079+00:00",
+      "score": 13.1
     },
     {
-      "timestamp": "2026-06-18T03:56:37.393371+00:00",
-      "score": 11.9
+      "timestamp": "2026-06-17T21:04:52.005407+00:00",
+      "score": 13.1
     }
   ]
 }
