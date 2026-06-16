@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-16T21:14:30.679439+00:00",
+  "fetched_at": "2026-06-16T23:42:45.878767+00:00",
   "window_hours": 72,
-  "score": 14.6,
+  "score": 14.5,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 73.1
+    "civilian_risk": 72.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -71,7 +71,7 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "AllAfrica - Mali",
@@ -97,7 +97,7 @@
       "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
       "link": "https://lefaso.net/spip.php?article147165",
       "source": "LeFaso",
-      "published_at": "2026-06-16T21:14:30.679439+00:00",
+      "published_at": "2026-06-16T23:42:45.878767+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-16T21:14:30.679439+00:00",
+      "published_at": "2026-06-16T23:42:45.878767+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "\u200eCollecte des archives de Thomas Sankara : Une promotrice culturelle de D\u00e9dougou remet des documents au ministre de la culture \u200e",
       "link": "https://lefaso.net/spip.php?article147138",
       "source": "LeFaso",
-      "published_at": "2026-06-16T21:14:30.679439+00:00",
+      "published_at": "2026-06-16T23:42:45.878767+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "link": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-16T09:06:57+00:00",
-      "score": 0.9,
+      "score": 0.86,
       "tags": [
         "civilian_risk"
       ],
@@ -144,28 +144,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-17T01:12:54.233767+00:00",
-      "score": 13.1
+      "timestamp": "2026-06-17T02:11:01.078095+00:00",
+      "score": 14.0
     },
     {
-      "timestamp": "2026-06-17T05:11:17.788095+00:00",
-      "score": 13.1
+      "timestamp": "2026-06-17T04:39:16.277423+00:00",
+      "score": 14.1
     },
     {
-      "timestamp": "2026-06-17T09:09:41.342423+00:00",
-      "score": 13.1
+      "timestamp": "2026-06-17T07:07:31.476751+00:00",
+      "score": 14.2
     },
     {
-      "timestamp": "2026-06-17T13:08:04.896751+00:00",
-      "score": 13.1
+      "timestamp": "2026-06-17T09:35:46.676079+00:00",
+      "score": 14.3
     },
     {
-      "timestamp": "2026-06-17T17:06:28.451079+00:00",
-      "score": 13.1
+      "timestamp": "2026-06-17T12:04:01.875407+00:00",
+      "score": 14.3
     },
     {
-      "timestamp": "2026-06-17T21:04:52.005407+00:00",
-      "score": 13.1
+      "timestamp": "2026-06-17T14:32:17.074735+00:00",
+      "score": 14.4
     }
   ]
 }
