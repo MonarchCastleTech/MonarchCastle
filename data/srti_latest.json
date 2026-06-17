@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-17T13:50:51.031003+00:00",
+  "fetched_at": "2026-06-17T17:14:36.041601+00:00",
   "window_hours": 72,
-  "score": 29.1,
+  "score": 27.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 18.3,
-    "civilian_risk": 100.0
+    "conflict_intensity": 17.3,
+    "civilian_risk": 94.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 75
     },
     {
       "name": "ActuNiger",
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Mali. the Missing Structural Factor",
-      "link": "https://allafrica.com/stories/202606170009.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-06-17T07:08:20+00:00",
-      "score": 1.52,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "gao"
-      ]
-    },
-    {
       "title": "Soweto : Quand une politique linguistique tourne au drame",
       "link": "https://lefaso.net/spip.php?article147189",
       "source": "LeFaso",
-      "published_at": "2026-06-17T13:50:51.031003+00:00",
+      "published_at": "2026-06-17T17:14:36.041601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +108,7 @@
       "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
       "link": "https://lefaso.net/spip.php?article147165",
       "source": "LeFaso",
-      "published_at": "2026-06-17T13:50:51.031003+00:00",
+      "published_at": "2026-06-17T17:14:36.041601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +119,7 @@
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-17T13:50:51.031003+00:00",
+      "published_at": "2026-06-17T17:14:36.041601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -146,7 +132,7 @@
       "title": "\u200eCollecte des archives de Thomas Sankara : Une promotrice culturelle de D\u00e9dougou remet des documents au ministre de la culture \u200e",
       "link": "https://lefaso.net/spip.php?article147138",
       "source": "LeFaso",
-      "published_at": "2026-06-17T13:50:51.031003+00:00",
+      "published_at": "2026-06-17T17:14:36.041601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,56 +140,57 @@
       "regions": []
     },
     {
+      "title": "Mali. the Missing Structural Factor",
+      "link": "https://allafrica.com/stories/202606170009.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-06-17T07:08:20+00:00",
+      "score": 1.44,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "gao"
+      ]
+    },
+    {
       "title": "Lrrrc Assessment Estimates 140,500 Burkinabes in Liberia",
       "link": "https://allafrica.com/stories/202606170170.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-06-17T10:41:09+00:00",
-      "score": 1.03,
+      "score": 0.98,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "burkina"
       ]
-    },
-    {
-      "title": "Nigerian army frees widow of ex-general who died in captivity",
-      "link": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-06-16T09:06:57+00:00",
-      "score": 0.65,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-17T17:42:24.631206+00:00",
-      "score": 18.8
+      "timestamp": "2026-06-17T20:38:21.052199+00:00",
+      "score": 21.1
     },
     {
-      "timestamp": "2026-06-17T21:33:58.231409+00:00",
-      "score": 19.2
+      "timestamp": "2026-06-18T00:02:06.062797+00:00",
+      "score": 21.6
     },
     {
-      "timestamp": "2026-06-18T01:25:31.831612+00:00",
-      "score": 19.6
+      "timestamp": "2026-06-18T03:25:51.073395+00:00",
+      "score": 22.1
     },
     {
-      "timestamp": "2026-06-18T05:17:05.431815+00:00",
-      "score": 20.0
+      "timestamp": "2026-06-18T06:49:36.083993+00:00",
+      "score": 22.7
     },
     {
-      "timestamp": "2026-06-18T09:08:39.032018+00:00",
-      "score": 20.4
+      "timestamp": "2026-06-18T10:13:21.094591+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-06-18T13:00:12.632221+00:00",
-      "score": 20.8
+      "timestamp": "2026-06-18T13:37:06.105189+00:00",
+      "score": 23.7
     }
   ]
 }
