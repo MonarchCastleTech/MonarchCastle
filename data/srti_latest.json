@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-17T05:04:13.039310+00:00",
+  "fetched_at": "2026-06-17T09:59:17.430800+00:00",
   "window_hours": 72,
-  "score": 14.3,
-  "risk_level": "LOW",
+  "score": 23.8,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 0.0,
-    "civilian_risk": 71.4
+    "conflict_intensity": 19.4,
+    "civilian_risk": 70.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 15
+      "items": 16
     },
     {
       "name": "AllAfrica - Niger",
@@ -94,10 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Mali. the Missing Structural Factor",
+      "link": "https://allafrica.com/stories/202606170009.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-06-17T07:08:20+00:00",
+      "score": 1.61,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "gao"
+      ]
+    },
+    {
       "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
       "link": "https://lefaso.net/spip.php?article147165",
       "source": "LeFaso",
-      "published_at": "2026-06-17T05:04:13.039310+00:00",
+      "published_at": "2026-06-17T09:59:17.430800+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +122,7 @@
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-17T05:04:13.039310+00:00",
+      "published_at": "2026-06-17T09:59:17.430800+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +135,7 @@
       "title": "\u200eCollecte des archives de Thomas Sankara : Une promotrice culturelle de D\u00e9dougou remet des documents au ministre de la culture \u200e",
       "link": "https://lefaso.net/spip.php?article147138",
       "source": "LeFaso",
-      "published_at": "2026-06-17T05:04:13.039310+00:00",
+      "published_at": "2026-06-17T09:59:17.430800+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +147,7 @@
       "link": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-16T09:06:57+00:00",
-      "score": 0.78,
+      "score": 0.71,
       "tags": [
         "civilian_risk"
       ],
@@ -144,28 +158,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-17T10:25:40.199853+00:00",
-      "score": 14.1
+      "timestamp": "2026-06-17T14:54:21.822290+00:00",
+      "score": 16.1
     },
     {
-      "timestamp": "2026-06-17T15:47:07.360396+00:00",
-      "score": 14.2
+      "timestamp": "2026-06-17T19:49:26.213780+00:00",
+      "score": 16.3
     },
     {
-      "timestamp": "2026-06-17T21:08:34.520939+00:00",
-      "score": 14.3
+      "timestamp": "2026-06-18T00:44:30.605270+00:00",
+      "score": 16.5
     },
     {
-      "timestamp": "2026-06-18T02:30:01.681482+00:00",
-      "score": 14.4
+      "timestamp": "2026-06-18T05:39:34.996760+00:00",
+      "score": 16.8
     },
     {
-      "timestamp": "2026-06-18T07:51:28.842025+00:00",
-      "score": 14.5
+      "timestamp": "2026-06-18T10:34:39.388250+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-06-18T13:12:56.002568+00:00",
-      "score": 14.6
+      "timestamp": "2026-06-18T15:29:43.779740+00:00",
+      "score": 17.2
     }
   ]
 }
