@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-16T23:42:45.878767+00:00",
+  "fetched_at": "2026-06-17T05:04:13.039310+00:00",
   "window_hours": 72,
-  "score": 14.5,
+  "score": 14.3,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 72.5
+    "civilian_risk": 71.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
       "link": "https://lefaso.net/spip.php?article147165",
       "source": "LeFaso",
-      "published_at": "2026-06-16T23:42:45.878767+00:00",
+      "published_at": "2026-06-17T05:04:13.039310+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-16T23:42:45.878767+00:00",
+      "published_at": "2026-06-17T05:04:13.039310+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "\u200eCollecte des archives de Thomas Sankara : Une promotrice culturelle de D\u00e9dougou remet des documents au ministre de la culture \u200e",
       "link": "https://lefaso.net/spip.php?article147138",
       "source": "LeFaso",
-      "published_at": "2026-06-16T23:42:45.878767+00:00",
+      "published_at": "2026-06-17T05:04:13.039310+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "link": "https://www.bbc.com/news/articles/cly720833z5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-16T09:06:57+00:00",
-      "score": 0.86,
+      "score": 0.78,
       "tags": [
         "civilian_risk"
       ],
@@ -144,28 +144,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-17T02:11:01.078095+00:00",
-      "score": 14.0
-    },
-    {
-      "timestamp": "2026-06-17T04:39:16.277423+00:00",
+      "timestamp": "2026-06-17T10:25:40.199853+00:00",
       "score": 14.1
     },
     {
-      "timestamp": "2026-06-17T07:07:31.476751+00:00",
+      "timestamp": "2026-06-17T15:47:07.360396+00:00",
       "score": 14.2
     },
     {
-      "timestamp": "2026-06-17T09:35:46.676079+00:00",
+      "timestamp": "2026-06-17T21:08:34.520939+00:00",
       "score": 14.3
     },
     {
-      "timestamp": "2026-06-17T12:04:01.875407+00:00",
-      "score": 14.3
-    },
-    {
-      "timestamp": "2026-06-17T14:32:17.074735+00:00",
+      "timestamp": "2026-06-18T02:30:01.681482+00:00",
       "score": 14.4
+    },
+    {
+      "timestamp": "2026-06-18T07:51:28.842025+00:00",
+      "score": 14.5
+    },
+    {
+      "timestamp": "2026-06-18T13:12:56.002568+00:00",
+      "score": 14.6
     }
   ]
 }
