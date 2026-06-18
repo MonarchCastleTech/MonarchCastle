@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-17T22:49:36.351626+00:00",
+  "fetched_at": "2026-06-18T00:22:46.784926+00:00",
   "window_hours": 72,
-  "score": 22.5,
+  "score": 22.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 15.8,
-    "civilian_risk": 73.1
+    "conflict_intensity": 15.3,
+    "civilian_risk": 72.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 77
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 27
+      "items": 28
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Soweto : Quand une politique linguistique tourne au drame",
       "link": "https://lefaso.net/spip.php?article147189",
       "source": "LeFaso",
-      "published_at": "2026-06-17T22:49:36.351626+00:00",
+      "published_at": "2026-06-18T00:22:46.784926+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
       "link": "https://lefaso.net/spip.php?article147165",
       "source": "LeFaso",
-      "published_at": "2026-06-17T22:49:36.351626+00:00",
+      "published_at": "2026-06-18T00:22:46.784926+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +119,7 @@
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-17T22:49:36.351626+00:00",
+      "published_at": "2026-06-18T00:22:46.784926+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +133,7 @@
       "link": "https://allafrica.com/stories/202606170009.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-17T07:08:20+00:00",
-      "score": 1.31,
+      "score": 1.28,
       "tags": [
         "conflict_intensity"
       ],
@@ -147,7 +147,7 @@
       "link": "https://allafrica.com/stories/202606170170.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-06-17T10:41:09+00:00",
-      "score": 0.9,
+      "score": 0.87,
       "tags": [
         "civilian_risk"
       ],
@@ -158,28 +158,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-18T01:13:05.940800+00:00",
-      "score": 24.4
+      "timestamp": "2026-06-18T01:55:57.218226+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-06-18T03:36:35.529974+00:00",
-      "score": 25.1
-    },
-    {
-      "timestamp": "2026-06-18T06:00:05.119148+00:00",
+      "timestamp": "2026-06-18T03:29:07.651526+00:00",
       "score": 25.8
     },
     {
-      "timestamp": "2026-06-18T08:23:34.708322+00:00",
+      "timestamp": "2026-06-18T05:02:18.084826+00:00",
       "score": 26.5
     },
     {
-      "timestamp": "2026-06-18T10:47:04.297496+00:00",
-      "score": 27.3
+      "timestamp": "2026-06-18T06:35:28.518126+00:00",
+      "score": 27.2
     },
     {
-      "timestamp": "2026-06-18T13:10:33.886670+00:00",
+      "timestamp": "2026-06-18T08:08:38.951426+00:00",
       "score": 28.0
+    },
+    {
+      "timestamp": "2026-06-18T09:41:49.384726+00:00",
+      "score": 28.7
     }
   ]
 }
