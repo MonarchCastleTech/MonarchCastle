@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-18T21:25:35.373731+00:00",
+  "fetched_at": "2026-06-18T23:54:06.161020+00:00",
   "window_hours": 72,
-  "score": 48.5,
+  "score": 47.9,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 57.1,
+    "conflict_intensity": 55.7,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260618-explosions-and-gunfire-heard-at-airport-in-niger-s-capital-niamey",
       "source": "France 24 - Africa",
       "published_at": "2026-06-18T07:46:52+00:00",
-      "score": 5.45,
+      "score": 5.22,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,8 +112,8 @@
       "title": "Thirty-five killed as gunmen attack Niger's biggest airport",
       "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-06-18T17:28:32+00:00",
-      "score": 2.61,
+      "published_at": "2026-06-18T21:47:25+00:00",
+      "score": 2.68,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-18T21:25:35.373731+00:00",
+      "published_at": "2026-06-18T23:54:06.161020+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,18 +137,7 @@
       "title": "Soweto : Quand une politique linguistique tourne au drame",
       "link": "https://lefaso.net/spip.php?article147189",
       "source": "LeFaso",
-      "published_at": "2026-06-18T21:25:35.373731+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
-      "link": "https://lefaso.net/spip.php?article147165",
-      "source": "LeFaso",
-      "published_at": "2026-06-18T21:25:35.373731+00:00",
+      "published_at": "2026-06-18T23:54:06.161020+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,7 +149,7 @@
       "link": "https://allafrica.com/stories/202606170009.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-17T07:08:20+00:00",
-      "score": 0.79,
+      "score": 0.73,
       "tags": [
         "conflict_intensity"
       ],
@@ -174,7 +163,7 @@
       "link": "https://allafrica.com/stories/202606170170.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-06-17T10:41:09+00:00",
-      "score": 0.56,
+      "score": 0.52,
       "tags": [
         "civilian_risk"
       ],
@@ -185,28 +174,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-19T00:41:46.532137+00:00",
-      "score": 37.2
+      "timestamp": "2026-06-19T02:22:36.948309+00:00",
+      "score": 40.4
     },
     {
-      "timestamp": "2026-06-19T03:57:57.690543+00:00",
-      "score": 38.4
+      "timestamp": "2026-06-19T04:51:07.735598+00:00",
+      "score": 41.8
     },
     {
-      "timestamp": "2026-06-19T07:14:08.848949+00:00",
-      "score": 39.7
+      "timestamp": "2026-06-19T07:19:38.522887+00:00",
+      "score": 43.2
     },
     {
-      "timestamp": "2026-06-19T10:30:20.007355+00:00",
-      "score": 41.0
+      "timestamp": "2026-06-19T09:48:09.310176+00:00",
+      "score": 44.6
     },
     {
-      "timestamp": "2026-06-19T13:46:31.165761+00:00",
-      "score": 42.3
+      "timestamp": "2026-06-19T12:16:40.097465+00:00",
+      "score": 46.0
     },
     {
-      "timestamp": "2026-06-19T17:02:42.324167+00:00",
-      "score": 43.5
+      "timestamp": "2026-06-19T14:45:10.884754+00:00",
+      "score": 47.4
     }
   ]
 }
