@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-18T10:44:33.052803+00:00",
+  "fetched_at": "2026-06-18T14:16:40.921794+00:00",
   "window_hours": 72,
-  "score": 36.0,
+  "score": 38.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 43.7,
-    "civilian_risk": 70.5
+    "conflict_intensity": 41.1,
+    "civilian_risk": 90.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 6
+      "items": 7
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-18T10:06:47+00:00",
-      "score": 1.67,
+      "score": 1.58,
       "tags": [
         "conflict_intensity"
       ],
@@ -107,10 +107,21 @@
       ]
     },
     {
+      "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
+      "link": "https://lefaso.net/spip.php?article147220",
+      "source": "LeFaso",
+      "published_at": "2026-06-18T14:16:40.921794+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Soweto : Quand une politique linguistique tourne au drame",
       "link": "https://lefaso.net/spip.php?article147189",
       "source": "LeFaso",
-      "published_at": "2026-06-18T10:44:33.052803+00:00",
+      "published_at": "2026-06-18T14:16:40.921794+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +132,7 @@
       "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
       "link": "https://lefaso.net/spip.php?article147165",
       "source": "LeFaso",
-      "published_at": "2026-06-18T10:44:33.052803+00:00",
+      "published_at": "2026-06-18T14:16:40.921794+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +143,7 @@
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-18T10:44:33.052803+00:00",
+      "published_at": "2026-06-18T14:16:40.921794+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -146,7 +157,7 @@
       "link": "https://allafrica.com/stories/202606170009.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-17T07:08:20+00:00",
-      "score": 1.04,
+      "score": 0.95,
       "tags": [
         "conflict_intensity"
       ],
@@ -160,7 +171,7 @@
       "link": "https://www.france24.com/en/africa/20260618-explosions-and-gunfire-heard-at-airport-in-niger-s-capital-niamey",
       "source": "France 24 - Africa",
       "published_at": "2026-06-18T07:46:52+00:00",
-      "score": 0.94,
+      "score": 0.89,
       "tags": [
         "conflict_intensity"
       ],
@@ -174,7 +185,7 @@
       "link": "https://allafrica.com/stories/202606170170.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-06-17T10:41:09+00:00",
-      "score": 0.72,
+      "score": 0.67,
       "tags": [
         "civilian_risk"
       ],
@@ -185,28 +196,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-18T15:24:43.456896+00:00",
-      "score": 27.9
+      "timestamp": "2026-06-18T17:48:48.790785+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-06-18T20:04:53.860989+00:00",
-      "score": 28.7
+      "timestamp": "2026-06-18T21:20:56.659776+00:00",
+      "score": 31.6
     },
     {
-      "timestamp": "2026-06-19T00:45:04.265082+00:00",
-      "score": 29.6
+      "timestamp": "2026-06-19T00:53:04.528767+00:00",
+      "score": 32.5
     },
     {
-      "timestamp": "2026-06-19T05:25:14.669175+00:00",
-      "score": 30.4
+      "timestamp": "2026-06-19T04:25:12.397758+00:00",
+      "score": 33.5
     },
     {
-      "timestamp": "2026-06-19T10:05:25.073268+00:00",
-      "score": 31.2
+      "timestamp": "2026-06-19T07:57:20.266749+00:00",
+      "score": 34.4
     },
     {
-      "timestamp": "2026-06-19T14:45:35.477361+00:00",
-      "score": 32.1
+      "timestamp": "2026-06-19T11:29:28.135740+00:00",
+      "score": 35.4
     }
   ]
 }
