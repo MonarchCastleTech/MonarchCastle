@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-18T06:04:22.648710+00:00",
+  "fetched_at": "2026-06-18T10:44:33.052803+00:00",
   "window_hours": 72,
-  "score": 21.1,
+  "score": 36.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 13.7,
-    "civilian_risk": 71.5
+    "conflict_intensity": 43.7,
+    "civilian_risk": 70.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 78
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 27
+      "items": 28
     },
     {
       "name": "UN News Africa",
@@ -94,10 +94,23 @@
   ],
   "top_headlines": [
     {
+      "title": "Gunfire and explosions heard at Niger capital's airport",
+      "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-06-18T10:06:47+00:00",
+      "score": 1.67,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Soweto : Quand une politique linguistique tourne au drame",
       "link": "https://lefaso.net/spip.php?article147189",
       "source": "LeFaso",
-      "published_at": "2026-06-18T06:04:22.648710+00:00",
+      "published_at": "2026-06-18T10:44:33.052803+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +121,7 @@
       "title": "Coupe du monde 2026 : Les Pharaons tiennent t\u00eate aux Diables rouges",
       "link": "https://lefaso.net/spip.php?article147165",
       "source": "LeFaso",
-      "published_at": "2026-06-18T06:04:22.648710+00:00",
+      "published_at": "2026-06-18T10:44:33.052803+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +132,7 @@
       "title": "Campagne nationale \u00ab D\u00e8m\u00e8 Sira \u00bb : Coris Bank International offre 50 millions de FCFA pour la r\u00e9alisation de forages",
       "link": "https://lefaso.net/spip.php?article147150",
       "source": "LeFaso",
-      "published_at": "2026-06-18T06:04:22.648710+00:00",
+      "published_at": "2026-06-18T10:44:33.052803+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +146,7 @@
       "link": "https://allafrica.com/stories/202606170009.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-17T07:08:20+00:00",
-      "score": 1.14,
+      "score": 1.04,
       "tags": [
         "conflict_intensity"
       ],
@@ -143,11 +156,25 @@
       ]
     },
     {
+      "title": "Explosions and gunfire heard at airport in Niger's capital Niamey",
+      "link": "https://www.france24.com/en/africa/20260618-explosions-and-gunfire-heard-at-airport-in-niger-s-capital-niamey",
+      "source": "France 24 - Africa",
+      "published_at": "2026-06-18T07:46:52+00:00",
+      "score": 0.94,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "Lrrrc Assessment Estimates 140,500 Burkinabes in Liberia",
       "link": "https://allafrica.com/stories/202606170170.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-06-17T10:41:09+00:00",
-      "score": 0.79,
+      "score": 0.72,
       "tags": [
         "civilian_risk"
       ],
@@ -158,28 +185,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-18T11:45:58.512494+00:00",
-      "score": 25.3
+      "timestamp": "2026-06-18T15:24:43.456896+00:00",
+      "score": 27.9
     },
     {
-      "timestamp": "2026-06-18T17:27:34.376278+00:00",
-      "score": 26.0
+      "timestamp": "2026-06-18T20:04:53.860989+00:00",
+      "score": 28.7
     },
     {
-      "timestamp": "2026-06-18T23:09:10.240062+00:00",
-      "score": 26.7
+      "timestamp": "2026-06-19T00:45:04.265082+00:00",
+      "score": 29.6
     },
     {
-      "timestamp": "2026-06-19T04:50:46.103846+00:00",
-      "score": 27.4
+      "timestamp": "2026-06-19T05:25:14.669175+00:00",
+      "score": 30.4
     },
     {
-      "timestamp": "2026-06-19T10:32:21.967630+00:00",
-      "score": 28.2
+      "timestamp": "2026-06-19T10:05:25.073268+00:00",
+      "score": 31.2
     },
     {
-      "timestamp": "2026-06-19T16:13:57.831414+00:00",
-      "score": 28.9
+      "timestamp": "2026-06-19T14:45:35.477361+00:00",
+      "score": 32.1
     }
   ]
 }
