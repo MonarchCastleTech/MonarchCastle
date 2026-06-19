@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-19T10:53:09.059160+00:00",
+  "fetched_at": "2026-06-19T14:17:43.010341+00:00",
   "window_hours": 72,
-  "score": 63.9,
+  "score": 70.0,
   "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 87.7,
+    "conflict_intensity": 100.0,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 11,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75
+      "items": 81
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 11
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202606190038.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-19T07:32:57+00:00",
-      "score": 5.49,
+      "score": 5.22,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/africa/20260618-explosions-and-gunfire-heard-at-airport-in-niger-s-capital-niamey",
       "source": "France 24 - Africa",
       "published_at": "2026-06-18T07:46:52+00:00",
-      "score": 4.19,
+      "score": 3.87,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +128,7 @@
       "link": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-06-19T09:43:30+00:00",
-      "score": 2.72,
+      "score": 2.58,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -138,10 +138,26 @@
       ]
     },
     {
+      "title": "Ivory Coast-Burkina Faso: A border under tension",
+      "link": "https://www.france24.com/en/video/20260619-ivory-coast-burkina-faso-a-border-under-tension",
+      "source": "France 24 - Africa",
+      "published_at": "2026-06-19T12:21:17+00:00",
+      "score": 2.18,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "sahel",
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-19T10:53:09.059160+00:00",
+      "published_at": "2026-06-19T14:17:43.010341+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +168,7 @@
       "title": "Soweto : Quand une politique linguistique tourne au drame",
       "link": "https://lefaso.net/spip.php?article147189",
       "source": "LeFaso",
-      "published_at": "2026-06-19T10:53:09.059160+00:00",
+      "published_at": "2026-06-19T14:17:43.010341+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,71 +176,56 @@
       "regions": []
     },
     {
-      "title": "AU Condemns Attack On Niger Airport",
-      "link": "https://allafrica.com/stories/202606190190.html",
+      "title": "Mali : Une trentaine de terroristes neutralis\u00e9s lors d'une op\u00e9ration des FAMa \u00e0 Di\u00e9ma",
+      "link": "https://lefaso.net/spip.php?article147246",
+      "source": "LeFaso",
+      "published_at": "2026-06-19T14:17:43.010341+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "All of Africa Today - June 19, 2026",
+      "link": "https://allafrica.com/stories/202606190232.html",
       "source": "AllAfrica - Niger",
-      "published_at": "2026-06-19T10:11:33+00:00",
-      "score": 0.83,
+      "published_at": "2026-06-19T10:59:14+00:00",
+      "score": 0.8,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
-      "title": "Mali. the Missing Structural Factor",
-      "link": "https://allafrica.com/stories/202606170009.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-06-17T07:08:20+00:00",
-      "score": 0.59,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "gao"
-      ]
-    },
-    {
-      "title": "Lrrrc Assessment Estimates 140,500 Burkinabes in Liberia",
-      "link": "https://allafrica.com/stories/202606170170.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-06-17T10:41:09+00:00",
-      "score": 0.38,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
+        "niger"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-19T16:28:55.579284+00:00",
-      "score": 48.5
+      "timestamp": "2026-06-19T17:42:16.961522+00:00",
+      "score": 54.4
     },
     {
-      "timestamp": "2026-06-19T22:04:42.099408+00:00",
-      "score": 50.3
+      "timestamp": "2026-06-19T21:06:50.912703+00:00",
+      "score": 56.4
     },
     {
-      "timestamp": "2026-06-20T03:40:28.619532+00:00",
-      "score": 52.1
+      "timestamp": "2026-06-20T00:31:24.863884+00:00",
+      "score": 58.5
     },
     {
-      "timestamp": "2026-06-20T09:16:15.139656+00:00",
-      "score": 53.9
+      "timestamp": "2026-06-20T03:55:58.815065+00:00",
+      "score": 60.5
     },
     {
-      "timestamp": "2026-06-20T14:52:01.659780+00:00",
-      "score": 55.7
+      "timestamp": "2026-06-20T07:20:32.766246+00:00",
+      "score": 62.6
     },
     {
-      "timestamp": "2026-06-20T20:27:48.179904+00:00",
-      "score": 57.4
+      "timestamp": "2026-06-20T10:45:06.717427+00:00",
+      "score": 64.6
     }
   ]
 }
