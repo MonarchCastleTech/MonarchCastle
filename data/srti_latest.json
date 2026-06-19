@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-19T17:23:51.571323+00:00",
+  "fetched_at": "2026-06-19T19:59:25.705159+00:00",
   "window_hours": 72,
   "score": 70.0,
   "risk_level": "HIGH",
@@ -34,14 +34,14 @@
     {
       "name": "MaliWeb",
       "url": "https://www.maliweb.net/feed",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 92
+      "items": 98
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202606190038.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-19T07:32:57+00:00",
-      "score": 4.97,
+      "score": 4.76,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://allafrica.com/stories/202606190401.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-19T14:58:40+00:00",
-      "score": 3.94,
+      "score": 3.8,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -128,7 +128,7 @@
       "link": "https://www.france24.com/en/africa/20260618-explosions-and-gunfire-heard-at-airport-in-niger-s-capital-niamey",
       "source": "France 24 - Africa",
       "published_at": "2026-06-18T07:46:52+00:00",
-      "score": 3.58,
+      "score": 3.34,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -143,7 +143,7 @@
       "link": "https://www.france24.com/en/video/20260619-ivory-coast-burkina-faso-a-border-under-tension",
       "source": "France 24 - Africa",
       "published_at": "2026-06-19T12:21:17+00:00",
-      "score": 2.08,
+      "score": 2.0,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -158,7 +158,7 @@
       "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
       "link": "https://lefaso.net/spip.php?article147250",
       "source": "LeFaso",
-      "published_at": "2026-06-19T17:23:51.571323+00:00",
+      "published_at": "2026-06-19T19:59:25.705159+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -171,7 +171,7 @@
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-19T17:23:51.571323+00:00",
+      "published_at": "2026-06-19T19:59:25.705159+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -182,7 +182,7 @@
       "title": "Soweto : Quand une politique linguistique tourne au drame",
       "link": "https://lefaso.net/spip.php?article147189",
       "source": "LeFaso",
-      "published_at": "2026-06-19T17:23:51.571323+00:00",
+      "published_at": "2026-06-19T19:59:25.705159+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -193,7 +193,7 @@
       "title": "Mali : Une trentaine de terroristes neutralis\u00e9s lors d'une op\u00e9ration des FAMa \u00e0 Di\u00e9ma",
       "link": "https://lefaso.net/spip.php?article147246",
       "source": "LeFaso",
-      "published_at": "2026-06-19T17:23:51.571323+00:00",
+      "published_at": "2026-06-19T19:59:25.705159+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -205,28 +205,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-19T20:30:00.132305+00:00",
-      "score": 59.9
+      "timestamp": "2026-06-19T22:34:59.838995+00:00",
+      "score": 64.9
     },
     {
-      "timestamp": "2026-06-19T23:36:08.693287+00:00",
-      "score": 62.2
+      "timestamp": "2026-06-20T01:10:33.972831+00:00",
+      "score": 67.4
     },
     {
-      "timestamp": "2026-06-20T02:42:17.254269+00:00",
-      "score": 64.6
+      "timestamp": "2026-06-20T03:46:08.106667+00:00",
+      "score": 69.9
     },
     {
-      "timestamp": "2026-06-20T05:48:25.815251+00:00",
-      "score": 66.9
+      "timestamp": "2026-06-20T06:21:42.240503+00:00",
+      "score": 72.4
     },
     {
-      "timestamp": "2026-06-20T08:54:34.376233+00:00",
-      "score": 69.2
+      "timestamp": "2026-06-20T08:57:16.374339+00:00",
+      "score": 74.9
     },
     {
-      "timestamp": "2026-06-20T12:00:42.937215+00:00",
-      "score": 71.5
+      "timestamp": "2026-06-20T11:32:50.508175+00:00",
+      "score": 77.5
     }
   ]
 }
