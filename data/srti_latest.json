@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-21T00:17:22.966824+00:00",
+  "fetched_at": "2026-06-21T06:12:19.718202+00:00",
   "window_hours": 72,
-  "score": 47.0,
+  "score": 44.5,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 53.9,
+    "conflict_intensity": 49.0,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 10,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 72
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -94,21 +94,6 @@
   ],
   "top_headlines": [
     {
-      "title": "Al Qaeda-Linked Militants Claim Deadly Attack On Niger Airport",
-      "link": "https://allafrica.com/stories/202606190038.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-06-19T07:32:57+00:00",
-      "score": 2.5,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
       "title": "Al Qaeda-linked jihadists claim deadly attack on Niger airport",
       "link": "https://www.france24.com/en/africa/20260618-explosions-and-gunfire-heard-at-airport-in-niger-s-capital-niamey",
       "source": "France 24 - Africa",
@@ -124,11 +109,26 @@
       ]
     },
     {
+      "title": "Al Qaeda-Linked Militants Claim Deadly Attack On Niger Airport",
+      "link": "https://allafrica.com/stories/202606190038.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-06-19T07:32:57+00:00",
+      "score": 2.03,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "At Least 35 Dead in Attack On Niamey Airport",
       "link": "https://allafrica.com/stories/202606190401.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-19T14:58:40+00:00",
-      "score": 2.19,
+      "score": 1.86,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -142,7 +142,7 @@
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-21T00:17:22.966824+00:00",
+      "published_at": "2026-06-21T06:12:19.718202+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -155,7 +155,7 @@
       "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
       "link": "https://lefaso.net/spip.php?article147250",
       "source": "LeFaso",
-      "published_at": "2026-06-21T00:17:22.966824+00:00",
+      "published_at": "2026-06-21T06:12:19.718202+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -168,18 +168,7 @@
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-21T00:17:22.966824+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Soweto : Quand une politique linguistique tourne au drame",
-      "link": "https://lefaso.net/spip.php?article147189",
-      "source": "LeFaso",
-      "published_at": "2026-06-21T00:17:22.966824+00:00",
+      "published_at": "2026-06-21T06:12:19.718202+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -190,7 +179,7 @@
       "title": "Mali : Une trentaine de terroristes neutralis\u00e9s lors d'une op\u00e9ration des FAMa \u00e0 Di\u00e9ma",
       "link": "https://lefaso.net/spip.php?article147246",
       "source": "LeFaso",
-      "published_at": "2026-06-21T00:17:22.966824+00:00",
+      "published_at": "2026-06-21T06:12:19.718202+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -198,32 +187,45 @@
       "regions": [
         "mali"
       ]
+    },
+    {
+      "title": "All of Africa Today - June 19, 2026",
+      "link": "https://allafrica.com/stories/202606190232.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-06-19T10:59:14+00:00",
+      "score": 0.34,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-21T02:16:54.491739+00:00",
-      "score": 64.3
+      "timestamp": "2026-06-21T12:07:16.469580+00:00",
+      "score": 60.7
     },
     {
-      "timestamp": "2026-06-21T04:16:26.016654+00:00",
-      "score": 65.4
+      "timestamp": "2026-06-21T18:02:13.220958+00:00",
+      "score": 61.5
     },
     {
-      "timestamp": "2026-06-21T06:15:57.541569+00:00",
-      "score": 66.6
+      "timestamp": "2026-06-21T23:57:09.972336+00:00",
+      "score": 62.3
     },
     {
-      "timestamp": "2026-06-21T08:15:29.066484+00:00",
-      "score": 67.7
+      "timestamp": "2026-06-22T05:52:06.723714+00:00",
+      "score": 63.0
     },
     {
-      "timestamp": "2026-06-21T10:15:00.591399+00:00",
-      "score": 68.8
+      "timestamp": "2026-06-22T11:47:03.475092+00:00",
+      "score": 63.8
     },
     {
-      "timestamp": "2026-06-21T12:14:32.116314+00:00",
-      "score": 69.9
+      "timestamp": "2026-06-22T17:42:00.226470+00:00",
+      "score": 64.6
     }
   ]
 }
