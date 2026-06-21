@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-21T13:14:40.985924+00:00",
+  "fetched_at": "2026-06-21T16:02:51.006042+00:00",
   "window_hours": 72,
-  "score": 35.9,
+  "score": 31.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 34.7,
-    "civilian_risk": 92.6
+    "conflict_intensity": 34.6,
+    "civilian_risk": 72.1
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 27
+      "items": 26
     },
     {
       "name": "UN News Africa",
@@ -109,25 +109,10 @@
       ]
     },
     {
-      "title": "At Least 35 Dead in Attack On Niamey Airport",
-      "link": "https://allafrica.com/stories/202606190401.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-06-19T14:58:40+00:00",
-      "score": 1.46,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-21T13:14:40.985924+00:00",
+      "published_at": "2026-06-21T16:02:51.006042+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +125,7 @@
       "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
       "link": "https://lefaso.net/spip.php?article147250",
       "source": "LeFaso",
-      "published_at": "2026-06-21T13:14:40.985924+00:00",
+      "published_at": "2026-06-21T16:02:51.006042+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,21 +135,25 @@
       ]
     },
     {
-      "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
-      "link": "https://lefaso.net/spip.php?article147220",
-      "source": "LeFaso",
-      "published_at": "2026-06-21T13:14:40.985924+00:00",
-      "score": 1.44,
+      "title": "At Least 35 Dead in Attack On Niamey Airport",
+      "link": "https://allafrica.com/stories/202606190401.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-06-19T14:58:40+00:00",
+      "score": 1.43,
       "tags": [
+        "conflict_intensity",
         "civilian_risk"
       ],
-      "regions": []
+      "regions": [
+        "niger",
+        "niamey"
+      ]
     },
     {
       "title": "Mali : Une trentaine de terroristes neutralis\u00e9s lors d'une op\u00e9ration des FAMa \u00e0 Di\u00e9ma",
       "link": "https://lefaso.net/spip.php?article147246",
       "source": "LeFaso",
-      "published_at": "2026-06-21T13:14:40.985924+00:00",
+      "published_at": "2026-06-21T16:02:51.006042+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -203,28 +192,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-21T15:51:08.763168+00:00",
-      "score": 50.0
+      "timestamp": "2026-06-21T18:51:01.026160+00:00",
+      "score": 45.0
     },
     {
-      "timestamp": "2026-06-21T18:27:36.540412+00:00",
-      "score": 49.8
+      "timestamp": "2026-06-21T21:39:11.046278+00:00",
+      "score": 44.5
     },
     {
-      "timestamp": "2026-06-21T21:04:04.317656+00:00",
-      "score": 49.6
+      "timestamp": "2026-06-22T00:27:21.066396+00:00",
+      "score": 43.9
     },
     {
-      "timestamp": "2026-06-21T23:40:32.094900+00:00",
-      "score": 49.5
+      "timestamp": "2026-06-22T03:15:31.086514+00:00",
+      "score": 43.3
     },
     {
-      "timestamp": "2026-06-22T02:16:59.872144+00:00",
-      "score": 49.3
+      "timestamp": "2026-06-22T06:03:41.106632+00:00",
+      "score": 42.8
     },
     {
-      "timestamp": "2026-06-22T04:53:27.649388+00:00",
-      "score": 49.1
+      "timestamp": "2026-06-22T08:51:51.126750+00:00",
+      "score": 42.2
     }
   ]
 }
