@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T21:23:35.954546+00:00",
+  "fetched_at": "2026-06-21T23:24:55.364935+00:00",
   "window_hours": 72,
   "score": 31.7,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 79
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -112,7 +112,7 @@
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-21T21:23:35.954546+00:00",
+      "published_at": "2026-06-21T23:24:55.364935+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
       "link": "https://lefaso.net/spip.php?article147250",
       "source": "LeFaso",
-      "published_at": "2026-06-21T21:23:35.954546+00:00",
+      "published_at": "2026-06-21T23:24:55.364935+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -153,7 +153,7 @@
       "title": "Mali : Une trentaine de terroristes neutralis\u00e9s lors d'une op\u00e9ration des FAMa \u00e0 Di\u00e9ma",
       "link": "https://lefaso.net/spip.php?article147246",
       "source": "LeFaso",
-      "published_at": "2026-06-21T21:23:35.954546+00:00",
+      "published_at": "2026-06-21T23:24:55.364935+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -192,28 +192,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-21T22:50:43.897282+00:00",
-      "score": 32.0
+      "timestamp": "2026-06-22T01:26:14.775324+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-06-22T00:17:51.840018+00:00",
-      "score": 30.4
+      "timestamp": "2026-06-22T03:27:34.185713+00:00",
+      "score": 26.7
     },
     {
-      "timestamp": "2026-06-22T01:44:59.782754+00:00",
-      "score": 28.9
+      "timestamp": "2026-06-22T05:28:53.596102+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-06-22T03:12:07.725490+00:00",
-      "score": 27.4
+      "timestamp": "2026-06-22T07:30:13.006491+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-06-22T04:39:15.668226+00:00",
-      "score": 25.9
+      "timestamp": "2026-06-22T09:31:32.416880+00:00",
+      "score": 21.5
     },
     {
-      "timestamp": "2026-06-22T06:06:23.610962+00:00",
-      "score": 24.3
+      "timestamp": "2026-06-22T11:32:51.827269+00:00",
+      "score": 19.7
     }
   ]
 }
