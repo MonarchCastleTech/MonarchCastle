@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-21T10:38:13.208680+00:00",
+  "fetched_at": "2026-06-21T13:14:40.985924+00:00",
   "window_hours": 72,
-  "score": 36.3,
+  "score": 35.9,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.0,
-    "civilian_risk": 94.2
+    "conflict_intensity": 34.7,
+    "civilian_risk": 92.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 26
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -113,7 +113,7 @@
       "link": "https://allafrica.com/stories/202606190401.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-19T14:58:40+00:00",
-      "score": 1.61,
+      "score": 1.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -127,7 +127,7 @@
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-21T10:38:13.208680+00:00",
+      "published_at": "2026-06-21T13:14:40.985924+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
       "link": "https://lefaso.net/spip.php?article147250",
       "source": "LeFaso",
-      "published_at": "2026-06-21T10:38:13.208680+00:00",
+      "published_at": "2026-06-21T13:14:40.985924+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -153,7 +153,7 @@
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-21T10:38:13.208680+00:00",
+      "published_at": "2026-06-21T13:14:40.985924+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -164,7 +164,7 @@
       "title": "Mali : Une trentaine de terroristes neutralis\u00e9s lors d'une op\u00e9ration des FAMa \u00e0 Di\u00e9ma",
       "link": "https://lefaso.net/spip.php?article147246",
       "source": "LeFaso",
-      "published_at": "2026-06-21T10:38:13.208680+00:00",
+      "published_at": "2026-06-21T13:14:40.985924+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -203,28 +203,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-21T15:04:06.699158+00:00",
-      "score": 55.5
+      "timestamp": "2026-06-21T15:51:08.763168+00:00",
+      "score": 50.0
     },
     {
-      "timestamp": "2026-06-21T19:30:00.189636+00:00",
-      "score": 55.9
+      "timestamp": "2026-06-21T18:27:36.540412+00:00",
+      "score": 49.8
     },
     {
-      "timestamp": "2026-06-21T23:55:53.680114+00:00",
-      "score": 56.2
+      "timestamp": "2026-06-21T21:04:04.317656+00:00",
+      "score": 49.6
     },
     {
-      "timestamp": "2026-06-22T04:21:47.170592+00:00",
-      "score": 56.5
+      "timestamp": "2026-06-21T23:40:32.094900+00:00",
+      "score": 49.5
     },
     {
-      "timestamp": "2026-06-22T08:47:40.661070+00:00",
-      "score": 56.8
+      "timestamp": "2026-06-22T02:16:59.872144+00:00",
+      "score": 49.3
     },
     {
-      "timestamp": "2026-06-22T13:13:34.151548+00:00",
-      "score": 57.1
+      "timestamp": "2026-06-22T04:53:27.649388+00:00",
+      "score": 49.1
     }
   ]
 }
