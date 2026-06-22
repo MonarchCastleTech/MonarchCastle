@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-22T21:09:21.719104+00:00",
+  "fetched_at": "2026-06-22T23:38:57.504128+00:00",
   "window_hours": 72,
   "score": 12.1,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina/\u00c9lectricit\u00e9 : La SONABEL lance une campagne de recensement de ses ouvrages et de sa client\u00e8le",
       "link": "https://lefaso.net/spip.php?article147307",
       "source": "LeFaso",
-      "published_at": "2026-06-22T21:09:21.719104+00:00",
+      "published_at": "2026-06-22T23:38:57.504128+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-22T21:09:21.719104+00:00",
+      "published_at": "2026-06-22T23:38:57.504128+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
       "link": "https://lefaso.net/spip.php?article147250",
       "source": "LeFaso",
-      "published_at": "2026-06-22T21:09:21.719104+00:00",
+      "published_at": "2026-06-22T23:38:57.504128+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-23T00:33:37.971288+00:00",
-      "score": 14.0
+      "timestamp": "2026-06-23T02:08:33.289152+00:00",
+      "score": 11.3
     },
     {
-      "timestamp": "2026-06-23T03:57:54.223472+00:00",
-      "score": 11.6
+      "timestamp": "2026-06-23T04:38:09.074176+00:00",
+      "score": 9.0
     },
     {
-      "timestamp": "2026-06-23T07:22:10.475656+00:00",
-      "score": 9.3
+      "timestamp": "2026-06-23T07:07:44.859200+00:00",
+      "score": 6.6
     },
     {
-      "timestamp": "2026-06-23T10:46:26.727840+00:00",
-      "score": 7.0
+      "timestamp": "2026-06-23T09:37:20.644224+00:00",
+      "score": 4.3
     },
     {
-      "timestamp": "2026-06-23T14:10:42.980024+00:00",
-      "score": 4.7
+      "timestamp": "2026-06-23T12:06:56.429248+00:00",
+      "score": 2.0
     },
     {
-      "timestamp": "2026-06-23T17:34:59.232208+00:00",
-      "score": 2.3
+      "timestamp": "2026-06-23T14:36:32.214272+00:00",
+      "score": 0.0
     }
   ]
 }
