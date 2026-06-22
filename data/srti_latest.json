@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-21T23:24:55.364935+00:00",
+  "fetched_at": "2026-06-22T05:22:22.909928+00:00",
   "window_hours": 72,
   "score": 31.7,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 14
+      "items": 12
     },
     {
       "name": "AllAfrica - Niger",
@@ -112,7 +112,7 @@
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-21T23:24:55.364935+00:00",
+      "published_at": "2026-06-22T05:22:22.909928+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
       "link": "https://lefaso.net/spip.php?article147250",
       "source": "LeFaso",
-      "published_at": "2026-06-21T23:24:55.364935+00:00",
+      "published_at": "2026-06-22T05:22:22.909928+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -153,7 +153,7 @@
       "title": "Mali : Une trentaine de terroristes neutralis\u00e9s lors d'une op\u00e9ration des FAMa \u00e0 Di\u00e9ma",
       "link": "https://lefaso.net/spip.php?article147246",
       "source": "LeFaso",
-      "published_at": "2026-06-21T23:24:55.364935+00:00",
+      "published_at": "2026-06-22T05:22:22.909928+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -192,28 +192,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-22T01:26:14.775324+00:00",
-      "score": 28.5
+      "timestamp": "2026-06-22T11:19:50.454921+00:00",
+      "score": 24.8
     },
     {
-      "timestamp": "2026-06-22T03:27:34.185713+00:00",
-      "score": 26.7
+      "timestamp": "2026-06-22T17:17:17.999914+00:00",
+      "score": 22.8
     },
     {
-      "timestamp": "2026-06-22T05:28:53.596102+00:00",
-      "score": 25.0
+      "timestamp": "2026-06-22T23:14:45.544907+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-06-22T07:30:13.006491+00:00",
-      "score": 23.2
+      "timestamp": "2026-06-23T05:12:13.089900+00:00",
+      "score": 18.8
     },
     {
-      "timestamp": "2026-06-22T09:31:32.416880+00:00",
-      "score": 21.5
+      "timestamp": "2026-06-23T11:09:40.634893+00:00",
+      "score": 16.8
     },
     {
-      "timestamp": "2026-06-22T11:32:51.827269+00:00",
-      "score": 19.7
+      "timestamp": "2026-06-23T17:07:08.179886+00:00",
+      "score": 14.8
     }
   ]
 }
