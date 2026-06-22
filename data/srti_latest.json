@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-22T05:22:22.909928+00:00",
+  "fetched_at": "2026-06-22T12:21:29.994191+00:00",
   "window_hours": 72,
-  "score": 31.7,
-  "risk_level": "GUARDED",
+  "score": 19.7,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 34.6,
-    "civilian_risk": 72.1
+    "conflict_intensity": 17.0,
+    "civilian_risk": 56.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 59
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 25
+      "items": 28
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -89,30 +89,15 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 10
     }
   ],
   "top_headlines": [
     {
-      "title": "Al Qaeda-Linked Militants Claim Deadly Attack On Niger Airport",
-      "link": "https://allafrica.com/stories/202606190038.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-06-19T07:32:57+00:00",
-      "score": 2.02,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
-    },
-    {
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-22T05:22:22.909928+00:00",
+      "published_at": "2026-06-22T12:21:29.994191+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +110,7 @@
       "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
       "link": "https://lefaso.net/spip.php?article147250",
       "source": "LeFaso",
-      "published_at": "2026-06-22T05:22:22.909928+00:00",
+      "published_at": "2026-06-22T12:21:29.994191+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -153,7 +138,7 @@
       "title": "Mali : Une trentaine de terroristes neutralis\u00e9s lors d'une op\u00e9ration des FAMa \u00e0 Di\u00e9ma",
       "link": "https://lefaso.net/spip.php?article147246",
       "source": "LeFaso",
-      "published_at": "2026-06-22T05:22:22.909928+00:00",
+      "published_at": "2026-06-22T12:21:29.994191+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,59 +146,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "All of Africa Today - June 19, 2026",
-      "link": "https://allafrica.com/stories/202606190232.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-06-19T10:59:14+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "AU Condemns Attack On Niger Airport",
-      "link": "https://allafrica.com/stories/202606190190.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-06-19T10:11:33+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-22T11:19:50.454921+00:00",
-      "score": 24.8
+      "timestamp": "2026-06-22T19:20:37.078454+00:00",
+      "score": 21.1
     },
     {
-      "timestamp": "2026-06-22T17:17:17.999914+00:00",
-      "score": 22.8
+      "timestamp": "2026-06-23T02:19:44.162717+00:00",
+      "score": 19.0
     },
     {
-      "timestamp": "2026-06-22T23:14:45.544907+00:00",
-      "score": 20.8
-    },
-    {
-      "timestamp": "2026-06-23T05:12:13.089900+00:00",
-      "score": 18.8
-    },
-    {
-      "timestamp": "2026-06-23T11:09:40.634893+00:00",
+      "timestamp": "2026-06-23T09:18:51.246980+00:00",
       "score": 16.8
     },
     {
-      "timestamp": "2026-06-23T17:07:08.179886+00:00",
-      "score": 14.8
+      "timestamp": "2026-06-23T16:17:58.331243+00:00",
+      "score": 14.7
+    },
+    {
+      "timestamp": "2026-06-23T23:17:05.415506+00:00",
+      "score": 12.5
+    },
+    {
+      "timestamp": "2026-06-24T06:16:12.499769+00:00",
+      "score": 10.4
     }
   ]
 }
