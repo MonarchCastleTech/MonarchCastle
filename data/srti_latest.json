@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-06-23T18:08:06.612560+00:00",
+  "fetched_at": "2026-06-23T21:04:02.280400+00:00",
   "window_hours": 72,
-  "score": 8.6,
+  "score": 8.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 9.2,
+    "conflict_intensity": 8.8,
     "civilian_risk": 20.2
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/\u00c9lectricit\u00e9 : La SONABEL lance une campagne de recensement de ses ouvrages et de sa client\u00e8le",
       "link": "https://lefaso.net/spip.php?article147307",
       "source": "LeFaso",
-      "published_at": "2026-06-23T18:08:06.612560+00:00",
+      "published_at": "2026-06-23T21:04:02.280400+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202606230424.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-23T11:54:52+00:00",
-      "score": 0.77,
+      "score": 0.73,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,27 +124,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-23T20:12:17.906568+00:00",
-      "score": 2.7
+      "timestamp": "2026-06-23T23:59:57.948240+00:00",
+      "score": 1.5
     },
     {
-      "timestamp": "2026-06-23T22:16:29.200576+00:00",
-      "score": 0.5
-    },
-    {
-      "timestamp": "2026-06-24T00:20:40.494584+00:00",
+      "timestamp": "2026-06-24T02:55:53.616080+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T02:24:51.788592+00:00",
+      "timestamp": "2026-06-24T05:51:49.283920+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T04:29:03.082600+00:00",
+      "timestamp": "2026-06-24T08:47:44.951760+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T06:33:14.376608+00:00",
+      "timestamp": "2026-06-24T11:43:40.619600+00:00",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2026-06-24T14:39:36.287440+00:00",
       "score": 0.0
     }
   ]
