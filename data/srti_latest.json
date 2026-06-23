@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-23T04:14:52.962620+00:00",
+  "fetched_at": "2026-06-23T08:34:35.755466+00:00",
   "window_hours": 72,
   "score": 8.1,
   "risk_level": "LOW",
@@ -34,14 +34,14 @@
     {
       "name": "MaliWeb",
       "url": "https://www.maliweb.net/feed",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "UN News Africa",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 11
+      "items": 12
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -97,7 +97,7 @@
       "title": "Burkina/\u00c9lectricit\u00e9 : La SONABEL lance une campagne de recensement de ses ouvrages et de sa client\u00e8le",
       "link": "https://lefaso.net/spip.php?article147307",
       "source": "LeFaso",
-      "published_at": "2026-06-23T04:14:52.962620+00:00",
+      "published_at": "2026-06-23T08:34:35.755466+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-23T04:14:52.962620+00:00",
+      "published_at": "2026-06-23T08:34:35.755466+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,27 +123,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-23T08:50:48.421112+00:00",
-      "score": 8.6
+      "timestamp": "2026-06-23T12:54:18.548312+00:00",
+      "score": 6.4
     },
     {
-      "timestamp": "2026-06-23T13:26:43.879604+00:00",
-      "score": 6.2
+      "timestamp": "2026-06-23T17:14:01.341158+00:00",
+      "score": 4.1
     },
     {
-      "timestamp": "2026-06-23T18:02:39.338096+00:00",
-      "score": 3.9
+      "timestamp": "2026-06-23T21:33:44.134004+00:00",
+      "score": 1.7
     },
     {
-      "timestamp": "2026-06-23T22:38:34.796588+00:00",
-      "score": 1.5
-    },
-    {
-      "timestamp": "2026-06-24T03:14:30.255080+00:00",
+      "timestamp": "2026-06-24T01:53:26.926850+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T07:50:25.713572+00:00",
+      "timestamp": "2026-06-24T06:13:09.719696+00:00",
+      "score": 0.0
+    },
+    {
+      "timestamp": "2026-06-24T10:32:52.512542+00:00",
       "score": 0.0
     }
   ]
