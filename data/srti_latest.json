@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-23T08:34:35.755466+00:00",
+  "fetched_at": "2026-06-23T12:12:37.411149+00:00",
   "window_hours": 72,
-  "score": 8.1,
+  "score": 13.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 10.0,
     "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 56
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 12
+      "items": 13
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -97,7 +97,7 @@
       "title": "Burkina/\u00c9lectricit\u00e9 : La SONABEL lance une campagne de recensement de ses ouvrages et de sa client\u00e8le",
       "link": "https://lefaso.net/spip.php?article147307",
       "source": "LeFaso",
-      "published_at": "2026-06-23T08:34:35.755466+00:00",
+      "published_at": "2026-06-23T12:12:37.411149+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-23T08:34:35.755466+00:00",
+      "published_at": "2026-06-23T12:12:37.411149+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,31 +119,45 @@
       "regions": [
         "mali"
       ]
+    },
+    {
+      "title": "The Attack On Niamey Airport",
+      "link": "https://allafrica.com/stories/202606230424.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-06-23T11:54:52+00:00",
+      "score": 0.84,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-23T12:54:18.548312+00:00",
-      "score": 6.4
+      "timestamp": "2026-06-23T15:50:39.066832+00:00",
+      "score": 5.3
     },
     {
-      "timestamp": "2026-06-23T17:14:01.341158+00:00",
-      "score": 4.1
+      "timestamp": "2026-06-23T19:28:40.722515+00:00",
+      "score": 3.1
     },
     {
-      "timestamp": "2026-06-23T21:33:44.134004+00:00",
-      "score": 1.7
+      "timestamp": "2026-06-23T23:06:42.378198+00:00",
+      "score": 0.8
     },
     {
-      "timestamp": "2026-06-24T01:53:26.926850+00:00",
+      "timestamp": "2026-06-24T02:44:44.033881+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T06:13:09.719696+00:00",
+      "timestamp": "2026-06-24T06:22:45.689564+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T10:32:52.512542+00:00",
+      "timestamp": "2026-06-24T10:00:47.345247+00:00",
       "score": 0.0
     }
   ]
