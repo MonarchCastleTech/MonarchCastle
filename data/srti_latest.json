@@ -1,47 +1,47 @@
 {
-  "fetched_at": "2026-06-22T23:38:57.504128+00:00",
+  "fetched_at": "2026-06-23T04:14:52.962620+00:00",
   "window_hours": 72,
-  "score": 12.1,
+  "score": 8.1,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 60.5
+    "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
       "url": "https://www.maliweb.net/feed",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 63
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 12
+      "items": 11
     },
     {
       "name": "AllAfrica - Niger",
@@ -97,7 +97,7 @@
       "title": "Burkina/\u00c9lectricit\u00e9 : La SONABEL lance une campagne de recensement de ses ouvrages et de sa client\u00e8le",
       "link": "https://lefaso.net/spip.php?article147307",
       "source": "LeFaso",
-      "published_at": "2026-06-22T23:38:57.504128+00:00",
+      "published_at": "2026-06-23T04:14:52.962620+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u00c9tats-Unis-Iran : Quand la guerre redessine la carte des influences au Moyen-Orient",
       "link": "https://lefaso.net/spip.php?article147282",
       "source": "LeFaso",
-      "published_at": "2026-06-22T23:38:57.504128+00:00",
+      "published_at": "2026-06-23T04:14:52.962620+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,44 +119,31 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "Burkina/Saison agricole 2025-2026 : La production mara\u00eech\u00e8re en hausse de 14,4% par rapport \u00e0 la campagne pr\u00e9c\u00e9dente",
-      "link": "https://lefaso.net/spip.php?article147250",
-      "source": "LeFaso",
-      "published_at": "2026-06-22T23:38:57.504128+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-23T02:08:33.289152+00:00",
-      "score": 11.3
+      "timestamp": "2026-06-23T08:50:48.421112+00:00",
+      "score": 8.6
     },
     {
-      "timestamp": "2026-06-23T04:38:09.074176+00:00",
-      "score": 9.0
+      "timestamp": "2026-06-23T13:26:43.879604+00:00",
+      "score": 6.2
     },
     {
-      "timestamp": "2026-06-23T07:07:44.859200+00:00",
-      "score": 6.6
+      "timestamp": "2026-06-23T18:02:39.338096+00:00",
+      "score": 3.9
     },
     {
-      "timestamp": "2026-06-23T09:37:20.644224+00:00",
-      "score": 4.3
+      "timestamp": "2026-06-23T22:38:34.796588+00:00",
+      "score": 1.5
     },
     {
-      "timestamp": "2026-06-23T12:06:56.429248+00:00",
-      "score": 2.0
+      "timestamp": "2026-06-24T03:14:30.255080+00:00",
+      "score": 0.0
     },
     {
-      "timestamp": "2026-06-23T14:36:32.214272+00:00",
+      "timestamp": "2026-06-24T07:50:25.713572+00:00",
       "score": 0.0
     }
   ]
