@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-06-24T11:51:37.643516+00:00",
+  "fetched_at": "2026-06-24T14:49:30.153681+00:00",
   "window_hours": 72,
-  "score": 7.4,
+  "score": 11.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 6.7,
-    "civilian_risk": 20.2
+    "conflict_intensity": 6.3,
+    "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -94,10 +94,21 @@
   ],
   "top_headlines": [
     {
+      "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
+      "link": "https://lefaso.net/spip.php?article147220",
+      "source": "LeFaso",
+      "published_at": "2026-06-24T14:49:30.153681+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Burkina/\u00c9lectricit\u00e9 : La SONABEL lance une campagne de recensement de ses ouvrages et de sa client\u00e8le",
       "link": "https://lefaso.net/spip.php?article147307",
       "source": "LeFaso",
-      "published_at": "2026-06-24T11:51:37.643516+00:00",
+      "published_at": "2026-06-24T14:49:30.153681+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +123,7 @@
       "link": "https://allafrica.com/stories/202606230424.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-23T11:54:52+00:00",
-      "score": 0.56,
+      "score": 0.53,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,27 +135,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-24T15:13:32.119241+00:00",
+      "timestamp": "2026-06-24T17:47:22.663846+00:00",
+      "score": 0.3
+    },
+    {
+      "timestamp": "2026-06-24T20:45:15.174011+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T18:35:26.594966+00:00",
+      "timestamp": "2026-06-24T23:43:07.684176+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T21:57:21.070691+00:00",
+      "timestamp": "2026-06-25T02:41:00.194341+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-25T01:19:15.546416+00:00",
+      "timestamp": "2026-06-25T05:38:52.704506+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-25T04:41:10.022141+00:00",
-      "score": 0.0
-    },
-    {
-      "timestamp": "2026-06-25T08:03:04.497866+00:00",
+      "timestamp": "2026-06-25T08:36:45.214671+00:00",
       "score": 0.0
     }
   ]
