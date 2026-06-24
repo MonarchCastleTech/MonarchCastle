@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-06-24T17:11:49.110251+00:00",
+  "fetched_at": "2026-06-24T19:59:22.587690+00:00",
   "window_hours": 72,
-  "score": 11.1,
+  "score": 10.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 6.0,
+    "conflict_intensity": 5.6,
     "civilian_risk": 40.3
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-24T17:11:49.110251+00:00",
+      "published_at": "2026-06-24T19:59:22.587690+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina/\u00c9lectricit\u00e9 : La SONABEL lance une campagne de recensement de ses ouvrages et de sa client\u00e8le",
       "link": "https://lefaso.net/spip.php?article147307",
       "source": "LeFaso",
-      "published_at": "2026-06-24T17:11:49.110251+00:00",
+      "published_at": "2026-06-24T19:59:22.587690+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "link": "https://allafrica.com/stories/202606230424.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-23T11:54:52+00:00",
-      "score": 0.5,
+      "score": 0.47,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,27 +135,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-24T19:34:08.066821+00:00",
-      "score": 1.0
+      "timestamp": "2026-06-24T22:46:56.065129+00:00",
+      "score": 1.8
     },
     {
-      "timestamp": "2026-06-24T21:56:27.023391+00:00",
+      "timestamp": "2026-06-25T01:34:29.542568+00:00",
+      "score": 0.7
+    },
+    {
+      "timestamp": "2026-06-25T04:22:03.020007+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-25T00:18:45.979961+00:00",
+      "timestamp": "2026-06-25T07:09:36.497446+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-25T02:41:04.936531+00:00",
+      "timestamp": "2026-06-25T09:57:09.974885+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-25T05:03:23.893101+00:00",
-      "score": 0.0
-    },
-    {
-      "timestamp": "2026-06-25T07:25:42.849671+00:00",
+      "timestamp": "2026-06-25T12:44:43.452324+00:00",
       "score": 0.0
     }
   ]
