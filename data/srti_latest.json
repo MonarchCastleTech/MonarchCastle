@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-06-24T04:21:17.902527+00:00",
+  "fetched_at": "2026-06-24T08:29:43.167791+00:00",
   "window_hours": 72,
-  "score": 7.9,
+  "score": 7.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 7.8,
+    "conflict_intensity": 7.2,
     "civilian_risk": 20.2
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 83
+      "items": 80
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 23
+      "items": 26
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina/\u00c9lectricit\u00e9 : La SONABEL lance une campagne de recensement de ses ouvrages et de sa client\u00e8le",
       "link": "https://lefaso.net/spip.php?article147307",
       "source": "LeFaso",
-      "published_at": "2026-06-24T04:21:17.902527+00:00",
+      "published_at": "2026-06-24T08:29:43.167791+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://allafrica.com/stories/202606230424.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-23T11:54:52+00:00",
-      "score": 0.65,
+      "score": 0.6,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,27 +124,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-24T08:37:23.279204+00:00",
+      "timestamp": "2026-06-24T12:38:08.433055+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T12:53:28.655881+00:00",
+      "timestamp": "2026-06-24T16:46:33.698319+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T17:09:34.032558+00:00",
+      "timestamp": "2026-06-24T20:54:58.963583+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-24T21:25:39.409235+00:00",
+      "timestamp": "2026-06-25T01:03:24.228847+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-25T01:41:44.785912+00:00",
+      "timestamp": "2026-06-25T05:11:49.494111+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-06-25T05:57:50.162589+00:00",
+      "timestamp": "2026-06-25T09:20:14.759375+00:00",
       "score": 0.0
     }
   ]
