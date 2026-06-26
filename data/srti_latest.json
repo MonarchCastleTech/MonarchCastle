@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-26T09:45:54.545923+00:00",
+  "fetched_at": "2026-06-26T12:20:49.801547+00:00",
   "window_hours": 72,
-  "score": 13.4,
+  "score": 15.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 15.2,
-    "civilian_risk": 28.9
+    "conflict_intensity": 11.0,
+    "civilian_risk": 48.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 85
+      "items": 88
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202606250017.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-25T03:33:29+00:00",
-      "score": 1.6,
+      "score": 1.5,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,55 +109,54 @@
       ]
     },
     {
+      "title": "Burkina/Campagne cotonni\u00e8re 2026-2027 : Pus de 534 000 tonnes de coton graine attendues",
+      "link": "https://lefaso.net/spip.php?article147407",
+      "source": "LeFaso",
+      "published_at": "2026-06-26T12:20:49.801547+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-26T09:45:54.545923+00:00",
+      "published_at": "2026-06-26T12:20:49.801547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": []
-    },
-    {
-      "title": "The Attack On Niamey Airport",
-      "link": "https://allafrica.com/stories/202606230424.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-06-23T11:54:52+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-26T14:14:23.897124+00:00",
-      "score": 19.1
+      "timestamp": "2026-06-26T14:55:45.057171+00:00",
+      "score": 19.4
     },
     {
-      "timestamp": "2026-06-26T18:42:53.248325+00:00",
-      "score": 19.6
+      "timestamp": "2026-06-26T17:30:40.312795+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-06-26T23:11:22.599526+00:00",
-      "score": 20.0
+      "timestamp": "2026-06-26T20:05:35.568419+00:00",
+      "score": 20.3
     },
     {
-      "timestamp": "2026-06-27T03:39:51.950727+00:00",
-      "score": 20.5
+      "timestamp": "2026-06-26T22:40:30.824043+00:00",
+      "score": 20.8
     },
     {
-      "timestamp": "2026-06-27T08:08:21.301928+00:00",
-      "score": 20.9
+      "timestamp": "2026-06-27T01:15:26.079667+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-06-27T12:36:50.653129+00:00",
-      "score": 21.4
+      "timestamp": "2026-06-27T03:50:21.335291+00:00",
+      "score": 21.7
     }
   ]
 }
