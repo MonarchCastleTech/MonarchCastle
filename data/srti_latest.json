@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-25T22:39:24.103506+00:00",
+  "fetched_at": "2026-06-26T00:19:05.780096+00:00",
   "window_hours": 72,
-  "score": 15.4,
+  "score": 15.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 18.3,
-    "civilian_risk": 31.3
+    "conflict_intensity": 17.9,
+    "civilian_risk": 30.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,32 +16,32 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
       "url": "https://www.maliweb.net/feed",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 85
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202606250017.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-06-25T03:33:29+00:00",
-      "score": 2.03,
+      "score": 1.96,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-25T22:39:24.103506+00:00",
+      "published_at": "2026-06-26T00:19:05.780096+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-26T01:01:12.051779+00:00",
-      "score": 19.5
+      "timestamp": "2026-06-26T01:58:47.456686+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-06-26T03:23:00.000052+00:00",
-      "score": 20.1
+      "timestamp": "2026-06-26T03:38:29.133276+00:00",
+      "score": 20.4
     },
     {
-      "timestamp": "2026-06-26T05:44:47.948325+00:00",
-      "score": 20.6
+      "timestamp": "2026-06-26T05:18:10.809866+00:00",
+      "score": 20.9
     },
     {
-      "timestamp": "2026-06-26T08:06:35.896598+00:00",
-      "score": 21.1
+      "timestamp": "2026-06-26T06:57:52.486456+00:00",
+      "score": 21.5
     },
     {
-      "timestamp": "2026-06-26T10:28:23.844871+00:00",
-      "score": 21.7
+      "timestamp": "2026-06-26T08:37:34.163046+00:00",
+      "score": 22.0
     },
     {
-      "timestamp": "2026-06-26T12:50:11.793144+00:00",
-      "score": 22.2
+      "timestamp": "2026-06-26T10:17:15.839636+00:00",
+      "score": 22.6
     }
   ]
 }
