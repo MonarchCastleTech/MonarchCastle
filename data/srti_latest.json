@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T10:18:21.967045+00:00",
+  "fetched_at": "2026-06-27T12:13:05.418709+00:00",
   "window_hours": 72,
   "score": 16.7,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : 710 nouveaux officiers de police judiciaire pr\u00eats \u00e0 renforcer la lutte contre l'ins\u00e9curit\u00e9",
       "link": "https://lefaso.net/spip.php?article147426",
       "source": "LeFaso",
-      "published_at": "2026-06-27T10:18:21.967045+00:00",
+      "published_at": "2026-06-27T12:13:05.418709+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina/Campagne cotonni\u00e8re 2026-2027 : Pus de 534 000 tonnes de coton graine attendues",
       "link": "https://lefaso.net/spip.php?article147407",
       "source": "LeFaso",
-      "published_at": "2026-06-27T10:18:21.967045+00:00",
+      "published_at": "2026-06-27T12:13:05.418709+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Camp vacances robotique ACES 2026 du 27 juillet au 7 ao\u00fbt 2026",
       "link": "https://lefaso.net/spip.php?article147220",
       "source": "LeFaso",
-      "published_at": "2026-06-27T10:18:21.967045+00:00",
+      "published_at": "2026-06-27T12:13:05.418709+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -146,28 +146,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-27T12:42:37.303491+00:00",
+      "timestamp": "2026-06-27T14:07:48.870373+00:00",
+      "score": 17.2
+    },
+    {
+      "timestamp": "2026-06-27T16:02:32.322037+00:00",
+      "score": 17.2
+    },
+    {
+      "timestamp": "2026-06-27T17:57:15.773701+00:00",
+      "score": 17.3
+    },
+    {
+      "timestamp": "2026-06-27T19:51:59.225365+00:00",
+      "score": 17.3
+    },
+    {
+      "timestamp": "2026-06-27T21:46:42.677029+00:00",
+      "score": 17.4
+    },
+    {
+      "timestamp": "2026-06-27T23:41:26.128693+00:00",
       "score": 17.5
-    },
-    {
-      "timestamp": "2026-06-27T15:06:52.639937+00:00",
-      "score": 17.6
-    },
-    {
-      "timestamp": "2026-06-27T17:31:07.976383+00:00",
-      "score": 17.8
-    },
-    {
-      "timestamp": "2026-06-27T19:55:23.312829+00:00",
-      "score": 17.9
-    },
-    {
-      "timestamp": "2026-06-27T22:19:38.649275+00:00",
-      "score": 18.0
-    },
-    {
-      "timestamp": "2026-06-28T00:43:53.985721+00:00",
-      "score": 18.1
     }
   ]
 }
