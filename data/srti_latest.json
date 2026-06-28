@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-28T11:53:37.590140+00:00",
+  "fetched_at": "2026-06-28T14:07:19.152585+00:00",
   "window_hours": 72,
   "score": 8.1,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : 710 nouveaux officiers de police judiciaire pr\u00eats \u00e0 renforcer la lutte contre l'ins\u00e9curit\u00e9",
       "link": "https://lefaso.net/spip.php?article147426",
       "source": "LeFaso",
-      "published_at": "2026-06-28T11:53:37.590140+00:00",
+      "published_at": "2026-06-28T14:07:19.152585+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina/Campagne cotonni\u00e8re 2026-2027 : Pus de 534 000 tonnes de coton graine attendues",
       "link": "https://lefaso.net/spip.php?article147407",
       "source": "LeFaso",
-      "published_at": "2026-06-28T11:53:37.590140+00:00",
+      "published_at": "2026-06-28T14:07:19.152585+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,28 +120,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-28T14:21:20.827653+00:00",
-      "score": 10.4
+      "timestamp": "2026-06-28T16:21:00.715030+00:00",
+      "score": 9.9
     },
     {
-      "timestamp": "2026-06-28T16:49:04.065166+00:00",
-      "score": 10.1
+      "timestamp": "2026-06-28T18:34:42.277475+00:00",
+      "score": 9.6
     },
     {
-      "timestamp": "2026-06-28T19:16:47.302679+00:00",
-      "score": 9.8
+      "timestamp": "2026-06-28T20:48:23.839920+00:00",
+      "score": 9.3
     },
     {
-      "timestamp": "2026-06-28T21:44:30.540192+00:00",
-      "score": 9.5
+      "timestamp": "2026-06-28T23:02:05.402365+00:00",
+      "score": 9.0
     },
     {
-      "timestamp": "2026-06-29T00:12:13.777705+00:00",
-      "score": 9.2
+      "timestamp": "2026-06-29T01:15:46.964810+00:00",
+      "score": 8.7
     },
     {
-      "timestamp": "2026-06-29T02:39:57.015218+00:00",
-      "score": 8.9
+      "timestamp": "2026-06-29T03:29:28.527255+00:00",
+      "score": 8.4
     }
   ]
 }
