@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T22:11:29.151863+00:00",
+  "fetched_at": "2026-06-28T00:11:01.956598+00:00",
   "window_hours": 72,
   "score": 12.7,
   "risk_level": "LOW",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 75
     },
     {
       "name": "ActuNiger",
@@ -70,8 +70,8 @@
     {
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
-      "status": "ok",
-      "items": 30
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "AllAfrica - Mali",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : 710 nouveaux officiers de police judiciaire pr\u00eats \u00e0 renforcer la lutte contre l'ins\u00e9curit\u00e9",
       "link": "https://lefaso.net/spip.php?article147426",
       "source": "LeFaso",
-      "published_at": "2026-06-27T22:11:29.151863+00:00",
+      "published_at": "2026-06-28T00:11:01.956598+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina/Campagne cotonni\u00e8re 2026-2027 : Pus de 534 000 tonnes de coton graine attendues",
       "link": "https://lefaso.net/spip.php?article147407",
       "source": "LeFaso",
-      "published_at": "2026-06-27T22:11:29.151863+00:00",
+      "published_at": "2026-06-28T00:11:01.956598+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-28T00:07:18.257703+00:00",
-      "score": 12.5
+      "timestamp": "2026-06-28T02:10:34.761333+00:00",
+      "score": 12.4
     },
     {
-      "timestamp": "2026-06-28T02:03:07.363543+00:00",
+      "timestamp": "2026-06-28T04:10:07.566068+00:00",
       "score": 12.2
     },
     {
-      "timestamp": "2026-06-28T03:58:56.469383+00:00",
+      "timestamp": "2026-06-28T06:09:40.370803+00:00",
       "score": 11.9
     },
     {
-      "timestamp": "2026-06-28T05:54:45.575223+00:00",
+      "timestamp": "2026-06-28T08:09:13.175538+00:00",
       "score": 11.6
     },
     {
-      "timestamp": "2026-06-28T07:50:34.681063+00:00",
-      "score": 11.3
+      "timestamp": "2026-06-28T10:08:45.980273+00:00",
+      "score": 11.4
     },
     {
-      "timestamp": "2026-06-28T09:46:23.786903+00:00",
-      "score": 11.0
+      "timestamp": "2026-06-28T12:08:18.785008+00:00",
+      "score": 11.1
     }
   ]
 }
