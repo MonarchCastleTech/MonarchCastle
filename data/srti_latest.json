@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-29T20:53:21.011354+00:00",
+  "fetched_at": "2026-06-29T22:15:40.370829+00:00",
   "window_hours": 72,
-  "score": 27.3,
+  "score": 27.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 32.1,
-    "civilian_risk": 56.3
+    "conflict_intensity": 31.7,
+    "civilian_risk": 56.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 85
+      "items": 83
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
       "source": "France 24 - Africa",
       "published_at": "2026-06-29T14:16:34+00:00",
-      "score": 2.03,
+      "score": 1.99,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-06-29T20:53:21.011354+00:00",
+      "published_at": "2026-06-29T22:15:40.370829+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Bobo-Dioulasso : 710 nouveaux officiers de police judiciaire pr\u00eats \u00e0 renforcer la lutte contre l'ins\u00e9curit\u00e9",
       "link": "https://lefaso.net/spip.php?article147426",
       "source": "LeFaso",
-      "published_at": "2026-06-29T20:53:21.011354+00:00",
+      "published_at": "2026-06-29T22:15:40.370829+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-06-29T20:53:21.011354+00:00",
+      "published_at": "2026-06-29T22:15:40.370829+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,7 +150,7 @@
       "link": "https://allafrica.com/stories/202606290081.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-29T05:55:46+00:00",
-      "score": 0.67,
+      "score": 0.65,
       "tags": [
         "conflict_intensity"
       ],
@@ -159,28 +159,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-29T23:27:33.248684+00:00",
-      "score": 14.4
+      "timestamp": "2026-06-29T23:37:59.730304+00:00",
+      "score": 17.1
     },
     {
-      "timestamp": "2026-06-30T02:01:45.486014+00:00",
-      "score": 14.5
+      "timestamp": "2026-06-30T01:00:19.089779+00:00",
+      "score": 17.4
     },
     {
-      "timestamp": "2026-06-30T04:35:57.723344+00:00",
-      "score": 14.6
+      "timestamp": "2026-06-30T02:22:38.449254+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-06-30T07:10:09.960674+00:00",
-      "score": 14.7
+      "timestamp": "2026-06-30T03:44:57.808729+00:00",
+      "score": 17.9
     },
     {
-      "timestamp": "2026-06-30T09:44:22.198004+00:00",
-      "score": 14.8
+      "timestamp": "2026-06-30T05:07:17.168204+00:00",
+      "score": 18.2
     },
     {
-      "timestamp": "2026-06-30T12:18:34.435334+00:00",
-      "score": 14.9
+      "timestamp": "2026-06-30T06:29:36.527679+00:00",
+      "score": 18.5
     }
   ]
 }
