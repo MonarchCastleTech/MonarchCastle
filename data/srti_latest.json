@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-06-29T05:59:57.406577+00:00",
+  "fetched_at": "2026-06-29T11:19:28.930754+00:00",
   "window_hours": 72,
-  "score": 8.1,
+  "score": 15.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
-    "civilian_risk": 40.3
+    "conflict_intensity": 22.8,
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 58
+      "items": 60
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 27
+      "items": 24
     },
     {
       "name": "UN News Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 11
     },
     {
       "name": "AllAfrica - Niger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 10
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : 710 nouveaux officiers de police judiciaire pr\u00eats \u00e0 renforcer la lutte contre l'ins\u00e9curit\u00e9",
       "link": "https://lefaso.net/spip.php?article147426",
       "source": "LeFaso",
-      "published_at": "2026-06-29T05:59:57.406577+00:00",
+      "published_at": "2026-06-29T11:19:28.930754+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -105,43 +105,54 @@
       "regions": []
     },
     {
-      "title": "Burkina/Campagne cotonni\u00e8re 2026-2027 : Pus de 534 000 tonnes de coton graine attendues",
-      "link": "https://lefaso.net/spip.php?article147407",
+      "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
+      "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-06-29T05:59:57.406577+00:00",
-      "score": 1.44,
+      "published_at": "2026-06-29T11:19:28.930754+00:00",
+      "score": 1.12,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
         "burkina"
       ]
+    },
+    {
+      "title": "Grave Abuses Amid Renewed Fighting",
+      "link": "https://allafrica.com/stories/202606290081.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-06-29T05:55:46+00:00",
+      "score": 0.78,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-29T11:43:05.744627+00:00",
-      "score": 5.9
+      "timestamp": "2026-06-29T16:39:00.454931+00:00",
+      "score": 6.6
     },
     {
-      "timestamp": "2026-06-29T17:26:14.082677+00:00",
-      "score": 5.4
+      "timestamp": "2026-06-29T21:58:31.979108+00:00",
+      "score": 6.2
     },
     {
-      "timestamp": "2026-06-29T23:09:22.420727+00:00",
+      "timestamp": "2026-06-30T03:18:03.503285+00:00",
+      "score": 5.7
+    },
+    {
+      "timestamp": "2026-06-30T08:37:35.027462+00:00",
+      "score": 5.3
+    },
+    {
+      "timestamp": "2026-06-30T13:57:06.551639+00:00",
       "score": 4.9
     },
     {
-      "timestamp": "2026-06-30T04:52:30.758777+00:00",
+      "timestamp": "2026-06-30T19:16:38.075816+00:00",
       "score": 4.4
-    },
-    {
-      "timestamp": "2026-06-30T10:35:39.096827+00:00",
-      "score": 3.9
-    },
-    {
-      "timestamp": "2026-06-30T16:18:47.434877+00:00",
-      "score": 3.4
     }
   ]
 }
