@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-29T16:03:48.921423+00:00",
+  "fetched_at": "2026-06-29T18:19:08.774024+00:00",
   "window_hours": 72,
-  "score": 24.3,
+  "score": 23.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 33.6,
-    "civilian_risk": 37.4
+    "conflict_intensity": 32.9,
+    "civilian_risk": 36.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 24
+      "items": 26
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
       "source": "France 24 - Africa",
       "published_at": "2026-06-29T14:16:34+00:00",
-      "score": 2.18,
+      "score": 2.11,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Bobo-Dioulasso : 710 nouveaux officiers de police judiciaire pr\u00eats \u00e0 renforcer la lutte contre l'ins\u00e9curit\u00e9",
       "link": "https://lefaso.net/spip.php?article147426",
       "source": "LeFaso",
-      "published_at": "2026-06-29T16:03:48.921423+00:00",
+      "published_at": "2026-06-29T18:19:08.774024+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-06-29T16:03:48.921423+00:00",
+      "published_at": "2026-06-29T18:19:08.774024+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +136,7 @@
       "link": "https://allafrica.com/stories/202606290081.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-29T05:55:46+00:00",
-      "score": 0.72,
+      "score": 0.7,
       "tags": [
         "conflict_intensity"
       ],
@@ -145,28 +145,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-29T20:48:08.912092+00:00",
-      "score": 9.2
+      "timestamp": "2026-06-29T20:34:28.626625+00:00",
+      "score": 11.6
     },
     {
-      "timestamp": "2026-06-30T01:32:28.902761+00:00",
-      "score": 8.9
+      "timestamp": "2026-06-29T22:49:48.479226+00:00",
+      "score": 11.5
     },
     {
-      "timestamp": "2026-06-30T06:16:48.893430+00:00",
-      "score": 8.7
+      "timestamp": "2026-06-30T01:05:08.331827+00:00",
+      "score": 11.4
     },
     {
-      "timestamp": "2026-06-30T11:01:08.884099+00:00",
-      "score": 8.4
+      "timestamp": "2026-06-30T03:20:28.184428+00:00",
+      "score": 11.3
     },
     {
-      "timestamp": "2026-06-30T15:45:28.874768+00:00",
-      "score": 8.1
+      "timestamp": "2026-06-30T05:35:48.037029+00:00",
+      "score": 11.2
     },
     {
-      "timestamp": "2026-06-30T20:29:48.865437+00:00",
-      "score": 7.9
+      "timestamp": "2026-06-30T07:51:07.889630+00:00",
+      "score": 11.1
     }
   ]
 }
