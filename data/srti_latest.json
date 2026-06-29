@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-29T00:16:49.068527+00:00",
+  "fetched_at": "2026-06-29T05:59:57.406577+00:00",
   "window_hours": 72,
   "score": 8.1,
   "risk_level": "LOW",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -83,13 +83,13 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 17
+      "items": 18
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 8
+      "items": 9
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : 710 nouveaux officiers de police judiciaire pr\u00eats \u00e0 renforcer la lutte contre l'ins\u00e9curit\u00e9",
       "link": "https://lefaso.net/spip.php?article147426",
       "source": "LeFaso",
-      "published_at": "2026-06-29T00:16:49.068527+00:00",
+      "published_at": "2026-06-29T05:59:57.406577+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina/Campagne cotonni\u00e8re 2026-2027 : Pus de 534 000 tonnes de coton graine attendues",
       "link": "https://lefaso.net/spip.php?article147407",
       "source": "LeFaso",
-      "published_at": "2026-06-29T00:16:49.068527+00:00",
+      "published_at": "2026-06-29T05:59:57.406577+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,28 +120,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-29T02:23:45.799409+00:00",
-      "score": 6.4
-    },
-    {
-      "timestamp": "2026-06-29T04:30:42.530291+00:00",
+      "timestamp": "2026-06-29T11:43:05.744627+00:00",
       "score": 5.9
     },
     {
-      "timestamp": "2026-06-29T06:37:39.261173+00:00",
+      "timestamp": "2026-06-29T17:26:14.082677+00:00",
       "score": 5.4
     },
     {
-      "timestamp": "2026-06-29T08:44:35.992055+00:00",
+      "timestamp": "2026-06-29T23:09:22.420727+00:00",
       "score": 4.9
     },
     {
-      "timestamp": "2026-06-29T10:51:32.722937+00:00",
-      "score": 4.5
+      "timestamp": "2026-06-30T04:52:30.758777+00:00",
+      "score": 4.4
     },
     {
-      "timestamp": "2026-06-29T12:58:29.453819+00:00",
-      "score": 4.0
+      "timestamp": "2026-06-30T10:35:39.096827+00:00",
+      "score": 3.9
+    },
+    {
+      "timestamp": "2026-06-30T16:18:47.434877+00:00",
+      "score": 3.4
     }
   ]
 }
