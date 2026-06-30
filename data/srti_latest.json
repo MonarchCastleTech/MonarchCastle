@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-30T05:13:25.079320+00:00",
+  "fetched_at": "2026-06-30T09:56:04.171336+00:00",
   "window_hours": 72,
-  "score": 21.6,
+  "score": 20.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 29.6,
-    "civilian_risk": 34.1
+    "conflict_intensity": 28.1,
+    "civilian_risk": 33.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 70
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 26
+      "items": 25
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
       "source": "France 24 - Africa",
       "published_at": "2026-06-29T14:16:34+00:00",
-      "score": 1.77,
+      "score": 1.63,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-06-30T05:13:25.079320+00:00",
+      "published_at": "2026-06-30T09:56:04.171336+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-06-30T05:13:25.079320+00:00",
+      "published_at": "2026-06-30T09:56:04.171336+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "link": "https://allafrica.com/stories/202606290081.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-29T05:55:46+00:00",
-      "score": 0.57,
+      "score": 0.51,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-30T10:12:27.690782+00:00",
-      "score": 20.5
+      "timestamp": "2026-06-30T14:38:43.263352+00:00",
+      "score": 21.8
     },
     {
-      "timestamp": "2026-06-30T15:11:30.302244+00:00",
-      "score": 21.0
+      "timestamp": "2026-06-30T19:21:22.355368+00:00",
+      "score": 22.4
     },
     {
-      "timestamp": "2026-06-30T20:10:32.913706+00:00",
-      "score": 21.5
+      "timestamp": "2026-07-01T00:04:01.447384+00:00",
+      "score": 23.1
     },
     {
-      "timestamp": "2026-07-01T01:09:35.525168+00:00",
-      "score": 22.0
+      "timestamp": "2026-07-01T04:46:40.539400+00:00",
+      "score": 23.7
     },
     {
-      "timestamp": "2026-07-01T06:08:38.136630+00:00",
-      "score": 22.5
+      "timestamp": "2026-07-01T09:29:19.631416+00:00",
+      "score": 24.3
     },
     {
-      "timestamp": "2026-07-01T11:07:40.748092+00:00",
-      "score": 23.0
+      "timestamp": "2026-07-01T14:11:58.723432+00:00",
+      "score": 24.9
     }
   ]
 }
