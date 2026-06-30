@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-30T09:56:04.171336+00:00",
+  "fetched_at": "2026-06-30T12:19:02.786824+00:00",
   "window_hours": 72,
-  "score": 20.7,
+  "score": 20.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 28.1,
-    "civilian_risk": 33.0
+    "conflict_intensity": 27.4,
+    "civilian_risk": 32.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 25
+      "items": 26
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
       "source": "France 24 - Africa",
       "published_at": "2026-06-29T14:16:34+00:00",
-      "score": 1.63,
+      "score": 1.55,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-06-30T09:56:04.171336+00:00",
+      "published_at": "2026-06-30T12:19:02.786824+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-06-30T09:56:04.171336+00:00",
+      "published_at": "2026-06-30T12:19:02.786824+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "link": "https://allafrica.com/stories/202606290081.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-29T05:55:46+00:00",
-      "score": 0.51,
+      "score": 0.49,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-30T14:38:43.263352+00:00",
-      "score": 21.8
+      "timestamp": "2026-06-30T14:42:01.402312+00:00",
+      "score": 22.7
     },
     {
-      "timestamp": "2026-06-30T19:21:22.355368+00:00",
-      "score": 22.4
+      "timestamp": "2026-06-30T17:05:00.017800+00:00",
+      "score": 23.4
     },
     {
-      "timestamp": "2026-07-01T00:04:01.447384+00:00",
-      "score": 23.1
+      "timestamp": "2026-06-30T19:27:58.633288+00:00",
+      "score": 24.0
     },
     {
-      "timestamp": "2026-07-01T04:46:40.539400+00:00",
-      "score": 23.7
+      "timestamp": "2026-06-30T21:50:57.248776+00:00",
+      "score": 24.7
     },
     {
-      "timestamp": "2026-07-01T09:29:19.631416+00:00",
-      "score": 24.3
+      "timestamp": "2026-07-01T00:13:55.864264+00:00",
+      "score": 25.3
     },
     {
-      "timestamp": "2026-07-01T14:11:58.723432+00:00",
-      "score": 24.9
+      "timestamp": "2026-07-01T02:36:54.479752+00:00",
+      "score": 26.0
     }
   ]
 }
