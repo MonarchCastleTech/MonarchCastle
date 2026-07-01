@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-30T22:20:58.805042+00:00",
+  "fetched_at": "2026-07-01T00:16:25.984329+00:00",
   "window_hours": 72,
-  "score": 18.2,
+  "score": 17.8,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 24.4,
-    "civilian_risk": 29.9
+    "conflict_intensity": 23.8,
+    "civilian_risk": 29.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-06-30T22:20:58.805042+00:00",
+      "published_at": "2026-07-01T00:16:25.984329+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
       "source": "France 24 - Africa",
       "published_at": "2026-06-29T14:16:34+00:00",
-      "score": 1.24,
+      "score": 1.18,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-06-30T22:20:58.805042+00:00",
+      "published_at": "2026-07-01T00:16:25.984329+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "link": "https://allafrica.com/stories/202606290081.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-06-29T05:55:46+00:00",
-      "score": 0.37,
+      "score": 0.35,
       "tags": [
         "conflict_intensity"
       ],
@@ -148,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-06-30T23:40:27.099915+00:00",
-      "score": 24.5
+      "timestamp": "2026-07-01T02:11:53.163616+00:00",
+      "score": 24.6
     },
     {
-      "timestamp": "2026-07-01T00:59:55.394788+00:00",
-      "score": 25.2
+      "timestamp": "2026-07-01T04:07:20.342903+00:00",
+      "score": 25.3
     },
     {
-      "timestamp": "2026-07-01T02:19:23.689661+00:00",
-      "score": 25.9
+      "timestamp": "2026-07-01T06:02:47.522190+00:00",
+      "score": 26.1
     },
     {
-      "timestamp": "2026-07-01T03:38:51.984534+00:00",
-      "score": 26.7
+      "timestamp": "2026-07-01T07:58:14.701477+00:00",
+      "score": 26.8
     },
     {
-      "timestamp": "2026-07-01T04:58:20.279407+00:00",
-      "score": 27.4
+      "timestamp": "2026-07-01T09:53:41.880764+00:00",
+      "score": 27.5
     },
     {
-      "timestamp": "2026-07-01T06:17:48.574280+00:00",
-      "score": 28.1
+      "timestamp": "2026-07-01T11:49:09.060051+00:00",
+      "score": 28.2
     }
   ]
 }
