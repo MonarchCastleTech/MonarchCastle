@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-01T05:48:09.201909+00:00",
+  "fetched_at": "2026-07-01T10:06:02.944485+00:00",
   "window_hours": 72,
-  "score": 16.8,
+  "score": 16.2,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 22.3,
-    "civilian_risk": 28.1
+    "conflict_intensity": 21.6,
+    "civilian_risk": 27.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 84
+      "items": 85
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-07-01T05:48:09.201909+00:00",
+      "published_at": "2026-07-01T10:06:02.944485+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-07-01T05:48:09.201909+00:00",
+      "published_at": "2026-07-01T10:06:02.944485+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "link": "https://www.france24.com/en/africa/20260629-all-warring-parties-in-mali-committed-grave-abuses-against-civilians-report-says",
       "source": "France 24 - Africa",
       "published_at": "2026-06-29T14:16:34+00:00",
-      "score": 1.01,
+      "score": 0.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -148,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-01T11:19:52.419489+00:00",
-      "score": 24.1
+      "timestamp": "2026-07-01T14:23:56.687061+00:00",
+      "score": 23.4
     },
     {
-      "timestamp": "2026-07-01T16:51:35.637069+00:00",
-      "score": 24.7
+      "timestamp": "2026-07-01T18:41:50.429637+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-07-01T22:23:18.854649+00:00",
-      "score": 25.4
+      "timestamp": "2026-07-01T22:59:44.172213+00:00",
+      "score": 24.5
     },
     {
-      "timestamp": "2026-07-02T03:55:02.072229+00:00",
-      "score": 26.0
+      "timestamp": "2026-07-02T03:17:37.914789+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-07-02T09:26:45.289809+00:00",
-      "score": 26.7
+      "timestamp": "2026-07-02T07:35:31.657365+00:00",
+      "score": 25.6
     },
     {
-      "timestamp": "2026-07-02T14:58:28.507389+00:00",
-      "score": 27.3
+      "timestamp": "2026-07-02T11:53:25.399941+00:00",
+      "score": 26.1
     }
   ]
 }
