@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T16:33:49.089998+00:00",
+  "fetched_at": "2026-07-01T19:04:34.739801+00:00",
   "window_hours": 72,
   "score": 26.6,
   "risk_level": "GUARDED",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 26
+      "items": 25
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-01T16:33:49.089998+00:00",
+      "published_at": "2026-07-01T19:04:34.739801+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-07-01T16:33:49.089998+00:00",
+      "published_at": "2026-07-01T19:04:34.739801+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina/Lutte contre le terrorisme : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-01T16:33:49.089998+00:00",
+      "published_at": "2026-07-01T19:04:34.739801+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-07-01T16:33:49.089998+00:00",
+      "published_at": "2026-07-01T19:04:34.739801+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,28 +174,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-01T19:29:38.703298+00:00",
-      "score": 23.9
+      "timestamp": "2026-07-01T21:35:20.389604+00:00",
+      "score": 24.5
     },
     {
-      "timestamp": "2026-07-01T22:25:28.316598+00:00",
-      "score": 24.4
+      "timestamp": "2026-07-02T00:06:06.039407+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-07-02T01:21:17.929898+00:00",
-      "score": 24.9
+      "timestamp": "2026-07-02T02:36:51.689210+00:00",
+      "score": 25.5
     },
     {
-      "timestamp": "2026-07-02T04:17:07.543198+00:00",
-      "score": 25.4
+      "timestamp": "2026-07-02T05:07:37.339013+00:00",
+      "score": 26.0
     },
     {
-      "timestamp": "2026-07-02T07:12:57.156498+00:00",
-      "score": 25.9
-    },
-    {
-      "timestamp": "2026-07-02T10:08:46.769798+00:00",
+      "timestamp": "2026-07-02T07:38:22.988816+00:00",
       "score": 26.5
+    },
+    {
+      "timestamp": "2026-07-02T10:09:08.638619+00:00",
+      "score": 27.0
     }
   ]
 }
