@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-01T20:51:47.441165+00:00",
+  "fetched_at": "2026-07-01T22:23:33.003949+00:00",
   "window_hours": 72,
   "score": 26.6,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 102
+      "items": 99
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-01T20:51:47.441165+00:00",
+      "published_at": "2026-07-01T22:23:33.003949+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-07-01T20:51:47.441165+00:00",
+      "published_at": "2026-07-01T22:23:33.003949+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina/Lutte contre le terrorisme : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-01T20:51:47.441165+00:00",
+      "published_at": "2026-07-01T22:23:33.003949+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-07-01T20:51:47.441165+00:00",
+      "published_at": "2026-07-01T22:23:33.003949+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,28 +174,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-01T22:39:00.142529+00:00",
-      "score": 24.9
+      "timestamp": "2026-07-01T23:55:18.566733+00:00",
+      "score": 25.1
     },
     {
-      "timestamp": "2026-07-02T00:26:12.843893+00:00",
-      "score": 25.4
+      "timestamp": "2026-07-02T01:27:04.129517+00:00",
+      "score": 25.5
     },
     {
-      "timestamp": "2026-07-02T02:13:25.545257+00:00",
-      "score": 25.8
+      "timestamp": "2026-07-02T02:58:49.692301+00:00",
+      "score": 25.9
     },
     {
-      "timestamp": "2026-07-02T04:00:38.246621+00:00",
+      "timestamp": "2026-07-02T04:30:35.255085+00:00",
       "score": 26.3
     },
     {
-      "timestamp": "2026-07-02T05:47:50.947985+00:00",
+      "timestamp": "2026-07-02T06:02:20.817869+00:00",
       "score": 26.7
     },
     {
-      "timestamp": "2026-07-02T07:35:03.649349+00:00",
-      "score": 27.2
+      "timestamp": "2026-07-02T07:34:06.380653+00:00",
+      "score": 27.1
     }
   ]
 }
