@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-01T13:37:59.476698+00:00",
+  "fetched_at": "2026-07-01T16:33:49.089998+00:00",
   "window_hours": 72,
-  "score": 19.9,
-  "risk_level": "LOW",
+  "score": 26.6,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 21.1,
+    "conflict_intensity": 34.5,
     "civilian_risk": 46.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 93
+      "items": 101
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-01T13:37:59.476698+00:00",
+      "published_at": "2026-07-01T16:33:49.089998+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-07-01T13:37:59.476698+00:00",
+      "published_at": "2026-07-01T16:33:49.089998+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,10 +121,23 @@
       ]
     },
     {
+      "title": "Burkina/Lutte contre le terrorisme : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
+      "link": "https://lefaso.net/spip.php?article147539",
+      "source": "LeFaso",
+      "published_at": "2026-07-01T16:33:49.089998+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-07-01T13:37:59.476698+00:00",
+      "published_at": "2026-07-01T16:33:49.089998+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +174,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-01T17:09:56.008911+00:00",
-      "score": 23.2
+      "timestamp": "2026-07-01T19:29:38.703298+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-07-01T20:41:52.541124+00:00",
-      "score": 23.7
+      "timestamp": "2026-07-01T22:25:28.316598+00:00",
+      "score": 24.4
     },
     {
-      "timestamp": "2026-07-02T00:13:49.073337+00:00",
-      "score": 24.2
+      "timestamp": "2026-07-02T01:21:17.929898+00:00",
+      "score": 24.9
     },
     {
-      "timestamp": "2026-07-02T03:45:45.605550+00:00",
-      "score": 24.7
+      "timestamp": "2026-07-02T04:17:07.543198+00:00",
+      "score": 25.4
     },
     {
-      "timestamp": "2026-07-02T07:17:42.137763+00:00",
-      "score": 25.2
+      "timestamp": "2026-07-02T07:12:57.156498+00:00",
+      "score": 25.9
     },
     {
-      "timestamp": "2026-07-02T10:49:38.669976+00:00",
-      "score": 25.7
+      "timestamp": "2026-07-02T10:08:46.769798+00:00",
+      "score": 26.5
     }
   ]
 }
