@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-02T21:18:09.663107+00:00",
+  "fetched_at": "2026-07-02T23:17:24.331659+00:00",
   "window_hours": 72,
-  "score": 35.0,
+  "score": 34.3,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 49.1,
-    "civilian_risk": 52.0
+    "conflict_intensity": 47.9,
+    "civilian_risk": 51.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 26
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202607020022.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-02T04:46:39+00:00",
-      "score": 2.13,
+      "score": 2.05,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
       "source": "France 24 - Africa",
       "published_at": "2026-07-02T10:58:58+00:00",
-      "score": 1.68,
+      "score": 1.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,7 +124,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-02T21:18:09.663107+00:00",
+      "published_at": "2026-07-02T23:17:24.331659+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-02T21:18:09.663107+00:00",
+      "published_at": "2026-07-02T23:17:24.331659+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-02T21:18:09.663107+00:00",
+      "published_at": "2026-07-02T23:17:24.331659+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,28 +164,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-02T22:52:06.733129+00:00",
-      "score": 39.6
+      "timestamp": "2026-07-03T01:16:39.000211+00:00",
+      "score": 40.5
     },
     {
-      "timestamp": "2026-07-03T00:26:03.803151+00:00",
-      "score": 40.7
+      "timestamp": "2026-07-03T03:15:53.668763+00:00",
+      "score": 41.6
     },
     {
-      "timestamp": "2026-07-03T02:00:00.873173+00:00",
-      "score": 41.7
-    },
-    {
-      "timestamp": "2026-07-03T03:33:57.943195+00:00",
+      "timestamp": "2026-07-03T05:15:08.337315+00:00",
       "score": 42.7
     },
     {
-      "timestamp": "2026-07-03T05:07:55.013217+00:00",
+      "timestamp": "2026-07-03T07:14:23.005867+00:00",
       "score": 43.8
     },
     {
-      "timestamp": "2026-07-03T06:41:52.083239+00:00",
+      "timestamp": "2026-07-03T09:13:37.674419+00:00",
       "score": 44.8
+    },
+    {
+      "timestamp": "2026-07-03T11:12:52.342971+00:00",
+      "score": 45.9
     }
   ]
 }
