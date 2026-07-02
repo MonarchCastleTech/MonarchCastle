@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-02T05:05:37.244557+00:00",
+  "fetched_at": "2026-07-02T09:28:13.569623+00:00",
   "window_hours": 72,
-  "score": 39.6,
+  "score": 37.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 54.6,
-    "civilian_risk": 61.5
+    "conflict_intensity": 49.8,
+    "civilian_risk": 60.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 98
+      "items": 100
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 24
+      "items": 25
     },
     {
       "name": "UN News Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 13
+      "items": 14
     },
     {
       "name": "AllAfrica - Niger",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202607020022.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-02T04:46:39+00:00",
-      "score": 2.75,
+      "score": 2.58,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-02T05:05:37.244557+00:00",
+      "published_at": "2026-07-02T09:28:13.569623+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-07-02T05:05:37.244557+00:00",
+      "published_at": "2026-07-02T09:28:13.569623+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-02T05:05:37.244557+00:00",
+      "published_at": "2026-07-02T09:28:13.569623+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,7 +151,7 @@
       "title": "Burkina/P\u00eache illicite : cinq personnes interpell\u00e9es lors d'une op\u00e9ration de contr\u00f4le au barrage de Loumbila",
       "link": "https://lefaso.net/spip.php?article147462",
       "source": "LeFaso",
-      "published_at": "2026-07-02T05:05:37.244557+00:00",
+      "published_at": "2026-07-02T09:28:13.569623+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -173,43 +173,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "Grave Abuses Amid Renewed Fighting",
-      "link": "https://allafrica.com/stories/202606290081.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-06-29T05:55:46+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-02T09:54:22.560675+00:00",
-      "score": 27.0
-    },
-    {
-      "timestamp": "2026-07-02T14:43:07.876793+00:00",
-      "score": 27.4
-    },
-    {
-      "timestamp": "2026-07-02T19:31:53.192911+00:00",
-      "score": 27.8
-    },
-    {
-      "timestamp": "2026-07-03T00:20:38.509029+00:00",
+      "timestamp": "2026-07-02T13:50:49.894689+00:00",
       "score": 28.2
     },
     {
-      "timestamp": "2026-07-03T05:09:23.825147+00:00",
+      "timestamp": "2026-07-02T18:13:26.219755+00:00",
       "score": 28.6
     },
     {
-      "timestamp": "2026-07-03T09:58:09.141265+00:00",
+      "timestamp": "2026-07-02T22:36:02.544821+00:00",
       "score": 29.0
+    },
+    {
+      "timestamp": "2026-07-03T02:58:38.869887+00:00",
+      "score": 29.4
+    },
+    {
+      "timestamp": "2026-07-03T07:21:15.194953+00:00",
+      "score": 29.8
+    },
+    {
+      "timestamp": "2026-07-03T11:43:51.520019+00:00",
+      "score": 30.2
     }
   ]
 }
