@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-02T15:24:16.971650+00:00",
+  "fetched_at": "2026-07-02T17:58:24.556112+00:00",
   "window_hours": 72,
-  "score": 41.0,
+  "score": 40.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 52.7,
-    "civilian_risk": 73.4
+    "conflict_intensity": 51.1,
+    "civilian_risk": 72.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 93
+      "items": 92
     },
     {
       "name": "ActuNiger",
@@ -64,14 +64,14 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 28
+      "items": 29
     },
     {
       "name": "AllAfrica - Mali",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202607020022.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-02T04:46:39+00:00",
-      "score": 2.35,
+      "score": 2.25,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
       "source": "France 24 - Africa",
       "published_at": "2026-07-02T10:58:58+00:00",
-      "score": 1.84,
+      "score": 1.77,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,7 +124,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-02T15:24:16.971650+00:00",
+      "published_at": "2026-07-02T17:58:24.556112+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-02T15:24:16.971650+00:00",
+      "published_at": "2026-07-02T17:58:24.556112+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "Burkina Faso : L'Universit\u00e9 Norbert Zongo condamne le \u00ab Koudougou robe challenge \u00bb",
       "link": "https://lefaso.net/spip.php?article147494",
       "source": "LeFaso",
-      "published_at": "2026-07-02T15:24:16.971650+00:00",
+      "published_at": "2026-07-02T17:58:24.556112+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -166,7 +166,7 @@
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-02T15:24:16.971650+00:00",
+      "published_at": "2026-07-02T17:58:24.556112+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -178,28 +178,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-02T18:31:39.707314+00:00",
-      "score": 33.2
+      "timestamp": "2026-07-02T20:32:32.140574+00:00",
+      "score": 35.6
     },
     {
-      "timestamp": "2026-07-02T21:39:02.442978+00:00",
-      "score": 33.9
+      "timestamp": "2026-07-02T23:06:39.725036+00:00",
+      "score": 36.4
     },
     {
-      "timestamp": "2026-07-03T00:46:25.178642+00:00",
-      "score": 34.6
+      "timestamp": "2026-07-03T01:40:47.309498+00:00",
+      "score": 37.2
     },
     {
-      "timestamp": "2026-07-03T03:53:47.914306+00:00",
-      "score": 35.2
+      "timestamp": "2026-07-03T04:14:54.893960+00:00",
+      "score": 38.0
     },
     {
-      "timestamp": "2026-07-03T07:01:10.649970+00:00",
-      "score": 35.9
+      "timestamp": "2026-07-03T06:49:02.478422+00:00",
+      "score": 38.8
     },
     {
-      "timestamp": "2026-07-03T10:08:33.385634+00:00",
-      "score": 36.5
+      "timestamp": "2026-07-03T09:23:10.062884+00:00",
+      "score": 39.6
     }
   ]
 }
