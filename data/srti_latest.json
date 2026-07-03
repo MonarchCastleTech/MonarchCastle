@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-03T07:31:15.273150+00:00",
+  "fetched_at": "2026-07-03T10:46:11.474370+00:00",
   "window_hours": 72,
-  "score": 31.4,
+  "score": 30.3,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 42.9,
-    "civilian_risk": 49.8
+    "conflict_intensity": 41.0,
+    "civilian_risk": 49.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 25
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -77,19 +77,19 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 13
+      "items": 14
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 18
+      "items": 19
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 12
+      "items": 13
     }
   ],
   "top_headlines": [
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202607020022.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-02T04:46:39+00:00",
-      "score": 1.73,
+      "score": 1.61,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-03T07:31:15.273150+00:00",
+      "published_at": "2026-07-03T10:46:11.474370+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-03T07:31:15.273150+00:00",
+      "published_at": "2026-07-03T10:46:11.474370+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +140,7 @@
       "link": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
       "source": "France 24 - Africa",
       "published_at": "2026-07-02T10:58:58+00:00",
-      "score": 1.4,
+      "score": 1.31,
       "tags": [
         "conflict_intensity"
       ],
@@ -152,7 +152,7 @@
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-03T07:31:15.273150+00:00",
+      "published_at": "2026-07-03T10:46:11.474370+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,28 +164,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-03T11:01:12.741226+00:00",
-      "score": 40.9
+      "timestamp": "2026-07-03T14:01:07.675590+00:00",
+      "score": 40.6
     },
     {
-      "timestamp": "2026-07-03T14:31:10.209302+00:00",
-      "score": 42.0
+      "timestamp": "2026-07-03T17:16:03.876810+00:00",
+      "score": 41.6
     },
     {
-      "timestamp": "2026-07-03T18:01:07.677378+00:00",
-      "score": 43.0
+      "timestamp": "2026-07-03T20:31:00.078030+00:00",
+      "score": 42.6
     },
     {
-      "timestamp": "2026-07-03T21:31:05.145454+00:00",
-      "score": 44.1
+      "timestamp": "2026-07-03T23:45:56.279250+00:00",
+      "score": 43.5
     },
     {
-      "timestamp": "2026-07-04T01:01:02.613530+00:00",
-      "score": 45.1
+      "timestamp": "2026-07-04T03:00:52.480470+00:00",
+      "score": 44.5
     },
     {
-      "timestamp": "2026-07-04T04:31:00.081606+00:00",
-      "score": 46.1
+      "timestamp": "2026-07-04T06:15:48.681690+00:00",
+      "score": 45.5
     }
   ]
 }
