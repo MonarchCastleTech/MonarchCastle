@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-03T17:41:24.698326+00:00",
+  "fetched_at": "2026-07-03T19:41:43.790241+00:00",
   "window_hours": 72,
-  "score": 32.7,
+  "score": 31.9,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 46.3,
-    "civilian_risk": 47.7
+    "conflict_intensity": 44.8,
+    "civilian_risk": 47.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 95
+      "items": 100
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-03T17:41:24.698326+00:00",
+      "published_at": "2026-07-03T19:41:43.790241+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-03T17:41:24.698326+00:00",
+      "published_at": "2026-07-03T19:41:43.790241+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "link": "https://allafrica.com/stories/202607020022.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-02T04:46:39+00:00",
-      "score": 1.35,
+      "score": 1.27,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-03T17:41:24.698326+00:00",
+      "published_at": "2026-07-03T19:41:43.790241+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,7 +153,7 @@
       "link": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
       "source": "France 24 - Africa",
       "published_at": "2026-07-02T10:58:58+00:00",
-      "score": 1.12,
+      "score": 1.07,
       "tags": [
         "conflict_intensity"
       ],
@@ -166,7 +166,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-03T14:00:50+00:00",
-      "score": 0.8,
+      "score": 0.77,
       "tags": [
         "conflict_intensity"
       ],
@@ -177,28 +177,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-03T20:03:27.445512+00:00",
-      "score": 39.4
+      "timestamp": "2026-07-03T21:42:02.882156+00:00",
+      "score": 38.6
     },
     {
-      "timestamp": "2026-07-03T22:25:30.192698+00:00",
-      "score": 40.1
+      "timestamp": "2026-07-03T23:42:21.974071+00:00",
+      "score": 39.2
     },
     {
-      "timestamp": "2026-07-04T00:47:32.939884+00:00",
-      "score": 40.9
+      "timestamp": "2026-07-04T01:42:41.065986+00:00",
+      "score": 39.9
     },
     {
-      "timestamp": "2026-07-04T03:09:35.687070+00:00",
-      "score": 41.6
+      "timestamp": "2026-07-04T03:43:00.157901+00:00",
+      "score": 40.5
     },
     {
-      "timestamp": "2026-07-04T05:31:38.434256+00:00",
-      "score": 42.4
+      "timestamp": "2026-07-04T05:43:19.249816+00:00",
+      "score": 41.1
     },
     {
-      "timestamp": "2026-07-04T07:53:41.181442+00:00",
-      "score": 43.1
+      "timestamp": "2026-07-04T07:43:38.341731+00:00",
+      "score": 41.8
     }
   ]
 }
