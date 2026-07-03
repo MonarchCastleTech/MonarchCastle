@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-03T04:01:17.805074+00:00",
+  "fetched_at": "2026-07-03T07:31:15.273150+00:00",
   "window_hours": 72,
-  "score": 32.6,
+  "score": 31.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 45.0,
-    "civilian_risk": 50.6
+    "conflict_intensity": 42.9,
+    "civilian_risk": 49.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 80
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 27
+      "items": 25
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -77,19 +77,19 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 12
+      "items": 13
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 17
+      "items": 18
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 11
+      "items": 12
     }
   ],
   "top_headlines": [
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202607020022.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-02T04:46:39+00:00",
-      "score": 1.87,
+      "score": 1.73,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,23 +108,10 @@
       ]
     },
     {
-      "title": "37 students missing in Nigeria after yet another jihadist kidnapping",
-      "link": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-02T10:58:58+00:00",
-      "score": 1.5,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-03T04:01:17.805074+00:00",
+      "published_at": "2026-07-03T07:31:15.273150+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -139,7 +126,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-03T04:01:17.805074+00:00",
+      "published_at": "2026-07-03T07:31:15.273150+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,10 +136,23 @@
       ]
     },
     {
+      "title": "37 students missing in Nigeria after yet another jihadist kidnapping",
+      "link": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-02T10:58:58+00:00",
+      "score": 1.4,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-03T04:01:17.805074+00:00",
+      "published_at": "2026-07-03T07:31:15.273150+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,28 +164,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-03T08:45:11.278489+00:00",
+      "timestamp": "2026-07-03T11:01:12.741226+00:00",
       "score": 40.9
     },
     {
-      "timestamp": "2026-07-03T13:29:04.751904+00:00",
+      "timestamp": "2026-07-03T14:31:10.209302+00:00",
       "score": 42.0
     },
     {
-      "timestamp": "2026-07-03T18:12:58.225319+00:00",
-      "score": 43.1
+      "timestamp": "2026-07-03T18:01:07.677378+00:00",
+      "score": 43.0
     },
     {
-      "timestamp": "2026-07-03T22:56:51.698734+00:00",
-      "score": 44.2
+      "timestamp": "2026-07-03T21:31:05.145454+00:00",
+      "score": 44.1
     },
     {
-      "timestamp": "2026-07-04T03:40:45.172149+00:00",
-      "score": 45.2
+      "timestamp": "2026-07-04T01:01:02.613530+00:00",
+      "score": 45.1
     },
     {
-      "timestamp": "2026-07-04T08:24:38.645564+00:00",
-      "score": 46.3
+      "timestamp": "2026-07-04T04:31:00.081606+00:00",
+      "score": 46.1
     }
   ]
 }
