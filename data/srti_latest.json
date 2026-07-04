@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-04T09:28:27.030692+00:00",
+  "fetched_at": "2026-07-04T11:41:11.034177+00:00",
   "window_hours": 72,
-  "score": 43.3,
+  "score": 42.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 61.3,
-    "civilian_risk": 63.1
+    "conflict_intensity": 60.5,
+    "civilian_risk": 62.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T08:50:10+00:00",
-      "score": 2.22,
+      "score": 2.15,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-04T09:28:27.030692+00:00",
+      "published_at": "2026-07-04T11:41:11.034177+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-04T09:28:27.030692+00:00",
+      "published_at": "2026-07-04T11:41:11.034177+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Burkina Faso : L'ABDI relance l'offensive en faveur de l'adoption de l'IPv6, pour un internet de nouvelle g\u00e9n\u00e9ration",
       "link": "https://lefaso.net/spip.php?article147597",
       "source": "LeFaso",
-      "published_at": "2026-07-04T09:28:27.030692+00:00",
+      "published_at": "2026-07-04T11:41:11.034177+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,7 +153,7 @@
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-04T09:28:27.030692+00:00",
+      "published_at": "2026-07-04T11:41:11.034177+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -194,7 +194,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-03T14:00:50+00:00",
-      "score": 0.61,
+      "score": 0.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -205,28 +205,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-04T12:02:31.780385+00:00",
-      "score": 36.3
-    },
-    {
-      "timestamp": "2026-07-04T14:36:36.530078+00:00",
-      "score": 36.5
-    },
-    {
-      "timestamp": "2026-07-04T17:10:41.279771+00:00",
-      "score": 36.6
-    },
-    {
-      "timestamp": "2026-07-04T19:44:46.029464+00:00",
-      "score": 36.8
-    },
-    {
-      "timestamp": "2026-07-04T22:18:50.779157+00:00",
+      "timestamp": "2026-07-04T13:53:55.037662+00:00",
       "score": 37.0
     },
     {
-      "timestamp": "2026-07-05T00:52:55.528850+00:00",
+      "timestamp": "2026-07-04T16:06:39.041147+00:00",
       "score": 37.2
+    },
+    {
+      "timestamp": "2026-07-04T18:19:23.044632+00:00",
+      "score": 37.4
+    },
+    {
+      "timestamp": "2026-07-04T20:32:07.048117+00:00",
+      "score": 37.6
+    },
+    {
+      "timestamp": "2026-07-04T22:44:51.051602+00:00",
+      "score": 37.8
+    },
+    {
+      "timestamp": "2026-07-05T00:57:35.055087+00:00",
+      "score": 37.9
     }
   ]
 }
