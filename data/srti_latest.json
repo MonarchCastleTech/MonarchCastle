@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-04T17:15:25.808856+00:00",
+  "fetched_at": "2026-07-04T19:26:32.635387+00:00",
   "window_hours": 72,
   "score": 59.1,
   "risk_level": "ELEVATED",
@@ -11,25 +11,25 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 11,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 88
+      "items": 87
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T15:44:25+00:00",
-      "score": 1.92,
+      "score": 1.86,
       "tags": [
         "conflict_intensity"
       ],
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T14:39:22+00:00",
-      "score": 1.89,
+      "score": 1.83,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +125,7 @@
       "link": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T13:18:56+00:00",
-      "score": 1.85,
+      "score": 1.79,
       "tags": [
         "conflict_intensity"
       ],
@@ -138,7 +138,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-04T17:15:25.808856+00:00",
+      "published_at": "2026-07-04T19:26:32.635387+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -153,7 +153,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-04T17:15:25.808856+00:00",
+      "published_at": "2026-07-04T19:26:32.635387+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,24 +163,10 @@
       ]
     },
     {
-      "title": "Burkina Faso : L'ABDI relance l'offensive en faveur de l'adoption de l'IPv6, pour un internet de nouvelle g\u00e9n\u00e9ration",
-      "link": "https://lefaso.net/spip.php?article147597",
-      "source": "LeFaso",
-      "published_at": "2026-07-04T17:15:25.808856+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-04T17:15:25.808856+00:00",
+      "published_at": "2026-07-04T19:26:32.635387+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -202,32 +188,45 @@
       "regions": [
         "mali"
       ]
+    },
+    {
+      "title": "Mali insurgents attack multiple towns and a prison, army says",
+      "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-04T08:50:10+00:00",
+      "score": 0.84,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-04T19:15:48.879665+00:00",
-      "score": 45.6
+      "timestamp": "2026-07-04T21:37:39.461918+00:00",
+      "score": 49.1
     },
     {
-      "timestamp": "2026-07-04T21:16:11.950474+00:00",
-      "score": 46.2
+      "timestamp": "2026-07-04T23:48:46.288449+00:00",
+      "score": 49.8
     },
     {
-      "timestamp": "2026-07-04T23:16:35.021283+00:00",
-      "score": 46.7
+      "timestamp": "2026-07-05T01:59:53.114980+00:00",
+      "score": 50.6
     },
     {
-      "timestamp": "2026-07-05T01:16:58.092092+00:00",
-      "score": 47.2
+      "timestamp": "2026-07-05T04:10:59.941511+00:00",
+      "score": 51.4
     },
     {
-      "timestamp": "2026-07-05T03:17:21.162901+00:00",
-      "score": 47.8
+      "timestamp": "2026-07-05T06:22:06.768042+00:00",
+      "score": 52.1
     },
     {
-      "timestamp": "2026-07-05T05:17:44.233710+00:00",
-      "score": 48.3
+      "timestamp": "2026-07-05T08:33:13.594573+00:00",
+      "score": 52.9
     }
   ]
 }
