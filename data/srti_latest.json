@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-04T03:54:52.509146+00:00",
+  "fetched_at": "2026-07-04T06:54:22.280999+00:00",
   "window_hours": 72,
-  "score": 35.2,
+  "score": 34.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 52.2,
+    "conflict_intensity": 50.8,
     "civilian_risk": 45.6
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-04T03:54:52.509146+00:00",
+      "published_at": "2026-07-04T06:54:22.280999+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-04T03:54:52.509146+00:00",
+      "published_at": "2026-07-04T06:54:22.280999+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina Faso : L'ABDI relance l'offensive en faveur de l'adoption de l'IPv6, pour un internet de nouvelle g\u00e9n\u00e9ration",
       "link": "https://lefaso.net/spip.php?article147597",
       "source": "LeFaso",
-      "published_at": "2026-07-04T03:54:52.509146+00:00",
+      "published_at": "2026-07-04T06:54:22.280999+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -139,7 +139,7 @@
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-04T03:54:52.509146+00:00",
+      "published_at": "2026-07-04T06:54:22.280999+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,7 +167,7 @@
       "link": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
       "source": "France 24 - Africa",
       "published_at": "2026-07-02T10:58:58+00:00",
-      "score": 0.85,
+      "score": 0.76,
       "tags": [
         "conflict_intensity"
       ],
@@ -180,7 +180,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-03T14:00:50+00:00",
-      "score": 0.68,
+      "score": 0.64,
       "tags": [
         "conflict_intensity"
       ],
@@ -191,28 +191,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-04T08:35:56.697995+00:00",
-      "score": 36.2
+      "timestamp": "2026-07-04T09:53:52.052852+00:00",
+      "score": 35.3
     },
     {
-      "timestamp": "2026-07-04T13:17:00.886844+00:00",
-      "score": 36.5
+      "timestamp": "2026-07-04T12:53:21.824705+00:00",
+      "score": 35.4
     },
     {
-      "timestamp": "2026-07-04T17:58:05.075693+00:00",
-      "score": 36.7
+      "timestamp": "2026-07-04T15:52:51.596558+00:00",
+      "score": 35.6
     },
     {
-      "timestamp": "2026-07-04T22:39:09.264542+00:00",
-      "score": 37.0
+      "timestamp": "2026-07-04T18:52:21.368411+00:00",
+      "score": 35.7
     },
     {
-      "timestamp": "2026-07-05T03:20:13.453391+00:00",
-      "score": 37.3
+      "timestamp": "2026-07-04T21:51:51.140264+00:00",
+      "score": 35.9
     },
     {
-      "timestamp": "2026-07-05T08:01:17.642240+00:00",
-      "score": 37.5
+      "timestamp": "2026-07-05T00:51:20.912117+00:00",
+      "score": 36.0
     }
   ]
 }
