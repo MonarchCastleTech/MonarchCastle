@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-04T19:26:32.635387+00:00",
+  "fetched_at": "2026-07-04T21:09:07.960815+00:00",
   "window_hours": 72,
   "score": 59.1,
   "risk_level": "ELEVATED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 87
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T15:44:25+00:00",
-      "score": 1.86,
+      "score": 1.81,
       "tags": [
         "conflict_intensity"
       ],
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T14:39:22+00:00",
-      "score": 1.83,
+      "score": 1.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +125,7 @@
       "link": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T13:18:56+00:00",
-      "score": 1.79,
+      "score": 1.75,
       "tags": [
         "conflict_intensity"
       ],
@@ -138,7 +138,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-04T19:26:32.635387+00:00",
+      "published_at": "2026-07-04T21:09:07.960815+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -153,7 +153,7 @@
       "title": "Burkina/Assurance agropastorale : 1072 producteurs sinistr\u00e9s indemnis\u00e9s \u200e",
       "link": "https://lefaso.net/spip.php?article147530",
       "source": "LeFaso",
-      "published_at": "2026-07-04T19:26:32.635387+00:00",
+      "published_at": "2026-07-04T21:09:07.960815+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -166,7 +166,7 @@
       "title": "Burkina : Les forces combattantes neutralisent des assaillants et r\u00e9cup\u00e8rent un important ars\u00e9nal de guerre \u00e0 Gay\u00e9ri \u200e",
       "link": "https://lefaso.net/spip.php?article147539",
       "source": "LeFaso",
-      "published_at": "2026-07-04T19:26:32.635387+00:00",
+      "published_at": "2026-07-04T21:09:07.960815+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -194,7 +194,7 @@
       "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T08:50:10+00:00",
-      "score": 0.84,
+      "score": 0.81,
       "tags": [
         "conflict_intensity"
       ],
@@ -205,28 +205,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-04T21:37:39.461918+00:00",
-      "score": 49.1
-    },
-    {
-      "timestamp": "2026-07-04T23:48:46.288449+00:00",
-      "score": 49.8
-    },
-    {
-      "timestamp": "2026-07-05T01:59:53.114980+00:00",
-      "score": 50.6
-    },
-    {
-      "timestamp": "2026-07-05T04:10:59.941511+00:00",
-      "score": 51.4
-    },
-    {
-      "timestamp": "2026-07-05T06:22:06.768042+00:00",
+      "timestamp": "2026-07-04T22:51:43.286243+00:00",
       "score": 52.1
     },
     {
-      "timestamp": "2026-07-05T08:33:13.594573+00:00",
-      "score": 52.9
+      "timestamp": "2026-07-05T00:34:18.611671+00:00",
+      "score": 53.0
+    },
+    {
+      "timestamp": "2026-07-05T02:16:53.937099+00:00",
+      "score": 54.0
+    },
+    {
+      "timestamp": "2026-07-05T03:59:29.262527+00:00",
+      "score": 54.9
+    },
+    {
+      "timestamp": "2026-07-05T05:42:04.587955+00:00",
+      "score": 55.8
+    },
+    {
+      "timestamp": "2026-07-05T07:24:39.913383+00:00",
+      "score": 56.8
     }
   ]
 }
