@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-07-05T17:21:58.350250+00:00",
+  "fetched_at": "2026-07-05T19:38:02.235704+00:00",
   "window_hours": 72,
-  "score": 38.8,
-  "risk_level": "GUARDED",
+  "score": 57.7,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 63.8,
-    "civilian_risk": 34.4
+    "conflict_intensity": 95.2,
+    "civilian_risk": 50.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71
+      "items": 70
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 25
     },
     {
       "name": "UN News Africa",
@@ -71,7 +71,7 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 29
+      "items": 30
     },
     {
       "name": "AllAfrica - Mali",
@@ -94,11 +94,41 @@
   ],
   "top_headlines": [
     {
+      "title": "On Our Radar",
+      "link": "https://www.crisisgroup.org/sco/global/our-radar",
+      "source": "Crisis Group",
+      "published_at": "2026-07-03T17:07:09+00:00",
+      "score": 2.02,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "sahel",
+        "mali",
+        "niger",
+        "bamako"
+      ]
+    },
+    {
+      "title": "Could islamist fighters take Timbuktu?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-05T18:21:55+00:00",
+      "score": 1.93,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
       "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-07-05T13:09:20+00:00",
-      "score": 1.81,
+      "published_at": "2026-07-05T17:30:45+00:00",
+      "score": 1.86,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +141,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-05T17:21:58.350250+00:00",
+      "published_at": "2026-07-05T19:38:02.235704+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -127,7 +157,7 @@
       "link": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T15:44:25+00:00",
-      "score": 1.26,
+      "score": 1.2,
       "tags": [
         "conflict_intensity"
       ],
@@ -141,7 +171,7 @@
       "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T14:39:22+00:00",
-      "score": 1.23,
+      "score": 1.17,
       "tags": [
         "conflict_intensity"
       ],
@@ -154,7 +184,7 @@
       "link": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T13:18:56+00:00",
-      "score": 1.2,
+      "score": 1.13,
       "tags": [
         "conflict_intensity"
       ],
@@ -168,52 +198,39 @@
       "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T08:50:10+00:00",
-      "score": 0.54,
+      "score": 0.51,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "US withdraws troops from Nigeria after Islamic State mission",
-      "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-07-03T14:00:50+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-05T19:23:41.039377+00:00",
-      "score": 51.9
-    },
-    {
-      "timestamp": "2026-07-05T21:25:23.728504+00:00",
-      "score": 52.7
-    },
-    {
-      "timestamp": "2026-07-05T23:27:06.417631+00:00",
+      "timestamp": "2026-07-05T21:54:06.121158+00:00",
       "score": 53.5
     },
     {
-      "timestamp": "2026-07-06T01:28:49.106758+00:00",
-      "score": 54.3
+      "timestamp": "2026-07-06T00:10:10.006612+00:00",
+      "score": 54.4
     },
     {
-      "timestamp": "2026-07-06T03:30:31.795885+00:00",
-      "score": 55.1
+      "timestamp": "2026-07-06T02:26:13.892066+00:00",
+      "score": 55.2
     },
     {
-      "timestamp": "2026-07-06T05:32:14.485012+00:00",
-      "score": 55.9
+      "timestamp": "2026-07-06T04:42:17.777520+00:00",
+      "score": 56.0
+    },
+    {
+      "timestamp": "2026-07-06T06:58:21.662974+00:00",
+      "score": 56.8
+    },
+    {
+      "timestamp": "2026-07-06T09:14:25.548428+00:00",
+      "score": 57.7
     }
   ]
 }
