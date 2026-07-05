@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-05T04:14:14.161027+00:00",
+  "fetched_at": "2026-07-05T08:08:24.379554+00:00",
   "window_hours": 72,
-  "score": 48.0,
+  "score": 40.9,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 85.8,
-    "civilian_risk": 25.5
+    "conflict_intensity": 73.7,
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T15:44:25+00:00",
-      "score": 1.62,
+      "score": 1.51,
       "tags": [
         "conflict_intensity"
       ],
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T14:39:22+00:00",
-      "score": 1.59,
+      "score": 1.48,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +125,7 @@
       "link": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T13:18:56+00:00",
-      "score": 1.55,
+      "score": 1.45,
       "tags": [
         "conflict_intensity"
       ],
@@ -138,7 +138,7 @@
       "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
       "link": "https://lefaso.net/spip.php?article147555",
       "source": "LeFaso",
-      "published_at": "2026-07-05T04:14:14.161027+00:00",
+      "published_at": "2026-07-05T08:08:24.379554+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -147,33 +147,6 @@
         "burkina",
         "burkina faso",
         "ouagadougou"
-      ]
-    },
-    {
-      "title": "Mali's War On Civilians Deepens As Alliances Shift, HRW Says",
-      "link": "https://allafrica.com/stories/202607020022.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-07-02T04:46:39+00:00",
-      "score": 0.97,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Mali insurgents attack multiple towns and a prison, army says",
-      "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-04T08:50:10+00:00",
-      "score": 0.72,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
       ]
     },
     {
@@ -190,11 +163,24 @@
       ]
     },
     {
+      "title": "Mali insurgents attack multiple towns and a prison, army says",
+      "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-04T08:50:10+00:00",
+      "score": 0.66,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "US withdraws troops from Nigeria after Islamic State mission",
       "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-03T14:00:50+00:00",
-      "score": 0.39,
+      "score": 0.35,
       "tags": [
         "conflict_intensity"
       ],
@@ -205,28 +191,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-05T09:22:22.713412+00:00",
-      "score": 56.4
+      "timestamp": "2026-07-05T12:02:34.598081+00:00",
+      "score": 56.2
     },
     {
-      "timestamp": "2026-07-05T14:30:31.265797+00:00",
-      "score": 57.6
+      "timestamp": "2026-07-05T15:56:44.816608+00:00",
+      "score": 57.3
     },
     {
-      "timestamp": "2026-07-05T19:38:39.818182+00:00",
-      "score": 58.8
+      "timestamp": "2026-07-05T19:50:55.035135+00:00",
+      "score": 58.5
     },
     {
-      "timestamp": "2026-07-06T00:46:48.370567+00:00",
-      "score": 60.0
+      "timestamp": "2026-07-05T23:45:05.253662+00:00",
+      "score": 59.7
     },
     {
-      "timestamp": "2026-07-06T05:54:56.922952+00:00",
-      "score": 61.2
+      "timestamp": "2026-07-06T03:39:15.472189+00:00",
+      "score": 60.9
     },
     {
-      "timestamp": "2026-07-06T11:03:05.475337+00:00",
-      "score": 62.4
+      "timestamp": "2026-07-06T07:33:25.690716+00:00",
+      "score": 62.0
     }
   ]
 }
