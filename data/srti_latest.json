@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-05T08:08:24.379554+00:00",
+  "fetched_at": "2026-07-05T11:08:52.870930+00:00",
   "window_hours": 72,
-  "score": 40.9,
-  "risk_level": "ELEVATED",
+  "score": 34.8,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 73.7,
+    "conflict_intensity": 61.6,
     "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,26 @@
   ],
   "top_headlines": [
     {
+      "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
+      "link": "https://lefaso.net/spip.php?article147555",
+      "source": "LeFaso",
+      "published_at": "2026-07-05T11:08:52.870930+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso",
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Rebel attacks in northern Mali: Some targets meant as 'diversions', expert says",
       "link": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T15:44:25+00:00",
-      "score": 1.51,
+      "score": 1.43,
       "tags": [
         "conflict_intensity"
       ],
@@ -112,7 +127,7 @@
       "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T14:39:22+00:00",
-      "score": 1.48,
+      "score": 1.4,
       "tags": [
         "conflict_intensity"
       ],
@@ -125,7 +140,7 @@
       "link": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T13:18:56+00:00",
-      "score": 1.45,
+      "score": 1.37,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,39 +150,11 @@
       ]
     },
     {
-      "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
-      "link": "https://lefaso.net/spip.php?article147555",
-      "source": "LeFaso",
-      "published_at": "2026-07-05T08:08:24.379554+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "37 students missing in Nigeria after yet another jihadist kidnapping",
-      "link": "https://www.france24.com/en/37-students-missing-in-nigeria-after-yet-another-jihadist-kidnapping",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-02T10:58:58+00:00",
-      "score": 0.69,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Mali insurgents attack multiple towns and a prison, army says",
       "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T08:50:10+00:00",
-      "score": 0.66,
+      "score": 0.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -180,7 +167,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-03T14:00:50+00:00",
-      "score": 0.35,
+      "score": 0.31,
       "tags": [
         "conflict_intensity"
       ],
@@ -191,28 +178,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-05T12:02:34.598081+00:00",
-      "score": 56.2
+      "timestamp": "2026-07-05T14:09:21.362306+00:00",
+      "score": 54.9
     },
     {
-      "timestamp": "2026-07-05T15:56:44.816608+00:00",
-      "score": 57.3
+      "timestamp": "2026-07-05T17:09:49.853682+00:00",
+      "score": 55.9
     },
     {
-      "timestamp": "2026-07-05T19:50:55.035135+00:00",
-      "score": 58.5
+      "timestamp": "2026-07-05T20:10:18.345058+00:00",
+      "score": 57.0
     },
     {
-      "timestamp": "2026-07-05T23:45:05.253662+00:00",
-      "score": 59.7
+      "timestamp": "2026-07-05T23:10:46.836434+00:00",
+      "score": 58.1
     },
     {
-      "timestamp": "2026-07-06T03:39:15.472189+00:00",
-      "score": 60.9
+      "timestamp": "2026-07-06T02:11:15.327810+00:00",
+      "score": 59.2
     },
     {
-      "timestamp": "2026-07-06T07:33:25.690716+00:00",
-      "score": 62.0
+      "timestamp": "2026-07-06T05:11:43.819186+00:00",
+      "score": 60.3
     }
   ]
 }
