@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-06T09:06:46.595625+00:00",
+  "fetched_at": "2026-07-06T13:56:13.046212+00:00",
   "window_hours": 72,
-  "score": 55.5,
+  "score": 56.1,
   "risk_level": "ELEVATED",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 27.7
+    "civilian_risk": 30.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 10,
+  "items_count": 11,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 56
+      "items": 60
     },
     {
       "name": "ActuNiger",
@@ -111,37 +111,11 @@
       ]
     },
     {
-      "title": "Mali Rebels Target Army Bases, Prison in Fresh Attacks",
-      "link": "https://allafrica.com/stories/202607060110.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-07-06T06:17:32+00:00",
-      "score": 1.61,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Could islamist fighters take Timbuktu?",
-      "link": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-05T18:21:55+00:00",
-      "score": 1.56,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
       "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
-      "published_at": "2026-07-05T17:30:45+00:00",
-      "score": 1.5,
+      "published_at": "2026-07-06T12:28:42+00:00",
+      "score": 1.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -151,11 +125,64 @@
       ]
     },
     {
+      "title": "Mali Rebels Target Army Bases, Prison in Fresh Attacks",
+      "link": "https://allafrica.com/stories/202607060110.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-06T06:17:32+00:00",
+      "score": 1.5,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Could Islamist fighters take Timbuktu?",
+      "link": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-05T18:21:55+00:00",
+      "score": 1.43,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Burkina/Lutte contre la fraude : La douane saisit environ 45 000 feuilles de t\u00f4les dissimul\u00e9es sous du pl\u00e2tre",
+      "link": "https://lefaso.net/spip.php?article147636",
+      "source": "LeFaso",
+      "published_at": "2026-07-06T13:56:13.046212+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
+      ]
+    },
+    {
+      "title": "Insurgents Attack Multiple Towns in Northern and Central Mali, Army Says",
+      "link": "https://allafrica.com/stories/202607060016.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-06T04:54:11+00:00",
+      "score": 0.73,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Rebel attacks in northern Mali: Some targets meant as 'diversions', expert says",
       "link": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T15:44:25+00:00",
-      "score": 0.83,
+      "score": 0.7,
       "tags": [
         "conflict_intensity"
       ],
@@ -169,66 +196,39 @@
       "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T14:39:22+00:00",
-      "score": 0.8,
+      "score": 0.69,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "mali"
-      ]
-    },
-    {
-      "title": "Insurgents Attack Multiple Towns in Northern and Central Mali, Army Says",
-      "link": "https://allafrica.com/stories/202607060016.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-07-06T04:54:11+00:00",
-      "score": 0.79,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "Mali government says rebels attacking northern towns",
-      "link": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-04T13:18:56+00:00",
-      "score": 0.77,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "gao"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-06T13:51:44.779138+00:00",
-      "score": 54.3
+      "timestamp": "2026-07-06T18:45:39.496799+00:00",
+      "score": 54.5
     },
     {
-      "timestamp": "2026-07-06T18:36:42.962651+00:00",
-      "score": 54.9
+      "timestamp": "2026-07-06T23:35:05.947386+00:00",
+      "score": 55.0
     },
     {
-      "timestamp": "2026-07-06T23:21:41.146164+00:00",
+      "timestamp": "2026-07-07T04:24:32.397973+00:00",
       "score": 55.5
     },
     {
-      "timestamp": "2026-07-07T04:06:39.329677+00:00",
+      "timestamp": "2026-07-07T09:13:58.848560+00:00",
       "score": 56.1
     },
     {
-      "timestamp": "2026-07-07T08:51:37.513190+00:00",
-      "score": 56.7
+      "timestamp": "2026-07-07T14:03:25.299147+00:00",
+      "score": 56.6
     },
     {
-      "timestamp": "2026-07-07T13:36:35.696703+00:00",
-      "score": 57.3
+      "timestamp": "2026-07-07T18:52:51.749734+00:00",
+      "score": 57.1
     }
   ]
 }
