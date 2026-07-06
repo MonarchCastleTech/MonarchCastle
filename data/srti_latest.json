@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-05T23:11:37.318958+00:00",
+  "fetched_at": "2026-07-06T04:21:48.412112+00:00",
   "window_hours": 72,
-  "score": 54.7,
+  "score": 46.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 89.4,
-    "civilian_risk": 50.0
+    "conflict_intensity": 81.1,
+    "civilian_risk": 28.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 56
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 19
+      "items": 18
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -115,7 +115,7 @@
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu",
       "source": "France 24 - Africa",
       "published_at": "2026-07-05T18:21:55+00:00",
-      "score": 1.83,
+      "score": 1.69,
       "tags": [
         "conflict_intensity"
       ],
@@ -128,7 +128,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-05T17:30:45+00:00",
-      "score": 1.77,
+      "score": 1.63,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -138,26 +138,11 @@
       ]
     },
     {
-      "title": "Burkina Faso : Moov Africa lance une vaste campagne de collecte de sang avec un objectif de 700 poches",
-      "link": "https://lefaso.net/spip.php?article147555",
-      "source": "LeFaso",
-      "published_at": "2026-07-05T23:11:37.318958+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso",
-        "ouagadougou"
-      ]
-    },
-    {
       "title": "Rebel attacks in northern Mali: Some targets meant as 'diversions', expert says",
       "link": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T15:44:25+00:00",
-      "score": 1.1,
+      "score": 0.96,
       "tags": [
         "conflict_intensity"
       ],
@@ -171,7 +156,7 @@
       "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T14:39:22+00:00",
-      "score": 1.07,
+      "score": 0.93,
       "tags": [
         "conflict_intensity"
       ],
@@ -184,7 +169,7 @@
       "link": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T13:18:56+00:00",
-      "score": 1.04,
+      "score": 0.9,
       "tags": [
         "conflict_intensity"
       ],
@@ -198,39 +183,52 @@
       "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T08:50:10+00:00",
-      "score": 0.46,
+      "score": 0.39,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "mali"
       ]
+    },
+    {
+      "title": "US withdraws troops from Nigeria after Islamic State mission",
+      "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-07-03T14:00:50+00:00",
+      "score": 0.29,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-06T01:10:33.045035+00:00",
-      "score": 54.9
+      "timestamp": "2026-07-06T09:31:59.505266+00:00",
+      "score": 53.9
     },
     {
-      "timestamp": "2026-07-06T03:09:28.771112+00:00",
-      "score": 55.6
+      "timestamp": "2026-07-06T14:42:10.598420+00:00",
+      "score": 54.6
     },
     {
-      "timestamp": "2026-07-06T05:08:24.497189+00:00",
-      "score": 56.4
+      "timestamp": "2026-07-06T19:52:21.691574+00:00",
+      "score": 55.2
     },
     {
-      "timestamp": "2026-07-06T07:07:20.223266+00:00",
+      "timestamp": "2026-07-07T01:02:32.784728+00:00",
+      "score": 55.9
+    },
+    {
+      "timestamp": "2026-07-07T06:12:43.877882+00:00",
+      "score": 56.5
+    },
+    {
+      "timestamp": "2026-07-07T11:22:54.971036+00:00",
       "score": 57.2
-    },
-    {
-      "timestamp": "2026-07-06T09:06:15.949343+00:00",
-      "score": 57.9
-    },
-    {
-      "timestamp": "2026-07-06T11:05:11.675420+00:00",
-      "score": 58.7
     }
   ]
 }
