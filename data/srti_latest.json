@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-06T04:21:48.412112+00:00",
+  "fetched_at": "2026-07-06T09:06:46.595625+00:00",
   "window_hours": 72,
-  "score": 46.3,
+  "score": 55.5,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 81.1,
-    "civilian_risk": 28.7
+    "conflict_intensity": 100.0,
+    "civilian_risk": 27.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 25
+      "items": 26
     },
     {
       "name": "UN News Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 16
+      "items": 19
     },
     {
       "name": "AllAfrica - Niger",
@@ -111,11 +111,24 @@
       ]
     },
     {
+      "title": "Mali Rebels Target Army Bases, Prison in Fresh Attacks",
+      "link": "https://allafrica.com/stories/202607060110.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-06T06:17:32+00:00",
+      "score": 1.61,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Could islamist fighters take Timbuktu?",
       "link": "https://www.france24.com/en/tv-shows/spotlight/20260705-could-islamist-fighters-take-timbuktu",
       "source": "France 24 - Africa",
       "published_at": "2026-07-05T18:21:55+00:00",
-      "score": 1.69,
+      "score": 1.56,
       "tags": [
         "conflict_intensity"
       ],
@@ -128,7 +141,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-05T17:30:45+00:00",
-      "score": 1.63,
+      "score": 1.5,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -142,7 +155,7 @@
       "link": "https://www.france24.com/en/rebel-attacks-in-northern-mali-some-targets-meant-as-diversions-expert-says",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T15:44:25+00:00",
-      "score": 0.96,
+      "score": 0.83,
       "tags": [
         "conflict_intensity"
       ],
@@ -156,7 +169,20 @@
       "link": "https://www.france24.com/en/new-wave-of-coordinated-rebel-attacks-hits-mali",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T14:39:22+00:00",
-      "score": 0.93,
+      "score": 0.8,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Insurgents Attack Multiple Towns in Northern and Central Mali, Army Says",
+      "link": "https://allafrica.com/stories/202607060016.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-06T04:54:11+00:00",
+      "score": 0.79,
       "tags": [
         "conflict_intensity"
       ],
@@ -169,7 +195,7 @@
       "link": "https://www.france24.com/en/video/20260704-mali-government-says-rebels-attacking-northern-towns",
       "source": "France 24 - Africa",
       "published_at": "2026-07-04T13:18:56+00:00",
-      "score": 0.9,
+      "score": 0.77,
       "tags": [
         "conflict_intensity"
       ],
@@ -177,58 +203,32 @@
         "mali",
         "gao"
       ]
-    },
-    {
-      "title": "Mali insurgents attack multiple towns and a prison, army says",
-      "link": "https://www.france24.com/en/africa/20260704-mali-insurgents-attack-prison-and-multiple-towns-army-says",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-04T08:50:10+00:00",
-      "score": 0.39,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
-      "title": "US withdraws troops from Nigeria after Islamic State mission",
-      "link": "https://www.bbc.co.uk/news/articles/cwylkvpl80xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-07-03T14:00:50+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-06T09:31:59.505266+00:00",
-      "score": 53.9
+      "timestamp": "2026-07-06T13:51:44.779138+00:00",
+      "score": 54.3
     },
     {
-      "timestamp": "2026-07-06T14:42:10.598420+00:00",
-      "score": 54.6
+      "timestamp": "2026-07-06T18:36:42.962651+00:00",
+      "score": 54.9
     },
     {
-      "timestamp": "2026-07-06T19:52:21.691574+00:00",
-      "score": 55.2
+      "timestamp": "2026-07-06T23:21:41.146164+00:00",
+      "score": 55.5
     },
     {
-      "timestamp": "2026-07-07T01:02:32.784728+00:00",
-      "score": 55.9
+      "timestamp": "2026-07-07T04:06:39.329677+00:00",
+      "score": 56.1
     },
     {
-      "timestamp": "2026-07-07T06:12:43.877882+00:00",
-      "score": 56.5
+      "timestamp": "2026-07-07T08:51:37.513190+00:00",
+      "score": 56.7
     },
     {
-      "timestamp": "2026-07-07T11:22:54.971036+00:00",
-      "score": 57.2
+      "timestamp": "2026-07-07T13:36:35.696703+00:00",
+      "score": 57.3
     }
   ]
 }
