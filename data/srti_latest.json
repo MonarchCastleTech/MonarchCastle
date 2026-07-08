@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-07T22:17:59.331853+00:00",
+  "fetched_at": "2026-07-08T00:07:00.618392+00:00",
   "window_hours": 72,
-  "score": 47.9,
+  "score": 51.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 75.2,
-    "civilian_risk": 51.7
+    "conflict_intensity": 73.9,
+    "civilian_risk": 70.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 10,
+  "items_count": 11,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 71
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,33 @@
   ],
   "top_headlines": [
     {
+      "title": "Affaire h\u00f4tel Tounouma City \u00e0 Bobo-Dioulasso : L'Archidioc\u00e8se sort de son silence et d\u00e9fend la l\u00e9galit\u00e9 de son titre foncier",
+      "link": "https://lefaso.net/spip.php?article147676",
+      "source": "LeFaso",
+      "published_at": "2026-07-08T00:07:00.618392+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
+      "title": "Bobo-Dioulasso : La gare routi\u00e8re lib\u00e9r\u00e9e pour les transporteurs apr\u00e8s le d\u00e9guerpissement des commer\u00e7ants au secteur 33",
+      "link": "https://lefaso.net/spip.php?article147668",
+      "source": "LeFaso",
+      "published_at": "2026-07-08T00:07:00.618392+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Rebels Seize Key-Town of An&#xE9;fis As Rebels Tighten Grip On Northern Mali",
       "link": "https://allafrica.com/stories/202607070003.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-07T04:46:06+00:00",
-      "score": 1.45,
+      "score": 1.4,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,21 +130,10 @@
       ]
     },
     {
-      "title": "Bobo-Dioulasso : La gare routi\u00e8re lib\u00e9r\u00e9e pour les transporteurs apr\u00e8s le d\u00e9guerpissement des commer\u00e7ants au secteur 33",
-      "link": "https://lefaso.net/spip.php?article147668",
-      "source": "LeFaso",
-      "published_at": "2026-07-07T22:17:59.331853+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
       "title": "Syrie : Emmanuel Macron indemne apr\u00e8s des explosions \u00e0 proximit\u00e9 de son h\u00f4tel \u00e0 Damas",
       "link": "https://lefaso.net/spip.php?article147655",
       "source": "LeFaso",
-      "published_at": "2026-07-07T22:17:59.331853+00:00",
+      "published_at": "2026-07-08T00:07:00.618392+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,7 +144,7 @@
       "title": "Burkina/Lutte contre la fraude : La douane saisit environ 49 500 feuilles de t\u00f4les dissimul\u00e9es sous du pl\u00e2tre",
       "link": "https://lefaso.net/spip.php?article147636",
       "source": "LeFaso",
-      "published_at": "2026-07-07T22:17:59.331853+00:00",
+      "published_at": "2026-07-08T00:07:00.618392+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +158,7 @@
       "title": "Iran : Le Burkina participe \u00e0 la c\u00e9r\u00e9monie d'hommage au Guide supr\u00eame",
       "link": "https://lefaso.net/spip.php?article147638",
       "source": "LeFaso",
-      "published_at": "2026-07-07T22:17:59.331853+00:00",
+      "published_at": "2026-07-08T00:07:00.618392+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -162,7 +173,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-06T15:26:29+00:00",
-      "score": 1.1,
+      "score": 1.05,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -176,7 +187,7 @@
       "link": "https://allafrica.com/stories/202607070011.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-07-07T04:51:29+00:00",
-      "score": 0.82,
+      "score": 0.79,
       "tags": [
         "civilian_risk"
       ],
@@ -185,45 +196,32 @@
         "burkina faso",
         "ouagadougou"
       ]
-    },
-    {
-      "title": "Mali Rebels Target Army Bases, Prison in Fresh Attacks",
-      "link": "https://allafrica.com/stories/202607060110.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-07-06T06:17:32+00:00",
-      "score": 0.75,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-07T23:41:06.501512+00:00",
-      "score": 54.6
+      "timestamp": "2026-07-08T01:56:01.904931+00:00",
+      "score": 55.5
     },
     {
-      "timestamp": "2026-07-08T01:04:13.671171+00:00",
-      "score": 54.9
-    },
-    {
-      "timestamp": "2026-07-08T02:27:20.840830+00:00",
-      "score": 55.2
-    },
-    {
-      "timestamp": "2026-07-08T03:50:28.010489+00:00",
-      "score": 55.6
-    },
-    {
-      "timestamp": "2026-07-08T05:13:35.180148+00:00",
+      "timestamp": "2026-07-08T03:45:03.191470+00:00",
       "score": 55.9
     },
     {
-      "timestamp": "2026-07-08T06:36:42.349807+00:00",
-      "score": 56.2
+      "timestamp": "2026-07-08T05:34:04.478009+00:00",
+      "score": 56.4
+    },
+    {
+      "timestamp": "2026-07-08T07:23:05.764548+00:00",
+      "score": 56.8
+    },
+    {
+      "timestamp": "2026-07-08T09:12:07.051087+00:00",
+      "score": 57.3
+    },
+    {
+      "timestamp": "2026-07-08T11:01:08.337626+00:00",
+      "score": 57.7
     }
   ]
 }
