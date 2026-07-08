@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-07-08T17:47:13.907611+00:00",
+  "fetched_at": "2026-07-08T19:47:16.696467+00:00",
   "window_hours": 72,
-  "score": 51.1,
+  "score": 46.7,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 64.0,
-    "civilian_risk": 95.4
+    "conflict_intensity": 55.5,
+    "civilian_risk": 94.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 12,
+  "items_count": 11,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 11
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 95
+      "items": 97
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "\u200eMali/Lutte contre le terrorisme : Les forces arm\u00e9es mettent hors d'usage un h\u00f4pital servant \u00e0 soigner les terroristes bless\u00e9s",
       "link": "https://lefaso.net/spip.php?article147702",
       "source": "LeFaso",
-      "published_at": "2026-07-08T17:47:13.907611+00:00",
+      "published_at": "2026-07-08T19:47:16.696467+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina Faso : Campusdelia, la plateforme qui d\u00e9mocratise l'apprentissage pratique de l'intelligence artificielle",
       "link": "https://lefaso.net/spip.php?article147684",
       "source": "LeFaso",
-      "published_at": "2026-07-08T17:47:13.907611+00:00",
+      "published_at": "2026-07-08T19:47:16.696467+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Affaire h\u00f4tel Tounouma City \u00e0 Bobo-Dioulasso : L'Archidioc\u00e8se sort de son silence et d\u00e9fend la l\u00e9galit\u00e9 de son titre foncier",
       "link": "https://lefaso.net/spip.php?article147676",
       "source": "LeFaso",
-      "published_at": "2026-07-08T17:47:13.907611+00:00",
+      "published_at": "2026-07-08T19:47:16.696467+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Bobo-Dioulasso : La gare routi\u00e8re lib\u00e9r\u00e9e pour les transporteurs apr\u00e8s le d\u00e9guerpissement des commer\u00e7ants au secteur 33",
       "link": "https://lefaso.net/spip.php?article147668",
       "source": "LeFaso",
-      "published_at": "2026-07-08T17:47:13.907611+00:00",
+      "published_at": "2026-07-08T19:47:16.696467+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -146,7 +146,7 @@
       "title": "Syrie : Emmanuel Macron indemne apr\u00e8s des explosions \u00e0 proximit\u00e9 de son h\u00f4tel \u00e0 Damas",
       "link": "https://lefaso.net/spip.php?article147655",
       "source": "LeFaso",
-      "published_at": "2026-07-08T17:47:13.907611+00:00",
+      "published_at": "2026-07-08T19:47:16.696467+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -157,7 +157,7 @@
       "title": "Burkina/Lutte contre la fraude : La douane saisit environ 49 500 feuilles de t\u00f4les dissimul\u00e9es sous du pl\u00e2tre",
       "link": "https://lefaso.net/spip.php?article147636",
       "source": "LeFaso",
-      "published_at": "2026-07-08T17:47:13.907611+00:00",
+      "published_at": "2026-07-08T19:47:16.696467+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -171,7 +171,7 @@
       "title": "Iran : Le Burkina participe \u00e0 la c\u00e9r\u00e9monie d'hommage au Guide supr\u00eame",
       "link": "https://lefaso.net/spip.php?article147638",
       "source": "LeFaso",
-      "published_at": "2026-07-08T17:47:13.907611+00:00",
+      "published_at": "2026-07-08T19:47:16.696467+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,7 +186,7 @@
       "link": "https://allafrica.com/stories/202607070003.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-07T04:46:06+00:00",
-      "score": 0.93,
+      "score": 0.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -198,28 +198,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-08T20:05:26.466396+00:00",
-      "score": 49.1
+      "timestamp": "2026-07-08T21:47:19.485323+00:00",
+      "score": 48.6
     },
     {
-      "timestamp": "2026-07-08T22:23:39.025181+00:00",
-      "score": 48.8
+      "timestamp": "2026-07-08T23:47:22.274179+00:00",
+      "score": 48.4
     },
     {
-      "timestamp": "2026-07-09T00:41:51.583966+00:00",
-      "score": 48.5
+      "timestamp": "2026-07-09T01:47:25.063035+00:00",
+      "score": 48.1
     },
     {
-      "timestamp": "2026-07-09T03:00:04.142751+00:00",
-      "score": 48.3
+      "timestamp": "2026-07-09T03:47:27.851891+00:00",
+      "score": 47.8
     },
     {
-      "timestamp": "2026-07-09T05:18:16.701536+00:00",
-      "score": 48.0
+      "timestamp": "2026-07-09T05:47:30.640747+00:00",
+      "score": 47.6
     },
     {
-      "timestamp": "2026-07-09T07:36:29.260321+00:00",
-      "score": 47.7
+      "timestamp": "2026-07-09T07:47:33.429603+00:00",
+      "score": 47.3
     }
   ]
 }
