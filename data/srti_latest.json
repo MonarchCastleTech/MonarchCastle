@@ -1,47 +1,47 @@
 {
-  "fetched_at": "2026-07-10T15:37:12.695173+00:00",
+  "fetched_at": "2026-07-10T17:54:11.435786+00:00",
   "window_hours": 72,
-  "score": 28.4,
+  "score": 34.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 16.7,
+    "conflict_intensity": 29.5,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
       "url": "https://www.maliweb.net/feed",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 103
+      "items": 101
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
-      "link": "https://www.france24.com/en/africa/20260709-tuareg-separatists-attack-convoy-of-russian-mercenaries-and-malian-troops",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-09T16:09:41+00:00",
-      "score": 1.51,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Burkina Faso : Orange Burkina Faso lance \u00ab \u00c7a bouge \u00bb pour accompagner les jeunes pendant les vacances",
       "link": "https://lefaso.net/spip.php?article147752",
       "source": "LeFaso",
-      "published_at": "2026-07-10T15:37:12.695173+00:00",
+      "published_at": "2026-07-10T17:54:11.435786+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +111,7 @@
       "title": "\u200eMali/Lutte contre le terrorisme : Les forces arm\u00e9es mettent hors d'usage un h\u00f4pital servant \u00e0 soigner les terroristes bless\u00e9s",
       "link": "https://lefaso.net/spip.php?article147702",
       "source": "LeFaso",
-      "published_at": "2026-07-10T15:37:12.695173+00:00",
+      "published_at": "2026-07-10T17:54:11.435786+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +124,7 @@
       "title": "Burkina Faso : Campusdelia, la plateforme qui d\u00e9mocratise l'apprentissage pratique de l'intelligence artificielle",
       "link": "https://lefaso.net/spip.php?article147684",
       "source": "LeFaso",
-      "published_at": "2026-07-10T15:37:12.695173+00:00",
+      "published_at": "2026-07-10T17:54:11.435786+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +138,7 @@
       "title": "Affaire h\u00f4tel Tounouma City \u00e0 Bobo-Dioulasso : L'Archidioc\u00e8se sort de son silence et d\u00e9fend la l\u00e9galit\u00e9 de son titre foncier",
       "link": "https://lefaso.net/spip.php?article147676",
       "source": "LeFaso",
-      "published_at": "2026-07-10T15:37:12.695173+00:00",
+      "published_at": "2026-07-10T17:54:11.435786+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,7 +149,7 @@
       "title": "Bobo-Dioulasso : La gare routi\u00e8re lib\u00e9r\u00e9e pour les transporteurs apr\u00e8s le d\u00e9guerpissement des commer\u00e7ants au secteur 33",
       "link": "https://lefaso.net/spip.php?article147668",
       "source": "LeFaso",
-      "published_at": "2026-07-10T15:37:12.695173+00:00",
+      "published_at": "2026-07-10T17:54:11.435786+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -171,57 +157,70 @@
       "regions": []
     },
     {
-      "title": "Mali Rebels Attack Convoy of Soldiers, Russian Mercenaries",
-      "link": "https://allafrica.com/stories/202607100110.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-07-10T06:32:14+00:00",
-      "score": 0.73,
+      "title": "Mali rebels attack convoy of Russian reinforcements headed to besieged military camp",
+      "link": "https://www.france24.com/en/africa/20260709-tuareg-separatists-attack-convoy-of-russian-mercenaries-and-malian-troops",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-09T16:09:41+00:00",
+      "score": 1.44,
       "tags": [
-        "conflict_intensity"
+        "conflict_intensity",
+        "civilian_risk"
       ],
       "regions": [
         "mali"
       ]
     },
     {
-      "title": "TotalEnergies Women's Afcon 2026 - Burkina Faso Target Historic Knockout Stage Berth",
-      "link": "https://allafrica.com/stories/202607090466.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-07-09T13:08:13+00:00",
-      "score": 0.68,
+      "title": "Coop\u00e9ration : Evelyne Dabir\u00e9 nomm\u00e9e ambassadrice extraordinaire et pl\u00e9nipotentiaire du Canada pr\u00e8s le B\u00e9nin",
+      "link": "https://lefaso.net/spip.php?article147766",
+      "source": "LeFaso",
+      "published_at": "2026-07-10T17:54:11.435786+00:00",
+      "score": 1.12,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "burkina",
-        "burkina faso"
+        "burkina"
+      ]
+    },
+    {
+      "title": "Mali Rebels Attack Convoy of Soldiers, Russian Mercenaries",
+      "link": "https://allafrica.com/stories/202607100110.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-10T06:32:14+00:00",
+      "score": 0.71,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-10T19:08:33.395951+00:00",
-      "score": 32.2
-    },
-    {
-      "timestamp": "2026-07-10T22:39:54.096729+00:00",
+      "timestamp": "2026-07-10T20:11:10.176399+00:00",
       "score": 31.3
     },
     {
-      "timestamp": "2026-07-11T02:11:14.797507+00:00",
+      "timestamp": "2026-07-10T22:28:08.917012+00:00",
       "score": 30.4
     },
     {
-      "timestamp": "2026-07-11T05:42:35.498285+00:00",
-      "score": 29.5
+      "timestamp": "2026-07-11T00:45:07.657625+00:00",
+      "score": 29.4
     },
     {
-      "timestamp": "2026-07-11T09:13:56.199063+00:00",
-      "score": 28.7
+      "timestamp": "2026-07-11T03:02:06.398238+00:00",
+      "score": 28.5
     },
     {
-      "timestamp": "2026-07-11T12:45:16.899841+00:00",
-      "score": 27.8
+      "timestamp": "2026-07-11T05:19:05.138851+00:00",
+      "score": 27.6
+    },
+    {
+      "timestamp": "2026-07-11T07:36:03.879464+00:00",
+      "score": 26.6
     }
   ]
 }
