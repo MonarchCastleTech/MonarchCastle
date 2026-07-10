@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-10T05:00:52.102061+00:00",
+  "fetched_at": "2026-07-10T08:30:21.926547+00:00",
   "window_hours": 72,
-  "score": 31.6,
+  "score": 36.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 23.1,
+    "conflict_intensity": 32.3,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 24
+      "items": 23
     },
     {
       "name": "UN News Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 18
+      "items": 20
     },
     {
       "name": "AllAfrica - Niger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260709-tuareg-separatists-attack-convoy-of-russian-mercenaries-and-malian-troops",
       "source": "France 24 - Africa",
       "published_at": "2026-07-09T16:09:41+00:00",
-      "score": 1.84,
+      "score": 1.73,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u200eMali/Lutte contre le terrorisme : Les forces arm\u00e9es mettent hors d'usage un h\u00f4pital servant \u00e0 soigner les terroristes bless\u00e9s",
       "link": "https://lefaso.net/spip.php?article147702",
       "source": "LeFaso",
-      "published_at": "2026-07-10T05:00:52.102061+00:00",
+      "published_at": "2026-07-10T08:30:21.926547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina Faso : Campusdelia, la plateforme qui d\u00e9mocratise l'apprentissage pratique de l'intelligence artificielle",
       "link": "https://lefaso.net/spip.php?article147684",
       "source": "LeFaso",
-      "published_at": "2026-07-10T05:00:52.102061+00:00",
+      "published_at": "2026-07-10T08:30:21.926547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Affaire h\u00f4tel Tounouma City \u00e0 Bobo-Dioulasso : L'Archidioc\u00e8se sort de son silence et d\u00e9fend la l\u00e9galit\u00e9 de son titre foncier",
       "link": "https://lefaso.net/spip.php?article147676",
       "source": "LeFaso",
-      "published_at": "2026-07-10T05:00:52.102061+00:00",
+      "published_at": "2026-07-10T08:30:21.926547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +149,7 @@
       "title": "Bobo-Dioulasso : La gare routi\u00e8re lib\u00e9r\u00e9e pour les transporteurs apr\u00e8s le d\u00e9guerpissement des commer\u00e7ants au secteur 33",
       "link": "https://lefaso.net/spip.php?article147668",
       "source": "LeFaso",
-      "published_at": "2026-07-10T05:00:52.102061+00:00",
+      "published_at": "2026-07-10T08:30:21.926547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,7 +160,7 @@
       "title": "Syrie : Emmanuel Macron indemne apr\u00e8s des explosions \u00e0 proximit\u00e9 de son h\u00f4tel \u00e0 Damas",
       "link": "https://lefaso.net/spip.php?article147655",
       "source": "LeFaso",
-      "published_at": "2026-07-10T05:00:52.102061+00:00",
+      "published_at": "2026-07-10T08:30:21.926547+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -168,11 +168,24 @@
       "regions": []
     },
     {
+      "title": "Mali Rebels Attack Convoy of Soldiers, Russian Mercenaries",
+      "link": "https://allafrica.com/stories/202607100110.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-10T06:32:14+00:00",
+      "score": 0.82,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "TotalEnergies Women's Afcon 2026 - Burkina Faso Target Historic Knockout Stage Berth",
       "link": "https://allafrica.com/stories/202607090466.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-07-09T13:08:13+00:00",
-      "score": 0.84,
+      "score": 0.79,
       "tags": [
         "civilian_risk"
       ],
@@ -184,28 +197,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-10T09:48:15.257228+00:00",
-      "score": 37.4
+      "timestamp": "2026-07-10T11:59:51.751033+00:00",
+      "score": 36.9
     },
     {
-      "timestamp": "2026-07-10T14:35:38.412395+00:00",
-      "score": 36.8
+      "timestamp": "2026-07-10T15:29:21.575519+00:00",
+      "score": 36.2
     },
     {
-      "timestamp": "2026-07-10T19:23:01.567562+00:00",
-      "score": 36.1
+      "timestamp": "2026-07-10T18:58:51.400005+00:00",
+      "score": 35.6
     },
     {
-      "timestamp": "2026-07-11T00:10:24.722729+00:00",
-      "score": 35.4
+      "timestamp": "2026-07-10T22:28:21.224491+00:00",
+      "score": 34.9
     },
     {
-      "timestamp": "2026-07-11T04:57:47.877896+00:00",
-      "score": 34.7
+      "timestamp": "2026-07-11T01:57:51.048977+00:00",
+      "score": 34.3
     },
     {
-      "timestamp": "2026-07-11T09:45:11.033063+00:00",
-      "score": 34.0
+      "timestamp": "2026-07-11T05:27:20.873463+00:00",
+      "score": 33.6
     }
   ]
 }
