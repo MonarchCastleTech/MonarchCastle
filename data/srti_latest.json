@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-11T10:21:44.177029+00:00",
+  "fetched_at": "2026-07-11T11:59:24.508283+00:00",
   "window_hours": 72,
-  "score": 26.9,
+  "score": 26.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 24.5,
-    "civilian_risk": 73.4
+    "conflict_intensity": 24.0,
+    "civilian_risk": 72.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 96
+      "items": 95
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "\u00c9tudes, formation ou stage \u00e0 l'\u00e9tranger : Ouverture des demandes d'autorisation sur CampusFaso d\u00e8s ce lundi 13 juillet 2026",
       "link": "https://lefaso.net/spip.php?article147781",
       "source": "LeFaso",
-      "published_at": "2026-07-11T10:21:44.177029+00:00",
+      "published_at": "2026-07-11T11:59:24.508283+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina Faso : Orange Burkina Faso lance \u00ab \u00c7a bouge \u00bb pour accompagner les jeunes pendant les vacances",
       "link": "https://lefaso.net/spip.php?article147752",
       "source": "LeFaso",
-      "published_at": "2026-07-11T10:21:44.177029+00:00",
+      "published_at": "2026-07-11T11:59:24.508283+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "\u200eMali/Lutte contre le terrorisme : Les forces arm\u00e9es mettent hors d'usage un h\u00f4pital servant \u00e0 soigner les terroristes bless\u00e9s",
       "link": "https://lefaso.net/spip.php?article147702",
       "source": "LeFaso",
-      "published_at": "2026-07-11T10:21:44.177029+00:00",
+      "published_at": "2026-07-11T11:59:24.508283+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Coop\u00e9ration : Evelyne Dabir\u00e9 nomm\u00e9e ambassadrice extraordinaire et pl\u00e9nipotentiaire du Canada pr\u00e8s le B\u00e9nin",
       "link": "https://lefaso.net/spip.php?article147766",
       "source": "LeFaso",
-      "published_at": "2026-07-11T10:21:44.177029+00:00",
+      "published_at": "2026-07-11T11:59:24.508283+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,7 +151,7 @@
       "link": "https://www.france24.com/en/africa/20260709-tuareg-separatists-attack-convoy-of-russian-mercenaries-and-malian-troops",
       "source": "France 24 - Africa",
       "published_at": "2026-07-09T16:09:41+00:00",
-      "score": 0.93,
+      "score": 0.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -165,7 +165,7 @@
       "link": "https://allafrica.com/stories/202607100110.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-10T06:32:14+00:00",
-      "score": 0.52,
+      "score": 0.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -178,7 +178,7 @@
       "link": "https://allafrica.com/stories/202607090466.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-07-09T13:08:13+00:00",
-      "score": 0.4,
+      "score": 0.38,
       "tags": [
         "civilian_risk"
       ],
@@ -190,28 +190,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-11T11:48:58.932420+00:00",
-      "score": 25.2
+      "timestamp": "2026-07-11T13:37:04.839537+00:00",
+      "score": 24.7
     },
     {
-      "timestamp": "2026-07-11T13:16:13.687811+00:00",
-      "score": 24.3
+      "timestamp": "2026-07-11T15:14:45.170791+00:00",
+      "score": 23.8
     },
     {
-      "timestamp": "2026-07-11T14:43:28.443202+00:00",
-      "score": 23.3
+      "timestamp": "2026-07-11T16:52:25.502045+00:00",
+      "score": 22.9
     },
     {
-      "timestamp": "2026-07-11T16:10:43.198593+00:00",
-      "score": 22.4
+      "timestamp": "2026-07-11T18:30:05.833299+00:00",
+      "score": 22.0
     },
     {
-      "timestamp": "2026-07-11T17:37:57.953984+00:00",
-      "score": 21.4
+      "timestamp": "2026-07-11T20:07:46.164553+00:00",
+      "score": 21.1
     },
     {
-      "timestamp": "2026-07-11T19:05:12.709375+00:00",
-      "score": 20.4
+      "timestamp": "2026-07-11T21:45:26.495807+00:00",
+      "score": 20.2
     }
   ]
 }
