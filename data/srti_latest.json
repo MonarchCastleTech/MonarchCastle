@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-12T17:10:25.668059+00:00",
+  "fetched_at": "2026-07-12T19:17:29.204865+00:00",
   "window_hours": 72,
-  "score": 31.9,
+  "score": 31.8,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 43.8,
-    "civilian_risk": 49.8
+    "civilian_risk": 49.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76
+      "items": 85
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "\u00c9tudes, formation ou stage \u00e0 l'\u00e9tranger : Ouverture des demandes d'autorisation sur CampusFaso d\u00e8s ce lundi 13 juillet 2026",
       "link": "https://lefaso.net/spip.php?article147781",
       "source": "LeFaso",
-      "published_at": "2026-07-12T17:10:25.668059+00:00",
+      "published_at": "2026-07-12T19:17:29.204865+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina Faso : Orange Burkina Faso lance \u00ab \u00c7a bouge \u00bb pour accompagner les jeunes pendant les vacances",
       "link": "https://lefaso.net/spip.php?article147752",
       "source": "LeFaso",
-      "published_at": "2026-07-12T17:10:25.668059+00:00",
+      "published_at": "2026-07-12T19:17:29.204865+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Mali : L'arm\u00e9e prend le contr\u00f4le total d'An\u00e9fis et poursuit les op\u00e9rations de ratissage (Communiqu\u00e9)",
       "link": "https://lefaso.net/spip.php?article147792",
       "source": "LeFaso",
-      "published_at": "2026-07-12T17:10:25.668059+00:00",
+      "published_at": "2026-07-12T19:17:29.204865+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-12T17:10:25.668059+00:00",
+      "published_at": "2026-07-12T19:17:29.204865+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,7 +150,7 @@
       "title": "Coop\u00e9ration : Evelyne Dabir\u00e9 nomm\u00e9e ambassadrice extraordinaire et pl\u00e9nipotentiaire du Canada pr\u00e8s le B\u00e9nin",
       "link": "https://lefaso.net/spip.php?article147766",
       "source": "LeFaso",
-      "published_at": "2026-07-12T17:10:25.668059+00:00",
+      "published_at": "2026-07-12T19:17:29.204865+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,7 +164,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-11T14:19:34+00:00",
-      "score": 0.68,
+      "score": 0.65,
       "tags": [
         "civilian_risk"
       ],
@@ -188,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-12T19:14:31.850648+00:00",
-      "score": 37.6
+      "timestamp": "2026-07-12T21:24:32.741671+00:00",
+      "score": 37.2
     },
     {
-      "timestamp": "2026-07-12T21:18:38.033237+00:00",
-      "score": 37.8
+      "timestamp": "2026-07-12T23:31:36.278477+00:00",
+      "score": 37.5
     },
     {
-      "timestamp": "2026-07-12T23:22:44.215826+00:00",
-      "score": 38.1
+      "timestamp": "2026-07-13T01:38:39.815283+00:00",
+      "score": 37.7
     },
     {
-      "timestamp": "2026-07-13T01:26:50.398415+00:00",
-      "score": 38.4
+      "timestamp": "2026-07-13T03:45:43.352089+00:00",
+      "score": 38.0
     },
     {
-      "timestamp": "2026-07-13T03:30:56.581004+00:00",
-      "score": 38.7
+      "timestamp": "2026-07-13T05:52:46.888895+00:00",
+      "score": 38.2
     },
     {
-      "timestamp": "2026-07-13T05:35:02.763593+00:00",
-      "score": 38.9
+      "timestamp": "2026-07-13T07:59:50.425701+00:00",
+      "score": 38.5
     }
   ]
 }
