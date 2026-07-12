@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-12T11:18:32.090172+00:00",
+  "fetched_at": "2026-07-12T13:47:10.555518+00:00",
   "window_hours": 72,
-  "score": 36.5,
+  "score": 35.3,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 48.0,
-    "civilian_risk": 62.5
+    "civilian_risk": 56.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "\u00c9tudes, formation ou stage \u00e0 l'\u00e9tranger : Ouverture des demandes d'autorisation sur CampusFaso d\u00e8s ce lundi 13 juillet 2026",
       "link": "https://lefaso.net/spip.php?article147781",
       "source": "LeFaso",
-      "published_at": "2026-07-12T11:18:32.090172+00:00",
+      "published_at": "2026-07-12T13:47:10.555518+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Burkina Faso : Orange Burkina Faso lance \u00ab \u00c7a bouge \u00bb pour accompagner les jeunes pendant les vacances",
       "link": "https://lefaso.net/spip.php?article147752",
       "source": "LeFaso",
-      "published_at": "2026-07-12T11:18:32.090172+00:00",
+      "published_at": "2026-07-12T13:47:10.555518+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Mali : L'arm\u00e9e prend le contr\u00f4le total d'An\u00e9fis et poursuit les op\u00e9rations de ratissage (Communiqu\u00e9)",
       "link": "https://lefaso.net/spip.php?article147792",
       "source": "LeFaso",
-      "published_at": "2026-07-12T11:18:32.090172+00:00",
+      "published_at": "2026-07-12T13:47:10.555518+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +137,7 @@
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-12T11:18:32.090172+00:00",
+      "published_at": "2026-07-12T13:47:10.555518+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,7 +150,7 @@
       "title": "Coop\u00e9ration : Evelyne Dabir\u00e9 nomm\u00e9e ambassadrice extraordinaire et pl\u00e9nipotentiaire du Canada pr\u00e8s le B\u00e9nin",
       "link": "https://lefaso.net/spip.php?article147766",
       "source": "LeFaso",
-      "published_at": "2026-07-12T11:18:32.090172+00:00",
+      "published_at": "2026-07-12T13:47:10.555518+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -178,7 +178,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-11T14:19:34+00:00",
-      "score": 0.77,
+      "score": 0.73,
       "tags": [
         "civilian_risk"
       ],
@@ -187,44 +187,43 @@
       ]
     },
     {
-      "title": "TotalEnergies Women's Afcon 2026 - Burkina Faso Target Historic Knockout Stage Berth",
-      "link": "https://allafrica.com/stories/202607090466.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-07-09T13:08:13+00:00",
-      "score": 0.38,
+      "title": "Mali Rebels Attack Convoy of Soldiers, Russian Mercenaries",
+      "link": "https://allafrica.com/stories/202607100110.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-10T06:32:14+00:00",
+      "score": 0.29,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "burkina",
-        "burkina faso"
+        "mali"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-12T13:28:19.070894+00:00",
-      "score": 38.4
+      "timestamp": "2026-07-12T16:15:49.020864+00:00",
+      "score": 38.2
     },
     {
-      "timestamp": "2026-07-12T15:38:06.051616+00:00",
-      "score": 38.8
+      "timestamp": "2026-07-12T18:44:27.486210+00:00",
+      "score": 38.5
     },
     {
-      "timestamp": "2026-07-12T17:47:53.032338+00:00",
-      "score": 39.1
+      "timestamp": "2026-07-12T21:13:05.951556+00:00",
+      "score": 38.9
     },
     {
-      "timestamp": "2026-07-12T19:57:40.013060+00:00",
-      "score": 39.5
+      "timestamp": "2026-07-12T23:41:44.416902+00:00",
+      "score": 39.2
     },
     {
-      "timestamp": "2026-07-12T22:07:26.993782+00:00",
+      "timestamp": "2026-07-13T02:10:22.882248+00:00",
+      "score": 39.6
+    },
+    {
+      "timestamp": "2026-07-13T04:39:01.347594+00:00",
       "score": 39.9
-    },
-    {
-      "timestamp": "2026-07-13T00:17:13.974504+00:00",
-      "score": 40.3
     }
   ]
 }
