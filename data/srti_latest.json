@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-13T07:30:38.856761+00:00",
+  "fetched_at": "2026-07-13T11:23:44.070236+00:00",
   "window_hours": 72,
-  "score": 29.5,
+  "score": 25.3,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 40.3,
-    "civilian_risk": 46.8
+    "civilian_risk": 25.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 59
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "\u00c9tudes, formation ou stage \u00e0 l'\u00e9tranger : Ouverture des demandes d'autorisation sur CampusFaso d\u00e8s ce lundi 13 juillet 2026",
       "link": "https://lefaso.net/spip.php?article147781",
       "source": "LeFaso",
-      "published_at": "2026-07-13T07:30:38.856761+00:00",
+      "published_at": "2026-07-13T11:23:44.070236+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,24 +107,10 @@
       ]
     },
     {
-      "title": "Burkina Faso : Orange Burkina Faso lance \u00ab \u00c7a bouge \u00bb pour accompagner les jeunes pendant les vacances",
-      "link": "https://lefaso.net/spip.php?article147752",
-      "source": "LeFaso",
-      "published_at": "2026-07-13T07:30:38.856761+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-13T07:30:38.856761+00:00",
+      "published_at": "2026-07-13T11:23:44.070236+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +123,7 @@
       "title": "Mali : L'arm\u00e9e prend le contr\u00f4le total d'An\u00e9fis et poursuit les op\u00e9rations de ratissage (Communiqu\u00e9)",
       "link": "https://lefaso.net/spip.php?article147792",
       "source": "LeFaso",
-      "published_at": "2026-07-13T07:30:38.856761+00:00",
+      "published_at": "2026-07-13T11:23:44.070236+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,7 +136,7 @@
       "title": "Coop\u00e9ration : Evelyne Dabir\u00e9 nomm\u00e9e ambassadrice extraordinaire et pl\u00e9nipotentiaire du Canada pr\u00e8s le B\u00e9nin",
       "link": "https://lefaso.net/spip.php?article147766",
       "source": "LeFaso",
-      "published_at": "2026-07-13T07:30:38.856761+00:00",
+      "published_at": "2026-07-13T11:23:44.070236+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,11 +146,11 @@
       ]
     },
     {
-      "title": "More than 40 kidnapped children and teachers freed after Nigerian army operation",
+      "title": "'Relief' as 44 kidnapped children and teachers freed after Nigerian army operation",
       "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-11T14:19:34+00:00",
-      "score": 0.46,
+      "score": 0.4,
       "tags": [
         "civilian_risk"
       ],
@@ -175,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-13T11:10:04.511237+00:00",
-      "score": 32.1
+      "timestamp": "2026-07-13T15:16:49.283711+00:00",
+      "score": 29.8
     },
     {
-      "timestamp": "2026-07-13T14:49:30.165713+00:00",
-      "score": 31.9
+      "timestamp": "2026-07-13T19:09:54.497186+00:00",
+      "score": 29.5
     },
     {
-      "timestamp": "2026-07-13T18:28:55.820189+00:00",
-      "score": 31.7
+      "timestamp": "2026-07-13T23:02:59.710661+00:00",
+      "score": 29.1
     },
     {
-      "timestamp": "2026-07-13T22:08:21.474665+00:00",
-      "score": 31.5
+      "timestamp": "2026-07-14T02:56:04.924136+00:00",
+      "score": 28.7
     },
     {
-      "timestamp": "2026-07-14T01:47:47.129141+00:00",
-      "score": 31.3
+      "timestamp": "2026-07-14T06:49:10.137611+00:00",
+      "score": 28.4
     },
     {
-      "timestamp": "2026-07-14T05:27:12.783617+00:00",
-      "score": 31.2
+      "timestamp": "2026-07-14T10:42:15.351086+00:00",
+      "score": 28.0
     }
   ]
 }
