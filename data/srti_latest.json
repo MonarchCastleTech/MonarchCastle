@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-13T17:19:54.784575+00:00",
+  "fetched_at": "2026-07-13T19:40:35.424299+00:00",
   "window_hours": 72,
-  "score": 18.6,
-  "risk_level": "LOW",
+  "score": 22.6,
+  "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 25.5
+    "civilian_risk": 45.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -94,10 +94,23 @@
   ],
   "top_headlines": [
     {
+      "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
+      "link": "https://lefaso.net/spip.php?article147829",
+      "source": "LeFaso",
+      "published_at": "2026-07-13T19:40:35.424299+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "\u00c9tudes, formation ou stage \u00e0 l'\u00e9tranger : Ouverture des demandes d'autorisation sur CampusFaso d\u00e8s ce lundi 13 juillet 2026",
       "link": "https://lefaso.net/spip.php?article147781",
       "source": "LeFaso",
-      "published_at": "2026-07-13T17:19:54.784575+00:00",
+      "published_at": "2026-07-13T19:40:35.424299+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +123,7 @@
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-13T17:19:54.784575+00:00",
+      "published_at": "2026-07-13T19:40:35.424299+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -123,7 +136,7 @@
       "title": "Mali : L'arm\u00e9e prend le contr\u00f4le total d'An\u00e9fis et poursuit les op\u00e9rations de ratissage (Communiqu\u00e9)",
       "link": "https://lefaso.net/spip.php?article147792",
       "source": "LeFaso",
-      "published_at": "2026-07-13T17:19:54.784575+00:00",
+      "published_at": "2026-07-13T19:40:35.424299+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -148,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-13T19:45:55.580378+00:00",
-      "score": 25.8
+      "timestamp": "2026-07-13T22:01:16.064023+00:00",
+      "score": 24.2
     },
     {
-      "timestamp": "2026-07-13T22:11:56.376181+00:00",
-      "score": 25.1
+      "timestamp": "2026-07-14T00:21:56.703747+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-07-14T00:37:57.171984+00:00",
-      "score": 24.5
+      "timestamp": "2026-07-14T02:42:37.343471+00:00",
+      "score": 22.8
     },
     {
-      "timestamp": "2026-07-14T03:03:57.967787+00:00",
-      "score": 23.9
+      "timestamp": "2026-07-14T05:03:17.983195+00:00",
+      "score": 22.1
     },
     {
-      "timestamp": "2026-07-14T05:29:58.763590+00:00",
-      "score": 23.3
+      "timestamp": "2026-07-14T07:23:58.622919+00:00",
+      "score": 21.4
     },
     {
-      "timestamp": "2026-07-14T07:55:59.559393+00:00",
-      "score": 22.7
+      "timestamp": "2026-07-14T09:44:39.262643+00:00",
+      "score": 20.7
     }
   ]
 }
