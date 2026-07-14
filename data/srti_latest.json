@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-07-14T09:11:19.320340+00:00",
+  "fetched_at": "2026-07-14T11:39:00.413151+00:00",
   "window_hours": 72,
-  "score": 22.6,
-  "risk_level": "GUARDED",
+  "score": 17.5,
+  "risk_level": "LOW",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 45.6
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 54
+      "items": 55
     },
     {
       "name": "ActuNiger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 17
+      "items": 18
     }
   ],
   "top_headlines": [
@@ -97,20 +97,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-14T09:11:19.320340+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
-      "title": "\u00c9tudes, formation ou stage \u00e0 l'\u00e9tranger : Ouverture des demandes d'autorisation sur CampusFaso d\u00e8s ce lundi 13 juillet 2026",
-      "link": "https://lefaso.net/spip.php?article147781",
-      "source": "LeFaso",
-      "published_at": "2026-07-14T09:11:19.320340+00:00",
+      "published_at": "2026-07-14T11:39:00.413151+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +110,7 @@
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-14T09:11:19.320340+00:00",
+      "published_at": "2026-07-14T11:39:00.413151+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +123,7 @@
       "title": "Mali : L'arm\u00e9e prend le contr\u00f4le total d'An\u00e9fis et poursuit les op\u00e9rations de ratissage (Communiqu\u00e9)",
       "link": "https://lefaso.net/spip.php?article147792",
       "source": "LeFaso",
-      "published_at": "2026-07-14T09:11:19.320340+00:00",
+      "published_at": "2026-07-14T11:39:00.413151+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -144,45 +131,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "'Relief' as 44 kidnapped children and teachers freed after Nigerian army operation",
-      "link": "https://www.bbc.co.uk/news/articles/cly9lnjlp1eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-07-11T14:19:34+00:00",
-      "score": 0.38,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-14T12:02:49.428434+00:00",
-      "score": 19.3
+      "timestamp": "2026-07-14T14:06:41.505962+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-07-14T14:54:19.536528+00:00",
-      "score": 18.5
+      "timestamp": "2026-07-14T16:34:22.598773+00:00",
+      "score": 17.3
     },
     {
-      "timestamp": "2026-07-14T17:45:49.644622+00:00",
-      "score": 17.7
+      "timestamp": "2026-07-14T19:02:03.691584+00:00",
+      "score": 16.5
     },
     {
-      "timestamp": "2026-07-14T20:37:19.752716+00:00",
-      "score": 16.9
+      "timestamp": "2026-07-14T21:29:44.784395+00:00",
+      "score": 15.7
     },
     {
-      "timestamp": "2026-07-14T23:28:49.860810+00:00",
-      "score": 16.2
+      "timestamp": "2026-07-14T23:57:25.877206+00:00",
+      "score": 14.9
     },
     {
-      "timestamp": "2026-07-15T02:20:19.968904+00:00",
-      "score": 15.4
+      "timestamp": "2026-07-15T02:25:06.970017+00:00",
+      "score": 14.1
     }
   ]
 }
