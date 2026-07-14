@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T03:23:16.927681+00:00",
+  "fetched_at": "2026-07-14T06:19:49.212246+00:00",
   "window_hours": 72,
   "score": 22.6,
   "risk_level": "GUARDED",
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 12
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "MaliWeb",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-14T03:23:16.927681+00:00",
+      "published_at": "2026-07-14T06:19:49.212246+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "\u00c9tudes, formation ou stage \u00e0 l'\u00e9tranger : Ouverture des demandes d'autorisation sur CampusFaso d\u00e8s ce lundi 13 juillet 2026",
       "link": "https://lefaso.net/spip.php?article147781",
       "source": "LeFaso",
-      "published_at": "2026-07-14T03:23:16.927681+00:00",
+      "published_at": "2026-07-14T06:19:49.212246+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-14T03:23:16.927681+00:00",
+      "published_at": "2026-07-14T06:19:49.212246+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +136,7 @@
       "title": "Mali : L'arm\u00e9e prend le contr\u00f4le total d'An\u00e9fis et poursuit les op\u00e9rations de ratissage (Communiqu\u00e9)",
       "link": "https://lefaso.net/spip.php?article147792",
       "source": "LeFaso",
-      "published_at": "2026-07-14T03:23:16.927681+00:00",
+      "published_at": "2026-07-14T06:19:49.212246+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-14T06:44:55.895155+00:00",
-      "score": 20.3
+      "timestamp": "2026-07-14T09:16:21.496811+00:00",
+      "score": 19.7
     },
     {
-      "timestamp": "2026-07-14T10:06:34.862629+00:00",
-      "score": 19.5
+      "timestamp": "2026-07-14T12:12:53.781376+00:00",
+      "score": 18.9
     },
     {
-      "timestamp": "2026-07-14T13:28:13.830103+00:00",
-      "score": 18.7
+      "timestamp": "2026-07-14T15:09:26.065941+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-07-14T16:49:52.797577+00:00",
-      "score": 17.9
+      "timestamp": "2026-07-14T18:05:58.350506+00:00",
+      "score": 17.3
     },
     {
-      "timestamp": "2026-07-14T20:11:31.765051+00:00",
-      "score": 17.1
+      "timestamp": "2026-07-14T21:02:30.635071+00:00",
+      "score": 16.6
     },
     {
-      "timestamp": "2026-07-14T23:33:10.732525+00:00",
-      "score": 16.3
+      "timestamp": "2026-07-14T23:59:02.919636+00:00",
+      "score": 15.8
     }
   ]
 }
