@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-07-14T21:08:13.307218+00:00",
+  "fetched_at": "2026-07-14T23:04:21.127188+00:00",
   "window_hours": 72,
-  "score": 37.8,
-  "risk_level": "GUARDED",
+  "score": 45.0,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 35.5,
+    "conflict_intensity": 50.0,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 57
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28
+      "items": 27
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
       "source": "France 24 - Africa",
       "published_at": "2026-07-14T16:36:46+00:00",
-      "score": 1.84,
+      "score": 1.78,
       "tags": [
         "conflict_intensity"
       ],
@@ -110,7 +110,7 @@
       "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147855",
       "source": "LeFaso",
-      "published_at": "2026-07-14T21:08:13.307218+00:00",
+      "published_at": "2026-07-14T23:04:21.127188+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Vacances 2026 : Orange Burkina pr\u00e9sente sa campagne \u00ab \u00c7a bouge \u00bb aux influenceurs \u00e0 travers une soir\u00e9e Afterwork",
       "link": "https://lefaso.net/spip.php?article147840",
       "source": "LeFaso",
-      "published_at": "2026-07-14T21:08:13.307218+00:00",
+      "published_at": "2026-07-14T23:04:21.127188+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-14T21:08:13.307218+00:00",
+      "published_at": "2026-07-14T23:04:21.127188+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -146,10 +146,23 @@
       ]
     },
     {
+      "title": "Saving Lives Under Threat: Thousands in Central Mali Protected from Explosive Risks Amid Funding Crisis",
+      "link": "https://reliefweb.int/report/mali/saving-lives-under-threat-thousands-central-mali-protected-explosive-risks-amid-funding-crisis",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-07-14T23:04:21.127188+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-14T21:08:13.307218+00:00",
+      "published_at": "2026-07-14T23:04:21.127188+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +176,7 @@
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.98,
+      "score": 0.95,
       "tags": [
         "civilian_risk"
       ],
@@ -176,20 +189,7 @@
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.98,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "sahel"
-      ]
-    },
-    {
-      "title": "As Security Deteriorates, Sahelian Juntas Further Stifle Civilians",
-      "link": "https://allafrica.com/stories/202607140546.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.98,
+      "score": 0.95,
       "tags": [
         "civilian_risk"
       ],
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-14T22:37:30.472303+00:00",
-      "score": 29.1
+      "timestamp": "2026-07-15T01:00:28.947158+00:00",
+      "score": 32.2
     },
     {
-      "timestamp": "2026-07-15T00:06:47.637388+00:00",
-      "score": 29.1
+      "timestamp": "2026-07-15T02:56:36.767128+00:00",
+      "score": 32.5
     },
     {
-      "timestamp": "2026-07-15T01:36:04.802473+00:00",
-      "score": 29.2
+      "timestamp": "2026-07-15T04:52:44.587098+00:00",
+      "score": 32.7
     },
     {
-      "timestamp": "2026-07-15T03:05:21.967558+00:00",
-      "score": 29.3
+      "timestamp": "2026-07-15T06:48:52.407068+00:00",
+      "score": 33.0
     },
     {
-      "timestamp": "2026-07-15T04:34:39.132643+00:00",
-      "score": 29.3
+      "timestamp": "2026-07-15T08:45:00.227038+00:00",
+      "score": 33.3
     },
     {
-      "timestamp": "2026-07-15T06:03:56.297728+00:00",
-      "score": 29.4
+      "timestamp": "2026-07-15T10:41:08.047008+00:00",
+      "score": 33.6
     }
   ]
 }
