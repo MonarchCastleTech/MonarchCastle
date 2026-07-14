@@ -1,35 +1,35 @@
 {
-  "fetched_at": "2026-07-14T14:04:59.323730+00:00",
+  "fetched_at": "2026-07-14T15:41:07.002553+00:00",
   "window_hours": 72,
-  "score": 21.5,
+  "score": 38.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 26.9,
-    "civilian_risk": 40.3
+    "conflict_intensity": 42.0,
+    "civilian_risk": 84.8
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60
+      "items": 54
     },
     {
       "name": "ActuNiger",
@@ -77,19 +77,19 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 21
+      "items": 22
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 17
+      "items": 18
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 18
+      "items": 19
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Vacances 2026 : Orange Burkina pr\u00e9sente sa campagne \u00ab \u00c7a bouge \u00bb aux influenceurs \u00e0 travers une soir\u00e9e Afterwork",
       "link": "https://lefaso.net/spip.php?article147840",
       "source": "LeFaso",
-      "published_at": "2026-07-14T14:04:59.323730+00:00",
+      "published_at": "2026-07-14T15:41:07.002553+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-14T14:04:59.323730+00:00",
+      "published_at": "2026-07-14T15:41:07.002553+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,10 +120,23 @@
       ]
     },
     {
+      "title": "Saving Lives Under Threat: Thousands in Central Mali Protected from Explosive Risks Amid Funding Crisis",
+      "link": "https://reliefweb.int/report/mali/saving-lives-under-threat-thousands-central-mali-protected-explosive-risks-amid-funding-crisis",
+      "source": "ReliefWeb - Mali",
+      "published_at": "2026-07-14T15:41:07.002553+00:00",
+      "score": 1.26,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-14T14:04:59.323730+00:00",
+      "published_at": "2026-07-14T15:41:07.002553+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +149,7 @@
       "title": "Mali : L'arm\u00e9e prend le contr\u00f4le total d'An\u00e9fis et poursuit les op\u00e9rations de ratissage (Communiqu\u00e9)",
       "link": "https://lefaso.net/spip.php?article147792",
       "source": "LeFaso",
-      "published_at": "2026-07-14T14:04:59.323730+00:00",
+      "published_at": "2026-07-14T15:41:07.002553+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -144,32 +157,71 @@
       "regions": [
         "mali"
       ]
+    },
+    {
+      "title": "As Security Deteriorates, Sahelian Juntas Further Stifle Civilians",
+      "link": "https://allafrica.com/stories/202607140546.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-14T14:14:16+00:00",
+      "score": 1.06,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "sahel"
+      ]
+    },
+    {
+      "title": "As Security Deteriorates, Sahelian Juntas Further Stifle Civilians",
+      "link": "https://allafrica.com/stories/202607140546.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-07-14T14:14:16+00:00",
+      "score": 1.06,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "sahel"
+      ]
+    },
+    {
+      "title": "As Security Deteriorates, Sahelian Juntas Further Stifle Civilians",
+      "link": "https://allafrica.com/stories/202607140546.html",
+      "source": "AllAfrica - Burkina Faso",
+      "published_at": "2026-07-14T14:14:16+00:00",
+      "score": 1.06,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "sahel"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-14T16:30:58.234309+00:00",
-      "score": 17.8
+      "timestamp": "2026-07-14T17:17:14.681376+00:00",
+      "score": 20.4
     },
     {
-      "timestamp": "2026-07-14T18:56:57.144888+00:00",
-      "score": 17.0
+      "timestamp": "2026-07-14T18:53:22.360199+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-07-14T21:22:56.055467+00:00",
-      "score": 16.2
+      "timestamp": "2026-07-14T20:29:30.039022+00:00",
+      "score": 19.2
     },
     {
-      "timestamp": "2026-07-14T23:48:54.966046+00:00",
-      "score": 15.5
+      "timestamp": "2026-07-14T22:05:37.717845+00:00",
+      "score": 18.7
     },
     {
-      "timestamp": "2026-07-15T02:14:53.876625+00:00",
-      "score": 14.7
+      "timestamp": "2026-07-14T23:41:45.396668+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-07-15T04:40:52.787204+00:00",
-      "score": 13.9
+      "timestamp": "2026-07-15T01:17:53.075491+00:00",
+      "score": 17.5
     }
   ]
 }
