@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-13T23:03:50.921888+00:00",
+  "fetched_at": "2026-07-14T00:01:37.960207+00:00",
   "window_hours": 72,
   "score": 22.6,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 55
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-13T23:03:50.921888+00:00",
+      "published_at": "2026-07-14T00:01:37.960207+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "\u00c9tudes, formation ou stage \u00e0 l'\u00e9tranger : Ouverture des demandes d'autorisation sur CampusFaso d\u00e8s ce lundi 13 juillet 2026",
       "link": "https://lefaso.net/spip.php?article147781",
       "source": "LeFaso",
-      "published_at": "2026-07-13T23:03:50.921888+00:00",
+      "published_at": "2026-07-14T00:01:37.960207+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-13T23:03:50.921888+00:00",
+      "published_at": "2026-07-14T00:01:37.960207+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -136,7 +136,7 @@
       "title": "Mali : L'arm\u00e9e prend le contr\u00f4le total d'An\u00e9fis et poursuit les op\u00e9rations de ratissage (Communiqu\u00e9)",
       "link": "https://lefaso.net/spip.php?article147792",
       "source": "LeFaso",
-      "published_at": "2026-07-13T23:03:50.921888+00:00",
+      "published_at": "2026-07-14T00:01:37.960207+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-14T01:00:46.428262+00:00",
-      "score": 21.9
+      "timestamp": "2026-07-14T00:59:24.998526+00:00",
+      "score": 21.0
     },
     {
-      "timestamp": "2026-07-14T02:57:41.934636+00:00",
-      "score": 21.2
+      "timestamp": "2026-07-14T01:57:12.036845+00:00",
+      "score": 20.3
     },
     {
-      "timestamp": "2026-07-14T04:54:37.441010+00:00",
-      "score": 20.4
+      "timestamp": "2026-07-14T02:54:59.075164+00:00",
+      "score": 19.5
     },
     {
-      "timestamp": "2026-07-14T06:51:32.947384+00:00",
-      "score": 19.6
+      "timestamp": "2026-07-14T03:52:46.113483+00:00",
+      "score": 18.7
     },
     {
-      "timestamp": "2026-07-14T08:48:28.453758+00:00",
-      "score": 18.9
+      "timestamp": "2026-07-14T04:50:33.151802+00:00",
+      "score": 17.9
     },
     {
-      "timestamp": "2026-07-14T10:45:23.960132+00:00",
-      "score": 18.1
+      "timestamp": "2026-07-14T05:48:20.190121+00:00",
+      "score": 17.1
     }
   ]
 }
