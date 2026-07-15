@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-15T11:42:29.087772+00:00",
+  "fetched_at": "2026-07-15T14:01:48.855170+00:00",
   "window_hours": 72,
-  "score": 33.8,
+  "score": 36.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 30.7,
-    "civilian_risk": 92.3
+    "conflict_intensity": 36.4,
+    "civilian_risk": 90.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147855",
       "source": "LeFaso",
-      "published_at": "2026-07-15T11:42:29.087772+00:00",
+      "published_at": "2026-07-15T14:01:48.855170+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Vacances 2026 : Orange Burkina pr\u00e9sente sa campagne \u00ab \u00c7a bouge \u00bb aux influenceurs \u00e0 travers une soir\u00e9e Afterwork",
       "link": "https://lefaso.net/spip.php?article147840",
       "source": "LeFaso",
-      "published_at": "2026-07-15T11:42:29.087772+00:00",
+      "published_at": "2026-07-15T14:01:48.855170+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-15T11:42:29.087772+00:00",
+      "published_at": "2026-07-15T14:01:48.855170+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
       "source": "France 24 - Africa",
       "published_at": "2026-07-14T16:36:46+00:00",
-      "score": 1.44,
+      "score": 1.38,
       "tags": [
         "conflict_intensity"
       ],
@@ -149,7 +149,7 @@
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-15T11:42:29.087772+00:00",
+      "published_at": "2026-07-15T14:01:48.855170+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +163,7 @@
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.76,
+      "score": 0.72,
       "tags": [
         "civilian_risk"
       ],
@@ -176,7 +176,7 @@
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.76,
+      "score": 0.72,
       "tags": [
         "civilian_risk"
       ],
@@ -189,7 +189,7 @@
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.76,
+      "score": 0.72,
       "tags": [
         "civilian_risk"
       ],
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-15T14:07:33.625641+00:00",
-      "score": 39.8
+      "timestamp": "2026-07-15T16:21:08.622568+00:00",
+      "score": 41.0
     },
     {
-      "timestamp": "2026-07-15T16:32:38.163510+00:00",
-      "score": 40.6
+      "timestamp": "2026-07-15T18:40:28.389966+00:00",
+      "score": 41.9
     },
     {
-      "timestamp": "2026-07-15T18:57:42.701379+00:00",
-      "score": 41.4
+      "timestamp": "2026-07-15T20:59:48.157364+00:00",
+      "score": 42.7
     },
     {
-      "timestamp": "2026-07-15T21:22:47.239248+00:00",
-      "score": 42.1
+      "timestamp": "2026-07-15T23:19:07.924762+00:00",
+      "score": 43.6
     },
     {
-      "timestamp": "2026-07-15T23:47:51.777117+00:00",
-      "score": 42.9
+      "timestamp": "2026-07-16T01:38:27.692160+00:00",
+      "score": 44.5
     },
     {
-      "timestamp": "2026-07-16T02:12:56.314986+00:00",
-      "score": 43.7
+      "timestamp": "2026-07-16T03:57:47.459558+00:00",
+      "score": 45.4
     }
   ]
 }
