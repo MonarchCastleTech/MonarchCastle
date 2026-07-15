@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-15T19:24:39.896536+00:00",
+  "fetched_at": "2026-07-15T21:10:01.632336+00:00",
   "window_hours": 72,
-  "score": 37.0,
+  "score": 36.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 33.9,
+    "conflict_intensity": 33.1,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -16,20 +16,20 @@
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     },
     {
       "name": "MaliWeb",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 80
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : Sanlam Allianz mobilise ses collaborateurs pour renforcer les r\u00e9serves sanguines",
       "link": "https://lefaso.net/spip.php?article147873",
       "source": "LeFaso",
-      "published_at": "2026-07-15T19:24:39.896536+00:00",
+      "published_at": "2026-07-15T21:10:01.632336+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147855",
       "source": "LeFaso",
-      "published_at": "2026-07-15T19:24:39.896536+00:00",
+      "published_at": "2026-07-15T21:10:01.632336+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Vacances 2026 : Orange Burkina pr\u00e9sente sa campagne \u00ab \u00c7a bouge \u00bb aux influenceurs \u00e0 travers une soir\u00e9e Afterwork",
       "link": "https://lefaso.net/spip.php?article147840",
       "source": "LeFaso",
-      "published_at": "2026-07-15T19:24:39.896536+00:00",
+      "published_at": "2026-07-15T21:10:01.632336+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-15T19:24:39.896536+00:00",
+      "published_at": "2026-07-15T21:10:01.632336+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
       "source": "France 24 - Africa",
       "published_at": "2026-07-14T16:36:46+00:00",
-      "score": 1.23,
+      "score": 1.18,
       "tags": [
         "conflict_intensity"
       ],
@@ -164,7 +164,7 @@
       "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
       "link": "https://lefaso.net/spip.php?article147785",
       "source": "LeFaso",
-      "published_at": "2026-07-15T19:24:39.896536+00:00",
+      "published_at": "2026-07-15T21:10:01.632336+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -178,7 +178,7 @@
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.64,
+      "score": 0.62,
       "tags": [
         "civilian_risk"
       ],
@@ -191,7 +191,7 @@
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.64,
+      "score": 0.62,
       "tags": [
         "civilian_risk"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-15T21:23:41.497477+00:00",
-      "score": 42.7
+      "timestamp": "2026-07-15T22:55:23.368136+00:00",
+      "score": 42.4
     },
     {
-      "timestamp": "2026-07-15T23:22:43.098418+00:00",
-      "score": 43.6
+      "timestamp": "2026-07-16T00:40:45.103936+00:00",
+      "score": 43.2
     },
     {
-      "timestamp": "2026-07-16T01:21:44.699359+00:00",
-      "score": 44.6
+      "timestamp": "2026-07-16T02:26:06.839736+00:00",
+      "score": 44.1
     },
     {
-      "timestamp": "2026-07-16T03:20:46.300300+00:00",
-      "score": 45.5
+      "timestamp": "2026-07-16T04:11:28.575536+00:00",
+      "score": 44.9
     },
     {
-      "timestamp": "2026-07-16T05:19:47.901241+00:00",
-      "score": 46.4
+      "timestamp": "2026-07-16T05:56:50.311336+00:00",
+      "score": 45.7
     },
     {
-      "timestamp": "2026-07-16T07:18:49.502182+00:00",
-      "score": 47.3
+      "timestamp": "2026-07-16T07:42:12.047136+00:00",
+      "score": 46.6
     }
   ]
 }
