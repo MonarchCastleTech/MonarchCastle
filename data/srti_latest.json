@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-16T16:24:58.728042+00:00",
+  "fetched_at": "2026-07-16T18:13:23.709109+00:00",
   "window_hours": 72,
   "score": 38.6,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 91
+      "items": 95
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : Sanlam Allianz mobilise ses collaborateurs pour renforcer les r\u00e9serves sanguines",
       "link": "https://lefaso.net/spip.php?article147873",
       "source": "LeFaso",
-      "published_at": "2026-07-16T16:24:58.728042+00:00",
+      "published_at": "2026-07-16T18:13:23.709109+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147855",
       "source": "LeFaso",
-      "published_at": "2026-07-16T16:24:58.728042+00:00",
+      "published_at": "2026-07-16T18:13:23.709109+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Vacances 2026 : Orange Burkina pr\u00e9sente sa campagne \u00ab \u00c7a bouge \u00bb aux influenceurs \u00e0 travers une soir\u00e9e Afterwork",
       "link": "https://lefaso.net/spip.php?article147840",
       "source": "LeFaso",
-      "published_at": "2026-07-16T16:24:58.728042+00:00",
+      "published_at": "2026-07-16T18:13:23.709109+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-16T16:24:58.728042+00:00",
+      "published_at": "2026-07-16T18:13:23.709109+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "Burkina : WaterAid lance un projet pour renforcer les services WASH, la sant\u00e9 et l'hygi\u00e8ne menstruelles des filles dans la r\u00e9gion de Oubri",
       "link": "https://lefaso.net/spip.php?article147886",
       "source": "LeFaso",
-      "published_at": "2026-07-16T16:24:58.728042+00:00",
+      "published_at": "2026-07-16T18:13:23.709109+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,7 +165,7 @@
       "title": "\u200eBurkina : Plusieurs repaires terroristes nettoy\u00e9s par les forces combattantes au cours du mois de juin 2026",
       "link": "https://lefaso.net/spip.php?article147882",
       "source": "LeFaso",
-      "published_at": "2026-07-16T16:24:58.728042+00:00",
+      "published_at": "2026-07-16T18:13:23.709109+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -203,28 +203,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-16T18:36:52.351742+00:00",
-      "score": 41.0
+      "timestamp": "2026-07-16T20:01:48.690176+00:00",
+      "score": 39.5
     },
     {
-      "timestamp": "2026-07-16T20:48:45.975442+00:00",
-      "score": 41.4
+      "timestamp": "2026-07-16T21:50:13.671243+00:00",
+      "score": 39.6
     },
     {
-      "timestamp": "2026-07-16T23:00:39.599142+00:00",
-      "score": 41.7
+      "timestamp": "2026-07-16T23:38:38.652310+00:00",
+      "score": 39.7
     },
     {
-      "timestamp": "2026-07-17T01:12:33.222842+00:00",
-      "score": 42.0
+      "timestamp": "2026-07-17T01:27:03.633377+00:00",
+      "score": 39.9
     },
     {
-      "timestamp": "2026-07-17T03:24:26.846542+00:00",
-      "score": 42.3
+      "timestamp": "2026-07-17T03:15:28.614444+00:00",
+      "score": 40.0
     },
     {
-      "timestamp": "2026-07-17T05:36:20.470242+00:00",
-      "score": 42.7
+      "timestamp": "2026-07-17T05:03:53.595511+00:00",
+      "score": 40.2
     }
   ]
 }
