@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-16T06:26:38.676738+00:00",
+  "fetched_at": "2026-07-16T09:21:46.486482+00:00",
   "window_hours": 72,
-  "score": 41.1,
+  "score": 40.2,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 42.2,
-    "civilian_risk": 100.0
+    "conflict_intensity": 40.8,
+    "civilian_risk": 98.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : Sanlam Allianz mobilise ses collaborateurs pour renforcer les r\u00e9serves sanguines",
       "link": "https://lefaso.net/spip.php?article147873",
       "source": "LeFaso",
-      "published_at": "2026-07-16T06:26:38.676738+00:00",
+      "published_at": "2026-07-16T09:21:46.486482+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147855",
       "source": "LeFaso",
-      "published_at": "2026-07-16T06:26:38.676738+00:00",
+      "published_at": "2026-07-16T09:21:46.486482+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Vacances 2026 : Orange Burkina pr\u00e9sente sa campagne \u00ab \u00c7a bouge \u00bb aux influenceurs \u00e0 travers une soir\u00e9e Afterwork",
       "link": "https://lefaso.net/spip.php?article147840",
       "source": "LeFaso",
-      "published_at": "2026-07-16T06:26:38.676738+00:00",
+      "published_at": "2026-07-16T09:21:46.486482+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-16T06:26:38.676738+00:00",
+      "published_at": "2026-07-16T09:21:46.486482+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "Burkina : WaterAid lance un projet pour renforcer les services WASH, la sant\u00e9 et l'hygi\u00e8ne menstruelles des filles dans la r\u00e9gion de Oubri",
       "link": "https://lefaso.net/spip.php?article147886",
       "source": "LeFaso",
-      "published_at": "2026-07-16T06:26:38.676738+00:00",
+      "published_at": "2026-07-16T09:21:46.486482+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -165,7 +165,7 @@
       "title": "\u200eBurkina : Plusieurs repaires terroristes nettoy\u00e9s par les forces combattantes au cours du mois de juin 2026",
       "link": "https://lefaso.net/spip.php?article147882",
       "source": "LeFaso",
-      "published_at": "2026-07-16T06:26:38.676738+00:00",
+      "published_at": "2026-07-16T09:21:46.486482+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -179,7 +179,7 @@
       "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
       "source": "France 24 - Africa",
       "published_at": "2026-07-14T16:36:46+00:00",
-      "score": 0.93,
+      "score": 0.85,
       "tags": [
         "conflict_intensity"
       ],
@@ -192,7 +192,7 @@
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.48,
+      "score": 0.43,
       "tags": [
         "civilian_risk"
       ],
@@ -203,28 +203,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-16T09:25:15.286414+00:00",
-      "score": 43.1
+      "timestamp": "2026-07-16T12:16:54.296226+00:00",
+      "score": 43.0
     },
     {
-      "timestamp": "2026-07-16T12:23:51.896090+00:00",
-      "score": 43.8
+      "timestamp": "2026-07-16T15:12:02.105970+00:00",
+      "score": 43.7
     },
     {
-      "timestamp": "2026-07-16T15:22:28.505766+00:00",
-      "score": 44.5
+      "timestamp": "2026-07-16T18:07:09.915714+00:00",
+      "score": 44.3
     },
     {
-      "timestamp": "2026-07-16T18:21:05.115442+00:00",
-      "score": 45.2
+      "timestamp": "2026-07-16T21:02:17.725458+00:00",
+      "score": 45.0
     },
     {
-      "timestamp": "2026-07-16T21:19:41.725118+00:00",
-      "score": 45.9
+      "timestamp": "2026-07-16T23:57:25.535202+00:00",
+      "score": 45.6
     },
     {
-      "timestamp": "2026-07-17T00:18:18.334794+00:00",
-      "score": 46.7
+      "timestamp": "2026-07-17T02:52:33.344946+00:00",
+      "score": 46.3
     }
   ]
 }
