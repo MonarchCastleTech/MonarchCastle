@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-15T23:05:50.606386+00:00",
+  "fetched_at": "2026-07-16T03:28:02.067062+00:00",
   "window_hours": 72,
-  "score": 36.1,
-  "risk_level": "GUARDED",
+  "score": 41.8,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 32.2,
+    "conflict_intensity": 43.6,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 10,
+  "items_count": 11,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77
+      "items": 80
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : Sanlam Allianz mobilise ses collaborateurs pour renforcer les r\u00e9serves sanguines",
       "link": "https://lefaso.net/spip.php?article147873",
       "source": "LeFaso",
-      "published_at": "2026-07-15T23:05:50.606386+00:00",
+      "published_at": "2026-07-16T03:28:02.067062+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147855",
       "source": "LeFaso",
-      "published_at": "2026-07-15T23:05:50.606386+00:00",
+      "published_at": "2026-07-16T03:28:02.067062+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Vacances 2026 : Orange Burkina pr\u00e9sente sa campagne \u00ab \u00c7a bouge \u00bb aux influenceurs \u00e0 travers une soir\u00e9e Afterwork",
       "link": "https://lefaso.net/spip.php?article147840",
       "source": "LeFaso",
-      "published_at": "2026-07-15T23:05:50.606386+00:00",
+      "published_at": "2026-07-16T03:28:02.067062+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,10 +138,37 @@
       "title": "Bobo-Dioulasso : Les forces arm\u00e9es nationales accueillent un nouveau contingent de sp\u00e9cialistes",
       "link": "https://lefaso.net/spip.php?article147829",
       "source": "LeFaso",
-      "published_at": "2026-07-15T23:05:50.606386+00:00",
+      "published_at": "2026-07-16T03:28:02.067062+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
+      "title": "Burkina : WaterAid lance un projet pour renforcer les services WASH, la sant\u00e9 et l'hygi\u00e8ne menstruelles des filles dans la r\u00e9gion de Oubri",
+      "link": "https://lefaso.net/spip.php?article147886",
+      "source": "LeFaso",
+      "published_at": "2026-07-16T03:28:02.067062+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
+      ]
+    },
+    {
+      "title": "\u200eBurkina : Plusieurs repaires terroristes nettoy\u00e9s par les forces combattantes au cours du mois de juin 2026",
+      "link": "https://lefaso.net/spip.php?article147882",
+      "source": "LeFaso",
+      "published_at": "2026-07-16T03:28:02.067062+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
       ],
       "regions": [
         "burkina"
@@ -152,7 +179,7 @@
       "link": "https://www.france24.com/en/africa/20260714-how-jihadist-groups-like-boko-haram-use-ai-for-acts-of-terror",
       "source": "France 24 - Africa",
       "published_at": "2026-07-14T16:36:46+00:00",
-      "score": 1.13,
+      "score": 1.01,
       "tags": [
         "conflict_intensity"
       ],
@@ -161,37 +188,11 @@
       ]
     },
     {
-      "title": "Burkina/Cin\u00e9ma : \u00ab Les grands d\u00e9fis restent le financement, la formation et les \u00e9quipements \u00bb, explique le r\u00e9alisateur Corenthien Nana",
-      "link": "https://lefaso.net/spip.php?article147785",
-      "source": "LeFaso",
-      "published_at": "2026-07-15T23:05:50.606386+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
       "title": "As Security Deteriorates, Sahelian Juntas Further Stifle Civilians",
       "link": "https://allafrica.com/stories/202607140546.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.59,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "sahel"
-      ]
-    },
-    {
-      "title": "As Security Deteriorates, Sahelian Juntas Further Stifle Civilians",
-      "link": "https://allafrica.com/stories/202607140546.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-07-14T14:14:16+00:00",
-      "score": 0.59,
+      "score": 0.52,
       "tags": [
         "civilian_risk"
       ],
@@ -202,28 +203,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-16T01:01:39.580436+00:00",
-      "score": 42.2
+      "timestamp": "2026-07-16T07:50:13.527738+00:00",
+      "score": 42.8
     },
     {
-      "timestamp": "2026-07-16T02:57:28.554486+00:00",
-      "score": 43.0
+      "timestamp": "2026-07-16T12:12:24.988414+00:00",
+      "score": 43.6
     },
     {
-      "timestamp": "2026-07-16T04:53:17.528536+00:00",
-      "score": 43.7
+      "timestamp": "2026-07-16T16:34:36.449090+00:00",
+      "score": 44.3
     },
     {
-      "timestamp": "2026-07-16T06:49:06.502586+00:00",
-      "score": 44.5
+      "timestamp": "2026-07-16T20:56:47.909766+00:00",
+      "score": 45.1
     },
     {
-      "timestamp": "2026-07-16T08:44:55.476636+00:00",
-      "score": 45.3
+      "timestamp": "2026-07-17T01:18:59.370442+00:00",
+      "score": 45.8
     },
     {
-      "timestamp": "2026-07-16T10:40:44.450686+00:00",
-      "score": 46.1
+      "timestamp": "2026-07-17T05:41:10.831118+00:00",
+      "score": 46.6
     }
   ]
 }
