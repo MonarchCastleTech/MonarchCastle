@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-17T14:49:49.348602+00:00",
+  "fetched_at": "2026-07-17T16:21:35.998306+00:00",
   "window_hours": 72,
   "score": 36.5,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 35.1,
-    "civilian_risk": 94.9
+    "civilian_risk": 94.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 94
+      "items": 98
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Occupation anarchique des emprises publiques : L'ONC-AC en campagne de sensibilisation \u00e0 Koudougou et Zawara",
       "link": "https://lefaso.net/spip.php?article147928",
       "source": "LeFaso",
-      "published_at": "2026-07-17T14:49:49.348602+00:00",
+      "published_at": "2026-07-17T16:21:35.998306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina : L'arm\u00e9e d\u00e9ploie un h\u00f4pital mobile de campagne \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147927",
       "source": "LeFaso",
-      "published_at": "2026-07-17T14:49:49.348602+00:00",
+      "published_at": "2026-07-17T16:21:35.998306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Burkina/Don de sang : Sanlam Allianz mobilise ses collaborateurs pour renforcer les r\u00e9serves sanguines",
       "link": "https://lefaso.net/spip.php?article147873",
       "source": "LeFaso",
-      "published_at": "2026-07-17T14:49:49.348602+00:00",
+      "published_at": "2026-07-17T16:21:35.998306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147855",
       "source": "LeFaso",
-      "published_at": "2026-07-17T14:49:49.348602+00:00",
+      "published_at": "2026-07-17T16:21:35.998306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +149,7 @@
       "title": "Burkina : WaterAid lance un projet pour renforcer les services WASH, la sant\u00e9 et l'hygi\u00e8ne menstruelles des filles dans la r\u00e9gion de Oubri",
       "link": "https://lefaso.net/spip.php?article147886",
       "source": "LeFaso",
-      "published_at": "2026-07-17T14:49:49.348602+00:00",
+      "published_at": "2026-07-17T16:21:35.998306+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +163,7 @@
       "title": "\u200eBurkina : Plusieurs repaires terroristes nettoy\u00e9s par les forces combattantes au cours du mois de juin 2026",
       "link": "https://lefaso.net/spip.php?article147882",
       "source": "LeFaso",
-      "published_at": "2026-07-17T14:49:49.348602+00:00",
+      "published_at": "2026-07-17T16:21:35.998306+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -177,7 +177,7 @@
       "link": "https://allafrica.com/stories/202607170246.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-17T10:47:09+00:00",
-      "score": 1.02,
+      "score": 1.0,
       "tags": [
         "civilian_risk"
       ],
@@ -201,28 +201,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-17T17:22:42.854274+00:00",
-      "score": 36.9
+      "timestamp": "2026-07-17T17:53:22.648010+00:00",
+      "score": 36.6
     },
     {
-      "timestamp": "2026-07-17T19:55:36.359946+00:00",
-      "score": 36.9
+      "timestamp": "2026-07-17T19:25:09.297714+00:00",
+      "score": 36.5
     },
     {
-      "timestamp": "2026-07-17T22:28:29.865618+00:00",
-      "score": 36.8
+      "timestamp": "2026-07-17T20:56:55.947418+00:00",
+      "score": 36.5
     },
     {
-      "timestamp": "2026-07-18T01:01:23.371290+00:00",
-      "score": 36.8
+      "timestamp": "2026-07-17T22:28:42.597122+00:00",
+      "score": 36.4
     },
     {
-      "timestamp": "2026-07-18T03:34:16.876962+00:00",
-      "score": 36.8
+      "timestamp": "2026-07-18T00:00:29.246826+00:00",
+      "score": 36.3
     },
     {
-      "timestamp": "2026-07-18T06:07:10.382634+00:00",
-      "score": 36.7
+      "timestamp": "2026-07-18T01:32:15.896530+00:00",
+      "score": 36.3
     }
   ]
 }
