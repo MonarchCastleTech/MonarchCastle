@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-17T22:00:52.801817+00:00",
+  "fetched_at": "2026-07-17T22:58:20.762185+00:00",
   "window_hours": 72,
-  "score": 36.8,
+  "score": 32.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 36.3,
-    "civilian_risk": 93.4
+    "conflict_intensity": 36.1,
+    "civilian_risk": 73.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,13 +41,13 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 95
+      "items": 85
     },
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "ok",
-      "items": 5
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "BBC Africa",
@@ -97,7 +97,7 @@
       "title": "Occupation anarchique des emprises publiques : L'ONC-AC en campagne de sensibilisation \u00e0 Koudougou et Zawara",
       "link": "https://lefaso.net/spip.php?article147928",
       "source": "LeFaso",
-      "published_at": "2026-07-17T22:00:52.801817+00:00",
+      "published_at": "2026-07-17T22:58:20.762185+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina : L'arm\u00e9e d\u00e9ploie un h\u00f4pital mobile de campagne \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147927",
       "source": "LeFaso",
-      "published_at": "2026-07-17T22:00:52.801817+00:00",
+      "published_at": "2026-07-17T22:58:20.762185+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Burkina/Don de sang : Sanlam Allianz mobilise ses collaborateurs pour renforcer les r\u00e9serves sanguines",
       "link": "https://lefaso.net/spip.php?article147873",
       "source": "LeFaso",
-      "published_at": "2026-07-17T22:00:52.801817+00:00",
+      "published_at": "2026-07-17T22:58:20.762185+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,23 +133,10 @@
       ]
     },
     {
-      "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
-      "link": "https://lefaso.net/spip.php?article147855",
-      "source": "LeFaso",
-      "published_at": "2026-07-17T22:00:52.801817+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
       "title": "Burkina : WaterAid lance un projet pour renforcer les services WASH, la sant\u00e9 et l'hygi\u00e8ne menstruelles des filles dans la r\u00e9gion de Oubri",
       "link": "https://lefaso.net/spip.php?article147886",
       "source": "LeFaso",
-      "published_at": "2026-07-17T22:00:52.801817+00:00",
+      "published_at": "2026-07-17T22:58:20.762185+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +150,7 @@
       "title": "\u200eBurkina : Plusieurs repaires terroristes nettoy\u00e9s par les forces combattantes au cours du mois de juin 2026",
       "link": "https://lefaso.net/spip.php?article147882",
       "source": "LeFaso",
-      "published_at": "2026-07-17T22:00:52.801817+00:00",
+      "published_at": "2026-07-17T22:58:20.762185+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -177,7 +164,7 @@
       "link": "https://allafrica.com/stories/202607170246.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-17T10:47:09+00:00",
-      "score": 0.91,
+      "score": 0.9,
       "tags": [
         "civilian_risk"
       ],
@@ -190,7 +177,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-17T17:01:16+00:00",
-      "score": 0.78,
+      "score": 0.77,
       "tags": [
         "conflict_intensity"
       ],
@@ -201,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-17T23:50:13.186439+00:00",
-      "score": 36.5
+      "timestamp": "2026-07-17T23:55:48.722553+00:00",
+      "score": 35.6
     },
     {
-      "timestamp": "2026-07-18T01:39:33.571061+00:00",
-      "score": 36.4
+      "timestamp": "2026-07-18T00:53:16.682921+00:00",
+      "score": 35.4
     },
     {
-      "timestamp": "2026-07-18T03:28:53.955683+00:00",
-      "score": 36.3
+      "timestamp": "2026-07-18T01:50:44.643289+00:00",
+      "score": 35.3
     },
     {
-      "timestamp": "2026-07-18T05:18:14.340305+00:00",
-      "score": 36.3
+      "timestamp": "2026-07-18T02:48:12.603657+00:00",
+      "score": 35.2
     },
     {
-      "timestamp": "2026-07-18T07:07:34.724927+00:00",
-      "score": 36.2
+      "timestamp": "2026-07-18T03:45:40.564025+00:00",
+      "score": 35.0
     },
     {
-      "timestamp": "2026-07-18T08:56:55.109549+00:00",
-      "score": 36.1
+      "timestamp": "2026-07-18T04:43:08.524393+00:00",
+      "score": 34.9
     }
   ]
 }
