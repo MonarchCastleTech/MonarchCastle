@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-17T00:06:09.670421+00:00",
+  "fetched_at": "2026-07-17T04:15:19.830093+00:00",
   "window_hours": 72,
   "score": 34.6,
   "risk_level": "GUARDED",
@@ -97,7 +97,7 @@
       "title": "Burkina/Don de sang : Sanlam Allianz mobilise ses collaborateurs pour renforcer les r\u00e9serves sanguines",
       "link": "https://lefaso.net/spip.php?article147873",
       "source": "LeFaso",
-      "published_at": "2026-07-17T00:06:09.670421+00:00",
+      "published_at": "2026-07-17T04:15:19.830093+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina : Un h\u00f4pital mobile de campagne de l'arm\u00e9e offre des soins gratuits aux populations vuln\u00e9rables \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147855",
       "source": "LeFaso",
-      "published_at": "2026-07-17T00:06:09.670421+00:00",
+      "published_at": "2026-07-17T04:15:19.830093+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Vacances 2026 : Orange Burkina pr\u00e9sente sa campagne \u00ab \u00c7a bouge \u00bb aux influenceurs \u00e0 travers une soir\u00e9e Afterwork",
       "link": "https://lefaso.net/spip.php?article147840",
       "source": "LeFaso",
-      "published_at": "2026-07-17T00:06:09.670421+00:00",
+      "published_at": "2026-07-17T04:15:19.830093+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : WaterAid lance un projet pour renforcer les services WASH, la sant\u00e9 et l'hygi\u00e8ne menstruelles des filles dans la r\u00e9gion de Oubri",
       "link": "https://lefaso.net/spip.php?article147886",
       "source": "LeFaso",
-      "published_at": "2026-07-17T00:06:09.670421+00:00",
+      "published_at": "2026-07-17T04:15:19.830093+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,7 +152,7 @@
       "title": "\u200eBurkina : Plusieurs repaires terroristes nettoy\u00e9s par les forces combattantes au cours du mois de juin 2026",
       "link": "https://lefaso.net/spip.php?article147882",
       "source": "LeFaso",
-      "published_at": "2026-07-17T00:06:09.670421+00:00",
+      "published_at": "2026-07-17T04:15:19.830093+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -203,28 +203,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-17T02:01:49.456423+00:00",
-      "score": 37.8
+      "timestamp": "2026-07-17T08:24:29.989765+00:00",
+      "score": 37.5
     },
     {
-      "timestamp": "2026-07-17T03:57:29.242425+00:00",
-      "score": 37.7
+      "timestamp": "2026-07-17T12:33:40.149437+00:00",
+      "score": 37.5
     },
     {
-      "timestamp": "2026-07-17T05:53:09.028427+00:00",
-      "score": 37.7
+      "timestamp": "2026-07-17T16:42:50.309109+00:00",
+      "score": 37.5
     },
     {
-      "timestamp": "2026-07-17T07:48:48.814429+00:00",
-      "score": 37.7
+      "timestamp": "2026-07-17T20:52:00.468781+00:00",
+      "score": 37.4
     },
     {
-      "timestamp": "2026-07-17T09:44:28.600431+00:00",
-      "score": 37.6
+      "timestamp": "2026-07-18T01:01:10.628453+00:00",
+      "score": 37.4
     },
     {
-      "timestamp": "2026-07-17T11:40:08.386433+00:00",
-      "score": 37.6
+      "timestamp": "2026-07-18T05:10:20.788125+00:00",
+      "score": 37.4
     }
   ]
 }
