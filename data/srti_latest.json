@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-18T21:00:09.310638+00:00",
+  "fetched_at": "2026-07-18T21:58:00.479883+00:00",
   "window_hours": 72,
-  "score": 42.4,
+  "score": 46.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 65.5,
-    "civilian_risk": 48.3
+    "conflict_intensity": 64.9,
+    "civilian_risk": 68.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 79
+      "items": 80
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260718-malian-army-convoy-ambushed-by-rebels-north-of-gao",
       "source": "France 24 - Africa",
       "published_at": "2026-07-18T15:10:44+00:00",
-      "score": 2.7,
+      "score": 2.66,
       "tags": [
         "conflict_intensity"
       ],
@@ -108,10 +108,23 @@
       ]
     },
     {
+      "title": "\u200eBurkina : Des cadres de la Pr\u00e9sidence du Faso d\u00e9sormais VDP",
+      "link": "https://lefaso.net/spip.php?article147952",
+      "source": "LeFaso",
+      "published_at": "2026-07-18T21:58:00.479883+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "Occupation anarchique des emprises publiques : L'ONC-AC en campagne de sensibilisation \u00e0 Koudougou et Zawara",
       "link": "https://lefaso.net/spip.php?article147928",
       "source": "LeFaso",
-      "published_at": "2026-07-18T21:00:09.310638+00:00",
+      "published_at": "2026-07-18T21:58:00.479883+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +135,7 @@
       "title": "Burkina : L'arm\u00e9e d\u00e9ploie un h\u00f4pital mobile de campagne \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147927",
       "source": "LeFaso",
-      "published_at": "2026-07-18T21:00:09.310638+00:00",
+      "published_at": "2026-07-18T21:58:00.479883+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +148,7 @@
       "title": "Burkina : WaterAid lance un projet pour renforcer les services WASH, la sant\u00e9 et l'hygi\u00e8ne menstruelles des filles dans la r\u00e9gion de Oubri",
       "link": "https://lefaso.net/spip.php?article147886",
       "source": "LeFaso",
-      "published_at": "2026-07-18T21:00:09.310638+00:00",
+      "published_at": "2026-07-18T21:58:00.479883+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -149,7 +162,7 @@
       "title": "\u200eBurkina : Plusieurs repaires terroristes nettoy\u00e9s par les forces combattantes au cours du mois de juin 2026",
       "link": "https://lefaso.net/spip.php?article147882",
       "source": "LeFaso",
-      "published_at": "2026-07-18T21:00:09.310638+00:00",
+      "published_at": "2026-07-18T21:58:00.479883+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +176,7 @@
       "link": "https://allafrica.com/stories/202607170246.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-17T10:47:09+00:00",
-      "score": 0.57,
+      "score": 0.55,
       "tags": [
         "civilian_risk"
       ],
@@ -176,7 +189,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-17T17:01:16+00:00",
-      "score": 0.51,
+      "score": 0.5,
       "tags": [
         "conflict_intensity"
       ],
@@ -187,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-18T22:42:37.947683+00:00",
-      "score": 38.9
+      "timestamp": "2026-07-18T22:55:51.649128+00:00",
+      "score": 40.8
     },
     {
-      "timestamp": "2026-07-19T00:25:06.584728+00:00",
-      "score": 39.2
+      "timestamp": "2026-07-18T23:53:42.818373+00:00",
+      "score": 41.2
     },
     {
-      "timestamp": "2026-07-19T02:07:35.221773+00:00",
-      "score": 39.4
+      "timestamp": "2026-07-19T00:51:33.987618+00:00",
+      "score": 41.5
     },
     {
-      "timestamp": "2026-07-19T03:50:03.858818+00:00",
-      "score": 39.6
+      "timestamp": "2026-07-19T01:49:25.156863+00:00",
+      "score": 41.8
     },
     {
-      "timestamp": "2026-07-19T05:32:32.495863+00:00",
-      "score": 39.8
+      "timestamp": "2026-07-19T02:47:16.326108+00:00",
+      "score": 42.2
     },
     {
-      "timestamp": "2026-07-19T07:15:01.132908+00:00",
-      "score": 40.0
+      "timestamp": "2026-07-19T03:45:07.495353+00:00",
+      "score": 42.5
     }
   ]
 }
