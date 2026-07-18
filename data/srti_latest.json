@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-18T06:12:24.513457+00:00",
+  "fetched_at": "2026-07-18T08:54:32.362307+00:00",
   "window_hours": 72,
-  "score": 31.9,
+  "score": 31.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.1,
-    "civilian_risk": 71.5
+    "conflict_intensity": 34.7,
+    "civilian_risk": 71.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -46,8 +46,8 @@
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 5
     },
     {
       "name": "BBC Africa",
@@ -97,7 +97,7 @@
       "title": "Occupation anarchique des emprises publiques : L'ONC-AC en campagne de sensibilisation \u00e0 Koudougou et Zawara",
       "link": "https://lefaso.net/spip.php?article147928",
       "source": "LeFaso",
-      "published_at": "2026-07-18T06:12:24.513457+00:00",
+      "published_at": "2026-07-18T08:54:32.362307+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina : L'arm\u00e9e d\u00e9ploie un h\u00f4pital mobile de campagne \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147927",
       "source": "LeFaso",
-      "published_at": "2026-07-18T06:12:24.513457+00:00",
+      "published_at": "2026-07-18T08:54:32.362307+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Burkina/Don de sang : Sanlam Allianz mobilise ses collaborateurs pour renforcer les r\u00e9serves sanguines",
       "link": "https://lefaso.net/spip.php?article147873",
       "source": "LeFaso",
-      "published_at": "2026-07-18T06:12:24.513457+00:00",
+      "published_at": "2026-07-18T08:54:32.362307+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina : WaterAid lance un projet pour renforcer les services WASH, la sant\u00e9 et l'hygi\u00e8ne menstruelles des filles dans la r\u00e9gion de Oubri",
       "link": "https://lefaso.net/spip.php?article147886",
       "source": "LeFaso",
-      "published_at": "2026-07-18T06:12:24.513457+00:00",
+      "published_at": "2026-07-18T08:54:32.362307+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,7 +150,7 @@
       "title": "\u200eBurkina : Plusieurs repaires terroristes nettoy\u00e9s par les forces combattantes au cours du mois de juin 2026",
       "link": "https://lefaso.net/spip.php?article147882",
       "source": "LeFaso",
-      "published_at": "2026-07-18T06:12:24.513457+00:00",
+      "published_at": "2026-07-18T08:54:32.362307+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -164,7 +164,7 @@
       "link": "https://allafrica.com/stories/202607170246.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-17T10:47:09+00:00",
-      "score": 0.79,
+      "score": 0.75,
       "tags": [
         "civilian_risk"
       ],
@@ -177,7 +177,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-17T17:01:16+00:00",
-      "score": 0.69,
+      "score": 0.65,
       "tags": [
         "conflict_intensity"
       ],
@@ -188,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-18T09:05:30.312229+00:00",
-      "score": 32.9
-    },
-    {
-      "timestamp": "2026-07-18T11:58:36.111001+00:00",
-      "score": 32.6
-    },
-    {
-      "timestamp": "2026-07-18T14:51:41.909773+00:00",
-      "score": 32.3
-    },
-    {
-      "timestamp": "2026-07-18T17:44:47.708545+00:00",
+      "timestamp": "2026-07-18T11:36:40.211157+00:00",
       "score": 32.0
     },
     {
-      "timestamp": "2026-07-18T20:37:53.507317+00:00",
-      "score": 31.7
+      "timestamp": "2026-07-18T14:18:48.060007+00:00",
+      "score": 31.6
     },
     {
-      "timestamp": "2026-07-18T23:30:59.306089+00:00",
-      "score": 31.4
+      "timestamp": "2026-07-18T17:00:55.908857+00:00",
+      "score": 31.2
+    },
+    {
+      "timestamp": "2026-07-18T19:43:03.757707+00:00",
+      "score": 30.9
+    },
+    {
+      "timestamp": "2026-07-18T22:25:11.606557+00:00",
+      "score": 30.5
+    },
+    {
+      "timestamp": "2026-07-19T01:07:19.455407+00:00",
+      "score": 30.2
     }
   ]
 }
