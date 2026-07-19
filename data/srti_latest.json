@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-19T15:05:22.081475+00:00",
+  "fetched_at": "2026-07-19T17:08:27.211453+00:00",
   "window_hours": 72,
-  "score": 39.0,
+  "score": 38.3,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 38.1,
+    "conflict_intensity": 36.6,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-07-19T09:44:32+00:00",
-      "score": 2.07,
+      "score": 2.01,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260718-malian-army-convoy-ambushed-by-rebels-north-of-gao",
       "source": "France 24 - Africa",
       "published_at": "2026-07-18T15:10:44+00:00",
-      "score": 1.96,
+      "score": 1.88,
       "tags": [
         "conflict_intensity"
       ],
@@ -122,10 +122,21 @@
       ]
     },
     {
+      "title": "R\u00e9gion du Sourou : L'initiative \u00ab Toma ville propre \u00bb officiellement lanc\u00e9e pour assainir la commune et la province du Nayala",
+      "link": "https://lefaso.net/spip.php?article147968",
+      "source": "LeFaso",
+      "published_at": "2026-07-19T17:08:27.211453+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "\u200eInitiative pr\u00e9sidentielle pour la sant\u00e9 : L'h\u00f4pital mobile de campagne renforce l'acc\u00e8s aux soins sp\u00e9cialis\u00e9s \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147966",
       "source": "LeFaso",
-      "published_at": "2026-07-19T15:05:22.081475+00:00",
+      "published_at": "2026-07-19T17:08:27.211453+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +147,7 @@
       "title": "\u200eBurkina : Des cadres de la Pr\u00e9sidence du Faso d\u00e9sormais VDP",
       "link": "https://lefaso.net/spip.php?article147952",
       "source": "LeFaso",
-      "published_at": "2026-07-19T15:05:22.081475+00:00",
+      "published_at": "2026-07-19T17:08:27.211453+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +160,7 @@
       "title": "Occupation anarchique des emprises publiques : L'ONC-AC en campagne de sensibilisation \u00e0 Koudougou et Zawara",
       "link": "https://lefaso.net/spip.php?article147928",
       "source": "LeFaso",
-      "published_at": "2026-07-19T15:05:22.081475+00:00",
+      "published_at": "2026-07-19T17:08:27.211453+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,7 +171,7 @@
       "title": "Burkina : L'arm\u00e9e d\u00e9ploie un h\u00f4pital mobile de campagne \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147927",
       "source": "LeFaso",
-      "published_at": "2026-07-19T15:05:22.081475+00:00",
+      "published_at": "2026-07-19T17:08:27.211453+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -181,45 +192,32 @@
       "regions": [
         "mali"
       ]
-    },
-    {
-      "title": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-      "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-07-17T17:01:16+00:00",
-      "score": 0.3,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-19T16:27:12.710432+00:00",
-      "score": 38.4
-    },
-    {
-      "timestamp": "2026-07-19T17:49:03.339389+00:00",
-      "score": 38.6
-    },
-    {
-      "timestamp": "2026-07-19T19:10:53.968346+00:00",
+      "timestamp": "2026-07-19T19:11:32.341431+00:00",
       "score": 38.8
     },
     {
-      "timestamp": "2026-07-19T20:32:44.597303+00:00",
-      "score": 38.9
+      "timestamp": "2026-07-19T21:14:37.471409+00:00",
+      "score": 39.0
     },
     {
-      "timestamp": "2026-07-19T21:54:35.226260+00:00",
-      "score": 39.1
+      "timestamp": "2026-07-19T23:17:42.601387+00:00",
+      "score": 39.2
     },
     {
-      "timestamp": "2026-07-19T23:16:25.855217+00:00",
-      "score": 39.3
+      "timestamp": "2026-07-20T01:20:47.731365+00:00",
+      "score": 39.4
+    },
+    {
+      "timestamp": "2026-07-20T03:23:52.861343+00:00",
+      "score": 39.6
+    },
+    {
+      "timestamp": "2026-07-20T05:26:57.991321+00:00",
+      "score": 39.8
     }
   ]
 }
