@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-19T00:02:01.589574+00:00",
+  "fetched_at": "2026-07-19T03:40:47.255306+00:00",
   "window_hours": 72,
-  "score": 31.9,
+  "score": 30.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 36.7,
-    "civilian_risk": 67.8
+    "conflict_intensity": 34.4,
+    "civilian_risk": 67.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,13 +41,13 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 67
+      "items": 70
     },
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 5
     },
     {
       "name": "BBC Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 26
+      "items": 25
     },
     {
       "name": "AllAfrica - Niger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 20
+      "items": 18
     }
   ],
   "top_headlines": [
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260718-malian-army-convoy-ambushed-by-rebels-north-of-gao",
       "source": "France 24 - Africa",
       "published_at": "2026-07-18T15:10:44+00:00",
-      "score": 2.58,
+      "score": 2.43,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "title": "\u200eBurkina : Des cadres de la Pr\u00e9sidence du Faso d\u00e9sormais VDP",
       "link": "https://lefaso.net/spip.php?article147952",
       "source": "LeFaso",
-      "published_at": "2026-07-19T00:02:01.589574+00:00",
+      "published_at": "2026-07-19T03:40:47.255306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Occupation anarchique des emprises publiques : L'ONC-AC en campagne de sensibilisation \u00e0 Koudougou et Zawara",
       "link": "https://lefaso.net/spip.php?article147928",
       "source": "LeFaso",
-      "published_at": "2026-07-19T00:02:01.589574+00:00",
+      "published_at": "2026-07-19T03:40:47.255306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Burkina : L'arm\u00e9e d\u00e9ploie un h\u00f4pital mobile de campagne \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147927",
       "source": "LeFaso",
-      "published_at": "2026-07-19T00:02:01.589574+00:00",
+      "published_at": "2026-07-19T03:40:47.255306+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +149,7 @@
       "link": "https://allafrica.com/stories/202607170246.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-17T10:47:09+00:00",
-      "score": 0.52,
+      "score": 0.47,
       "tags": [
         "civilian_risk"
       ],
@@ -162,7 +162,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-17T17:01:16+00:00",
-      "score": 0.48,
+      "score": 0.44,
       "tags": [
         "conflict_intensity"
       ],
@@ -173,28 +173,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-19T01:05:25.060867+00:00",
-      "score": 40.9
+      "timestamp": "2026-07-19T07:19:32.921038+00:00",
+      "score": 39.6
     },
     {
-      "timestamp": "2026-07-19T02:08:48.532160+00:00",
-      "score": 41.2
+      "timestamp": "2026-07-19T10:58:18.586770+00:00",
+      "score": 39.9
     },
     {
-      "timestamp": "2026-07-19T03:12:12.003453+00:00",
-      "score": 41.5
+      "timestamp": "2026-07-19T14:37:04.252502+00:00",
+      "score": 40.1
     },
     {
-      "timestamp": "2026-07-19T04:15:35.474746+00:00",
-      "score": 41.8
+      "timestamp": "2026-07-19T18:15:49.918234+00:00",
+      "score": 40.3
     },
     {
-      "timestamp": "2026-07-19T05:18:58.946039+00:00",
-      "score": 42.2
+      "timestamp": "2026-07-19T21:54:35.583966+00:00",
+      "score": 40.6
     },
     {
-      "timestamp": "2026-07-19T06:22:22.417332+00:00",
-      "score": 42.5
+      "timestamp": "2026-07-20T01:33:21.249698+00:00",
+      "score": 40.8
     }
   ]
 }
