@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-20T19:00:18.699096+00:00",
+  "fetched_at": "2026-07-20T20:35:02.489394+00:00",
   "window_hours": 72,
-  "score": 42.8,
+  "score": 42.6,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 45.6,
+    "conflict_intensity": 45.3,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -97,7 +97,7 @@
       "title": "Sant\u00e9 des arm\u00e9es : Une campagne de sensibilisation aux IST \u00e0 Fada",
       "link": "https://lefaso.net/spip.php?article147982",
       "source": "LeFaso",
-      "published_at": "2026-07-20T19:00:18.699096+00:00",
+      "published_at": "2026-07-20T20:35:02.489394+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "R\u00e9gion du Sourou : L'initiative \u00ab Toma ville propre \u00bb officiellement lanc\u00e9e pour assainir la commune et la province du Nayala",
       "link": "https://lefaso.net/spip.php?article147968",
       "source": "LeFaso",
-      "published_at": "2026-07-20T19:00:18.699096+00:00",
+      "published_at": "2026-07-20T20:35:02.489394+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +119,7 @@
       "title": "\u200eInitiative pr\u00e9sidentielle pour la sant\u00e9 : L'h\u00f4pital mobile de campagne renforce l'acc\u00e8s aux soins sp\u00e9cialis\u00e9s \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147966",
       "source": "LeFaso",
-      "published_at": "2026-07-20T19:00:18.699096+00:00",
+      "published_at": "2026-07-20T20:35:02.489394+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -130,7 +130,7 @@
       "title": "\u200eBurkina : Des cadres de la Pr\u00e9sidence du Faso d\u00e9sormais VDP",
       "link": "https://lefaso.net/spip.php?article147952",
       "source": "LeFaso",
-      "published_at": "2026-07-20T19:00:18.699096+00:00",
+      "published_at": "2026-07-20T20:35:02.489394+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -143,7 +143,7 @@
       "title": "Occupation anarchique des emprises publiques : L'ONC-AC en campagne de sensibilisation \u00e0 Koudougou et Zawara",
       "link": "https://lefaso.net/spip.php?article147928",
       "source": "LeFaso",
-      "published_at": "2026-07-20T19:00:18.699096+00:00",
+      "published_at": "2026-07-20T20:35:02.489394+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,7 +154,7 @@
       "title": "Burkina : L'arm\u00e9e d\u00e9ploie un h\u00f4pital mobile de campagne \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147927",
       "source": "LeFaso",
-      "published_at": "2026-07-20T19:00:18.699096+00:00",
+      "published_at": "2026-07-20T20:35:02.489394+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -168,7 +168,7 @@
       "link": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-07-19T09:44:32+00:00",
-      "score": 1.21,
+      "score": 1.16,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -181,7 +181,7 @@
       "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
       "link": "https://lefaso.net/spip.php?article147994",
       "source": "LeFaso",
-      "published_at": "2026-07-20T19:00:18.699096+00:00",
+      "published_at": "2026-07-20T20:35:02.489394+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -191,28 +191,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-20T21:21:26.183757+00:00",
-      "score": 39.4
+      "timestamp": "2026-07-20T22:09:46.279692+00:00",
+      "score": 40.7
     },
     {
-      "timestamp": "2026-07-20T23:42:33.668418+00:00",
-      "score": 39.4
+      "timestamp": "2026-07-20T23:44:30.069990+00:00",
+      "score": 40.9
     },
     {
-      "timestamp": "2026-07-21T02:03:41.153079+00:00",
-      "score": 39.4
+      "timestamp": "2026-07-21T01:19:13.860288+00:00",
+      "score": 41.0
     },
     {
-      "timestamp": "2026-07-21T04:24:48.637740+00:00",
-      "score": 39.4
+      "timestamp": "2026-07-21T02:53:57.650586+00:00",
+      "score": 41.1
     },
     {
-      "timestamp": "2026-07-21T06:45:56.122401+00:00",
-      "score": 39.4
+      "timestamp": "2026-07-21T04:28:41.440884+00:00",
+      "score": 41.2
     },
     {
-      "timestamp": "2026-07-21T09:07:03.607062+00:00",
-      "score": 39.4
+      "timestamp": "2026-07-21T06:03:25.231182+00:00",
+      "score": 41.3
     }
   ]
 }
