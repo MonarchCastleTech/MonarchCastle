@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-21T00:04:29.672408+00:00",
+  "fetched_at": "2026-07-21T03:37:19.695601+00:00",
   "window_hours": 72,
-  "score": 42.4,
+  "score": 42.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 44.7,
+    "conflict_intensity": 44.1,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 15
+      "items": 10
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -97,7 +97,7 @@
       "title": "Sant\u00e9 des arm\u00e9es : Une campagne de sensibilisation aux IST \u00e0 Fada",
       "link": "https://lefaso.net/spip.php?article147982",
       "source": "LeFaso",
-      "published_at": "2026-07-21T00:04:29.672408+00:00",
+      "published_at": "2026-07-21T03:37:19.695601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "R\u00e9gion du Sourou : L'initiative \u00ab Toma ville propre \u00bb officiellement lanc\u00e9e pour assainir la commune et la province du Nayala",
       "link": "https://lefaso.net/spip.php?article147968",
       "source": "LeFaso",
-      "published_at": "2026-07-21T00:04:29.672408+00:00",
+      "published_at": "2026-07-21T03:37:19.695601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +119,7 @@
       "title": "\u200eInitiative pr\u00e9sidentielle pour la sant\u00e9 : L'h\u00f4pital mobile de campagne renforce l'acc\u00e8s aux soins sp\u00e9cialis\u00e9s \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147966",
       "source": "LeFaso",
-      "published_at": "2026-07-21T00:04:29.672408+00:00",
+      "published_at": "2026-07-21T03:37:19.695601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -130,7 +130,7 @@
       "title": "\u200eBurkina : Des cadres de la Pr\u00e9sidence du Faso d\u00e9sormais VDP",
       "link": "https://lefaso.net/spip.php?article147952",
       "source": "LeFaso",
-      "published_at": "2026-07-21T00:04:29.672408+00:00",
+      "published_at": "2026-07-21T03:37:19.695601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -143,7 +143,7 @@
       "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
       "link": "https://lefaso.net/spip.php?article147994",
       "source": "LeFaso",
-      "published_at": "2026-07-21T00:04:29.672408+00:00",
+      "published_at": "2026-07-21T03:37:19.695601+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -154,7 +154,7 @@
       "title": "Burkina/Sant\u00e9 : ACONTA renforce les capacit\u00e9s de la soci\u00e9t\u00e9 civile pour une offensive contre les produits du tabac et les stup\u00e9fiants",
       "link": "https://lefaso.net/spip.php?article147974",
       "source": "LeFaso",
-      "published_at": "2026-07-21T00:04:29.672408+00:00",
+      "published_at": "2026-07-21T03:37:19.695601+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -162,20 +162,6 @@
       "regions": [
         "burkina",
         "ouagadougou"
-      ]
-    },
-    {
-      "title": "At least 50 Malian soldiers killed in rebel-jihadist attack",
-      "link": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-19T09:44:32+00:00",
-      "score": 1.05,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
       ]
     },
     {
@@ -191,32 +177,46 @@
         "mali",
         "gao"
       ]
+    },
+    {
+      "title": "At least 50 Malian soldiers killed in rebel-jihadist attack",
+      "link": "https://www.france24.com/en/africa/20260719-at-least-50-malian-soldiers-killed-in-rebel-jihadist-attack",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-19T09:44:32+00:00",
+      "score": 0.94,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-21T02:01:09.450304+00:00",
-      "score": 42.9
+      "timestamp": "2026-07-21T07:10:09.718794+00:00",
+      "score": 44.1
     },
     {
-      "timestamp": "2026-07-21T03:57:49.228200+00:00",
-      "score": 43.2
-    },
-    {
-      "timestamp": "2026-07-21T05:54:29.006096+00:00",
-      "score": 43.5
-    },
-    {
-      "timestamp": "2026-07-21T07:51:08.783992+00:00",
-      "score": 43.8
-    },
-    {
-      "timestamp": "2026-07-21T09:47:48.561888+00:00",
-      "score": 44.2
-    },
-    {
-      "timestamp": "2026-07-21T11:44:28.339784+00:00",
+      "timestamp": "2026-07-21T10:42:59.741987+00:00",
       "score": 44.5
+    },
+    {
+      "timestamp": "2026-07-21T14:15:49.765180+00:00",
+      "score": 44.9
+    },
+    {
+      "timestamp": "2026-07-21T17:48:39.788373+00:00",
+      "score": 45.3
+    },
+    {
+      "timestamp": "2026-07-21T21:21:29.811566+00:00",
+      "score": 45.8
+    },
+    {
+      "timestamp": "2026-07-22T00:54:19.834759+00:00",
+      "score": 46.2
     }
   ]
 }
