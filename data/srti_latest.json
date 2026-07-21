@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-21T09:32:33.080977+00:00",
+  "fetched_at": "2026-07-21T11:54:09.568906+00:00",
   "window_hours": 72,
-  "score": 41.4,
+  "score": 41.6,
   "risk_level": "ELEVATED",
   "components": {
     "conflict_intensity": 43.3,
-    "civilian_risk": 98.5
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 12,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,13 +41,13 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 80
     },
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 5
     },
     {
       "name": "BBC Africa",
@@ -94,10 +94,36 @@
   ],
   "top_headlines": [
     {
+      "title": "D\u00e9dougou : Pax voice apprend l'amour de la culture et de la nature aux enfants",
+      "link": "https://lefaso.net/spip.php?article148022",
+      "source": "LeFaso",
+      "published_at": "2026-07-21T11:54:09.568906+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
+      "title": "Burkina : La Fondation Orange Burkina Faso relance sa grande campagne de collecte de sang pour sauver 2 500 vies",
+      "link": "https://lefaso.net/spip.php?article148021",
+      "source": "LeFaso",
+      "published_at": "2026-07-21T11:54:09.568906+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso",
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Sant\u00e9 des arm\u00e9es : Une campagne de sensibilisation aux IST \u00e0 Fada",
       "link": "https://lefaso.net/spip.php?article147982",
       "source": "LeFaso",
-      "published_at": "2026-07-21T09:32:33.080977+00:00",
+      "published_at": "2026-07-21T11:54:09.568906+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +134,7 @@
       "title": "R\u00e9gion du Sourou : L'initiative \u00ab Toma ville propre \u00bb officiellement lanc\u00e9e pour assainir la commune et la province du Nayala",
       "link": "https://lefaso.net/spip.php?article147968",
       "source": "LeFaso",
-      "published_at": "2026-07-21T09:32:33.080977+00:00",
+      "published_at": "2026-07-21T11:54:09.568906+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +145,7 @@
       "title": "\u200eInitiative pr\u00e9sidentielle pour la sant\u00e9 : L'h\u00f4pital mobile de campagne renforce l'acc\u00e8s aux soins sp\u00e9cialis\u00e9s \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147966",
       "source": "LeFaso",
-      "published_at": "2026-07-21T09:32:33.080977+00:00",
+      "published_at": "2026-07-21T11:54:09.568906+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -130,7 +156,7 @@
       "title": "\u200eBurkina : Des cadres de la Pr\u00e9sidence du Faso d\u00e9sormais VDP",
       "link": "https://lefaso.net/spip.php?article147952",
       "source": "LeFaso",
-      "published_at": "2026-07-21T09:32:33.080977+00:00",
+      "published_at": "2026-07-21T11:54:09.568906+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,82 +166,54 @@
       ]
     },
     {
-      "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
-      "link": "https://lefaso.net/spip.php?article147994",
-      "source": "LeFaso",
-      "published_at": "2026-07-21T09:32:33.080977+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Burkina/Sant\u00e9 : ACONTA renforce les capacit\u00e9s de la soci\u00e9t\u00e9 civile pour une offensive contre les produits du tabac et les stup\u00e9fiants",
-      "link": "https://lefaso.net/spip.php?article147974",
-      "source": "LeFaso",
-      "published_at": "2026-07-21T09:32:33.080977+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Malian army convoy ambushed by rebels north of Gao",
-      "link": "https://www.france24.com/en/africa/20260718-malian-army-convoy-ambushed-by-rebels-north-of-gao",
+      "title": "'We're living in fear': 19 million children in Nigeria are out of school to avoid kidnappings",
+      "link": "https://www.france24.com/en/video/20260721-we-re-living-in-fear-19-million-children-in-nigeria-are-out-of-school-to-avoid-kidnappings",
       "source": "France 24 - Africa",
-      "published_at": "2026-07-18T15:10:44+00:00",
-      "score": 1.03,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "gao"
-      ]
-    },
-    {
-      "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
-      "link": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-07-20T17:16:20+00:00",
-      "score": 0.84,
+      "published_at": "2026-07-21T09:44:17+00:00",
+      "score": 1.22,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "niger"
       ]
+    },
+    {
+      "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
+      "link": "https://lefaso.net/spip.php?article147994",
+      "source": "LeFaso",
+      "published_at": "2026-07-21T11:54:09.568906+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-21T12:28:24.234112+00:00",
+      "timestamp": "2026-07-21T14:15:46.056835+00:00",
+      "score": 44.5
+    },
+    {
+      "timestamp": "2026-07-21T16:37:22.544764+00:00",
       "score": 44.9
     },
     {
-      "timestamp": "2026-07-21T15:24:15.387247+00:00",
-      "score": 45.4
+      "timestamp": "2026-07-21T18:58:59.032693+00:00",
+      "score": 45.3
     },
     {
-      "timestamp": "2026-07-21T18:20:06.540382+00:00",
-      "score": 45.8
+      "timestamp": "2026-07-21T21:20:35.520622+00:00",
+      "score": 45.7
     },
     {
-      "timestamp": "2026-07-21T21:15:57.693517+00:00",
-      "score": 46.3
+      "timestamp": "2026-07-21T23:42:12.008551+00:00",
+      "score": 46.1
     },
     {
-      "timestamp": "2026-07-22T00:11:48.846652+00:00",
-      "score": 46.7
-    },
-    {
-      "timestamp": "2026-07-22T03:07:39.999787+00:00",
-      "score": 47.2
+      "timestamp": "2026-07-22T02:03:48.496480+00:00",
+      "score": 46.5
     }
   ]
 }
