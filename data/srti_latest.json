@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-21T18:21:07.648468+00:00",
+  "fetched_at": "2026-07-21T20:22:06.230404+00:00",
   "window_hours": 72,
-  "score": 35.5,
-  "risk_level": "GUARDED",
+  "score": 41.4,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 31.0,
+    "conflict_intensity": 42.7,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 11,
+  "items_count": 12,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31
+      "items": 32
     },
     {
       "name": "UN News Africa",
@@ -94,10 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "Senegal u-turns to back ex-president Sall to lead UN",
+      "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-21T20:16:19+00:00",
+      "score": 2.24,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "niger"
+      ]
+    },
+    {
       "title": "D\u00e9dougou : Pax voice apprend l'amour de la culture et de la nature aux enfants",
       "link": "https://lefaso.net/spip.php?article148022",
       "source": "LeFaso",
-      "published_at": "2026-07-21T18:21:07.648468+00:00",
+      "published_at": "2026-07-21T20:22:06.230404+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +123,7 @@
       "title": "Burkina : La Fondation Orange Burkina Faso relance sa grande campagne de collecte de sang pour sauver 2 500 vies",
       "link": "https://lefaso.net/spip.php?article148021",
       "source": "LeFaso",
-      "published_at": "2026-07-21T18:21:07.648468+00:00",
+      "published_at": "2026-07-21T20:22:06.230404+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +138,7 @@
       "title": "Sant\u00e9 des arm\u00e9es : Une campagne de sensibilisation aux IST \u00e0 Fada",
       "link": "https://lefaso.net/spip.php?article147982",
       "source": "LeFaso",
-      "published_at": "2026-07-21T18:21:07.648468+00:00",
+      "published_at": "2026-07-21T20:22:06.230404+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +149,7 @@
       "title": "R\u00e9gion du Sourou : L'initiative \u00ab Toma ville propre \u00bb officiellement lanc\u00e9e pour assainir la commune et la province du Nayala",
       "link": "https://lefaso.net/spip.php?article147968",
       "source": "LeFaso",
-      "published_at": "2026-07-21T18:21:07.648468+00:00",
+      "published_at": "2026-07-21T20:22:06.230404+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -145,7 +160,7 @@
       "title": "\u200eInitiative pr\u00e9sidentielle pour la sant\u00e9 : L'h\u00f4pital mobile de campagne renforce l'acc\u00e8s aux soins sp\u00e9cialis\u00e9s \u00e0 Fada N'Gourma",
       "link": "https://lefaso.net/spip.php?article147966",
       "source": "LeFaso",
-      "published_at": "2026-07-21T18:21:07.648468+00:00",
+      "published_at": "2026-07-21T20:22:06.230404+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -156,7 +171,7 @@
       "title": "\u200eBurkina : Des cadres de la Pr\u00e9sidence du Faso d\u00e9sormais VDP",
       "link": "https://lefaso.net/spip.php?article147952",
       "source": "LeFaso",
-      "published_at": "2026-07-21T18:21:07.648468+00:00",
+      "published_at": "2026-07-21T20:22:06.230404+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -169,52 +184,38 @@
       "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
       "link": "https://lefaso.net/spip.php?article147994",
       "source": "LeFaso",
-      "published_at": "2026-07-21T18:21:07.648468+00:00",
+      "published_at": "2026-07-21T20:22:06.230404+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": []
-    },
-    {
-      "title": "Burkina/Sant\u00e9 : ACONTA renforce les capacit\u00e9s de la soci\u00e9t\u00e9 civile pour une offensive contre les produits du tabac et les stup\u00e9fiants",
-      "link": "https://lefaso.net/spip.php?article147974",
-      "source": "LeFaso",
-      "published_at": "2026-07-21T18:21:07.648468+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-21T20:05:25.741412+00:00",
-      "score": 40.9
-    },
-    {
-      "timestamp": "2026-07-21T21:49:43.834356+00:00",
-      "score": 41.0
-    },
-    {
-      "timestamp": "2026-07-21T23:34:01.927300+00:00",
-      "score": 41.0
-    },
-    {
-      "timestamp": "2026-07-22T01:18:20.020244+00:00",
+      "timestamp": "2026-07-21T22:23:04.812340+00:00",
       "score": 41.1
     },
     {
-      "timestamp": "2026-07-22T03:02:38.113188+00:00",
+      "timestamp": "2026-07-22T00:24:03.394276+00:00",
       "score": 41.1
     },
     {
-      "timestamp": "2026-07-22T04:46:56.206132+00:00",
+      "timestamp": "2026-07-22T02:25:01.976212+00:00",
       "score": 41.2
+    },
+    {
+      "timestamp": "2026-07-22T04:26:00.558148+00:00",
+      "score": 41.2
+    },
+    {
+      "timestamp": "2026-07-22T06:26:59.140084+00:00",
+      "score": 41.3
+    },
+    {
+      "timestamp": "2026-07-22T08:27:57.722020+00:00",
+      "score": 41.3
     }
   ]
 }
