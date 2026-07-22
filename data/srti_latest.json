@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-22T18:16:01.445429+00:00",
+  "fetched_at": "2026-07-22T20:17:06.604416+00:00",
   "window_hours": 72,
-  "score": 58.2,
-  "risk_level": "ELEVATED",
+  "score": 35.6,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 76.4,
-    "civilian_risk": 100.0
+    "conflict_intensity": 47.9,
+    "civilian_risk": 58.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 107
+      "items": 12
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
       "source": "France 24 - Africa",
       "published_at": "2026-07-22T14:01:59+00:00",
-      "score": 5.14,
+      "score": 4.99,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
       "source": "France 24 - Africa",
       "published_at": "2026-07-21T20:16:19+00:00",
-      "score": 2.24,
+      "score": 2.15,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -123,73 +123,24 @@
       ]
     },
     {
-      "title": "D\u00e9dougou : Pax voice apprend l'amour de la culture et de la nature aux enfants",
-      "link": "https://lefaso.net/spip.php?article148022",
-      "source": "LeFaso",
-      "published_at": "2026-07-22T18:16:01.445429+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Burkina : La Fondation Orange Burkina Faso relance sa grande campagne de collecte de sang pour sauver 2 500 vies",
-      "link": "https://lefaso.net/spip.php?article148021",
-      "source": "LeFaso",
-      "published_at": "2026-07-22T18:16:01.445429+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Sant\u00e9 des arm\u00e9es : Une campagne de sensibilisation aux IST \u00e0 Fada",
-      "link": "https://lefaso.net/spip.php?article147982",
-      "source": "LeFaso",
-      "published_at": "2026-07-22T18:16:01.445429+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
-      "link": "https://lefaso.net/spip.php?article147994",
-      "source": "LeFaso",
-      "published_at": "2026-07-22T18:16:01.445429+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Burkina/Sant\u00e9 : ACONTA renforce les capacit\u00e9s de la soci\u00e9t\u00e9 civile pour une offensive contre les produits du tabac et les stup\u00e9fiants",
-      "link": "https://lefaso.net/spip.php?article147974",
-      "source": "LeFaso",
-      "published_at": "2026-07-22T18:16:01.445429+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "ouagadougou"
-      ]
-    },
-    {
       "title": "'We're living in fear': 19 million children in Nigeria are out of school to avoid kidnappings",
       "link": "https://www.france24.com/en/video/20260721-we-re-living-in-fear-19-million-children-in-nigeria-are-out-of-school-to-avoid-kidnappings",
       "source": "France 24 - Africa",
       "published_at": "2026-07-21T09:44:17+00:00",
-      "score": 0.69,
+      "score": 0.66,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
+      "link": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-07-20T17:16:20+00:00",
+      "score": 0.38,
       "tags": [
         "civilian_risk"
       ],
@@ -200,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-22T19:54:10.848307+00:00",
-      "score": 46.5
+      "timestamp": "2026-07-22T22:18:11.763403+00:00",
+      "score": 45.0
     },
     {
-      "timestamp": "2026-07-22T21:32:20.251185+00:00",
-      "score": 46.8
+      "timestamp": "2026-07-23T00:19:16.922390+00:00",
+      "score": 45.2
     },
     {
-      "timestamp": "2026-07-22T23:10:29.654063+00:00",
-      "score": 47.1
+      "timestamp": "2026-07-23T02:20:22.081377+00:00",
+      "score": 45.4
     },
     {
-      "timestamp": "2026-07-23T00:48:39.056941+00:00",
-      "score": 47.4
+      "timestamp": "2026-07-23T04:21:27.240364+00:00",
+      "score": 45.6
     },
     {
-      "timestamp": "2026-07-23T02:26:48.459819+00:00",
-      "score": 47.7
+      "timestamp": "2026-07-23T06:22:32.399351+00:00",
+      "score": 45.8
     },
     {
-      "timestamp": "2026-07-23T04:04:57.862697+00:00",
-      "score": 48.1
+      "timestamp": "2026-07-23T08:23:37.558338+00:00",
+      "score": 46.0
     }
   ]
 }
