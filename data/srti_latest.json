@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-23T17:40:33.463243+00:00",
+  "fetched_at": "2026-07-23T19:38:27.922290+00:00",
   "window_hours": 72,
-  "score": 38.4,
+  "score": 37.3,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 38.9,
-    "civilian_risk": 94.9
+    "conflict_intensity": 37.2,
+    "civilian_risk": 93.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 91
+      "items": 94
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
       "source": "France 24 - Africa",
       "published_at": "2026-07-22T14:01:59+00:00",
-      "score": 3.36,
+      "score": 3.21,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u00ab Ma Premi\u00e8re \u00c9cole, Ma Maison\u2026 \u00bb : \u00ab Nous devons, nous-m\u00eames, incarner et porter les valeurs que nous voulons voir dans notre soci\u00e9t\u00e9 \u00bb (Christelle Kalhoul\u00e9, Children Believe)",
       "link": "https://lefaso.net/spip.php?article148082",
       "source": "LeFaso",
-      "published_at": "2026-07-23T17:40:33.463243+00:00",
+      "published_at": "2026-07-23T19:38:27.922290+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "D\u00e9dougou : Pax voice apprend l'amour de la culture et de la nature aux enfants",
       "link": "https://lefaso.net/spip.php?article148022",
       "source": "LeFaso",
-      "published_at": "2026-07-23T17:40:33.463243+00:00",
+      "published_at": "2026-07-23T19:38:27.922290+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Burkina : La Fondation Orange Burkina Faso relance sa grande campagne de collecte de sang pour sauver 2 500 vies",
       "link": "https://lefaso.net/spip.php?article148021",
       "source": "LeFaso",
-      "published_at": "2026-07-23T17:40:33.463243+00:00",
+      "published_at": "2026-07-23T19:38:27.922290+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
       "source": "France 24 - Africa",
       "published_at": "2026-07-21T20:16:19+00:00",
-      "score": 1.19,
+      "score": 1.13,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -166,7 +166,7 @@
       "link": "https://allafrica.com/stories/202607230168.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-23T05:56:29+00:00",
-      "score": 0.7,
+      "score": 0.68,
       "tags": [
         "conflict_intensity"
       ],
@@ -188,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-23T20:02:28.310914+00:00",
-      "score": 50.2
+      "timestamp": "2026-07-23T21:36:22.381337+00:00",
+      "score": 48.7
     },
     {
-      "timestamp": "2026-07-23T22:24:23.158585+00:00",
-      "score": 50.7
+      "timestamp": "2026-07-23T23:34:16.840384+00:00",
+      "score": 49.1
     },
     {
-      "timestamp": "2026-07-24T00:46:18.006256+00:00",
-      "score": 51.1
+      "timestamp": "2026-07-24T01:32:11.299431+00:00",
+      "score": 49.4
     },
     {
-      "timestamp": "2026-07-24T03:08:12.853927+00:00",
-      "score": 51.6
+      "timestamp": "2026-07-24T03:30:05.758478+00:00",
+      "score": 49.8
     },
     {
-      "timestamp": "2026-07-24T05:30:07.701598+00:00",
-      "score": 52.0
+      "timestamp": "2026-07-24T05:28:00.217525+00:00",
+      "score": 50.1
     },
     {
-      "timestamp": "2026-07-24T07:52:02.549269+00:00",
-      "score": 52.5
+      "timestamp": "2026-07-24T07:25:54.676572+00:00",
+      "score": 50.5
     }
   ]
 }
