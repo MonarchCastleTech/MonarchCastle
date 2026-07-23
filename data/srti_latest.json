@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-23T00:09:47.385134+00:00",
+  "fetched_at": "2026-07-23T04:23:05.852863+00:00",
   "window_hours": 72,
-  "score": 49.1,
+  "score": 47.4,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 58.2,
+    "conflict_intensity": 54.7,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
       "source": "France 24 - Africa",
       "published_at": "2026-07-22T14:01:59+00:00",
-      "score": 4.69,
+      "score": 4.37,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
       "source": "France 24 - Africa",
       "published_at": "2026-07-21T20:16:19+00:00",
-      "score": 1.97,
+      "score": 1.78,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "D\u00e9dougou : Pax voice apprend l'amour de la culture et de la nature aux enfants",
       "link": "https://lefaso.net/spip.php?article148022",
       "source": "LeFaso",
-      "published_at": "2026-07-23T00:09:47.385134+00:00",
+      "published_at": "2026-07-23T04:23:05.852863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina : La Fondation Orange Burkina Faso relance sa grande campagne de collecte de sang pour sauver 2 500 vies",
       "link": "https://lefaso.net/spip.php?article148021",
       "source": "LeFaso",
-      "published_at": "2026-07-23T00:09:47.385134+00:00",
+      "published_at": "2026-07-23T04:23:05.852863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "Sant\u00e9 des arm\u00e9es : Une campagne de sensibilisation aux IST \u00e0 Fada",
       "link": "https://lefaso.net/spip.php?article147982",
       "source": "LeFaso",
-      "published_at": "2026-07-23T00:09:47.385134+00:00",
+      "published_at": "2026-07-23T04:23:05.852863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,7 +163,7 @@
       "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
       "link": "https://lefaso.net/spip.php?article147994",
       "source": "LeFaso",
-      "published_at": "2026-07-23T00:09:47.385134+00:00",
+      "published_at": "2026-07-23T04:23:05.852863+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -175,7 +175,7 @@
       "link": "https://www.france24.com/en/video/20260721-we-re-living-in-fear-19-million-children-in-nigeria-are-out-of-school-to-avoid-kidnappings",
       "source": "France 24 - Africa",
       "published_at": "2026-07-21T09:44:17+00:00",
-      "score": 0.59,
+      "score": 0.51,
       "tags": [
         "civilian_risk"
       ],
@@ -199,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-23T02:07:14.565133+00:00",
-      "score": 48.1
+      "timestamp": "2026-07-23T08:36:24.320592+00:00",
+      "score": 48.7
     },
     {
-      "timestamp": "2026-07-23T04:04:41.745132+00:00",
-      "score": 48.5
+      "timestamp": "2026-07-23T12:49:42.788321+00:00",
+      "score": 49.1
     },
     {
-      "timestamp": "2026-07-23T06:02:08.925131+00:00",
-      "score": 48.9
-    },
-    {
-      "timestamp": "2026-07-23T07:59:36.105130+00:00",
-      "score": 49.2
-    },
-    {
-      "timestamp": "2026-07-23T09:57:03.285129+00:00",
+      "timestamp": "2026-07-23T17:03:01.256050+00:00",
       "score": 49.6
     },
     {
-      "timestamp": "2026-07-23T11:54:30.465128+00:00",
+      "timestamp": "2026-07-23T21:16:19.723779+00:00",
       "score": 50.0
+    },
+    {
+      "timestamp": "2026-07-24T01:29:38.191508+00:00",
+      "score": 50.4
+    },
+    {
+      "timestamp": "2026-07-24T05:42:56.659237+00:00",
+      "score": 50.8
     }
   ]
 }
