@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-23T04:23:05.852863+00:00",
+  "fetched_at": "2026-07-23T07:40:16.143445+00:00",
   "window_hours": 72,
-  "score": 47.4,
+  "score": 51.0,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 54.7,
+    "conflict_intensity": 61.9,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 10
+      "items": 13
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
       "source": "France 24 - Africa",
       "published_at": "2026-07-22T14:01:59+00:00",
-      "score": 4.37,
+      "score": 4.12,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
       "source": "France 24 - Africa",
       "published_at": "2026-07-21T20:16:19+00:00",
-      "score": 1.78,
+      "score": 1.64,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -126,7 +126,7 @@
       "title": "D\u00e9dougou : Pax voice apprend l'amour de la culture et de la nature aux enfants",
       "link": "https://lefaso.net/spip.php?article148022",
       "source": "LeFaso",
-      "published_at": "2026-07-23T04:23:05.852863+00:00",
+      "published_at": "2026-07-23T07:40:16.143445+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina : La Fondation Orange Burkina Faso relance sa grande campagne de collecte de sang pour sauver 2 500 vies",
       "link": "https://lefaso.net/spip.php?article148021",
       "source": "LeFaso",
-      "published_at": "2026-07-23T04:23:05.852863+00:00",
+      "published_at": "2026-07-23T07:40:16.143445+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "Sant\u00e9 des arm\u00e9es : Une campagne de sensibilisation aux IST \u00e0 Fada",
       "link": "https://lefaso.net/spip.php?article147982",
       "source": "LeFaso",
-      "published_at": "2026-07-23T04:23:05.852863+00:00",
+      "published_at": "2026-07-23T07:40:16.143445+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,8 +163,19 @@
       "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
       "link": "https://lefaso.net/spip.php?article147994",
       "source": "LeFaso",
-      "published_at": "2026-07-23T04:23:05.852863+00:00",
+      "published_at": "2026-07-23T07:40:16.143445+00:00",
       "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": []
+    },
+    {
+      "title": "3 Years of Military Rule Deepens Human Rights Crisis",
+      "link": "https://allafrica.com/stories/202607230168.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-07-23T05:56:29+00:00",
+      "score": 0.82,
       "tags": [
         "conflict_intensity"
       ],
@@ -175,20 +186,7 @@
       "link": "https://www.france24.com/en/video/20260721-we-re-living-in-fear-19-million-children-in-nigeria-are-out-of-school-to-avoid-kidnappings",
       "source": "France 24 - Africa",
       "published_at": "2026-07-21T09:44:17+00:00",
-      "score": 0.51,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Many feared dead in another Nigeria boat disaster but why do they keep happening?",
-      "link": "https://www.bbc.co.uk/news/articles/c309vzn676go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-07-20T17:16:20+00:00",
-      "score": 0.38,
+      "score": 0.46,
       "tags": [
         "civilian_risk"
       ],
@@ -199,28 +197,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-23T08:36:24.320592+00:00",
-      "score": 48.7
+      "timestamp": "2026-07-23T10:57:26.434027+00:00",
+      "score": 49.9
     },
     {
-      "timestamp": "2026-07-23T12:49:42.788321+00:00",
-      "score": 49.1
-    },
-    {
-      "timestamp": "2026-07-23T17:03:01.256050+00:00",
-      "score": 49.6
-    },
-    {
-      "timestamp": "2026-07-23T21:16:19.723779+00:00",
-      "score": 50.0
-    },
-    {
-      "timestamp": "2026-07-24T01:29:38.191508+00:00",
+      "timestamp": "2026-07-23T14:14:36.724609+00:00",
       "score": 50.4
     },
     {
-      "timestamp": "2026-07-24T05:42:56.659237+00:00",
+      "timestamp": "2026-07-23T17:31:47.015191+00:00",
       "score": 50.8
+    },
+    {
+      "timestamp": "2026-07-23T20:48:57.305773+00:00",
+      "score": 51.3
+    },
+    {
+      "timestamp": "2026-07-24T00:06:07.596355+00:00",
+      "score": 51.8
+    },
+    {
+      "timestamp": "2026-07-24T03:23:17.886937+00:00",
+      "score": 52.3
     }
   ]
 }
