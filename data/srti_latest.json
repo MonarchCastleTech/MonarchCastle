@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-23T10:31:54.485239+00:00",
+  "fetched_at": "2026-07-23T12:44:53.240285+00:00",
   "window_hours": 72,
-  "score": 49.5,
+  "score": 48.5,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 59.1,
+    "conflict_intensity": 57.0,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 102
+      "items": 103
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
       "source": "France 24 - Africa",
       "published_at": "2026-07-22T14:01:59+00:00",
-      "score": 3.91,
+      "score": 3.74,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,25 +108,23 @@
       ]
     },
     {
-      "title": "Senegal makes U-turn to back ex-president Sall for UN chief",
-      "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-21T20:16:19+00:00",
-      "score": 1.51,
+      "title": "\u00ab Ma Premi\u00e8re \u00c9cole, Ma Maison\u2026 \u00bb : \u00ab Nous devons, nous-m\u00eames, incarner et porter les valeurs que nous voulons voir dans notre soci\u00e9t\u00e9 \u00bb (Christelle Kalhoul\u00e9, Children Believe)",
+      "link": "https://lefaso.net/spip.php?article148082",
+      "source": "LeFaso",
+      "published_at": "2026-07-23T12:44:53.240285+00:00",
+      "score": 1.44,
       "tags": [
-        "conflict_intensity",
         "civilian_risk"
       ],
       "regions": [
-        "mali",
-        "niger"
+        "ouagadougou"
       ]
     },
     {
       "title": "D\u00e9dougou : Pax voice apprend l'amour de la culture et de la nature aux enfants",
       "link": "https://lefaso.net/spip.php?article148022",
       "source": "LeFaso",
-      "published_at": "2026-07-23T10:31:54.485239+00:00",
+      "published_at": "2026-07-23T12:44:53.240285+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +135,7 @@
       "title": "Burkina : La Fondation Orange Burkina Faso relance sa grande campagne de collecte de sang pour sauver 2 500 vies",
       "link": "https://lefaso.net/spip.php?article148021",
       "source": "LeFaso",
-      "published_at": "2026-07-23T10:31:54.485239+00:00",
+      "published_at": "2026-07-23T12:44:53.240285+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,21 +147,25 @@
       ]
     },
     {
-      "title": "Sant\u00e9 des arm\u00e9es : Une campagne de sensibilisation aux IST \u00e0 Fada",
-      "link": "https://lefaso.net/spip.php?article147982",
-      "source": "LeFaso",
-      "published_at": "2026-07-23T10:31:54.485239+00:00",
-      "score": 1.44,
+      "title": "Senegal makes U-turn to back ex-president Sall for UN chief",
+      "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
+      "source": "France 24 - Africa",
+      "published_at": "2026-07-21T20:16:19+00:00",
+      "score": 1.41,
       "tags": [
+        "conflict_intensity",
         "civilian_risk"
       ],
-      "regions": []
+      "regions": [
+        "mali",
+        "niger"
+      ]
     },
     {
       "title": "Tu viens de r\u00e9ussir ton examen ? F\u00e9licitations \ud83c\udf89 Reste la question qui compte vraiment : et maintenant, tu choisis quoi ?",
       "link": "https://lefaso.net/spip.php?article147994",
       "source": "LeFaso",
-      "published_at": "2026-07-23T10:31:54.485239+00:00",
+      "published_at": "2026-07-23T12:44:53.240285+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -175,7 +177,7 @@
       "link": "https://allafrica.com/stories/202607230168.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-23T05:56:29+00:00",
-      "score": 0.79,
+      "score": 0.76,
       "tags": [
         "conflict_intensity"
       ],
@@ -197,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-23T13:23:32.827033+00:00",
-      "score": 50.7
+      "timestamp": "2026-07-23T14:57:51.995331+00:00",
+      "score": 51.3
     },
     {
-      "timestamp": "2026-07-23T16:15:11.168827+00:00",
-      "score": 51.2
+      "timestamp": "2026-07-23T17:10:50.750377+00:00",
+      "score": 51.8
     },
     {
-      "timestamp": "2026-07-23T19:06:49.510621+00:00",
-      "score": 51.7
-    },
-    {
-      "timestamp": "2026-07-23T21:58:27.852415+00:00",
+      "timestamp": "2026-07-23T19:23:49.505423+00:00",
       "score": 52.3
     },
     {
-      "timestamp": "2026-07-24T00:50:06.194209+00:00",
-      "score": 52.8
+      "timestamp": "2026-07-23T21:36:48.260469+00:00",
+      "score": 52.9
     },
     {
-      "timestamp": "2026-07-24T03:41:44.536003+00:00",
-      "score": 53.3
+      "timestamp": "2026-07-23T23:49:47.015515+00:00",
+      "score": 53.4
+    },
+    {
+      "timestamp": "2026-07-24T02:02:45.770561+00:00",
+      "score": 54.0
     }
   ]
 }
