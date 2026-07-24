@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-24T06:34:42.166677+00:00",
+  "fetched_at": "2026-07-24T09:26:49.033930+00:00",
   "window_hours": 72,
-  "score": 32.8,
+  "score": 31.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 30.3,
-    "civilian_risk": 88.2
+    "conflict_intensity": 28.5,
+    "civilian_risk": 86.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 92
+      "items": 93
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 36
+      "items": 37
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
       "source": "France 24 - Africa",
       "published_at": "2026-07-22T14:01:59+00:00",
-      "score": 2.39,
+      "score": 2.17,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "\u00ab Ma Premi\u00e8re \u00c9cole, Ma Maison\u2026 \u00bb : \u00ab Nous devons, nous-m\u00eames, incarner et porter les valeurs que nous voulons voir dans notre soci\u00e9t\u00e9 \u00bb (Christelle Kalhoul\u00e9, Children Believe)",
       "link": "https://lefaso.net/spip.php?article148082",
       "source": "LeFaso",
-      "published_at": "2026-07-24T06:34:42.166677+00:00",
+      "published_at": "2026-07-24T09:26:49.033930+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "D\u00e9dougou : Pax voice apprend l'amour de la culture et de la nature aux enfants",
       "link": "https://lefaso.net/spip.php?article148022",
       "source": "LeFaso",
-      "published_at": "2026-07-24T06:34:42.166677+00:00",
+      "published_at": "2026-07-24T09:26:49.033930+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Burkina : La Fondation Orange Burkina Faso relance sa grande campagne de collecte de sang pour sauver 2 500 vies",
       "link": "https://lefaso.net/spip.php?article148021",
       "source": "LeFaso",
-      "published_at": "2026-07-24T06:34:42.166677+00:00",
+      "published_at": "2026-07-24T09:26:49.033930+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -166,7 +166,7 @@
       "link": "https://allafrica.com/stories/202607230168.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-23T05:56:29+00:00",
-      "score": 0.55,
+      "score": 0.52,
       "tags": [
         "conflict_intensity"
       ],
@@ -188,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-24T09:35:37.592885+00:00",
-      "score": 40.5
+      "timestamp": "2026-07-24T12:18:55.901183+00:00",
+      "score": 38.3
     },
     {
-      "timestamp": "2026-07-24T12:36:33.019093+00:00",
-      "score": 40.2
+      "timestamp": "2026-07-24T15:11:02.768436+00:00",
+      "score": 37.9
     },
     {
-      "timestamp": "2026-07-24T15:37:28.445301+00:00",
-      "score": 40.0
+      "timestamp": "2026-07-24T18:03:09.635689+00:00",
+      "score": 37.4
     },
     {
-      "timestamp": "2026-07-24T18:38:23.871509+00:00",
-      "score": 39.7
+      "timestamp": "2026-07-24T20:55:16.502942+00:00",
+      "score": 37.0
     },
     {
-      "timestamp": "2026-07-24T21:39:19.297717+00:00",
-      "score": 39.5
+      "timestamp": "2026-07-24T23:47:23.370195+00:00",
+      "score": 36.6
     },
     {
-      "timestamp": "2026-07-25T00:40:14.723925+00:00",
-      "score": 39.2
+      "timestamp": "2026-07-25T02:39:30.237448+00:00",
+      "score": 36.2
     }
   ]
 }
