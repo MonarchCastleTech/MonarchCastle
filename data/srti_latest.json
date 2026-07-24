@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-24T19:41:18.992033+00:00",
+  "fetched_at": "2026-07-24T21:13:42.789325+00:00",
   "window_hours": 72,
-  "score": 32.7,
+  "score": 33.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 44.3,
-    "civilian_risk": 52.9
+    "conflict_intensity": 48.9,
+    "civilian_risk": 46.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 107
+      "items": 108
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-24T15:22:56+00:00",
-      "score": 2.59,
+      "score": 2.54,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "\u00ab Ma Premi\u00e8re \u00c9cole, Ma Maison\u2026 \u00bb : \u00ab Nous devons, nous-m\u00eames, incarner et porter les valeurs que nous voulons voir dans notre soci\u00e9t\u00e9 \u00bb (Christelle Kalhoul\u00e9, Children Believe)",
       "link": "https://lefaso.net/spip.php?article148082",
       "source": "LeFaso",
-      "published_at": "2026-07-24T19:41:18.992033+00:00",
+      "published_at": "2026-07-24T21:13:42.789325+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,18 +135,17 @@
       ]
     },
     {
-      "title": "Senegal makes U-turn to back ex-president Sall for UN chief",
-      "link": "https://www.france24.com/en/senegal-u-turns-to-back-ex-president-sall-to-lead-un",
-      "source": "France 24 - Africa",
-      "published_at": "2026-07-21T20:16:19+00:00",
-      "score": 1.13,
+      "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
+      "link": "https://lefaso.net/spip.php?article148140",
+      "source": "LeFaso",
+      "published_at": "2026-07-24T21:13:42.789325+00:00",
+      "score": 1.12,
       "tags": [
-        "conflict_intensity",
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "mali",
-        "niger"
+        "burkina",
+        "burkina faso"
       ]
     },
     {
@@ -154,7 +153,7 @@
       "link": "https://allafrica.com/stories/202607230168.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-23T05:56:29+00:00",
-      "score": 0.4,
+      "score": 0.38,
       "tags": [
         "conflict_intensity"
       ],
@@ -163,28 +162,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-24T21:37:26.910247+00:00",
-      "score": 27.8
-    },
-    {
-      "timestamp": "2026-07-24T23:33:34.828461+00:00",
+      "timestamp": "2026-07-24T22:46:06.586617+00:00",
       "score": 26.8
     },
     {
-      "timestamp": "2026-07-25T01:29:42.746675+00:00",
+      "timestamp": "2026-07-25T00:18:30.383909+00:00",
       "score": 25.7
     },
     {
-      "timestamp": "2026-07-25T03:25:50.664889+00:00",
-      "score": 24.7
+      "timestamp": "2026-07-25T01:50:54.181201+00:00",
+      "score": 24.6
     },
     {
-      "timestamp": "2026-07-25T05:21:58.583103+00:00",
-      "score": 23.6
+      "timestamp": "2026-07-25T03:23:17.978493+00:00",
+      "score": 23.5
     },
     {
-      "timestamp": "2026-07-25T07:18:06.501317+00:00",
-      "score": 22.6
+      "timestamp": "2026-07-25T04:55:41.775785+00:00",
+      "score": 22.4
+    },
+    {
+      "timestamp": "2026-07-25T06:28:05.573077+00:00",
+      "score": 21.3
     }
   ]
 }
