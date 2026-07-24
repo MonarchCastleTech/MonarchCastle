@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-24T14:03:07.754687+00:00",
+  "fetched_at": "2026-07-24T15:39:12.636637+00:00",
   "window_hours": 72,
-  "score": 20.8,
+  "score": 33.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 26.2,
-    "civilian_risk": 38.7
+    "conflict_intensity": 46.0,
+    "civilian_risk": 53.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 92
+      "items": 97
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 41
+      "items": 42
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -94,6 +94,20 @@
   ],
   "top_headlines": [
     {
+      "title": "Nigeria's president approves largest military expansion in recent times",
+      "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-07-24T15:22:56+00:00",
+      "score": 2.75,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Mounting violence in Mali poses threat to military-led government",
       "link": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
       "source": "France 24 - Africa",
@@ -111,7 +125,7 @@
       "title": "\u00ab Ma Premi\u00e8re \u00c9cole, Ma Maison\u2026 \u00bb : \u00ab Nous devons, nous-m\u00eames, incarner et porter les valeurs que nous voulons voir dans notre soci\u00e9t\u00e9 \u00bb (Christelle Kalhoul\u00e9, Children Believe)",
       "link": "https://lefaso.net/spip.php?article148082",
       "source": "LeFaso",
-      "published_at": "2026-07-24T14:03:07.754687+00:00",
+      "published_at": "2026-07-24T15:39:12.636637+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +154,7 @@
       "link": "https://allafrica.com/stories/202607230168.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-23T05:56:29+00:00",
-      "score": 0.47,
+      "score": 0.45,
       "tags": [
         "conflict_intensity"
       ],
@@ -149,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-24T16:16:46.434230+00:00",
-      "score": 31.9
+      "timestamp": "2026-07-24T17:15:17.518587+00:00",
+      "score": 30.4
     },
     {
-      "timestamp": "2026-07-24T18:30:25.113773+00:00",
-      "score": 31.1
-    },
-    {
-      "timestamp": "2026-07-24T20:44:03.793316+00:00",
-      "score": 30.3
-    },
-    {
-      "timestamp": "2026-07-24T22:57:42.472859+00:00",
+      "timestamp": "2026-07-24T18:51:22.400537+00:00",
       "score": 29.5
     },
     {
-      "timestamp": "2026-07-25T01:11:21.152402+00:00",
-      "score": 28.7
+      "timestamp": "2026-07-24T20:27:27.282487+00:00",
+      "score": 28.6
     },
     {
-      "timestamp": "2026-07-25T03:24:59.831945+00:00",
-      "score": 27.9
+      "timestamp": "2026-07-24T22:03:32.164437+00:00",
+      "score": 27.7
+    },
+    {
+      "timestamp": "2026-07-24T23:39:37.046387+00:00",
+      "score": 26.8
+    },
+    {
+      "timestamp": "2026-07-25T01:15:41.928337+00:00",
+      "score": 25.9
     }
   ]
 }
