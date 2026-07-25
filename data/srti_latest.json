@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-24T23:10:39.614322+00:00",
+  "fetched_at": "2026-07-25T03:30:49.143225+00:00",
   "window_hours": 72,
-  "score": 33.2,
+  "score": 32.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 48.1,
-    "civilian_risk": 46.0
+    "conflict_intensity": 46.3,
+    "civilian_risk": 45.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 103
+      "items": 100
     },
     {
       "name": "ActuNiger",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 13
+      "items": 11
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-24T15:22:56+00:00",
-      "score": 2.46,
+      "score": 2.29,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "\u00ab Ma Premi\u00e8re \u00c9cole, Ma Maison\u2026 \u00bb : \u00ab Nous devons, nous-m\u00eames, incarner et porter les valeurs que nous voulons voir dans notre soci\u00e9t\u00e9 \u00bb (Christelle Kalhoul\u00e9, Children Believe)",
       "link": "https://lefaso.net/spip.php?article148082",
       "source": "LeFaso",
-      "published_at": "2026-07-24T23:10:39.614322+00:00",
+      "published_at": "2026-07-25T03:30:49.143225+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
       "link": "https://lefaso.net/spip.php?article148140",
       "source": "LeFaso",
-      "published_at": "2026-07-24T23:10:39.614322+00:00",
+      "published_at": "2026-07-25T03:30:49.143225+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -153,7 +153,7 @@
       "link": "https://allafrica.com/stories/202607230168.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-23T05:56:29+00:00",
-      "score": 0.36,
+      "score": 0.31,
       "tags": [
         "conflict_intensity"
       ],
@@ -162,28 +162,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-25T01:07:36.439319+00:00",
-      "score": 25.4
+      "timestamp": "2026-07-25T07:50:58.672128+00:00",
+      "score": 25.9
     },
     {
-      "timestamp": "2026-07-25T03:04:33.264316+00:00",
-      "score": 24.3
+      "timestamp": "2026-07-25T12:11:08.201031+00:00",
+      "score": 24.8
     },
     {
-      "timestamp": "2026-07-25T05:01:30.089313+00:00",
-      "score": 23.1
+      "timestamp": "2026-07-25T16:31:17.729934+00:00",
+      "score": 23.8
     },
     {
-      "timestamp": "2026-07-25T06:58:26.914310+00:00",
-      "score": 21.9
+      "timestamp": "2026-07-25T20:51:27.258837+00:00",
+      "score": 22.7
     },
     {
-      "timestamp": "2026-07-25T08:55:23.739307+00:00",
-      "score": 20.7
+      "timestamp": "2026-07-26T01:11:36.787740+00:00",
+      "score": 21.6
     },
     {
-      "timestamp": "2026-07-25T10:52:20.564304+00:00",
-      "score": 19.5
+      "timestamp": "2026-07-26T05:31:46.316643+00:00",
+      "score": 20.6
     }
   ]
 }
