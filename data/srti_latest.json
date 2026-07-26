@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-26T03:46:46.114202+00:00",
+  "fetched_at": "2026-07-26T06:44:10.127581+00:00",
   "window_hours": 72,
-  "score": 19.0,
+  "score": 16.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 26.9,
-    "civilian_risk": 27.6
+    "conflict_intensity": 22.6,
+    "civilian_risk": 27.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 85
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "\u00ab Ma Premi\u00e8re \u00c9cole, Ma Maison\u2026 \u00bb : \u00ab Nous devons, nous-m\u00eames, incarner et porter les valeurs que nous voulons voir dans notre soci\u00e9t\u00e9 \u00bb (Christelle Kalhoul\u00e9, Children Believe)",
       "link": "https://lefaso.net/spip.php?article148082",
       "source": "LeFaso",
-      "published_at": "2026-07-26T03:46:46.114202+00:00",
+      "published_at": "2026-07-26T06:44:10.127581+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-24T15:22:56+00:00",
-      "score": 1.36,
+      "score": 1.25,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
       "link": "https://lefaso.net/spip.php?article148140",
       "source": "LeFaso",
-      "published_at": "2026-07-26T03:46:46.114202+00:00",
+      "published_at": "2026-07-26T06:44:10.127581+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,43 +133,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "3 Years of Military Rule Deepens Human Rights Crisis",
-      "link": "https://allafrica.com/stories/202607230168.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-07-23T05:56:29+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-26T08:26:49.772577+00:00",
-      "score": 20.1
+      "timestamp": "2026-07-26T09:41:34.140960+00:00",
+      "score": 18.8
     },
     {
-      "timestamp": "2026-07-26T13:06:53.430952+00:00",
-      "score": 19.4
+      "timestamp": "2026-07-26T12:38:58.154339+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-07-26T17:46:57.089327+00:00",
-      "score": 18.7
+      "timestamp": "2026-07-26T15:36:22.167718+00:00",
+      "score": 17.4
     },
     {
-      "timestamp": "2026-07-26T22:27:00.747702+00:00",
-      "score": 18.0
-    },
-    {
-      "timestamp": "2026-07-27T03:07:04.406077+00:00",
-      "score": 17.3
-    },
-    {
-      "timestamp": "2026-07-27T07:47:08.064452+00:00",
+      "timestamp": "2026-07-26T18:33:46.181097+00:00",
       "score": 16.7
+    },
+    {
+      "timestamp": "2026-07-26T21:31:10.194476+00:00",
+      "score": 16.0
+    },
+    {
+      "timestamp": "2026-07-27T00:28:34.207855+00:00",
+      "score": 15.3
     }
   ]
 }
