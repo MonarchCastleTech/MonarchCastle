@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-26T13:47:03.468620+00:00",
+  "fetched_at": "2026-07-26T15:13:01.262899+00:00",
   "window_hours": 72,
   "score": 15.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 20.6,
+    "conflict_intensity": 20.5,
     "civilian_risk": 25.5
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 85
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "\u00ab Ma Premi\u00e8re \u00c9cole, Ma Maison\u2026 \u00bb : \u00ab Nous devons, nous-m\u00eames, incarner et porter les valeurs que nous voulons voir dans notre soci\u00e9t\u00e9 \u00bb (Christelle Kalhoul\u00e9, Children Believe)",
       "link": "https://lefaso.net/spip.php?article148082",
       "source": "LeFaso",
-      "published_at": "2026-07-26T13:47:03.468620+00:00",
+      "published_at": "2026-07-26T15:13:01.262899+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
       "link": "https://lefaso.net/spip.php?article148140",
       "source": "LeFaso",
-      "published_at": "2026-07-26T13:47:03.468620+00:00",
+      "published_at": "2026-07-26T15:13:01.262899+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -125,7 +125,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-07-24T15:22:56+00:00",
-      "score": 0.98,
+      "score": 0.97,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -137,28 +137,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-26T16:08:52.341144+00:00",
-      "score": 15.4
+      "timestamp": "2026-07-26T16:38:59.057178+00:00",
+      "score": 14.3
     },
     {
-      "timestamp": "2026-07-26T18:30:41.213668+00:00",
-      "score": 14.6
+      "timestamp": "2026-07-26T18:04:56.851457+00:00",
+      "score": 13.5
     },
     {
-      "timestamp": "2026-07-26T20:52:30.086192+00:00",
-      "score": 13.8
+      "timestamp": "2026-07-26T19:30:54.645736+00:00",
+      "score": 12.6
     },
     {
-      "timestamp": "2026-07-26T23:14:18.958716+00:00",
-      "score": 13.0
+      "timestamp": "2026-07-26T20:56:52.440015+00:00",
+      "score": 11.8
     },
     {
-      "timestamp": "2026-07-27T01:36:07.831240+00:00",
-      "score": 12.2
+      "timestamp": "2026-07-26T22:22:50.234294+00:00",
+      "score": 11.0
     },
     {
-      "timestamp": "2026-07-27T03:57:56.703764+00:00",
-      "score": 11.4
+      "timestamp": "2026-07-26T23:48:48.028573+00:00",
+      "score": 10.1
     }
   ]
 }
