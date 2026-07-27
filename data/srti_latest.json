@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-27T14:54:59.294163+00:00",
+  "fetched_at": "2026-07-27T17:04:26.773098+00:00",
   "window_hours": 72,
-  "score": 15.4,
+  "score": 10.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 20.5,
-    "civilian_risk": 25.5
+    "conflict_intensity": 13.4,
+    "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-27T14:54:59.294163+00:00",
+      "published_at": "2026-07-27T17:04:26.773098+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
       "link": "https://lefaso.net/spip.php?article148140",
       "source": "LeFaso",
-      "published_at": "2026-07-27T14:54:59.294163+00:00",
+      "published_at": "2026-07-27T17:04:26.773098+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -120,46 +120,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "Nigeria's president approves largest military expansion in recent times",
-      "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-07-24T15:22:56+00:00",
-      "score": 0.97,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-27T18:16:06.020291+00:00",
-      "score": 11.0
+      "timestamp": "2026-07-27T19:13:54.252033+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-07-27T21:37:12.746419+00:00",
-      "score": 10.3
+      "timestamp": "2026-07-27T21:23:21.730968+00:00",
+      "score": 10.0
     },
     {
-      "timestamp": "2026-07-28T00:58:19.472547+00:00",
-      "score": 9.6
+      "timestamp": "2026-07-27T23:32:49.209903+00:00",
+      "score": 9.4
     },
     {
-      "timestamp": "2026-07-28T04:19:26.198675+00:00",
-      "score": 9.0
+      "timestamp": "2026-07-28T01:42:16.688838+00:00",
+      "score": 8.8
     },
     {
-      "timestamp": "2026-07-28T07:40:32.924803+00:00",
-      "score": 8.3
+      "timestamp": "2026-07-28T03:51:44.167773+00:00",
+      "score": 8.1
     },
     {
-      "timestamp": "2026-07-28T11:01:39.650931+00:00",
-      "score": 7.6
+      "timestamp": "2026-07-28T06:01:11.646708+00:00",
+      "score": 7.5
     }
   ]
 }
