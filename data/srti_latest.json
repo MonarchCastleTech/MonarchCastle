@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T03:54:58.020211+00:00",
+  "fetched_at": "2026-07-27T07:41:46.939846+00:00",
   "window_hours": 72,
   "score": 15.4,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-27T03:54:58.020211+00:00",
+      "published_at": "2026-07-27T07:41:46.939846+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
       "link": "https://lefaso.net/spip.php?article148140",
       "source": "LeFaso",
-      "published_at": "2026-07-27T03:54:58.020211+00:00",
+      "published_at": "2026-07-27T07:41:46.939846+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-27T08:44:13.303339+00:00",
+      "timestamp": "2026-07-27T11:28:35.859481+00:00",
       "score": 10.4
     },
     {
-      "timestamp": "2026-07-27T13:33:28.586467+00:00",
-      "score": 9.5
+      "timestamp": "2026-07-27T15:15:24.779116+00:00",
+      "score": 9.6
     },
     {
-      "timestamp": "2026-07-27T18:22:43.869595+00:00",
-      "score": 8.5
+      "timestamp": "2026-07-27T19:02:13.698751+00:00",
+      "score": 8.8
     },
     {
-      "timestamp": "2026-07-27T23:11:59.152723+00:00",
-      "score": 7.6
+      "timestamp": "2026-07-27T22:49:02.618386+00:00",
+      "score": 7.9
     },
     {
-      "timestamp": "2026-07-28T04:01:14.435851+00:00",
-      "score": 6.7
+      "timestamp": "2026-07-28T02:35:51.538021+00:00",
+      "score": 7.1
     },
     {
-      "timestamp": "2026-07-28T08:50:29.718979+00:00",
-      "score": 5.8
+      "timestamp": "2026-07-28T06:22:40.457656+00:00",
+      "score": 6.2
     }
   ]
 }
