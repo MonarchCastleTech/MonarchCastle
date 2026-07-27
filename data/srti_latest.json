@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T17:04:26.773098+00:00",
+  "fetched_at": "2026-07-27T18:43:36.473025+00:00",
   "window_hours": 72,
   "score": 10.7,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-27T17:04:26.773098+00:00",
+      "published_at": "2026-07-27T18:43:36.473025+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
       "link": "https://lefaso.net/spip.php?article148140",
       "source": "LeFaso",
-      "published_at": "2026-07-27T17:04:26.773098+00:00",
+      "published_at": "2026-07-27T18:43:36.473025+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-27T19:13:54.252033+00:00",
-      "score": 10.7
+      "timestamp": "2026-07-27T20:22:46.172952+00:00",
+      "score": 10.5
     },
     {
-      "timestamp": "2026-07-27T21:23:21.730968+00:00",
-      "score": 10.0
+      "timestamp": "2026-07-27T22:01:55.872879+00:00",
+      "score": 9.9
     },
     {
-      "timestamp": "2026-07-27T23:32:49.209903+00:00",
+      "timestamp": "2026-07-27T23:41:05.572806+00:00",
       "score": 9.4
     },
     {
-      "timestamp": "2026-07-28T01:42:16.688838+00:00",
+      "timestamp": "2026-07-28T01:20:15.272733+00:00",
       "score": 8.8
     },
     {
-      "timestamp": "2026-07-28T03:51:44.167773+00:00",
-      "score": 8.1
+      "timestamp": "2026-07-28T02:59:24.972660+00:00",
+      "score": 8.2
     },
     {
-      "timestamp": "2026-07-28T06:01:11.646708+00:00",
-      "score": 7.5
+      "timestamp": "2026-07-28T04:38:34.672587+00:00",
+      "score": 7.6
     }
   ]
 }
