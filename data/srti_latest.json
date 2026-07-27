@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T20:38:28.216541+00:00",
+  "fetched_at": "2026-07-27T22:13:16.460802+00:00",
   "window_hours": 72,
   "score": 10.7,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-27T20:38:28.216541+00:00",
+      "published_at": "2026-07-27T22:13:16.460802+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
       "link": "https://lefaso.net/spip.php?article148140",
       "source": "LeFaso",
-      "published_at": "2026-07-27T20:38:28.216541+00:00",
+      "published_at": "2026-07-27T22:13:16.460802+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-27T22:33:19.960057+00:00",
-      "score": 10.5
+      "timestamp": "2026-07-27T23:48:04.705063+00:00",
+      "score": 10.7
     },
     {
-      "timestamp": "2026-07-28T00:28:11.703573+00:00",
-      "score": 10.0
+      "timestamp": "2026-07-28T01:22:52.949324+00:00",
+      "score": 10.3
     },
     {
-      "timestamp": "2026-07-28T02:23:03.447089+00:00",
+      "timestamp": "2026-07-28T02:57:41.193585+00:00",
+      "score": 9.9
+    },
+    {
+      "timestamp": "2026-07-28T04:32:29.437846+00:00",
       "score": 9.5
     },
     {
-      "timestamp": "2026-07-28T04:17:55.190605+00:00",
+      "timestamp": "2026-07-28T06:07:17.682107+00:00",
       "score": 9.0
     },
     {
-      "timestamp": "2026-07-28T06:12:46.934121+00:00",
-      "score": 8.5
-    },
-    {
-      "timestamp": "2026-07-28T08:07:38.677637+00:00",
-      "score": 8.0
+      "timestamp": "2026-07-28T07:42:05.926368+00:00",
+      "score": 8.6
     }
   ]
 }
