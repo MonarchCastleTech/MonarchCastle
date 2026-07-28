@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-28T21:16:19.024268+00:00",
+  "fetched_at": "2026-07-28T23:10:02.094055+00:00",
   "window_hours": 72,
-  "score": 9.1,
+  "score": 8.1,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 45.6
+    "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Tourisme interne : La Primature en immersion au mus\u00e9e Rayimi d'Issouka pour renouer avec les racines du Burkina",
       "link": "https://lefaso.net/spip.php?article148203",
       "source": "LeFaso",
-      "published_at": "2026-07-28T21:16:19.024268+00:00",
+      "published_at": "2026-07-28T23:10:02.094055+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-28T21:16:19.024268+00:00",
+      "published_at": "2026-07-28T23:10:02.094055+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,45 +119,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "Joshua wins first fight since fatal Nigeria crash despite knockdowns",
-      "link": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-07-25T23:06:47+00:00",
-      "score": 0.38,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-28T22:47:46.544881+00:00",
-      "score": 6.6
+      "timestamp": "2026-07-29T01:03:45.163842+00:00",
+      "score": 6.3
     },
     {
-      "timestamp": "2026-07-29T00:19:14.065494+00:00",
-      "score": 6.1
+      "timestamp": "2026-07-29T02:57:28.233629+00:00",
+      "score": 5.9
     },
     {
-      "timestamp": "2026-07-29T01:50:41.586107+00:00",
-      "score": 5.7
+      "timestamp": "2026-07-29T04:51:11.303416+00:00",
+      "score": 5.5
     },
     {
-      "timestamp": "2026-07-29T03:22:09.106720+00:00",
-      "score": 5.3
+      "timestamp": "2026-07-29T06:44:54.373203+00:00",
+      "score": 5.0
     },
     {
-      "timestamp": "2026-07-29T04:53:36.627333+00:00",
-      "score": 4.8
+      "timestamp": "2026-07-29T08:38:37.442990+00:00",
+      "score": 4.6
     },
     {
-      "timestamp": "2026-07-29T06:25:04.147946+00:00",
-      "score": 4.4
+      "timestamp": "2026-07-29T10:32:20.512777+00:00",
+      "score": 4.2
     }
   ]
 }
