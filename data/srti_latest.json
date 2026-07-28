@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-28T12:58:00.643569+00:00",
+  "fetched_at": "2026-07-28T15:27:21.112332+00:00",
   "window_hours": 72,
-  "score": 8.1,
+  "score": 9.1,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 40.3
+    "civilian_risk": 45.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71
+      "items": 75
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 46
+      "items": 47
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Tourisme interne : La Primature en immersion au mus\u00e9e Rayimi d'Issouka pour renouer avec les racines du Burkina",
       "link": "https://lefaso.net/spip.php?article148203",
       "source": "LeFaso",
-      "published_at": "2026-07-28T12:58:00.643569+00:00",
+      "published_at": "2026-07-28T15:27:21.112332+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-28T12:58:00.643569+00:00",
+      "published_at": "2026-07-28T15:27:21.112332+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,31 +119,44 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "Joshua wins first fight since fatal Nigeria crash despite knockdowns",
+      "link": "https://www.bbc.co.uk/sport/boxing/articles/cgew1lrpgzro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-07-25T23:06:47+00:00",
+      "score": 0.38,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-28T15:13:29.185105+00:00",
-      "score": 7.0
+      "timestamp": "2026-07-28T17:56:41.581095+00:00",
+      "score": 6.9
     },
     {
-      "timestamp": "2026-07-28T17:28:57.726641+00:00",
-      "score": 6.5
+      "timestamp": "2026-07-28T20:26:02.049858+00:00",
+      "score": 6.4
     },
     {
-      "timestamp": "2026-07-28T19:44:26.268177+00:00",
+      "timestamp": "2026-07-28T22:55:22.518621+00:00",
       "score": 6.0
     },
     {
-      "timestamp": "2026-07-28T21:59:54.809713+00:00",
+      "timestamp": "2026-07-29T01:24:42.987384+00:00",
       "score": 5.5
     },
     {
-      "timestamp": "2026-07-29T00:15:23.351249+00:00",
+      "timestamp": "2026-07-29T03:54:03.456147+00:00",
       "score": 5.0
     },
     {
-      "timestamp": "2026-07-29T02:30:51.892785+00:00",
+      "timestamp": "2026-07-29T06:23:23.924910+00:00",
       "score": 4.5
     }
   ]
