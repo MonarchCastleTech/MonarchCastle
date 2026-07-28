@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-27T22:13:16.460802+00:00",
+  "fetched_at": "2026-07-28T00:07:54.048027+00:00",
   "window_hours": 72,
-  "score": 10.7,
+  "score": 4.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 13.4,
+    "conflict_intensity": 0.0,
     "civilian_risk": 20.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 1,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 55
     },
     {
       "name": "ActuNiger",
@@ -97,24 +97,10 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-27T22:13:16.460802+00:00",
+      "published_at": "2026-07-28T00:07:54.048027+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
-      "title": "Religion : \u00ab La foi doit unir les hommes, ne jamais les diviser \u00bb, indique le Cheikh Tang Zoug Mor\u00e9",
-      "link": "https://lefaso.net/spip.php?article148140",
-      "source": "LeFaso",
-      "published_at": "2026-07-27T22:13:16.460802+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
       ],
       "regions": [
         "burkina",
@@ -124,28 +110,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-27T23:48:04.705063+00:00",
-      "score": 10.7
+      "timestamp": "2026-07-28T02:02:31.635252+00:00",
+      "score": 9.2
     },
     {
-      "timestamp": "2026-07-28T01:22:52.949324+00:00",
-      "score": 10.3
+      "timestamp": "2026-07-28T03:57:09.222477+00:00",
+      "score": 8.7
     },
     {
-      "timestamp": "2026-07-28T02:57:41.193585+00:00",
-      "score": 9.9
+      "timestamp": "2026-07-28T05:51:46.809702+00:00",
+      "score": 8.2
     },
     {
-      "timestamp": "2026-07-28T04:32:29.437846+00:00",
-      "score": 9.5
+      "timestamp": "2026-07-28T07:46:24.396927+00:00",
+      "score": 7.7
     },
     {
-      "timestamp": "2026-07-28T06:07:17.682107+00:00",
-      "score": 9.0
+      "timestamp": "2026-07-28T09:41:01.984152+00:00",
+      "score": 7.2
     },
     {
-      "timestamp": "2026-07-28T07:42:05.926368+00:00",
-      "score": 8.6
+      "timestamp": "2026-07-28T11:35:39.571377+00:00",
+      "score": 6.7
     }
   ]
 }
