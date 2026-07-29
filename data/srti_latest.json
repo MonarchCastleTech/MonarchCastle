@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-29T19:36:46.032217+00:00",
+  "fetched_at": "2026-07-29T21:06:21.803912+00:00",
   "window_hours": 72,
-  "score": 16.1,
-  "risk_level": "LOW",
+  "score": 20.0,
+  "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 80.6
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86
+      "items": 87
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,23 @@
   ],
   "top_headlines": [
     {
+      "title": "Burkina : La 2\u1d49 \u00e9dition de l'immersion en langue san officiellement lanc\u00e9e \u00e0 Loumbila",
+      "link": "https://lefaso.net/spip.php?article148254",
+      "source": "LeFaso",
+      "published_at": "2026-07-29T21:06:21.803912+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "S\u00e9n\u00e9gal : La bataille \u00e0 armes \u00e9gales entre les fr\u00e8res ennemis a d\u00e9but\u00e9",
       "link": "https://lefaso.net/spip.php?article148249",
       "source": "LeFaso",
-      "published_at": "2026-07-29T19:36:46.032217+00:00",
+      "published_at": "2026-07-29T21:06:21.803912+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +121,7 @@
       "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
       "link": "https://lefaso.net/spip.php?article148245",
       "source": "LeFaso",
-      "published_at": "2026-07-29T19:36:46.032217+00:00",
+      "published_at": "2026-07-29T21:06:21.803912+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +135,7 @@
       "title": "Tourisme interne : La Primature en immersion au mus\u00e9e Rayimi d'Issouka pour renouer avec les racines du Burkina",
       "link": "https://lefaso.net/spip.php?article148203",
       "source": "LeFaso",
-      "published_at": "2026-07-29T19:36:46.032217+00:00",
+      "published_at": "2026-07-29T21:06:21.803912+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +148,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-29T19:36:46.032217+00:00",
+      "published_at": "2026-07-29T21:06:21.803912+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-29T21:50:33.510250+00:00",
-      "score": 10.2
+      "timestamp": "2026-07-29T22:35:57.575607+00:00",
+      "score": 12.2
     },
     {
-      "timestamp": "2026-07-30T00:04:20.988283+00:00",
-      "score": 10.2
+      "timestamp": "2026-07-30T00:05:33.347302+00:00",
+      "score": 12.4
     },
     {
-      "timestamp": "2026-07-30T02:18:08.466316+00:00",
-      "score": 10.1
+      "timestamp": "2026-07-30T01:35:09.118997+00:00",
+      "score": 12.5
     },
     {
-      "timestamp": "2026-07-30T04:31:55.944349+00:00",
-      "score": 10.1
+      "timestamp": "2026-07-30T03:04:44.890692+00:00",
+      "score": 12.6
     },
     {
-      "timestamp": "2026-07-30T06:45:43.422382+00:00",
-      "score": 10.1
+      "timestamp": "2026-07-30T04:34:20.662387+00:00",
+      "score": 12.8
     },
     {
-      "timestamp": "2026-07-30T08:59:30.900415+00:00",
-      "score": 10.1
+      "timestamp": "2026-07-30T06:03:56.434082+00:00",
+      "score": 12.9
     }
   ]
 }
