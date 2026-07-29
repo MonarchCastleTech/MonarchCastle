@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T17:22:58.554184+00:00",
+  "fetched_at": "2026-07-29T19:36:46.032217+00:00",
   "window_hours": 72,
   "score": 16.1,
   "risk_level": "LOW",
@@ -97,7 +97,7 @@
       "title": "S\u00e9n\u00e9gal : La bataille \u00e0 armes \u00e9gales entre les fr\u00e8res ennemis a d\u00e9but\u00e9",
       "link": "https://lefaso.net/spip.php?article148249",
       "source": "LeFaso",
-      "published_at": "2026-07-29T17:22:58.554184+00:00",
+      "published_at": "2026-07-29T19:36:46.032217+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
       "link": "https://lefaso.net/spip.php?article148245",
       "source": "LeFaso",
-      "published_at": "2026-07-29T17:22:58.554184+00:00",
+      "published_at": "2026-07-29T19:36:46.032217+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Tourisme interne : La Primature en immersion au mus\u00e9e Rayimi d'Issouka pour renouer avec les racines du Burkina",
       "link": "https://lefaso.net/spip.php?article148203",
       "source": "LeFaso",
-      "published_at": "2026-07-29T17:22:58.554184+00:00",
+      "published_at": "2026-07-29T19:36:46.032217+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-29T17:22:58.554184+00:00",
+      "published_at": "2026-07-29T19:36:46.032217+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,28 +148,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-29T19:31:32.463010+00:00",
-      "score": 8.8
+      "timestamp": "2026-07-29T21:50:33.510250+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-07-29T21:40:06.371836+00:00",
-      "score": 8.6
+      "timestamp": "2026-07-30T00:04:20.988283+00:00",
+      "score": 10.2
     },
     {
-      "timestamp": "2026-07-29T23:48:40.280662+00:00",
-      "score": 8.5
+      "timestamp": "2026-07-30T02:18:08.466316+00:00",
+      "score": 10.1
     },
     {
-      "timestamp": "2026-07-30T01:57:14.189488+00:00",
-      "score": 8.4
+      "timestamp": "2026-07-30T04:31:55.944349+00:00",
+      "score": 10.1
     },
     {
-      "timestamp": "2026-07-30T04:05:48.098314+00:00",
-      "score": 8.2
+      "timestamp": "2026-07-30T06:45:43.422382+00:00",
+      "score": 10.1
     },
     {
-      "timestamp": "2026-07-30T06:14:22.007140+00:00",
-      "score": 8.1
+      "timestamp": "2026-07-30T08:59:30.900415+00:00",
+      "score": 10.1
     }
   ]
 }
