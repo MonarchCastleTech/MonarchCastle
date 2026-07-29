@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T09:44:36.792920+00:00",
+  "fetched_at": "2026-07-29T12:09:41.312173+00:00",
   "window_hours": 72,
   "score": 8.1,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 80
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Tourisme interne : La Primature en immersion au mus\u00e9e Rayimi d'Issouka pour renouer avec les racines du Burkina",
       "link": "https://lefaso.net/spip.php?article148203",
       "source": "LeFaso",
-      "published_at": "2026-07-29T09:44:36.792920+00:00",
+      "published_at": "2026-07-29T12:09:41.312173+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
       "link": "https://lefaso.net/spip.php?article148175",
       "source": "LeFaso",
-      "published_at": "2026-07-29T09:44:36.792920+00:00",
+      "published_at": "2026-07-29T12:09:41.312173+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,28 +123,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-29T12:49:09.915506+00:00",
+      "timestamp": "2026-07-29T14:34:45.831426+00:00",
       "score": 5.9
     },
     {
-      "timestamp": "2026-07-29T15:53:43.038092+00:00",
+      "timestamp": "2026-07-29T16:59:50.350679+00:00",
       "score": 5.5
     },
     {
-      "timestamp": "2026-07-29T18:58:16.160678+00:00",
-      "score": 5.1
+      "timestamp": "2026-07-29T19:24:54.869932+00:00",
+      "score": 5.2
     },
     {
-      "timestamp": "2026-07-29T22:02:49.283264+00:00",
-      "score": 4.7
+      "timestamp": "2026-07-29T21:49:59.389185+00:00",
+      "score": 4.8
     },
     {
-      "timestamp": "2026-07-30T01:07:22.405850+00:00",
-      "score": 4.4
+      "timestamp": "2026-07-30T00:15:03.908438+00:00",
+      "score": 4.5
     },
     {
-      "timestamp": "2026-07-30T04:11:55.528436+00:00",
-      "score": 4.0
+      "timestamp": "2026-07-30T02:40:08.427691+00:00",
+      "score": 4.1
     }
   ]
 }
