@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-07-30T11:58:17.121624+00:00",
+  "fetched_at": "2026-07-30T14:24:31.107586+00:00",
   "window_hours": 72,
-  "score": 20.0,
+  "score": 24.9,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 9.8,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 83
+      "items": 85
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 52
+      "items": 53
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 27
+      "items": 28
     },
     {
       "name": "AllAfrica - Niger",
@@ -94,10 +94,21 @@
   ],
   "top_headlines": [
     {
+      "title": "Campagne de reboisement 2026 : Le tandem SOMISA-TOEGA mobilse 30 000 plants",
+      "link": "https://lefaso.net/spip.php?article148266",
+      "source": "LeFaso",
+      "published_at": "2026-07-30T14:24:31.107586+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "S\u00e9n\u00e9gal : La bataille \u00e0 armes \u00e9gales entre les fr\u00e8res ennemis a d\u00e9but\u00e9",
       "link": "https://lefaso.net/spip.php?article148249",
       "source": "LeFaso",
-      "published_at": "2026-07-30T11:58:17.121624+00:00",
+      "published_at": "2026-07-30T14:24:31.107586+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +119,7 @@
       "title": "Burkina : La 2\u1d49 \u00e9dition de l'immersion en langue san officiellement lanc\u00e9e \u00e0 Loumbila",
       "link": "https://lefaso.net/spip.php?article148254",
       "source": "LeFaso",
-      "published_at": "2026-07-30T11:58:17.121624+00:00",
+      "published_at": "2026-07-30T14:24:31.107586+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +132,7 @@
       "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
       "link": "https://lefaso.net/spip.php?article148245",
       "source": "LeFaso",
-      "published_at": "2026-07-30T11:58:17.121624+00:00",
+      "published_at": "2026-07-30T14:24:31.107586+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +146,7 @@
       "title": "\u200eBurkina/Transplantation r\u00e9nale : Le gouvernement salue les prouesses aux \u00e9quipes m\u00e9dicales",
       "link": "https://lefaso.net/spip.php?article148260",
       "source": "LeFaso",
-      "published_at": "2026-07-30T11:58:17.121624+00:00",
+      "published_at": "2026-07-30T14:24:31.107586+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,7 +159,7 @@
       "title": "Tourisme interne : La Primature en immersion au mus\u00e9e Rayimi d'Issouka pour renouer avec les racines du Burkina",
       "link": "https://lefaso.net/spip.php?article148203",
       "source": "LeFaso",
-      "published_at": "2026-07-30T11:58:17.121624+00:00",
+      "published_at": "2026-07-30T14:24:31.107586+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -156,32 +167,45 @@
       "regions": [
         "burkina"
       ]
+    },
+    {
+      "title": "Wafcon 2026 - Ghana Cruise Past Cape Verde As Cameroon Edge Mali in Thrilling Group D Opener",
+      "link": "https://allafrica.com/stories/202607300310.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-30T12:05:55+00:00",
+      "score": 0.81,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-30T14:20:45.469400+00:00",
-      "score": 20.3
-    },
-    {
-      "timestamp": "2026-07-30T16:43:13.817176+00:00",
-      "score": 21.0
-    },
-    {
-      "timestamp": "2026-07-30T19:05:42.164952+00:00",
-      "score": 21.6
-    },
-    {
-      "timestamp": "2026-07-30T21:28:10.512728+00:00",
+      "timestamp": "2026-07-30T16:50:45.093548+00:00",
       "score": 22.3
     },
     {
-      "timestamp": "2026-07-30T23:50:38.860504+00:00",
-      "score": 22.9
+      "timestamp": "2026-07-30T19:16:59.079510+00:00",
+      "score": 23.0
     },
     {
-      "timestamp": "2026-07-31T02:13:07.208280+00:00",
-      "score": 23.6
+      "timestamp": "2026-07-30T21:43:13.065472+00:00",
+      "score": 23.8
+    },
+    {
+      "timestamp": "2026-07-31T00:09:27.051434+00:00",
+      "score": 24.6
+    },
+    {
+      "timestamp": "2026-07-31T02:35:41.037396+00:00",
+      "score": 25.3
+    },
+    {
+      "timestamp": "2026-07-31T05:01:55.023358+00:00",
+      "score": 26.1
     }
   ]
 }
