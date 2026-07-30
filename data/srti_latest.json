@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-29T23:06:10.112965+00:00",
+  "fetched_at": "2026-07-30T03:15:46.804673+00:00",
   "window_hours": 72,
   "score": 20.0,
   "risk_level": "GUARDED",
@@ -11,7 +11,7 @@
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 6,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 85
+      "items": 84
     },
     {
       "name": "ActuNiger",
@@ -94,36 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "\u200eBurkina/Transplantation r\u00e9nale : Le gouvernement salue les prouesses aux \u00e9quipes m\u00e9dicales",
-      "link": "https://lefaso.net/spip.php?article148260",
-      "source": "LeFaso",
-      "published_at": "2026-07-29T23:06:10.112965+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
-      "title": "Burkina : La 2\u1d49 \u00e9dition de l'immersion en langue san officiellement lanc\u00e9e \u00e0 Loumbila",
-      "link": "https://lefaso.net/spip.php?article148254",
-      "source": "LeFaso",
-      "published_at": "2026-07-29T23:06:10.112965+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
       "title": "S\u00e9n\u00e9gal : La bataille \u00e0 armes \u00e9gales entre les fr\u00e8res ennemis a d\u00e9but\u00e9",
       "link": "https://lefaso.net/spip.php?article148249",
       "source": "LeFaso",
-      "published_at": "2026-07-29T23:06:10.112965+00:00",
+      "published_at": "2026-07-30T03:15:46.804673+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -131,24 +105,10 @@
       "regions": []
     },
     {
-      "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
-      "link": "https://lefaso.net/spip.php?article148245",
+      "title": "Burkina : La 2\u1d49 \u00e9dition de l'immersion en langue san officiellement lanc\u00e9e \u00e0 Loumbila",
+      "link": "https://lefaso.net/spip.php?article148254",
       "source": "LeFaso",
-      "published_at": "2026-07-29T23:06:10.112965+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
-      "title": "Tourisme interne : La Primature en immersion au mus\u00e9e Rayimi d'Issouka pour renouer avec les racines du Burkina",
-      "link": "https://lefaso.net/spip.php?article148203",
-      "source": "LeFaso",
-      "published_at": "2026-07-29T23:06:10.112965+00:00",
+      "published_at": "2026-07-30T03:15:46.804673+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -158,10 +118,10 @@
       ]
     },
     {
-      "title": "Gr\u00e9goire Bado, promoteur \u00ab Camp d'incubation \u00bb : \u00ab Si ta vie n'a pas \u00e9t\u00e9 utile pour les autres, sache qu'elle n'a pas \u00e9t\u00e9 utile pour toi \u00bb",
-      "link": "https://lefaso.net/spip.php?article148175",
+      "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
+      "link": "https://lefaso.net/spip.php?article148245",
       "source": "LeFaso",
-      "published_at": "2026-07-29T23:06:10.112965+00:00",
+      "published_at": "2026-07-30T03:15:46.804673+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -170,32 +130,58 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "\u200eBurkina/Transplantation r\u00e9nale : Le gouvernement salue les prouesses aux \u00e9quipes m\u00e9dicales",
+      "link": "https://lefaso.net/spip.php?article148260",
+      "source": "LeFaso",
+      "published_at": "2026-07-30T03:15:46.804673+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
+      "title": "Tourisme interne : La Primature en immersion au mus\u00e9e Rayimi d'Issouka pour renouer avec les racines du Burkina",
+      "link": "https://lefaso.net/spip.php?article148203",
+      "source": "LeFaso",
+      "published_at": "2026-07-30T03:15:46.804673+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-30T01:05:58.422018+00:00",
-      "score": 14.2
+      "timestamp": "2026-07-30T07:25:23.496381+00:00",
+      "score": 16.2
     },
     {
-      "timestamp": "2026-07-30T03:05:46.731071+00:00",
-      "score": 14.5
+      "timestamp": "2026-07-30T11:35:00.188089+00:00",
+      "score": 16.6
     },
     {
-      "timestamp": "2026-07-30T05:05:35.040124+00:00",
-      "score": 14.8
+      "timestamp": "2026-07-30T15:44:36.879797+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-07-30T07:05:23.349177+00:00",
-      "score": 15.1
+      "timestamp": "2026-07-30T19:54:13.571505+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-07-30T09:05:11.658230+00:00",
-      "score": 15.3
+      "timestamp": "2026-07-31T00:03:50.263213+00:00",
+      "score": 17.9
     },
     {
-      "timestamp": "2026-07-30T11:04:59.967283+00:00",
-      "score": 15.6
+      "timestamp": "2026-07-31T04:13:26.954921+00:00",
+      "score": 18.3
     }
   ]
 }
