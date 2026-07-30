@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-30T16:42:09.219555+00:00",
+  "fetched_at": "2026-07-30T18:24:23.796130+00:00",
   "window_hours": 72,
-  "score": 54.0,
+  "score": 53.2,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 68.1,
+    "conflict_intensity": 66.4,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 88
+      "items": 90
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202607300400.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-30T14:32:01+00:00",
-      "score": 1.63,
+      "score": 1.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "link": "https://allafrica.com/stories/202607300400.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-07-30T14:32:01+00:00",
-      "score": 1.63,
+      "score": 1.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -124,7 +124,7 @@
       "link": "https://allafrica.com/stories/202607300400.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-07-30T14:32:01+00:00",
-      "score": 1.63,
+      "score": 1.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -136,7 +136,7 @@
       "title": "Burkina : Les soci\u00e9t\u00e9s mini\u00e8res SOMISA et TOEGA lancent la campagne de reboisement \"Un \u00e9l\u00e8ve, un arbre\"",
       "link": "https://lefaso.net/spip.php?article148269",
       "source": "LeFaso",
-      "published_at": "2026-07-30T16:42:09.219555+00:00",
+      "published_at": "2026-07-30T18:24:23.796130+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +149,7 @@
       "title": "Campagne de reboisement 2026 : Le tandem SOMISA-TOEGA mobilse 30 000 plants",
       "link": "https://lefaso.net/spip.php?article148266",
       "source": "LeFaso",
-      "published_at": "2026-07-30T16:42:09.219555+00:00",
+      "published_at": "2026-07-30T18:24:23.796130+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,7 +160,7 @@
       "title": "S\u00e9n\u00e9gal : La bataille \u00e0 armes \u00e9gales entre les fr\u00e8res ennemis a d\u00e9but\u00e9",
       "link": "https://lefaso.net/spip.php?article148249",
       "source": "LeFaso",
-      "published_at": "2026-07-30T16:42:09.219555+00:00",
+      "published_at": "2026-07-30T18:24:23.796130+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -171,7 +171,7 @@
       "title": "Burkina : La 2\u1d49 \u00e9dition de l'immersion en langue san officiellement lanc\u00e9e \u00e0 Loumbila",
       "link": "https://lefaso.net/spip.php?article148254",
       "source": "LeFaso",
-      "published_at": "2026-07-30T16:42:09.219555+00:00",
+      "published_at": "2026-07-30T18:24:23.796130+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -184,7 +184,7 @@
       "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
       "link": "https://lefaso.net/spip.php?article148245",
       "source": "LeFaso",
-      "published_at": "2026-07-30T16:42:09.219555+00:00",
+      "published_at": "2026-07-30T18:24:23.796130+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -197,28 +197,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-30T18:59:47.331524+00:00",
-      "score": 28.3
+      "timestamp": "2026-07-30T20:06:38.372705+00:00",
+      "score": 34.1
     },
     {
-      "timestamp": "2026-07-30T21:17:25.443493+00:00",
-      "score": 29.4
+      "timestamp": "2026-07-30T21:48:52.949280+00:00",
+      "score": 35.5
     },
     {
-      "timestamp": "2026-07-30T23:35:03.555462+00:00",
-      "score": 30.5
+      "timestamp": "2026-07-30T23:31:07.525855+00:00",
+      "score": 36.9
     },
     {
-      "timestamp": "2026-07-31T01:52:41.667431+00:00",
-      "score": 31.6
+      "timestamp": "2026-07-31T01:13:22.102430+00:00",
+      "score": 38.3
     },
     {
-      "timestamp": "2026-07-31T04:10:19.779400+00:00",
-      "score": 32.6
+      "timestamp": "2026-07-31T02:55:36.679005+00:00",
+      "score": 39.6
     },
     {
-      "timestamp": "2026-07-31T06:27:57.891369+00:00",
-      "score": 33.7
+      "timestamp": "2026-07-31T04:37:51.255580+00:00",
+      "score": 41.0
     }
   ]
 }
