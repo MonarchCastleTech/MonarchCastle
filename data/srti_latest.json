@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-07-31T00:11:20.713467+00:00",
+  "fetched_at": "2026-07-31T04:30:45.062452+00:00",
   "window_hours": 72,
-  "score": 50.4,
+  "score": 48.2,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 60.8,
+    "conflict_intensity": 56.5,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86
+      "items": 80
     },
     {
       "name": "ActuNiger",
@@ -77,66 +77,27 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 29
+      "items": 27
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 9
+      "items": 8
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 19
+      "items": 17
     }
   ],
   "top_headlines": [
     {
-      "title": "Sahel Security Crisis Demands Action Beyond Assurances of Solidarity",
-      "link": "https://allafrica.com/stories/202607300400.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-07-30T14:32:01+00:00",
-      "score": 1.45,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel"
-      ]
-    },
-    {
-      "title": "Sahel Security Crisis Demands Action Beyond Assurances of Solidarity",
-      "link": "https://allafrica.com/stories/202607300400.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-07-30T14:32:01+00:00",
-      "score": 1.45,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel"
-      ]
-    },
-    {
-      "title": "Sahel Security Crisis Demands Action Beyond Assurances of Solidarity",
-      "link": "https://allafrica.com/stories/202607300400.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-07-30T14:32:01+00:00",
-      "score": 1.45,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "sahel"
-      ]
-    },
-    {
       "title": "Burkina : Les soci\u00e9t\u00e9s mini\u00e8res SOMISA et TOEGA lancent la campagne de reboisement \"Un \u00e9l\u00e8ve, un arbre\"",
       "link": "https://lefaso.net/spip.php?article148269",
       "source": "LeFaso",
-      "published_at": "2026-07-31T00:11:20.713467+00:00",
+      "published_at": "2026-07-31T04:30:45.062452+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +110,7 @@
       "title": "Campagne de reboisement 2026 : Le tandem SOMISA-TOEGA mobilse 30 000 plants",
       "link": "https://lefaso.net/spip.php?article148266",
       "source": "LeFaso",
-      "published_at": "2026-07-31T00:11:20.713467+00:00",
+      "published_at": "2026-07-31T04:30:45.062452+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,7 +121,7 @@
       "title": "S\u00e9n\u00e9gal : La bataille \u00e0 armes \u00e9gales entre les fr\u00e8res ennemis a d\u00e9but\u00e9",
       "link": "https://lefaso.net/spip.php?article148249",
       "source": "LeFaso",
-      "published_at": "2026-07-31T00:11:20.713467+00:00",
+      "published_at": "2026-07-31T04:30:45.062452+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -171,7 +132,7 @@
       "title": "Burkina : La 2\u1d49 \u00e9dition de l'immersion en langue san officiellement lanc\u00e9e \u00e0 Loumbila",
       "link": "https://lefaso.net/spip.php?article148254",
       "source": "LeFaso",
-      "published_at": "2026-07-31T00:11:20.713467+00:00",
+      "published_at": "2026-07-31T04:30:45.062452+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -184,7 +145,7 @@
       "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
       "link": "https://lefaso.net/spip.php?article148245",
       "source": "LeFaso",
-      "published_at": "2026-07-31T00:11:20.713467+00:00",
+      "published_at": "2026-07-31T04:30:45.062452+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -193,32 +154,71 @@
         "burkina",
         "burkina faso"
       ]
+    },
+    {
+      "title": "\u200eBurkina/Transplantation r\u00e9nale : Le gouvernement salue les prouesses aux \u00e9quipes m\u00e9dicales",
+      "link": "https://lefaso.net/spip.php?article148260",
+      "source": "LeFaso",
+      "published_at": "2026-07-31T04:30:45.062452+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
+      "title": "Sahel Security Crisis Demands Action Beyond Assurances of Solidarity",
+      "link": "https://allafrica.com/stories/202607300400.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-07-30T14:32:01+00:00",
+      "score": 1.35,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "sahel"
+      ]
+    },
+    {
+      "title": "Sahel Security Crisis Demands Action Beyond Assurances of Solidarity",
+      "link": "https://allafrica.com/stories/202607300400.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-07-30T14:32:01+00:00",
+      "score": 1.35,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "sahel"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-07-31T02:08:11.524157+00:00",
-      "score": 47.5
+      "timestamp": "2026-07-31T08:50:09.411437+00:00",
+      "score": 50.6
     },
     {
-      "timestamp": "2026-07-31T04:05:02.334847+00:00",
-      "score": 49.5
+      "timestamp": "2026-07-31T13:09:33.760422+00:00",
+      "score": 52.8
     },
     {
-      "timestamp": "2026-07-31T06:01:53.145537+00:00",
-      "score": 51.6
+      "timestamp": "2026-07-31T17:28:58.109407+00:00",
+      "score": 54.9
     },
     {
-      "timestamp": "2026-07-31T07:58:43.956227+00:00",
-      "score": 53.6
+      "timestamp": "2026-07-31T21:48:22.458392+00:00",
+      "score": 57.1
     },
     {
-      "timestamp": "2026-07-31T09:55:34.766917+00:00",
-      "score": 55.6
+      "timestamp": "2026-08-01T02:07:46.807377+00:00",
+      "score": 59.2
     },
     {
-      "timestamp": "2026-07-31T11:52:25.577607+00:00",
-      "score": 57.7
+      "timestamp": "2026-08-01T06:27:11.156362+00:00",
+      "score": 61.4
     }
   ]
 }
