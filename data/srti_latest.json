@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-01T09:11:48.290947+00:00",
+  "fetched_at": "2026-08-01T11:24:23.305107+00:00",
   "window_hours": 72,
-  "score": 60.9,
-  "risk_level": "HIGH",
+  "score": 59.5,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 81.7,
+    "conflict_intensity": 79.0,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202607310024.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-31T07:31:10+00:00",
-      "score": 1.78,
+      "score": 1.69,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,7 +109,7 @@
       "title": "Burkina/S\u00e9curit\u00e9 routi\u00e8re : 305 morts au premier trimestre 2026, une campagne pour renforcer le civisme",
       "link": "https://lefaso.net/spip.php?article148308",
       "source": "LeFaso",
-      "published_at": "2026-08-01T09:11:48.290947+00:00",
+      "published_at": "2026-08-01T11:24:23.305107+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina : Les soci\u00e9t\u00e9s mini\u00e8res SOMISA et TOEGA lancent la campagne de reboisement \"Un \u00e9l\u00e8ve, un arbre\"",
       "link": "https://lefaso.net/spip.php?article148269",
       "source": "LeFaso",
-      "published_at": "2026-08-01T09:11:48.290947+00:00",
+      "published_at": "2026-08-01T11:24:23.305107+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Campagne de reboisement 2026 : Le tandem SOMISA-TOEGA mobilse 30 000 plants",
       "link": "https://lefaso.net/spip.php?article148266",
       "source": "LeFaso",
-      "published_at": "2026-08-01T09:11:48.290947+00:00",
+      "published_at": "2026-08-01T11:24:23.305107+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,7 +148,7 @@
       "title": "S\u00e9n\u00e9gal : La bataille \u00e0 armes \u00e9gales entre les fr\u00e8res ennemis a d\u00e9but\u00e9",
       "link": "https://lefaso.net/spip.php?article148249",
       "source": "LeFaso",
-      "published_at": "2026-08-01T09:11:48.290947+00:00",
+      "published_at": "2026-08-01T11:24:23.305107+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -159,7 +159,7 @@
       "title": "Burkina : La 2\u1d49 \u00e9dition de l'immersion en langue san officiellement lanc\u00e9e \u00e0 Loumbila",
       "link": "https://lefaso.net/spip.php?article148254",
       "source": "LeFaso",
-      "published_at": "2026-08-01T09:11:48.290947+00:00",
+      "published_at": "2026-08-01T11:24:23.305107+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -172,7 +172,7 @@
       "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
       "link": "https://lefaso.net/spip.php?article148245",
       "source": "LeFaso",
-      "published_at": "2026-08-01T09:11:48.290947+00:00",
+      "published_at": "2026-08-01T11:24:23.305107+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -186,7 +186,7 @@
       "title": "\u200eBurkina/Transplantation r\u00e9nale : Le gouvernement salue les prouesses aux \u00e9quipes m\u00e9dicales",
       "link": "https://lefaso.net/spip.php?article148260",
       "source": "LeFaso",
-      "published_at": "2026-08-01T09:11:48.290947+00:00",
+      "published_at": "2026-08-01T11:24:23.305107+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -198,28 +198,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-01T11:46:37.243231+00:00",
-      "score": 76.4
+      "timestamp": "2026-08-01T13:36:58.319267+00:00",
+      "score": 75.8
     },
     {
-      "timestamp": "2026-08-01T14:21:26.195515+00:00",
-      "score": 78.7
+      "timestamp": "2026-08-01T15:49:33.333427+00:00",
+      "score": 77.9
     },
     {
-      "timestamp": "2026-08-01T16:56:15.147799+00:00",
-      "score": 81.0
+      "timestamp": "2026-08-01T18:02:08.347587+00:00",
+      "score": 80.0
     },
     {
-      "timestamp": "2026-08-01T19:31:04.100083+00:00",
-      "score": 83.3
+      "timestamp": "2026-08-01T20:14:43.361747+00:00",
+      "score": 82.2
     },
     {
-      "timestamp": "2026-08-01T22:05:53.052367+00:00",
-      "score": 85.6
+      "timestamp": "2026-08-01T22:27:18.375907+00:00",
+      "score": 84.3
     },
     {
-      "timestamp": "2026-08-02T00:40:42.004651+00:00",
-      "score": 87.9
+      "timestamp": "2026-08-02T00:39:53.390067+00:00",
+      "score": 86.4
     }
   ]
 }
