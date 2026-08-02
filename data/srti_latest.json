@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-01T22:06:20.285097+00:00",
+  "fetched_at": "2026-08-02T00:04:23.852350+00:00",
   "window_hours": 72,
-  "score": 57.2,
+  "score": 56.9,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 74.4,
+    "conflict_intensity": 73.8,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 15,
+  "items_count": 14,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 77
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Burkina/S\u00e9curit\u00e9 routi\u00e8re : 305 morts au premier trimestre 2026, une campagne pour renforcer le civisme",
       "link": "https://lefaso.net/spip.php?article148308",
       "source": "LeFaso",
-      "published_at": "2026-08-01T22:06:20.285097+00:00",
+      "published_at": "2026-08-02T00:04:23.852350+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina : Les soci\u00e9t\u00e9s mini\u00e8res SOMISA et TOEGA lancent la campagne de reboisement \"Un \u00e9l\u00e8ve, un arbre\"",
       "link": "https://lefaso.net/spip.php?article148269",
       "source": "LeFaso",
-      "published_at": "2026-08-01T22:06:20.285097+00:00",
+      "published_at": "2026-08-02T00:04:23.852350+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Campagne de reboisement 2026 : Le tandem SOMISA-TOEGA mobilse 30 000 plants",
       "link": "https://lefaso.net/spip.php?article148266",
       "source": "LeFaso",
-      "published_at": "2026-08-01T22:06:20.285097+00:00",
+      "published_at": "2026-08-02T00:04:23.852350+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "S\u00e9n\u00e9gal : La bataille \u00e0 armes \u00e9gales entre les fr\u00e8res ennemis a d\u00e9but\u00e9",
       "link": "https://lefaso.net/spip.php?article148249",
       "source": "LeFaso",
-      "published_at": "2026-08-01T22:06:20.285097+00:00",
+      "published_at": "2026-08-02T00:04:23.852350+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -147,7 +147,7 @@
       "title": "Burkina : La 2\u1d49 \u00e9dition de l'immersion en langue san officiellement lanc\u00e9e \u00e0 Loumbila",
       "link": "https://lefaso.net/spip.php?article148254",
       "source": "LeFaso",
-      "published_at": "2026-08-01T22:06:20.285097+00:00",
+      "published_at": "2026-08-02T00:04:23.852350+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,7 +160,7 @@
       "title": "Burkina Faso/Coop\u00e9ration agricole : La R\u00e9publique populaire de Chine renforce les capacit\u00e9s des campeurs en techniques agricoles \u00e0 Kindi",
       "link": "https://lefaso.net/spip.php?article148245",
       "source": "LeFaso",
-      "published_at": "2026-08-01T22:06:20.285097+00:00",
+      "published_at": "2026-08-02T00:04:23.852350+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -171,55 +171,56 @@
       ]
     },
     {
-      "title": "\u200eBurkina/Transplantation r\u00e9nale : Le gouvernement salue les prouesses aux \u00e9quipes m\u00e9dicales",
-      "link": "https://lefaso.net/spip.php?article148260",
-      "source": "LeFaso",
-      "published_at": "2026-08-01T22:06:20.285097+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
       "title": "Russia's 'Africa Corps' Airstrikes Kill Civilians",
       "link": "https://allafrica.com/stories/202607310024.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-07-31T07:31:10+00:00",
-      "score": 1.28,
+      "score": 1.21,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
       ],
       "regions": []
+    },
+    {
+      "title": "Burkina/Offensive agro-pastorale 2023-2025 : 273,99 milliards de francs CFA mobilis\u00e9s pour l'atteinte de l'autosuffisance alimentaire",
+      "link": "https://lefaso.net/spip.php?article148318",
+      "source": "LeFaso",
+      "published_at": "2026-08-02T00:04:23.852350+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "ouagadougou"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-01T23:08:54.487810+00:00",
-      "score": 62.1
+      "timestamp": "2026-08-02T02:02:27.419603+00:00",
+      "score": 61.5
     },
     {
-      "timestamp": "2026-08-02T00:11:28.690523+00:00",
+      "timestamp": "2026-08-02T04:00:30.986856+00:00",
+      "score": 61.7
+    },
+    {
+      "timestamp": "2026-08-02T05:58:34.554109+00:00",
+      "score": 61.9
+    },
+    {
+      "timestamp": "2026-08-02T07:56:38.121362+00:00",
+      "score": 62.2
+    },
+    {
+      "timestamp": "2026-08-02T09:54:41.688615+00:00",
       "score": 62.4
     },
     {
-      "timestamp": "2026-08-02T01:14:02.893236+00:00",
-      "score": 62.7
-    },
-    {
-      "timestamp": "2026-08-02T02:16:37.095949+00:00",
-      "score": 63.0
-    },
-    {
-      "timestamp": "2026-08-02T03:19:11.298662+00:00",
-      "score": 63.3
-    },
-    {
-      "timestamp": "2026-08-02T04:21:45.501375+00:00",
-      "score": 63.6
+      "timestamp": "2026-08-02T11:52:45.255868+00:00",
+      "score": 62.6
     }
   ]
 }
