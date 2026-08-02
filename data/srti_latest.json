@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T06:40:34.053616+00:00",
+  "fetched_at": "2026-08-02T09:16:06.149566+00:00",
   "window_hours": 72,
   "score": 49.2,
   "risk_level": "ELEVATED",
@@ -97,7 +97,7 @@
       "title": "Burkina/S\u00e9curit\u00e9 routi\u00e8re : 305 morts au premier trimestre 2026, une campagne pour renforcer le civisme",
       "link": "https://lefaso.net/spip.php?article148308",
       "source": "LeFaso",
-      "published_at": "2026-08-02T06:40:34.053616+00:00",
+      "published_at": "2026-08-02T09:16:06.149566+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Burkina : Les soci\u00e9t\u00e9s mini\u00e8res SOMISA et TOEGA lancent la campagne de reboisement \"Un \u00e9l\u00e8ve, un arbre\"",
       "link": "https://lefaso.net/spip.php?article148269",
       "source": "LeFaso",
-      "published_at": "2026-08-02T06:40:34.053616+00:00",
+      "published_at": "2026-08-02T09:16:06.149566+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Campagne de reboisement 2026 : Le tandem SOMISA-TOEGA mobilse 30 000 plants",
       "link": "https://lefaso.net/spip.php?article148266",
       "source": "LeFaso",
-      "published_at": "2026-08-02T06:40:34.053616+00:00",
+      "published_at": "2026-08-02T09:16:06.149566+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina/Offensive agro-pastorale 2023-2025 : 273,99 milliards de francs CFA mobilis\u00e9s pour l'atteinte de l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148318",
       "source": "LeFaso",
-      "published_at": "2026-08-02T06:40:34.053616+00:00",
+      "published_at": "2026-08-02T09:16:06.149566+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -150,7 +150,7 @@
       "title": "Starlink comme une arme en Afrique de l'Ouest : SpaceX n'en est pas consciente ou ne veux pas l'\u00eatre ?",
       "link": "https://lefaso.net/spip.php?article148295",
       "source": "LeFaso",
-      "published_at": "2026-08-02T06:40:34.053616+00:00",
+      "published_at": "2026-08-02T09:16:06.149566+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,7 +161,7 @@
       "title": "Souverainet\u00e9 alimentaire : Le Burkina Faso lance une nouvelle offensive agropastorale sur la p\u00e9riode 2026-2028",
       "link": "https://lefaso.net/spip.php?article148294",
       "source": "LeFaso",
-      "published_at": "2026-08-02T06:40:34.053616+00:00",
+      "published_at": "2026-08-02T09:16:06.149566+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -199,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-02T09:34:09.541354+00:00",
-      "score": 57.4
+      "timestamp": "2026-08-02T11:51:38.245516+00:00",
+      "score": 55.2
     },
     {
-      "timestamp": "2026-08-02T12:27:45.029092+00:00",
-      "score": 57.3
+      "timestamp": "2026-08-02T14:27:10.341466+00:00",
+      "score": 55.0
     },
     {
-      "timestamp": "2026-08-02T15:21:20.516830+00:00",
-      "score": 57.2
+      "timestamp": "2026-08-02T17:02:42.437416+00:00",
+      "score": 54.7
     },
     {
-      "timestamp": "2026-08-02T18:14:56.004568+00:00",
-      "score": 57.2
+      "timestamp": "2026-08-02T19:38:14.533366+00:00",
+      "score": 54.5
     },
     {
-      "timestamp": "2026-08-02T21:08:31.492306+00:00",
-      "score": 57.1
+      "timestamp": "2026-08-02T22:13:46.629316+00:00",
+      "score": 54.3
     },
     {
-      "timestamp": "2026-08-03T00:02:06.980044+00:00",
-      "score": 57.0
+      "timestamp": "2026-08-03T00:49:18.725266+00:00",
+      "score": 54.0
     }
   ]
 }
