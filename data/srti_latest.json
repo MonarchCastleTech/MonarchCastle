@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-02T22:05:24.624648+00:00",
+  "fetched_at": "2026-08-03T00:05:39.841727+00:00",
   "window_hours": 72,
-  "score": 28.8,
-  "risk_level": "GUARDED",
+  "score": 46.3,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 47.4,
-    "civilian_risk": 25.5
+    "conflict_intensity": 74.3,
+    "civilian_risk": 45.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 59
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,22 @@
   ],
   "top_headlines": [
     {
+      "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
+      "link": "https://lefaso.net/spip.php?article148343",
+      "source": "LeFaso",
+      "published_at": "2026-08-03T00:05:39.841727+00:00",
+      "score": 2.56,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Burkina/S\u00e9curit\u00e9 routi\u00e8re : 305 morts au premier trimestre 2026, une campagne pour renforcer le civisme",
       "link": "https://lefaso.net/spip.php?article148308",
       "source": "LeFaso",
-      "published_at": "2026-08-02T22:05:24.624648+00:00",
+      "published_at": "2026-08-03T00:05:39.841727+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -109,10 +121,24 @@
       ]
     },
     {
+      "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
+      "link": "https://lefaso.net/spip.php?article148341",
+      "source": "LeFaso",
+      "published_at": "2026-08-03T00:05:39.841727+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso"
+      ]
+    },
+    {
       "title": "Burkina/Offensive agro-pastorale 2023-2025 : 273,99 milliards de francs CFA mobilis\u00e9s pour l'atteinte de l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148318",
       "source": "LeFaso",
-      "published_at": "2026-08-02T22:05:24.624648+00:00",
+      "published_at": "2026-08-03T00:05:39.841727+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -126,7 +152,7 @@
       "title": "Starlink comme une arme en Afrique de l'Ouest : SpaceX n'en est pas consciente ou ne veux pas l'\u00eatre ?",
       "link": "https://lefaso.net/spip.php?article148295",
       "source": "LeFaso",
-      "published_at": "2026-08-02T22:05:24.624648+00:00",
+      "published_at": "2026-08-03T00:05:39.841727+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,7 +163,7 @@
       "title": "Souverainet\u00e9 alimentaire : Le Burkina Faso lance une nouvelle offensive agropastorale sur la p\u00e9riode 2026-2028",
       "link": "https://lefaso.net/spip.php?article148294",
       "source": "LeFaso",
-      "published_at": "2026-08-02T22:05:24.624648+00:00",
+      "published_at": "2026-08-03T00:05:39.841727+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -162,28 +188,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-02T23:06:43.567087+00:00",
-      "score": 31.7
+      "timestamp": "2026-08-03T02:05:55.058806+00:00",
+      "score": 31.9
     },
     {
-      "timestamp": "2026-08-03T00:08:02.509526+00:00",
-      "score": 30.1
+      "timestamp": "2026-08-03T04:06:10.275885+00:00",
+      "score": 30.3
     },
     {
-      "timestamp": "2026-08-03T01:09:21.451965+00:00",
-      "score": 28.5
+      "timestamp": "2026-08-03T06:06:25.492964+00:00",
+      "score": 28.8
     },
     {
-      "timestamp": "2026-08-03T02:10:40.394404+00:00",
-      "score": 27.0
+      "timestamp": "2026-08-03T08:06:40.710043+00:00",
+      "score": 27.3
     },
     {
-      "timestamp": "2026-08-03T03:11:59.336843+00:00",
-      "score": 25.4
+      "timestamp": "2026-08-03T10:06:55.927122+00:00",
+      "score": 25.8
     },
     {
-      "timestamp": "2026-08-03T04:13:18.279282+00:00",
-      "score": 23.8
+      "timestamp": "2026-08-03T12:07:11.144201+00:00",
+      "score": 24.2
     }
   ]
 }
