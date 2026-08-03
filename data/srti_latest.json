@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-03T04:37:19.993261+00:00",
+  "fetched_at": "2026-08-03T08:37:38.760761+00:00",
   "window_hours": 72,
-  "score": 46.3,
+  "score": 41.7,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 74.3,
-    "civilian_risk": 45.6
+    "conflict_intensity": 67.2,
+    "civilian_risk": 40.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 16
+      "items": 18
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148343",
       "source": "LeFaso",
-      "published_at": "2026-08-03T04:37:19.993261+00:00",
+      "published_at": "2026-08-03T08:37:38.760761+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Burkina/S\u00e9curit\u00e9 routi\u00e8re : 305 morts au premier trimestre 2026, une campagne pour renforcer le civisme",
       "link": "https://lefaso.net/spip.php?article148308",
       "source": "LeFaso",
-      "published_at": "2026-08-03T04:37:19.993261+00:00",
+      "published_at": "2026-08-03T08:37:38.760761+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148341",
       "source": "LeFaso",
-      "published_at": "2026-08-03T04:37:19.993261+00:00",
+      "published_at": "2026-08-03T08:37:38.760761+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,7 +138,7 @@
       "title": "Burkina/Offensive agro-pastorale 2023-2025 : 273,99 milliards de francs CFA mobilis\u00e9s pour l'atteinte de l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148318",
       "source": "LeFaso",
-      "published_at": "2026-08-03T04:37:19.993261+00:00",
+      "published_at": "2026-08-03T08:37:38.760761+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -152,7 +152,7 @@
       "title": "Starlink comme une arme en Afrique de l'Ouest : SpaceX n'en est pas consciente ou ne veux pas l'\u00eatre ?",
       "link": "https://lefaso.net/spip.php?article148295",
       "source": "LeFaso",
-      "published_at": "2026-08-03T04:37:19.993261+00:00",
+      "published_at": "2026-08-03T08:37:38.760761+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +163,7 @@
       "title": "Souverainet\u00e9 alimentaire : Le Burkina Faso lance une nouvelle offensive agropastorale sur la p\u00e9riode 2026-2028",
       "link": "https://lefaso.net/spip.php?article148294",
       "source": "LeFaso",
-      "published_at": "2026-08-03T04:37:19.993261+00:00",
+      "published_at": "2026-08-03T08:37:38.760761+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -172,44 +172,32 @@
         "burkina",
         "burkina faso"
       ]
-    },
-    {
-      "title": "Russia's 'Africa Corps' Airstrikes Kill Civilians",
-      "link": "https://allafrica.com/stories/202607310024.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-07-31T07:31:10+00:00",
-      "score": 0.97,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-03T09:09:00.144795+00:00",
-      "score": 32.1
+      "timestamp": "2026-08-03T12:37:57.528261+00:00",
+      "score": 32.3
     },
     {
-      "timestamp": "2026-08-03T13:40:40.296329+00:00",
-      "score": 30.6
+      "timestamp": "2026-08-03T16:38:16.295761+00:00",
+      "score": 30.9
     },
     {
-      "timestamp": "2026-08-03T18:12:20.447863+00:00",
-      "score": 29.2
+      "timestamp": "2026-08-03T20:38:35.063261+00:00",
+      "score": 29.5
     },
     {
-      "timestamp": "2026-08-03T22:44:00.599397+00:00",
-      "score": 27.7
+      "timestamp": "2026-08-04T00:38:53.830761+00:00",
+      "score": 28.2
     },
     {
-      "timestamp": "2026-08-04T03:15:40.750931+00:00",
-      "score": 26.3
+      "timestamp": "2026-08-04T04:39:12.598261+00:00",
+      "score": 26.8
     },
     {
-      "timestamp": "2026-08-04T07:47:20.902465+00:00",
-      "score": 24.8
+      "timestamp": "2026-08-04T08:39:31.365761+00:00",
+      "score": 25.5
     }
   ]
 }
