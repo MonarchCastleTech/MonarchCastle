@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T15:48:42.153374+00:00",
+  "fetched_at": "2026-08-03T17:59:19.951957+00:00",
   "window_hours": 72,
   "score": 28.2,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 55
+      "items": 62
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148343",
       "source": "LeFaso",
-      "published_at": "2026-08-03T15:48:42.153374+00:00",
+      "published_at": "2026-08-03T17:59:19.951957+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Burkina/S\u00e9curit\u00e9 routi\u00e8re : 305 morts au premier trimestre 2026, une campagne pour renforcer le civisme",
       "link": "https://lefaso.net/spip.php?article148308",
       "source": "LeFaso",
-      "published_at": "2026-08-03T15:48:42.153374+00:00",
+      "published_at": "2026-08-03T17:59:19.951957+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148341",
       "source": "LeFaso",
-      "published_at": "2026-08-03T15:48:42.153374+00:00",
+      "published_at": "2026-08-03T17:59:19.951957+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,7 +138,7 @@
       "title": "Burkina/Offensive agro-pastorale 2023-2025 : 273,99 milliards de francs CFA mobilis\u00e9s pour l'atteinte de l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148318",
       "source": "LeFaso",
-      "published_at": "2026-08-03T15:48:42.153374+00:00",
+      "published_at": "2026-08-03T17:59:19.951957+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-03T19:04:03.562900+00:00",
-      "score": 29.4
+      "timestamp": "2026-08-03T20:09:57.750540+00:00",
+      "score": 27.7
     },
     {
-      "timestamp": "2026-08-03T22:19:24.972426+00:00",
-      "score": 28.0
+      "timestamp": "2026-08-03T22:20:35.549123+00:00",
+      "score": 26.2
     },
     {
-      "timestamp": "2026-08-04T01:34:46.381952+00:00",
-      "score": 26.6
+      "timestamp": "2026-08-04T00:31:13.347706+00:00",
+      "score": 24.8
     },
     {
-      "timestamp": "2026-08-04T04:50:07.791478+00:00",
-      "score": 25.2
+      "timestamp": "2026-08-04T02:41:51.146289+00:00",
+      "score": 23.4
     },
     {
-      "timestamp": "2026-08-04T08:05:29.201004+00:00",
-      "score": 23.9
+      "timestamp": "2026-08-04T04:52:28.944872+00:00",
+      "score": 22.0
     },
     {
-      "timestamp": "2026-08-04T11:20:50.610530+00:00",
-      "score": 22.5
+      "timestamp": "2026-08-04T07:03:06.743455+00:00",
+      "score": 20.6
     }
   ]
 }
