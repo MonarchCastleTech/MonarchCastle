@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-04T03:28:41.614923+00:00",
+  "fetched_at": "2026-08-04T06:35:49.006133+00:00",
   "window_hours": 72,
-  "score": 21.4,
+  "score": 21.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 34.8,
+    "conflict_intensity": 34.4,
     "civilian_risk": 20.2
   },
   "weights": {
@@ -97,7 +97,7 @@
       "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148343",
       "source": "LeFaso",
-      "published_at": "2026-08-04T03:28:41.614923+00:00",
+      "published_at": "2026-08-04T06:35:49.006133+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148341",
       "source": "LeFaso",
-      "published_at": "2026-08-04T03:28:41.614923+00:00",
+      "published_at": "2026-08-04T06:35:49.006133+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
       "source": "UN News Africa",
       "published_at": "2026-08-03T12:00:00+00:00",
-      "score": 0.66,
+      "score": 0.62,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-04T07:44:31.064977+00:00",
-      "score": 21.8
+      "timestamp": "2026-08-04T09:42:56.397343+00:00",
+      "score": 20.4
     },
     {
-      "timestamp": "2026-08-04T12:00:20.515031+00:00",
-      "score": 20.3
-    },
-    {
-      "timestamp": "2026-08-04T16:16:09.965085+00:00",
+      "timestamp": "2026-08-04T12:50:03.788553+00:00",
       "score": 18.9
     },
     {
-      "timestamp": "2026-08-04T20:31:59.415139+00:00",
+      "timestamp": "2026-08-04T15:57:11.179763+00:00",
       "score": 17.5
     },
     {
-      "timestamp": "2026-08-05T00:47:48.865193+00:00",
-      "score": 16.0
+      "timestamp": "2026-08-04T19:04:18.570973+00:00",
+      "score": 16.1
     },
     {
-      "timestamp": "2026-08-05T05:03:38.315247+00:00",
+      "timestamp": "2026-08-04T22:11:25.962183+00:00",
       "score": 14.6
+    },
+    {
+      "timestamp": "2026-08-05T01:18:33.353393+00:00",
+      "score": 13.2
     }
   ]
 }
