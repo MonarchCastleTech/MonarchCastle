@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-03T23:12:52.164869+00:00",
+  "fetched_at": "2026-08-04T03:28:41.614923+00:00",
   "window_hours": 72,
-  "score": 21.7,
+  "score": 21.4,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.4,
+    "conflict_intensity": 34.8,
     "civilian_risk": 20.2
   },
   "weights": {
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -77,19 +77,19 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 26
+      "items": 22
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 8
+      "items": 6
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 18
+      "items": 14
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148343",
       "source": "LeFaso",
-      "published_at": "2026-08-03T23:12:52.164869+00:00",
+      "published_at": "2026-08-04T03:28:41.614923+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +109,7 @@
       "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148341",
       "source": "LeFaso",
-      "published_at": "2026-08-03T23:12:52.164869+00:00",
+      "published_at": "2026-08-04T03:28:41.614923+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +124,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
       "source": "UN News Africa",
       "published_at": "2026-08-03T12:00:00+00:00",
-      "score": 0.71,
+      "score": 0.66,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,28 +135,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-04T01:11:46.377854+00:00",
-      "score": 23.6
+      "timestamp": "2026-08-04T07:44:31.064977+00:00",
+      "score": 21.8
     },
     {
-      "timestamp": "2026-08-04T03:10:40.590839+00:00",
-      "score": 22.1
+      "timestamp": "2026-08-04T12:00:20.515031+00:00",
+      "score": 20.3
     },
     {
-      "timestamp": "2026-08-04T05:09:34.803824+00:00",
-      "score": 20.7
+      "timestamp": "2026-08-04T16:16:09.965085+00:00",
+      "score": 18.9
     },
     {
-      "timestamp": "2026-08-04T07:08:29.016809+00:00",
-      "score": 19.3
+      "timestamp": "2026-08-04T20:31:59.415139+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-08-04T09:07:23.229794+00:00",
-      "score": 17.9
+      "timestamp": "2026-08-05T00:47:48.865193+00:00",
+      "score": 16.0
     },
     {
-      "timestamp": "2026-08-04T11:06:17.442779+00:00",
-      "score": 16.4
+      "timestamp": "2026-08-05T05:03:38.315247+00:00",
+      "score": 14.6
     }
   ]
 }
