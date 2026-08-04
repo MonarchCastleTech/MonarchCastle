@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-04T17:58:21.666867+00:00",
+  "fetched_at": "2026-08-04T19:47:53.441494+00:00",
   "window_hours": 72,
-  "score": 37.2,
+  "score": 36.6,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 53.8,
-    "civilian_risk": 51.7
+    "conflict_intensity": 52.9,
+    "civilian_risk": 50.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed",
       "source": "France 24 - Africa",
       "published_at": "2026-08-04T10:21:57+00:00",
-      "score": 4.01,
+      "score": 3.89,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148343",
       "source": "LeFaso",
-      "published_at": "2026-08-04T17:58:21.666867+00:00",
+      "published_at": "2026-08-04T19:47:53.441494+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -123,7 +123,7 @@
       "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148341",
       "source": "LeFaso",
-      "published_at": "2026-08-04T17:58:21.666867+00:00",
+      "published_at": "2026-08-04T19:47:53.441494+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,7 +138,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
       "source": "UN News Africa",
       "published_at": "2026-08-03T12:00:00+00:00",
-      "score": 0.49,
+      "score": 0.47,
       "tags": [
         "conflict_intensity"
       ],
@@ -149,28 +149,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-04T20:25:55.435978+00:00",
+      "timestamp": "2026-08-04T21:37:25.216121+00:00",
+      "score": 27.3
+    },
+    {
+      "timestamp": "2026-08-04T23:26:56.990748+00:00",
+      "score": 26.7
+    },
+    {
+      "timestamp": "2026-08-05T01:16:28.765375+00:00",
+      "score": 26.2
+    },
+    {
+      "timestamp": "2026-08-05T03:06:00.540002+00:00",
       "score": 25.6
     },
     {
-      "timestamp": "2026-08-04T22:53:29.205089+00:00",
-      "score": 24.9
+      "timestamp": "2026-08-05T04:55:32.314629+00:00",
+      "score": 25.0
     },
     {
-      "timestamp": "2026-08-05T01:21:02.974200+00:00",
-      "score": 24.1
-    },
-    {
-      "timestamp": "2026-08-05T03:48:36.743311+00:00",
-      "score": 23.4
-    },
-    {
-      "timestamp": "2026-08-05T06:16:10.512422+00:00",
-      "score": 22.7
-    },
-    {
-      "timestamp": "2026-08-05T08:43:44.281533+00:00",
-      "score": 21.9
+      "timestamp": "2026-08-05T06:45:04.089256+00:00",
+      "score": 24.5
     }
   ]
 }
