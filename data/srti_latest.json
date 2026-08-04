@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-04T09:43:36.800467+00:00",
+  "fetched_at": "2026-08-04T12:07:57.246238+00:00",
   "window_hours": 72,
-  "score": 21.0,
+  "score": 39.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 33.9,
-    "civilian_risk": 20.2
+    "conflict_intensity": 56.5,
+    "civilian_risk": 54.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 58
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -94,10 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Nigerian judge kidnapped from his home by unknown gunmen has been freed",
+      "link": "https://www.france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed",
+      "source": "France 24 - Africa",
+      "published_at": "2026-08-04T10:21:57+00:00",
+      "score": 4.37,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148343",
       "source": "LeFaso",
-      "published_at": "2026-08-04T09:43:36.800467+00:00",
+      "published_at": "2026-08-04T12:07:57.246238+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -109,7 +123,7 @@
       "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148341",
       "source": "LeFaso",
-      "published_at": "2026-08-04T09:43:36.800467+00:00",
+      "published_at": "2026-08-04T12:07:57.246238+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -124,7 +138,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
       "source": "UN News Africa",
       "published_at": "2026-08-03T12:00:00+00:00",
-      "score": 0.59,
+      "score": 0.56,
       "tags": [
         "conflict_intensity"
       ],
@@ -135,28 +149,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-04T12:51:24.594801+00:00",
+      "timestamp": "2026-08-04T14:32:17.692009+00:00",
+      "score": 21.6
+    },
+    {
+      "timestamp": "2026-08-04T16:56:38.137780+00:00",
+      "score": 20.4
+    },
+    {
+      "timestamp": "2026-08-04T19:20:58.583551+00:00",
       "score": 19.3
     },
     {
-      "timestamp": "2026-08-04T15:59:12.389135+00:00",
-      "score": 17.9
+      "timestamp": "2026-08-04T21:45:19.029322+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-08-04T19:07:00.183469+00:00",
-      "score": 16.5
+      "timestamp": "2026-08-05T00:09:39.475093+00:00",
+      "score": 17.0
     },
     {
-      "timestamp": "2026-08-04T22:14:47.977803+00:00",
-      "score": 15.1
-    },
-    {
-      "timestamp": "2026-08-05T01:22:35.772137+00:00",
-      "score": 13.7
-    },
-    {
-      "timestamp": "2026-08-05T04:30:23.566471+00:00",
-      "score": 12.3
+      "timestamp": "2026-08-05T02:33:59.920864+00:00",
+      "score": 15.8
     }
   ]
 }
