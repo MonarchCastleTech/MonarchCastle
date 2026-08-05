@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-05T12:05:59.028452+00:00",
+  "fetched_at": "2026-08-05T15:21:58.223662+00:00",
   "window_hours": 72,
-  "score": 35.4,
+  "score": 34.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 45.5,
-    "civilian_risk": 63.0
+    "conflict_intensity": 44.5,
+    "civilian_risk": 61.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 88
+      "items": 93
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed",
       "source": "France 24 - Africa",
       "published_at": "2026-08-04T10:21:57+00:00",
-      "score": 2.88,
+      "score": 2.68,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148343",
       "source": "LeFaso",
-      "published_at": "2026-08-05T12:05:59.028452+00:00",
+      "published_at": "2026-08-05T15:21:58.223662+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -123,7 +123,7 @@
       "title": "Burkina Faso : Le mus\u00e9e de l'eau mobilise les artistes, les sportifs et les acteurs culturels pour une campagne de reboisement le 15 ao\u00fbt",
       "link": "https://lefaso.net/spip.php?article148392",
       "source": "LeFaso",
-      "published_at": "2026-08-05T12:05:59.028452+00:00",
+      "published_at": "2026-08-05T15:21:58.223662+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148341",
       "source": "LeFaso",
-      "published_at": "2026-08-05T12:05:59.028452+00:00",
+      "published_at": "2026-08-05T15:21:58.223662+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-05T14:29:36.704543+00:00",
+      "timestamp": "2026-08-05T18:37:57.418872+00:00",
+      "score": 34.5
+    },
+    {
+      "timestamp": "2026-08-05T21:53:56.614082+00:00",
+      "score": 34.6
+    },
+    {
+      "timestamp": "2026-08-06T01:09:55.809292+00:00",
+      "score": 34.7
+    },
+    {
+      "timestamp": "2026-08-06T04:25:55.004502+00:00",
+      "score": 34.7
+    },
+    {
+      "timestamp": "2026-08-06T07:41:54.199712+00:00",
       "score": 34.8
     },
     {
-      "timestamp": "2026-08-05T16:53:14.380634+00:00",
+      "timestamp": "2026-08-06T10:57:53.394922+00:00",
       "score": 34.9
-    },
-    {
-      "timestamp": "2026-08-05T19:16:52.056725+00:00",
-      "score": 35.0
-    },
-    {
-      "timestamp": "2026-08-05T21:40:29.732816+00:00",
-      "score": 35.1
-    },
-    {
-      "timestamp": "2026-08-06T00:04:07.408907+00:00",
-      "score": 35.2
-    },
-    {
-      "timestamp": "2026-08-06T02:27:45.084998+00:00",
-      "score": 35.3
     }
   ]
 }
