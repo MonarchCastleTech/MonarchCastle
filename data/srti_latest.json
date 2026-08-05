@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-05T19:47:40.636647+00:00",
+  "fetched_at": "2026-08-05T21:20:25.480083+00:00",
   "window_hours": 72,
-  "score": 33.3,
+  "score": 33.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 43.0,
-    "civilian_risk": 59.2
+    "conflict_intensity": 42.5,
+    "civilian_risk": 58.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 99
+      "items": 100
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Offensive agropastorale : \u00c0 Bama, le Premier ministre salue l'engagement des producteurs pour l'autosuffisance alimentaire",
       "link": "https://lefaso.net/spip.php?article148343",
       "source": "LeFaso",
-      "published_at": "2026-08-05T19:47:40.636647+00:00",
+      "published_at": "2026-08-05T21:20:25.480083+00:00",
       "score": 2.56,
       "tags": [
         "conflict_intensity",
@@ -110,7 +110,7 @@
       "link": "https://www.france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed",
       "source": "France 24 - Africa",
       "published_at": "2026-08-04T10:21:57+00:00",
-      "score": 2.4,
+      "score": 2.3,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina Faso : Le mus\u00e9e de l'eau mobilise les artistes, les sportifs et les acteurs culturels pour une campagne de reboisement le 15 ao\u00fbt",
       "link": "https://lefaso.net/spip.php?article148392",
       "source": "LeFaso",
-      "published_at": "2026-08-05T19:47:40.636647+00:00",
+      "published_at": "2026-08-05T21:20:25.480083+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina/Offensive agricole : Le Premier ministre met en eau le p\u00e9rim\u00e8tre irrigu\u00e9 de Ni\u00e9gu\u00e9ma-Touk\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148341",
       "source": "LeFaso",
-      "published_at": "2026-08-05T19:47:40.636647+00:00",
+      "published_at": "2026-08-05T21:20:25.480083+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,28 +163,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-05T21:45:48.477927+00:00",
-      "score": 35.2
+      "timestamp": "2026-08-05T22:53:10.323519+00:00",
+      "score": 36.3
     },
     {
-      "timestamp": "2026-08-05T23:43:56.319207+00:00",
-      "score": 35.3
+      "timestamp": "2026-08-06T00:25:55.166955+00:00",
+      "score": 36.6
     },
     {
-      "timestamp": "2026-08-06T01:42:04.160487+00:00",
-      "score": 35.5
+      "timestamp": "2026-08-06T01:58:40.010391+00:00",
+      "score": 36.9
     },
     {
-      "timestamp": "2026-08-06T03:40:12.001767+00:00",
-      "score": 35.6
+      "timestamp": "2026-08-06T03:31:24.853827+00:00",
+      "score": 37.2
     },
     {
-      "timestamp": "2026-08-06T05:38:19.843047+00:00",
-      "score": 35.8
+      "timestamp": "2026-08-06T05:04:09.697263+00:00",
+      "score": 37.5
     },
     {
-      "timestamp": "2026-08-06T07:36:27.684327+00:00",
-      "score": 35.9
+      "timestamp": "2026-08-06T06:36:54.540699+00:00",
+      "score": 37.7
     }
   ]
 }
