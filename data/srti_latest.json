@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-06T09:45:23.875486+00:00",
+  "fetched_at": "2026-08-06T12:09:02.314508+00:00",
   "window_hours": 72,
-  "score": 29.3,
+  "score": 37.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 32.9,
-    "civilian_risk": 64.2
+    "conflict_intensity": 42.1,
+    "civilian_risk": 83.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 84
+      "items": 91
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260806-nigeria-rescues-more-than-300-kidnapping-victims-in-major-operation",
       "source": "France 24 - Africa",
       "published_at": "2026-08-06T02:31:59+00:00",
-      "score": 4.03,
+      "score": 3.88,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -122,10 +122,21 @@
       ]
     },
     {
+      "title": "CAMP ANGLAIS OUAGA-ACCRA 2026 : Offrez \u00e0 vos enfants une immersion totale !",
+      "link": "https://lefaso.net/spip.php?article148432",
+      "source": "LeFaso",
+      "published_at": "2026-08-06T12:09:02.314508+00:00",
+      "score": 1.44,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Burkina Faso : Le mus\u00e9e de l'eau mobilise les artistes, les sportifs et les acteurs culturels pour une campagne de reboisement le 15 ao\u00fbt",
       "link": "https://lefaso.net/spip.php?article148392",
       "source": "LeFaso",
-      "published_at": "2026-08-06T09:45:23.875486+00:00",
+      "published_at": "2026-08-06T12:09:02.314508+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,43 +147,41 @@
       ]
     },
     {
-      "title": "In Somalia, AI is helping deliver food to hungry families",
-      "link": "https://news.un.org/feed/view/en/story/2026/08/1168066",
-      "source": "UN News Africa",
-      "published_at": "2026-08-03T12:00:00+00:00",
-      "score": 0.29,
+      "title": "SORTIE OUAGA - ACCRA 2026 : Le plus beau cadeau pour L'AVENIR DE VOTRE ENFANT !",
+      "link": "https://lefaso.net/spip.php?article148431",
+      "source": "LeFaso",
+      "published_at": "2026-08-06T12:09:02.314508+00:00",
+      "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
-      "regions": [
-        "mali"
-      ]
+      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-06T12:51:09.038767+00:00",
-      "score": 33.5
-    },
-    {
-      "timestamp": "2026-08-06T15:56:54.202048+00:00",
-      "score": 33.6
-    },
-    {
-      "timestamp": "2026-08-06T19:02:39.365329+00:00",
-      "score": 33.7
-    },
-    {
-      "timestamp": "2026-08-06T22:08:24.528610+00:00",
-      "score": 33.9
-    },
-    {
-      "timestamp": "2026-08-07T01:14:09.691891+00:00",
-      "score": 34.0
-    },
-    {
-      "timestamp": "2026-08-07T04:19:54.855172+00:00",
+      "timestamp": "2026-08-06T14:32:40.753530+00:00",
       "score": 34.1
+    },
+    {
+      "timestamp": "2026-08-06T16:56:19.192552+00:00",
+      "score": 34.3
+    },
+    {
+      "timestamp": "2026-08-06T19:19:57.631574+00:00",
+      "score": 34.4
+    },
+    {
+      "timestamp": "2026-08-06T21:43:36.070596+00:00",
+      "score": 34.6
+    },
+    {
+      "timestamp": "2026-08-07T00:07:14.509618+00:00",
+      "score": 34.7
+    },
+    {
+      "timestamp": "2026-08-07T02:30:52.948640+00:00",
+      "score": 34.9
     }
   ]
 }
