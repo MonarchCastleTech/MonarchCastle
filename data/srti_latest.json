@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-06T03:27:21.719349+00:00",
+  "fetched_at": "2026-08-06T06:39:38.712205+00:00",
   "window_hours": 72,
-  "score": 32.4,
+  "score": 30.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 36.8,
-    "civilian_risk": 70.1
+    "conflict_intensity": 34.7,
+    "civilian_risk": 67.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260806-nigeria-rescues-more-than-300-kidnapping-victims-in-major-operation",
       "source": "France 24 - Africa",
       "published_at": "2026-08-06T02:31:59+00:00",
-      "score": 4.42,
+      "score": 4.22,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed",
       "source": "France 24 - Africa",
       "published_at": "2026-08-04T10:21:57+00:00",
-      "score": 1.92,
+      "score": 1.72,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina Faso : Le mus\u00e9e de l'eau mobilise les artistes, les sportifs et les acteurs culturels pour une campagne de reboisement le 15 ao\u00fbt",
       "link": "https://lefaso.net/spip.php?article148392",
       "source": "LeFaso",
-      "published_at": "2026-08-06T03:27:21.719349+00:00",
+      "published_at": "2026-08-06T06:39:38.712205+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,28 +151,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-06T07:43:52.288362+00:00",
+      "timestamp": "2026-08-06T09:51:55.705061+00:00",
+      "score": 34.2
+    },
+    {
+      "timestamp": "2026-08-06T13:04:12.697917+00:00",
+      "score": 34.4
+    },
+    {
+      "timestamp": "2026-08-06T16:16:29.690773+00:00",
       "score": 34.6
     },
     {
-      "timestamp": "2026-08-06T12:00:22.857375+00:00",
-      "score": 34.9
+      "timestamp": "2026-08-06T19:28:46.683629+00:00",
+      "score": 34.8
     },
     {
-      "timestamp": "2026-08-06T16:16:53.426388+00:00",
-      "score": 35.1
+      "timestamp": "2026-08-06T22:41:03.676485+00:00",
+      "score": 35.0
     },
     {
-      "timestamp": "2026-08-06T20:33:23.995401+00:00",
-      "score": 35.4
-    },
-    {
-      "timestamp": "2026-08-07T00:49:54.564414+00:00",
-      "score": 35.6
-    },
-    {
-      "timestamp": "2026-08-07T05:06:25.133427+00:00",
-      "score": 35.9
+      "timestamp": "2026-08-07T01:53:20.669341+00:00",
+      "score": 35.2
     }
   ]
 }
