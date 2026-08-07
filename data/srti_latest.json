@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-07T22:48:01.060054+00:00",
+  "fetched_at": "2026-08-07T23:40:21.540733+00:00",
   "window_hours": 72,
-  "score": 43.5,
+  "score": 43.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 47.0,
+    "conflict_intensity": 46.3,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 94
+      "items": 86
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
       "source": "France 24 - Africa",
       "published_at": "2026-08-07T09:32:24+00:00",
-      "score": 2.86,
+      "score": 2.81,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -112,7 +112,7 @@
       "link": "https://www.france24.com/en/africa/20260806-nigeria-rescues-more-than-300-kidnapping-victims-in-major-operation",
       "source": "France 24 - Africa",
       "published_at": "2026-08-06T02:31:59+00:00",
-      "score": 1.73,
+      "score": 1.67,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina : Le colonel Koudbi Florian Th\u00e9ophile Tago, un officier de terrain au parcours international, \u00e0 la t\u00eate de la 3\u1d49 L\u00e9gion de la gendarmerie nationale",
       "link": "https://lefaso.net/spip.php?article148471",
       "source": "LeFaso",
-      "published_at": "2026-08-07T22:48:01.060054+00:00",
+      "published_at": "2026-08-07T23:40:21.540733+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -140,7 +140,7 @@
       "title": "Burkina/ Culture : 18 \u00e9v\u00e9nements jug\u00e9s contraires aux bonnes m\u0153urs, interdits",
       "link": "https://lefaso.net/spip.php?article148447",
       "source": "LeFaso",
-      "published_at": "2026-08-07T22:48:01.060054+00:00",
+      "published_at": "2026-08-07T23:40:21.540733+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -153,7 +153,7 @@
       "title": "Burkina/Gendarmerie nationale : Le colonel Koudbi Florian Th\u00e9ophile Tago prend le commandement de la 3\u1d49 L\u00e9gion",
       "link": "https://lefaso.net/spip.php?article148438",
       "source": "LeFaso",
-      "published_at": "2026-08-07T22:48:01.060054+00:00",
+      "published_at": "2026-08-07T23:40:21.540733+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -167,7 +167,7 @@
       "title": "CAMP ANGLAIS OUAGA-ACCRA 2026 : Offrez \u00e0 vos enfants une immersion totale !",
       "link": "https://lefaso.net/spip.php?article148432",
       "source": "LeFaso",
-      "published_at": "2026-08-07T22:48:01.060054+00:00",
+      "published_at": "2026-08-07T23:40:21.540733+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -175,57 +175,54 @@
       "regions": []
     },
     {
-      "title": "Burkina Faso : Le mus\u00e9e de l'eau mobilise les artistes, les sportifs et les acteurs culturels pour une campagne de reboisement le 15 ao\u00fbt",
-      "link": "https://lefaso.net/spip.php?article148392",
-      "source": "LeFaso",
-      "published_at": "2026-08-07T22:48:01.060054+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
-    },
-    {
       "title": "308 abductees freed from separate attacks in northern Nigeria",
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260806-308-abductees-freed-from-separate-attacks-in-northern-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-08-06T20:22:47+00:00",
-      "score": 1.24,
+      "score": 1.22,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "niger"
       ]
+    },
+    {
+      "title": "SORTIE OUAGA - ACCRA 2026 : Le plus beau cadeau pour L'AVENIR DE VOTRE ENFANT !",
+      "link": "https://lefaso.net/spip.php?article148431",
+      "source": "LeFaso",
+      "published_at": "2026-08-07T23:40:21.540733+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-07T23:47:02.642661+00:00",
-      "score": 51.2
+      "timestamp": "2026-08-08T00:32:42.021412+00:00",
+      "score": 50.7
     },
     {
-      "timestamp": "2026-08-08T00:46:04.225268+00:00",
-      "score": 52.0
+      "timestamp": "2026-08-08T01:25:02.502091+00:00",
+      "score": 51.5
     },
     {
-      "timestamp": "2026-08-08T01:45:05.807875+00:00",
-      "score": 52.8
+      "timestamp": "2026-08-08T02:17:22.982770+00:00",
+      "score": 52.2
     },
     {
-      "timestamp": "2026-08-08T02:44:07.390482+00:00",
+      "timestamp": "2026-08-08T03:09:43.463449+00:00",
+      "score": 52.9
+    },
+    {
+      "timestamp": "2026-08-08T04:02:03.944128+00:00",
       "score": 53.6
     },
     {
-      "timestamp": "2026-08-08T03:43:08.973089+00:00",
-      "score": 54.4
-    },
-    {
-      "timestamp": "2026-08-08T04:42:10.555696+00:00",
-      "score": 55.2
+      "timestamp": "2026-08-08T04:54:24.424807+00:00",
+      "score": 54.3
     }
   ]
 }
