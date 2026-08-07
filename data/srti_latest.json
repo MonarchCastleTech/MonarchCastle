@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-07T09:11:42.834633+00:00",
+  "fetched_at": "2026-08-07T11:01:09.585609+00:00",
   "window_hours": 72,
-  "score": 45.9,
+  "score": 48.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 54.5,
-    "civilian_risk": 93.1
+    "conflict_intensity": 56.6,
+    "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 79
+      "items": 78
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "Over 300 abductees freed in Nigeria's 'largest single-day rescue operation'",
+      "link": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
+      "source": "France 24 - Africa",
+      "published_at": "2026-08-07T09:32:24+00:00",
+      "score": 3.43,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Nigeria rescues more than 300 kidnapping victims in major operation",
       "link": "https://www.france24.com/en/africa/20260806-nigeria-rescues-more-than-300-kidnapping-victims-in-major-operation",
       "source": "France 24 - Africa",
       "published_at": "2026-08-06T02:31:59+00:00",
-      "score": 2.57,
+      "score": 2.46,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -108,27 +122,13 @@
       ]
     },
     {
-      "title": "308 abductees freed from separate attacks in Northern Nigeria",
+      "title": "308 abductees freed from separate attacks in northern Nigeria",
       "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260806-308-abductees-freed-from-separate-attacks-in-northern-nigeria",
       "source": "France 24 - Africa",
       "published_at": "2026-08-06T20:22:47+00:00",
-      "score": 1.61,
+      "score": 1.56,
       "tags": [
         "conflict_intensity"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Nigerian judge kidnapped from his home by unknown gunmen has been freed",
-      "link": "https://www.france24.com/en/video/20260804-nigerian-judge-kidnapped-from-his-home-by-unknown-gunmen-has-been-freed",
-      "source": "France 24 - Africa",
-      "published_at": "2026-08-04T10:21:57+00:00",
-      "score": 1.57,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
       ],
       "regions": [
         "niger"
@@ -138,7 +138,7 @@
       "title": "Burkina/Gendarmerie nationale : Le colonel Koudbi Florian Th\u00e9ophile Tago prend le commandement de la 3\u1d49 L\u00e9gion",
       "link": "https://lefaso.net/spip.php?article148438",
       "source": "LeFaso",
-      "published_at": "2026-08-07T09:11:42.834633+00:00",
+      "published_at": "2026-08-07T11:01:09.585609+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "CAMP ANGLAIS OUAGA-ACCRA 2026 : Offrez \u00e0 vos enfants une immersion totale !",
       "link": "https://lefaso.net/spip.php?article148432",
       "source": "LeFaso",
-      "published_at": "2026-08-07T09:11:42.834633+00:00",
+      "published_at": "2026-08-07T11:01:09.585609+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -163,7 +163,7 @@
       "title": "Burkina Faso : Le mus\u00e9e de l'eau mobilise les artistes, les sportifs et les acteurs culturels pour une campagne de reboisement le 15 ao\u00fbt",
       "link": "https://lefaso.net/spip.php?article148392",
       "source": "LeFaso",
-      "published_at": "2026-08-07T09:11:42.834633+00:00",
+      "published_at": "2026-08-07T11:01:09.585609+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -177,7 +177,7 @@
       "title": "SORTIE OUAGA - ACCRA 2026 : Le plus beau cadeau pour L'AVENIR DE VOTRE ENFANT !",
       "link": "https://lefaso.net/spip.php?article148431",
       "source": "LeFaso",
-      "published_at": "2026-08-07T09:11:42.834633+00:00",
+      "published_at": "2026-08-07T11:01:09.585609+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -187,28 +187,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-07T10:47:18.699663+00:00",
-      "score": 41.6
+      "timestamp": "2026-08-07T12:50:36.336585+00:00",
+      "score": 43.5
     },
     {
-      "timestamp": "2026-08-07T12:22:54.564693+00:00",
-      "score": 42.0
+      "timestamp": "2026-08-07T14:40:03.087561+00:00",
+      "score": 44.0
     },
     {
-      "timestamp": "2026-08-07T13:58:30.429723+00:00",
-      "score": 42.3
+      "timestamp": "2026-08-07T16:29:29.838537+00:00",
+      "score": 44.5
     },
     {
-      "timestamp": "2026-08-07T15:34:06.294753+00:00",
-      "score": 42.7
+      "timestamp": "2026-08-07T18:18:56.589513+00:00",
+      "score": 45.0
     },
     {
-      "timestamp": "2026-08-07T17:09:42.159783+00:00",
-      "score": 43.0
+      "timestamp": "2026-08-07T20:08:23.340489+00:00",
+      "score": 45.4
     },
     {
-      "timestamp": "2026-08-07T18:45:18.024813+00:00",
-      "score": 43.4
+      "timestamp": "2026-08-07T21:57:50.091465+00:00",
+      "score": 45.9
     }
   ]
 }
