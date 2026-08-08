@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-08T18:51:05.963569+00:00",
+  "fetched_at": "2026-08-08T19:36:58.368928+00:00",
   "window_hours": 72,
-  "score": 38.1,
+  "score": 38.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 36.3,
+    "conflict_intensity": 36.1,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 77
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
       "source": "France 24 - Africa",
       "published_at": "2026-08-07T09:32:24+00:00",
-      "score": 1.88,
+      "score": 1.84,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina/\u00c9ducation : L'\u00e9cole Les Winners cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-08T18:51:05.963569+00:00",
+      "published_at": "2026-08-08T19:36:58.368928+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -139,7 +139,7 @@
       "title": "Burkina : Le colonel Koudbi Florian Th\u00e9ophile Tago, un officier de terrain au parcours international, \u00e0 la t\u00eate de la 3\u1d49 L\u00e9gion de la gendarmerie nationale",
       "link": "https://lefaso.net/spip.php?article148471",
       "source": "LeFaso",
-      "published_at": "2026-08-08T18:51:05.963569+00:00",
+      "published_at": "2026-08-08T19:36:58.368928+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -154,7 +154,7 @@
       "title": "Burkina : 18 \u00e9v\u00e9nements jug\u00e9s contraires aux bonnes m\u0153urs, interdits",
       "link": "https://lefaso.net/spip.php?article148447",
       "source": "LeFaso",
-      "published_at": "2026-08-08T18:51:05.963569+00:00",
+      "published_at": "2026-08-08T19:36:58.368928+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -167,7 +167,7 @@
       "title": "Burkina/Gendarmerie nationale : Le colonel Koudbi Florian Th\u00e9ophile Tago prend le commandement de la 3\u1d49 L\u00e9gion",
       "link": "https://lefaso.net/spip.php?article148438",
       "source": "LeFaso",
-      "published_at": "2026-08-08T18:51:05.963569+00:00",
+      "published_at": "2026-08-08T19:36:58.368928+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -181,7 +181,7 @@
       "title": "CAMP ANGLAIS OUAGA-ACCRA 2026 : Offrez \u00e0 vos enfants une immersion totale !",
       "link": "https://lefaso.net/spip.php?article148432",
       "source": "LeFaso",
-      "published_at": "2026-08-08T18:51:05.963569+00:00",
+      "published_at": "2026-08-08T19:36:58.368928+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -192,7 +192,7 @@
       "title": "SORTIE OUAGA - ACCRA 2026 : Le plus beau cadeau pour L'AVENIR DE VOTRE ENFANT !",
       "link": "https://lefaso.net/spip.php?article148431",
       "source": "LeFaso",
-      "published_at": "2026-08-08T18:51:05.963569+00:00",
+      "published_at": "2026-08-08T19:36:58.368928+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-08T20:03:55.929555+00:00",
-      "score": 37.1
+      "timestamp": "2026-08-08T20:22:50.774287+00:00",
+      "score": 36.9
     },
     {
-      "timestamp": "2026-08-08T21:16:45.895541+00:00",
-      "score": 36.7
+      "timestamp": "2026-08-08T21:08:43.179646+00:00",
+      "score": 36.6
     },
     {
-      "timestamp": "2026-08-08T22:29:35.861527+00:00",
-      "score": 36.4
+      "timestamp": "2026-08-08T21:54:35.585005+00:00",
+      "score": 36.2
     },
     {
-      "timestamp": "2026-08-08T23:42:25.827513+00:00",
-      "score": 36.0
+      "timestamp": "2026-08-08T22:40:27.990364+00:00",
+      "score": 35.8
     },
     {
-      "timestamp": "2026-08-09T00:55:15.793499+00:00",
-      "score": 35.6
+      "timestamp": "2026-08-08T23:26:20.395723+00:00",
+      "score": 35.5
     },
     {
-      "timestamp": "2026-08-09T02:08:05.759485+00:00",
-      "score": 35.2
+      "timestamp": "2026-08-09T00:12:12.801082+00:00",
+      "score": 35.1
     }
   ]
 }
