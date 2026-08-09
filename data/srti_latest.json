@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T10:44:04.483877+00:00",
+  "fetched_at": "2026-08-09T11:37:02.087863+00:00",
   "window_hours": 72,
   "score": 32.9,
   "risk_level": "GUARDED",
@@ -97,7 +97,7 @@
       "title": "Burkina/Camp vacances lecture : La 7\u1d49 \u00e9dition a r\u00e9uni 600 campeurs",
       "link": "https://lefaso.net/spip.php?article148484",
       "source": "LeFaso",
-      "published_at": "2026-08-09T10:44:04.483877+00:00",
+      "published_at": "2026-08-09T11:37:02.087863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Ouagadougou : L'\u00e9cole \u00ab Les Winners \u00bb cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-09T10:44:04.483877+00:00",
+      "published_at": "2026-08-09T11:37:02.087863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina : Le colonel Koudbi Florian Th\u00e9ophile Tago, un officier de terrain au parcours international, \u00e0 la t\u00eate de la 3\u1d49 L\u00e9gion de la gendarmerie nationale",
       "link": "https://lefaso.net/spip.php?article148471",
       "source": "LeFaso",
-      "published_at": "2026-08-09T10:44:04.483877+00:00",
+      "published_at": "2026-08-09T11:37:02.087863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : 18 \u00e9v\u00e9nements jug\u00e9s contraires aux bonnes m\u0153urs, interdits",
       "link": "https://lefaso.net/spip.php?article148447",
       "source": "LeFaso",
-      "published_at": "2026-08-09T10:44:04.483877+00:00",
+      "published_at": "2026-08-09T11:37:02.087863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "Burkina/Gendarmerie nationale : Le colonel Koudbi Florian Th\u00e9ophile Tago prend le commandement de la 3\u1d49 L\u00e9gion",
       "link": "https://lefaso.net/spip.php?article148438",
       "source": "LeFaso",
-      "published_at": "2026-08-09T10:44:04.483877+00:00",
+      "published_at": "2026-08-09T11:37:02.087863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -165,7 +165,7 @@
       "title": "CAMP ANGLAIS OUAGA-ACCRA 2026 : Offrez \u00e0 vos enfants une immersion totale !",
       "link": "https://lefaso.net/spip.php?article148432",
       "source": "LeFaso",
-      "published_at": "2026-08-09T10:44:04.483877+00:00",
+      "published_at": "2026-08-09T11:37:02.087863+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -177,7 +177,7 @@
       "link": "https://www.france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity",
       "source": "France 24 - Africa",
       "published_at": "2026-08-09T09:05:42+00:00",
-      "score": 1.23,
+      "score": 1.22,
       "tags": [
         "civilian_risk"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-09T11:38:43.407843+00:00",
-      "score": 32.9
+      "timestamp": "2026-08-09T12:29:59.691849+00:00",
+      "score": 32.4
     },
     {
-      "timestamp": "2026-08-09T12:33:22.331809+00:00",
-      "score": 32.5
-    },
-    {
-      "timestamp": "2026-08-09T13:28:01.255775+00:00",
+      "timestamp": "2026-08-09T13:22:57.295835+00:00",
       "score": 32.1
     },
     {
-      "timestamp": "2026-08-09T14:22:40.179741+00:00",
-      "score": 31.8
+      "timestamp": "2026-08-09T14:15:54.899821+00:00",
+      "score": 31.7
     },
     {
-      "timestamp": "2026-08-09T15:17:19.103707+00:00",
-      "score": 31.4
+      "timestamp": "2026-08-09T15:08:52.503807+00:00",
+      "score": 31.3
     },
     {
-      "timestamp": "2026-08-09T16:11:58.027673+00:00",
-      "score": 31.0
+      "timestamp": "2026-08-09T16:01:50.107793+00:00",
+      "score": 30.9
+    },
+    {
+      "timestamp": "2026-08-09T16:54:47.711779+00:00",
+      "score": 30.6
     }
   ]
 }
