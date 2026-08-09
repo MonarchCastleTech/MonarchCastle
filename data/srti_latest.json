@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-09T02:21:21.606223+00:00",
+  "fetched_at": "2026-08-09T04:24:01.528591+00:00",
   "window_hours": 72,
-  "score": 37.5,
+  "score": 33.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.0,
+    "conflict_intensity": 26.4,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 10,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -94,38 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Nigeria rescues more than 300 kidnapping victims in major operation",
-      "link": "https://www.france24.com/en/africa/20260806-nigeria-rescues-more-than-300-kidnapping-victims-in-major-operation",
-      "source": "France 24 - Africa",
-      "published_at": "2026-08-06T02:31:59+00:00",
-      "score": 1.57,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
-      "title": "Over 300 abductees freed in Nigeria's 'largest single-day rescue operation'",
-      "link": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
-      "source": "France 24 - Africa",
-      "published_at": "2026-08-07T09:32:24+00:00",
-      "score": 1.52,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Burkina/Camp vacances lecture : La 7\u1d49 \u00e9dition a r\u00e9uni 600 campeurs",
       "link": "https://lefaso.net/spip.php?article148484",
       "source": "LeFaso",
-      "published_at": "2026-08-09T02:21:21.606223+00:00",
+      "published_at": "2026-08-09T04:24:01.528591+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +110,7 @@
       "title": "Ouagadougou : L'\u00e9cole \u00ab Les Winners \u00bb cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-09T02:21:21.606223+00:00",
+      "published_at": "2026-08-09T04:24:01.528591+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +123,7 @@
       "title": "Burkina : Le colonel Koudbi Florian Th\u00e9ophile Tago, un officier de terrain au parcours international, \u00e0 la t\u00eate de la 3\u1d49 L\u00e9gion de la gendarmerie nationale",
       "link": "https://lefaso.net/spip.php?article148471",
       "source": "LeFaso",
-      "published_at": "2026-08-09T02:21:21.606223+00:00",
+      "published_at": "2026-08-09T04:24:01.528591+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -166,7 +138,7 @@
       "title": "Burkina : 18 \u00e9v\u00e9nements jug\u00e9s contraires aux bonnes m\u0153urs, interdits",
       "link": "https://lefaso.net/spip.php?article148447",
       "source": "LeFaso",
-      "published_at": "2026-08-09T02:21:21.606223+00:00",
+      "published_at": "2026-08-09T04:24:01.528591+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +151,7 @@
       "title": "Burkina/Gendarmerie nationale : Le colonel Koudbi Florian Th\u00e9ophile Tago prend le commandement de la 3\u1d49 L\u00e9gion",
       "link": "https://lefaso.net/spip.php?article148438",
       "source": "LeFaso",
-      "published_at": "2026-08-09T02:21:21.606223+00:00",
+      "published_at": "2026-08-09T04:24:01.528591+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -193,38 +165,63 @@
       "title": "CAMP ANGLAIS OUAGA-ACCRA 2026 : Offrez \u00e0 vos enfants une immersion totale !",
       "link": "https://lefaso.net/spip.php?article148432",
       "source": "LeFaso",
-      "published_at": "2026-08-09T02:21:21.606223+00:00",
+      "published_at": "2026-08-09T04:24:01.528591+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
+      "title": "Over 300 abductees freed in Nigeria's 'largest single-day rescue operation'",
+      "link": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
+      "source": "France 24 - Africa",
+      "published_at": "2026-08-07T09:32:24+00:00",
+      "score": 1.42,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
+      "title": "SORTIE OUAGA - ACCRA 2026 : Le plus beau cadeau pour L'AVENIR DE VOTRE ENFANT !",
+      "link": "https://lefaso.net/spip.php?article148431",
+      "source": "LeFaso",
+      "published_at": "2026-08-09T04:24:01.528591+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
       ],
       "regions": []
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-09T05:05:37.817396+00:00",
-      "score": 36.6
+      "timestamp": "2026-08-09T06:26:41.450959+00:00",
+      "score": 35.8
     },
     {
-      "timestamp": "2026-08-09T07:49:54.028569+00:00",
-      "score": 36.3
-    },
-    {
-      "timestamp": "2026-08-09T10:34:10.239742+00:00",
-      "score": 36.0
-    },
-    {
-      "timestamp": "2026-08-09T13:18:26.450915+00:00",
-      "score": 35.7
-    },
-    {
-      "timestamp": "2026-08-09T16:02:42.662088+00:00",
+      "timestamp": "2026-08-09T08:29:21.373327+00:00",
       "score": 35.5
     },
     {
-      "timestamp": "2026-08-09T18:46:58.873261+00:00",
+      "timestamp": "2026-08-09T10:32:01.295695+00:00",
       "score": 35.2
+    },
+    {
+      "timestamp": "2026-08-09T12:34:41.218063+00:00",
+      "score": 34.9
+    },
+    {
+      "timestamp": "2026-08-09T14:37:21.140431+00:00",
+      "score": 34.7
+    },
+    {
+      "timestamp": "2026-08-09T16:40:01.062799+00:00",
+      "score": 34.4
     }
   ]
 }
