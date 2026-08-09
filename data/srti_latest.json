@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T18:53:14.317958+00:00",
+  "fetched_at": "2026-08-09T19:40:26.068816+00:00",
   "window_hours": 72,
   "score": 26.1,
   "risk_level": "GUARDED",
@@ -97,7 +97,7 @@
       "title": "Burkina/Camp vacances lecture : La 7\u1d49 \u00e9dition a r\u00e9uni 600 campeurs",
       "link": "https://lefaso.net/spip.php?article148484",
       "source": "LeFaso",
-      "published_at": "2026-08-09T18:53:14.317958+00:00",
+      "published_at": "2026-08-09T19:40:26.068816+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Ouagadougou : L'\u00e9cole \u00ab Les Winners \u00bb cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-09T18:53:14.317958+00:00",
+      "published_at": "2026-08-09T19:40:26.068816+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina : Le colonel Koudbi Florian Th\u00e9ophile Tago, un officier de terrain au parcours international, \u00e0 la t\u00eate de la 3\u1d49 L\u00e9gion de la gendarmerie nationale",
       "link": "https://lefaso.net/spip.php?article148471",
       "source": "LeFaso",
-      "published_at": "2026-08-09T18:53:14.317958+00:00",
+      "published_at": "2026-08-09T19:40:26.068816+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -138,7 +138,7 @@
       "title": "Burkina : 18 \u00e9v\u00e9nements jug\u00e9s contraires aux bonnes m\u0153urs, interdits",
       "link": "https://lefaso.net/spip.php?article148447",
       "source": "LeFaso",
-      "published_at": "2026-08-09T18:53:14.317958+00:00",
+      "published_at": "2026-08-09T19:40:26.068816+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -151,7 +151,7 @@
       "title": "Burkina/Gendarmerie nationale : Le colonel Koudbi Florian Th\u00e9ophile Tago prend le commandement de la 3\u1d49 L\u00e9gion",
       "link": "https://lefaso.net/spip.php?article148438",
       "source": "LeFaso",
-      "published_at": "2026-08-09T18:53:14.317958+00:00",
+      "published_at": "2026-08-09T19:40:26.068816+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -180,7 +180,7 @@
       "link": "https://www.france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity",
       "source": "France 24 - Africa",
       "published_at": "2026-08-09T09:05:42+00:00",
-      "score": 1.09,
+      "score": 1.07,
       "tags": [
         "civilian_risk"
       ],
@@ -204,28 +204,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-09T20:07:54.163135+00:00",
-      "score": 25.3
+      "timestamp": "2026-08-09T20:27:37.819674+00:00",
+      "score": 24.6
     },
     {
-      "timestamp": "2026-08-09T21:22:34.008312+00:00",
-      "score": 24.7
+      "timestamp": "2026-08-09T21:14:49.570532+00:00",
+      "score": 23.9
     },
     {
-      "timestamp": "2026-08-09T22:37:13.853489+00:00",
-      "score": 24.0
+      "timestamp": "2026-08-09T22:02:01.321390+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-08-09T23:51:53.698666+00:00",
-      "score": 23.4
+      "timestamp": "2026-08-09T22:49:13.072248+00:00",
+      "score": 22.6
     },
     {
-      "timestamp": "2026-08-10T01:06:33.543843+00:00",
-      "score": 22.7
+      "timestamp": "2026-08-09T23:36:24.823106+00:00",
+      "score": 21.9
     },
     {
-      "timestamp": "2026-08-10T02:21:13.389020+00:00",
-      "score": 22.0
+      "timestamp": "2026-08-10T00:23:36.573964+00:00",
+      "score": 21.2
     }
   ]
 }
