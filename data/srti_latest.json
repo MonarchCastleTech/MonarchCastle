@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-10T04:46:34.731219+00:00",
+  "fetched_at": "2026-08-10T06:17:03.735113+00:00",
   "window_hours": 72,
-  "score": 33.2,
+  "score": 33.1,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 26.4,
+    "conflict_intensity": 26.2,
     "civilian_risk": 100.0
   },
   "weights": {
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 52
+      "items": 51
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-08-09T19:57:28+00:00",
-      "score": 2.63,
+      "score": 2.57,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina/Camp vacances lecture : La 7\u1d49 \u00e9dition a r\u00e9uni 600 campeurs",
       "link": "https://lefaso.net/spip.php?article148484",
       "source": "LeFaso",
-      "published_at": "2026-08-10T04:46:34.731219+00:00",
+      "published_at": "2026-08-10T06:17:03.735113+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Ouagadougou : L'\u00e9cole \u00ab Les Winners \u00bb cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-10T04:46:34.731219+00:00",
+      "published_at": "2026-08-10T06:17:03.735113+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina : Le colonel Koudbi Florian Th\u00e9ophile Tago, un officier de terrain au parcours international, \u00e0 la t\u00eate de la 3\u1d49 L\u00e9gion de la gendarmerie nationale",
       "link": "https://lefaso.net/spip.php?article148471",
       "source": "LeFaso",
-      "published_at": "2026-08-10T04:46:34.731219+00:00",
+      "published_at": "2026-08-10T06:17:03.735113+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "Burkina : 18 \u00e9v\u00e9nements jug\u00e9s contraires aux bonnes m\u0153urs, interdits",
       "link": "https://lefaso.net/spip.php?article148447",
       "source": "LeFaso",
-      "published_at": "2026-08-10T04:46:34.731219+00:00",
+      "published_at": "2026-08-10T06:17:03.735113+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -179,7 +179,7 @@
       "title": "Bati\u00e9 : Des produits illicites saisis par la Police nationale dans le cadre de l'Op\u00e9ration Wibga",
       "link": "https://lefaso.net/spip.php?article148492",
       "source": "LeFaso",
-      "published_at": "2026-08-10T04:46:34.731219+00:00",
+      "published_at": "2026-08-10T06:17:03.735113+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -193,7 +193,7 @@
       "link": "https://www.france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity",
       "source": "France 24 - Africa",
       "published_at": "2026-08-09T09:05:42+00:00",
-      "score": 0.92,
+      "score": 0.89,
       "tags": [
         "civilian_risk"
       ],
@@ -204,28 +204,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-10T07:06:34.121871+00:00",
+      "timestamp": "2026-08-10T07:47:32.739007+00:00",
+      "score": 28.1
+    },
+    {
+      "timestamp": "2026-08-10T09:18:01.742901+00:00",
+      "score": 27.9
+    },
+    {
+      "timestamp": "2026-08-10T10:48:30.746795+00:00",
+      "score": 27.7
+    },
+    {
+      "timestamp": "2026-08-10T12:18:59.750689+00:00",
+      "score": 27.4
+    },
+    {
+      "timestamp": "2026-08-10T13:49:28.754583+00:00",
       "score": 27.2
     },
     {
-      "timestamp": "2026-08-10T09:26:33.512523+00:00",
+      "timestamp": "2026-08-10T15:19:57.758477+00:00",
       "score": 26.9
-    },
-    {
-      "timestamp": "2026-08-10T11:46:32.903175+00:00",
-      "score": 26.6
-    },
-    {
-      "timestamp": "2026-08-10T14:06:32.293827+00:00",
-      "score": 26.2
-    },
-    {
-      "timestamp": "2026-08-10T16:26:31.684479+00:00",
-      "score": 25.9
-    },
-    {
-      "timestamp": "2026-08-10T18:46:31.075131+00:00",
-      "score": 25.6
     }
   ]
 }
