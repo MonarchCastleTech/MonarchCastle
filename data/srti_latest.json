@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-10T08:45:52.065303+00:00",
+  "fetched_at": "2026-08-10T10:24:58.490817+00:00",
   "window_hours": 72,
-  "score": 32.9,
+  "score": 30.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 25.8,
+    "conflict_intensity": 21.5,
     "civilian_risk": 100.0
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 44
+      "items": 45
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 51
+      "items": 50
     },
     {
       "name": "UN News Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-08-09T19:57:28+00:00",
-      "score": 2.47,
+      "score": 2.4,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Burkina/Camp vacances lecture : La 7\u1d49 \u00e9dition a r\u00e9uni 600 campeurs",
       "link": "https://lefaso.net/spip.php?article148484",
       "source": "LeFaso",
-      "published_at": "2026-08-10T08:45:52.065303+00:00",
+      "published_at": "2026-08-10T10:24:58.490817+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Ouagadougou : L'\u00e9cole \u00ab Les Winners \u00bb cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-10T08:45:52.065303+00:00",
+      "published_at": "2026-08-10T10:24:58.490817+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +137,7 @@
       "title": "Burkina : Le colonel Koudbi Florian Th\u00e9ophile Tago, un officier de terrain au parcours international, \u00e0 la t\u00eate de la 3\u1d49 L\u00e9gion de la gendarmerie nationale",
       "link": "https://lefaso.net/spip.php?article148471",
       "source": "LeFaso",
-      "published_at": "2026-08-10T08:45:52.065303+00:00",
+      "published_at": "2026-08-10T10:24:58.490817+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -152,7 +152,7 @@
       "title": "Burkina : 18 \u00e9v\u00e9nements jug\u00e9s contraires aux bonnes m\u0153urs, interdits",
       "link": "https://lefaso.net/spip.php?article148447",
       "source": "LeFaso",
-      "published_at": "2026-08-10T08:45:52.065303+00:00",
+      "published_at": "2026-08-10T10:24:58.490817+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -162,24 +162,10 @@
       ]
     },
     {
-      "title": "Over 300 abductees freed in Nigeria's 'largest single-day rescue operation'",
-      "link": "https://www.france24.com/en/video/20260807-over-300-abductees-freed-in-nigeria-s-largest-single-day-rescue-operation",
-      "source": "France 24 - Africa",
-      "published_at": "2026-08-07T09:32:24+00:00",
-      "score": 1.22,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Bati\u00e9 : Des produits illicites saisis par la Police nationale dans le cadre de l'Op\u00e9ration Wibga",
       "link": "https://lefaso.net/spip.php?article148492",
       "source": "LeFaso",
-      "published_at": "2026-08-10T08:45:52.065303+00:00",
+      "published_at": "2026-08-10T10:24:58.490817+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -193,7 +179,7 @@
       "link": "https://www.france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity",
       "source": "France 24 - Africa",
       "published_at": "2026-08-09T09:05:42+00:00",
-      "score": 0.85,
+      "score": 0.82,
       "tags": [
         "civilian_risk"
       ],
@@ -204,28 +190,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-10T11:14:40.395493+00:00",
-      "score": 29.1
+      "timestamp": "2026-08-10T12:04:04.916331+00:00",
+      "score": 29.7
     },
     {
-      "timestamp": "2026-08-10T13:43:28.725683+00:00",
-      "score": 28.9
+      "timestamp": "2026-08-10T13:43:11.341845+00:00",
+      "score": 29.6
     },
     {
-      "timestamp": "2026-08-10T16:12:17.055873+00:00",
-      "score": 28.8
+      "timestamp": "2026-08-10T15:22:17.767359+00:00",
+      "score": 29.5
     },
     {
-      "timestamp": "2026-08-10T18:41:05.386063+00:00",
-      "score": 28.6
+      "timestamp": "2026-08-10T17:01:24.192873+00:00",
+      "score": 29.4
     },
     {
-      "timestamp": "2026-08-10T21:09:53.716253+00:00",
-      "score": 28.5
+      "timestamp": "2026-08-10T18:40:30.618387+00:00",
+      "score": 29.4
     },
     {
-      "timestamp": "2026-08-10T23:38:42.046443+00:00",
-      "score": 28.3
+      "timestamp": "2026-08-10T20:19:37.043901+00:00",
+      "score": 29.3
     }
   ]
 }
