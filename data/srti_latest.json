@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-11T05:58:34.341564+00:00",
+  "fetched_at": "2026-08-11T07:20:43.600126+00:00",
   "window_hours": 72,
-  "score": 34.0,
+  "score": 33.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 28.5,
-    "civilian_risk": 98.7
+    "conflict_intensity": 28.1,
+    "civilian_risk": 98.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Battle for Mali base has killed dozens of militants, army says",
-      "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-08-10T12:32:26+00:00",
-      "score": 1.46,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-11T05:58:34.341564+00:00",
+      "published_at": "2026-08-11T07:20:43.600126+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -124,7 +110,7 @@
       "title": "Ouverture d'un concours de recrutement de cent soixante (160) \u00e9lev\u00e9s ing\u00e9nieurs pour compl\u00e9ment d'effectifs au profit de l'institut -du g\u00e9nie des syst\u00e8mes industriels et textiles (IGSIT) et de l'institut du g\u00e9nie informatique et t\u00e9l\u00e9communications (IGIT) de l'\u00e9cole polytechnique de Ouagadougou (EPO)",
       "link": "https://lefaso.net/spip.php?article148494",
       "source": "LeFaso",
-      "published_at": "2026-08-11T05:58:34.341564+00:00",
+      "published_at": "2026-08-11T07:20:43.600126+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -137,7 +123,7 @@
       "title": "Burkina/Camp vacances lecture : La 7\u1d49 \u00e9dition a r\u00e9uni 600 campeurs",
       "link": "https://lefaso.net/spip.php?article148484",
       "source": "LeFaso",
-      "published_at": "2026-08-11T05:58:34.341564+00:00",
+      "published_at": "2026-08-11T07:20:43.600126+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,7 +136,7 @@
       "title": "Ouagadougou : L'\u00e9cole \u00ab Les Winners \u00bb cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-11T05:58:34.341564+00:00",
+      "published_at": "2026-08-11T07:20:43.600126+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -160,10 +146,24 @@
       ]
     },
     {
+      "title": "Battle for Mali base has killed dozens of militants, army says",
+      "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-08-10T12:32:26+00:00",
+      "score": 1.42,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
       "title": "Bati\u00e9 : Des produits illicites saisis par la Police nationale dans le cadre de l'Op\u00e9ration Wibga",
       "link": "https://lefaso.net/spip.php?article148492",
       "source": "LeFaso",
-      "published_at": "2026-08-11T05:58:34.341564+00:00",
+      "published_at": "2026-08-11T07:20:43.600126+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -177,7 +177,7 @@
       "link": "https://allafrica.com/stories/202608100319.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-08-10T11:12:49+00:00",
-      "score": 0.62,
+      "score": 0.61,
       "tags": [
         "conflict_intensity"
       ],
@@ -191,7 +191,7 @@
       "link": "https://www.france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity",
       "source": "France 24 - Africa",
       "published_at": "2026-08-09T09:05:42+00:00",
-      "score": 0.47,
+      "score": 0.45,
       "tags": [
         "civilian_risk"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-11T07:22:31.475908+00:00",
-      "score": 41.1
+      "timestamp": "2026-08-11T08:42:52.858688+00:00",
+      "score": 40.1
     },
     {
-      "timestamp": "2026-08-11T08:46:28.610252+00:00",
-      "score": 41.6
+      "timestamp": "2026-08-11T10:05:02.117250+00:00",
+      "score": 40.5
     },
     {
-      "timestamp": "2026-08-11T10:10:25.744596+00:00",
-      "score": 42.1
+      "timestamp": "2026-08-11T11:27:11.375812+00:00",
+      "score": 40.9
     },
     {
-      "timestamp": "2026-08-11T11:34:22.878940+00:00",
-      "score": 42.7
+      "timestamp": "2026-08-11T12:49:20.634374+00:00",
+      "score": 41.3
     },
     {
-      "timestamp": "2026-08-11T12:58:20.013284+00:00",
-      "score": 43.2
+      "timestamp": "2026-08-11T14:11:29.892936+00:00",
+      "score": 41.8
     },
     {
-      "timestamp": "2026-08-11T14:22:17.147628+00:00",
-      "score": 43.7
+      "timestamp": "2026-08-11T15:33:39.151498+00:00",
+      "score": 42.2
     }
   ]
 }
