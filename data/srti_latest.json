@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-11T13:23:18.841159+00:00",
+  "fetched_at": "2026-08-11T15:08:06.573547+00:00",
   "window_hours": 72,
-  "score": 39.3,
+  "score": 39.0,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 39.9,
-    "civilian_risk": 96.7
+    "conflict_intensity": 39.4,
+    "civilian_risk": 96.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 47
+      "items": 54
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-11T13:23:18.841159+00:00",
+      "published_at": "2026-08-11T15:08:06.573547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Ouverture d'un concours de recrutement de cent soixante (160) \u00e9lev\u00e9s ing\u00e9nieurs pour compl\u00e9ment d'effectifs au profit de l'institut -du g\u00e9nie des syst\u00e8mes industriels et textiles (IGSIT) et de l'institut du g\u00e9nie informatique et t\u00e9l\u00e9communications (IGIT) de l'\u00e9cole polytechnique de Ouagadougou (EPO)",
       "link": "https://lefaso.net/spip.php?article148494",
       "source": "LeFaso",
-      "published_at": "2026-08-11T13:23:18.841159+00:00",
+      "published_at": "2026-08-11T15:08:06.573547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina/Camp vacances lecture : La 7\u1d49 \u00e9dition a r\u00e9uni 600 campeurs",
       "link": "https://lefaso.net/spip.php?article148484",
       "source": "LeFaso",
-      "published_at": "2026-08-11T13:23:18.841159+00:00",
+      "published_at": "2026-08-11T15:08:06.573547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Ouagadougou : L'\u00e9cole \u00ab Les Winners \u00bb cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-11T13:23:18.841159+00:00",
+      "published_at": "2026-08-11T15:08:06.573547+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -150,7 +150,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-08-10T12:32:26+00:00",
-      "score": 1.26,
+      "score": 1.21,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -163,7 +163,7 @@
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-11T13:23:18.841159+00:00",
+      "published_at": "2026-08-11T15:08:06.573547+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +176,7 @@
       "title": "Bati\u00e9 : Des produits illicites saisis par la Police nationale dans le cadre de l'Op\u00e9ration Wibga",
       "link": "https://lefaso.net/spip.php?article148492",
       "source": "LeFaso",
-      "published_at": "2026-08-11T13:23:18.841159+00:00",
+      "published_at": "2026-08-11T15:08:06.573547+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -190,7 +190,7 @@
       "link": "https://allafrica.com/stories/202608100319.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-08-10T11:12:49+00:00",
-      "score": 0.53,
+      "score": 0.51,
       "tags": [
         "conflict_intensity"
       ],
@@ -202,28 +202,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-11T14:55:34.745269+00:00",
-      "score": 36.9
-    },
-    {
-      "timestamp": "2026-08-11T16:27:50.649379+00:00",
-      "score": 37.0
-    },
-    {
-      "timestamp": "2026-08-11T18:00:06.553489+00:00",
-      "score": 37.0
-    },
-    {
-      "timestamp": "2026-08-11T19:32:22.457599+00:00",
+      "timestamp": "2026-08-11T16:52:54.305935+00:00",
       "score": 37.1
     },
     {
-      "timestamp": "2026-08-11T21:04:38.361709+00:00",
+      "timestamp": "2026-08-11T18:37:42.038323+00:00",
       "score": 37.2
     },
     {
-      "timestamp": "2026-08-11T22:36:54.265819+00:00",
-      "score": 37.2
+      "timestamp": "2026-08-11T20:22:29.770711+00:00",
+      "score": 37.3
+    },
+    {
+      "timestamp": "2026-08-11T22:07:17.503099+00:00",
+      "score": 37.3
+    },
+    {
+      "timestamp": "2026-08-11T23:52:05.235487+00:00",
+      "score": 37.4
+    },
+    {
+      "timestamp": "2026-08-12T01:36:52.967875+00:00",
+      "score": 37.5
     }
   ]
 }
