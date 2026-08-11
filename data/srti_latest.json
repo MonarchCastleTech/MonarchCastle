@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-11T17:06:12.750428+00:00",
+  "fetched_at": "2026-08-11T19:13:34.194948+00:00",
   "window_hours": 72,
-  "score": 35.7,
-  "risk_level": "GUARDED",
+  "score": 45.0,
+  "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 33.0,
-    "civilian_risk": 95.9
+    "conflict_intensity": 51.7,
+    "civilian_risk": 95.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -76,20 +76,20 @@
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 20
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 6
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 13
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-11T17:06:12.750428+00:00",
+      "published_at": "2026-08-11T19:13:34.194948+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Ouverture d'un concours de recrutement de cent soixante (160) \u00e9lev\u00e9s ing\u00e9nieurs pour compl\u00e9ment d'effectifs au profit de l'institut -du g\u00e9nie des syst\u00e8mes industriels et textiles (IGSIT) et de l'institut du g\u00e9nie informatique et t\u00e9l\u00e9communications (IGIT) de l'\u00e9cole polytechnique de Ouagadougou (EPO)",
       "link": "https://lefaso.net/spip.php?article148494",
       "source": "LeFaso",
-      "published_at": "2026-08-11T17:06:12.750428+00:00",
+      "published_at": "2026-08-11T19:13:34.194948+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,7 +123,7 @@
       "title": "Burkina/Camp vacances lecture : La 7\u1d49 \u00e9dition a r\u00e9uni 600 campeurs",
       "link": "https://lefaso.net/spip.php?article148484",
       "source": "LeFaso",
-      "published_at": "2026-08-11T17:06:12.750428+00:00",
+      "published_at": "2026-08-11T19:13:34.194948+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Ouagadougou : L'\u00e9cole \u00ab Les Winners \u00bb cl\u00f4ture son grand camp vacances 2026 sous le signe de l'\u00e9panouissement des enfants",
       "link": "https://lefaso.net/spip.php?article148481",
       "source": "LeFaso",
-      "published_at": "2026-08-11T17:06:12.750428+00:00",
+      "published_at": "2026-08-11T19:13:34.194948+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -146,24 +146,25 @@
       ]
     },
     {
-      "title": "Battle for Mali base has killed dozens of militants, army says",
-      "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-08-10T12:32:26+00:00",
-      "score": 1.16,
+      "title": "Burkina/Tourisme interne : Et si vous mettiez le cap sur le Sanctuaire animalier de Ziniar\u00e9 ?",
+      "link": "https://lefaso.net/spip.php?article148528",
+      "source": "LeFaso",
+      "published_at": "2026-08-11T19:13:34.194948+00:00",
+      "score": 1.12,
       "tags": [
-        "conflict_intensity",
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "mali"
+        "mali",
+        "burkina",
+        "ouagadougou"
       ]
     },
     {
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-11T17:06:12.750428+00:00",
+      "published_at": "2026-08-11T19:13:34.194948+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +177,7 @@
       "title": "Bati\u00e9 : Des produits illicites saisis par la Police nationale dans le cadre de l'Op\u00e9ration Wibga",
       "link": "https://lefaso.net/spip.php?article148492",
       "source": "LeFaso",
-      "published_at": "2026-08-11T17:06:12.750428+00:00",
+      "published_at": "2026-08-11T19:13:34.194948+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,43 +187,44 @@
       ]
     },
     {
-      "title": "Dozens of Nigerians freed after 6 months in Jihadi captivity",
-      "link": "https://www.france24.com/en/dozens-of-nigerians-freed-after-6-months-in-jihadi-captivity",
-      "source": "France 24 - Africa",
-      "published_at": "2026-08-09T09:05:42+00:00",
-      "score": 0.44,
+      "title": "Battle for Mali base has killed dozens of militants, army says",
+      "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-08-10T12:32:26+00:00",
+      "score": 1.1,
       "tags": [
+        "conflict_intensity",
         "civilian_risk"
       ],
       "regions": [
-        "niger"
+        "mali"
       ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-11T19:04:18.927309+00:00",
-      "score": 36.8
+      "timestamp": "2026-08-11T21:20:55.639468+00:00",
+      "score": 37.9
     },
     {
-      "timestamp": "2026-08-11T21:02:25.104190+00:00",
-      "score": 36.8
+      "timestamp": "2026-08-11T23:28:17.083988+00:00",
+      "score": 38.0
     },
     {
-      "timestamp": "2026-08-11T23:00:31.281071+00:00",
-      "score": 36.8
+      "timestamp": "2026-08-12T01:35:38.528508+00:00",
+      "score": 38.0
     },
     {
-      "timestamp": "2026-08-12T00:58:37.457952+00:00",
-      "score": 36.8
+      "timestamp": "2026-08-12T03:42:59.973028+00:00",
+      "score": 38.1
     },
     {
-      "timestamp": "2026-08-12T02:56:43.634833+00:00",
-      "score": 36.9
+      "timestamp": "2026-08-12T05:50:21.417548+00:00",
+      "score": 38.2
     },
     {
-      "timestamp": "2026-08-12T04:54:49.811714+00:00",
-      "score": 36.9
+      "timestamp": "2026-08-12T07:57:42.862068+00:00",
+      "score": 38.3
     }
   ]
 }
