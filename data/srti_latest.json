@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-12T15:06:16.136954+00:00",
+  "fetched_at": "2026-08-12T17:04:37.243922+00:00",
   "window_hours": 72,
-  "score": 50.5,
+  "score": 50.2,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 76.8,
+    "conflict_intensity": 76.2,
     "civilian_risk": 60.5
   },
   "weights": {
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202608120315.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-12T12:37:01+00:00",
-      "score": 1.62,
+      "score": 1.58,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-12T15:06:16.136954+00:00",
+      "published_at": "2026-08-12T17:04:37.243922+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-12T15:06:16.136954+00:00",
+      "published_at": "2026-08-12T17:04:37.243922+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Ouverture d'un concours de recrutement de cent soixante (160) \u00e9lev\u00e9s ing\u00e9nieurs pour compl\u00e9ment d'effectifs au profit de l'institut -du g\u00e9nie des syst\u00e8mes industriels et textiles (IGSIT) et de l'institut du g\u00e9nie informatique et t\u00e9l\u00e9communications (IGIT) de l'\u00e9cole polytechnique de Ouagadougou (EPO)",
       "link": "https://lefaso.net/spip.php?article148494",
       "source": "LeFaso",
-      "published_at": "2026-08-12T15:06:16.136954+00:00",
+      "published_at": "2026-08-12T17:04:37.243922+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,7 +148,7 @@
       "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
       "link": "https://lefaso.net/spip.php?article148547",
       "source": "LeFaso",
-      "published_at": "2026-08-12T15:06:16.136954+00:00",
+      "published_at": "2026-08-12T17:04:37.243922+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +159,7 @@
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-12T15:06:16.136954+00:00",
+      "published_at": "2026-08-12T17:04:37.243922+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -172,7 +172,7 @@
       "title": "Burkina/Tourisme interne : Et si vous mettiez le cap sur le Sanctuaire animalier de Ziniar\u00e9 ?",
       "link": "https://lefaso.net/spip.php?article148528",
       "source": "LeFaso",
-      "published_at": "2026-08-12T15:06:16.136954+00:00",
+      "published_at": "2026-08-12T17:04:37.243922+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -187,7 +187,7 @@
       "title": "Bati\u00e9 : Des produits illicites saisis par la Police nationale dans le cadre de l'Op\u00e9ration Wibga",
       "link": "https://lefaso.net/spip.php?article148492",
       "source": "LeFaso",
-      "published_at": "2026-08-12T15:06:16.136954+00:00",
+      "published_at": "2026-08-12T17:04:37.243922+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -199,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-12T16:37:34.493424+00:00",
-      "score": 41.4
+      "timestamp": "2026-08-12T19:02:58.350890+00:00",
+      "score": 43.5
     },
     {
-      "timestamp": "2026-08-12T18:08:52.849894+00:00",
-      "score": 41.7
+      "timestamp": "2026-08-12T21:01:19.457858+00:00",
+      "score": 43.8
     },
     {
-      "timestamp": "2026-08-12T19:40:11.206364+00:00",
-      "score": 42.0
+      "timestamp": "2026-08-12T22:59:40.564826+00:00",
+      "score": 44.2
     },
     {
-      "timestamp": "2026-08-12T21:11:29.562834+00:00",
-      "score": 42.2
+      "timestamp": "2026-08-13T00:58:01.671794+00:00",
+      "score": 44.6
     },
     {
-      "timestamp": "2026-08-12T22:42:47.919304+00:00",
-      "score": 42.5
+      "timestamp": "2026-08-13T02:56:22.778762+00:00",
+      "score": 45.0
     },
     {
-      "timestamp": "2026-08-13T00:14:06.275774+00:00",
-      "score": 42.8
+      "timestamp": "2026-08-13T04:54:43.885730+00:00",
+      "score": 45.4
     }
   ]
 }
