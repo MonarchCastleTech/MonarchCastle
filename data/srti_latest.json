@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-12T02:34:56.422319+00:00",
+  "fetched_at": "2026-08-12T04:54:37.513695+00:00",
   "window_hours": 72,
-  "score": 39.6,
+  "score": 39.2,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 49.6,
-    "civilian_risk": 73.8
+    "conflict_intensity": 49.0,
+    "civilian_risk": 73.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-12T02:34:56.422319+00:00",
+      "published_at": "2026-08-12T04:54:37.513695+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-12T02:34:56.422319+00:00",
+      "published_at": "2026-08-12T04:54:37.513695+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Ouverture d'un concours de recrutement de cent soixante (160) \u00e9lev\u00e9s ing\u00e9nieurs pour compl\u00e9ment d'effectifs au profit de l'institut -du g\u00e9nie des syst\u00e8mes industriels et textiles (IGSIT) et de l'institut du g\u00e9nie informatique et t\u00e9l\u00e9communications (IGIT) de l'\u00e9cole polytechnique de Ouagadougou (EPO)",
       "link": "https://lefaso.net/spip.php?article148494",
       "source": "LeFaso",
-      "published_at": "2026-08-12T02:34:56.422319+00:00",
+      "published_at": "2026-08-12T04:54:37.513695+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +134,7 @@
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-12T02:34:56.422319+00:00",
+      "published_at": "2026-08-12T04:54:37.513695+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +147,7 @@
       "title": "Burkina/Tourisme interne : Et si vous mettiez le cap sur le Sanctuaire animalier de Ziniar\u00e9 ?",
       "link": "https://lefaso.net/spip.php?article148528",
       "source": "LeFaso",
-      "published_at": "2026-08-12T02:34:56.422319+00:00",
+      "published_at": "2026-08-12T04:54:37.513695+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -162,7 +162,7 @@
       "title": "Bati\u00e9 : Des produits illicites saisis par la Police nationale dans le cadre de l'Op\u00e9ration Wibga",
       "link": "https://lefaso.net/spip.php?article148492",
       "source": "LeFaso",
-      "published_at": "2026-08-12T02:34:56.422319+00:00",
+      "published_at": "2026-08-12T04:54:37.513695+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +176,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cly8j7ygwvlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-08-10T12:32:26+00:00",
-      "score": 0.91,
+      "score": 0.84,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -201,28 +201,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-12T05:18:22.221998+00:00",
-      "score": 38.7
+      "timestamp": "2026-08-12T07:14:18.605071+00:00",
+      "score": 39.0
     },
     {
-      "timestamp": "2026-08-12T08:01:48.021677+00:00",
-      "score": 38.7
+      "timestamp": "2026-08-12T09:33:59.696447+00:00",
+      "score": 39.1
     },
     {
-      "timestamp": "2026-08-12T10:45:13.821356+00:00",
-      "score": 38.8
+      "timestamp": "2026-08-12T11:53:40.787823+00:00",
+      "score": 39.2
     },
     {
-      "timestamp": "2026-08-12T13:28:39.621035+00:00",
-      "score": 38.8
+      "timestamp": "2026-08-12T14:13:21.879199+00:00",
+      "score": 39.3
     },
     {
-      "timestamp": "2026-08-12T16:12:05.420714+00:00",
-      "score": 38.9
+      "timestamp": "2026-08-12T16:33:02.970575+00:00",
+      "score": 39.4
     },
     {
-      "timestamp": "2026-08-12T18:55:31.220393+00:00",
-      "score": 38.9
+      "timestamp": "2026-08-12T18:52:44.061951+00:00",
+      "score": 39.4
     }
   ]
 }
