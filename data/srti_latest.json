@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-12T20:55:49.507028+00:00",
+  "fetched_at": "2026-08-12T21:55:16.981147+00:00",
   "window_hours": 72,
-  "score": 43.0,
+  "score": 52.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 61.7,
-    "civilian_risk": 60.5
+    "conflict_intensity": 73.0,
+    "civilian_risk": 77.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 9,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 70
+      "items": 66
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,25 @@
   ],
   "top_headlines": [
     {
+      "title": "Partial eclipse seen from North and West Africa",
+      "link": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
+      "source": "France 24 - Africa",
+      "published_at": "2026-08-12T21:09:38+00:00",
+      "score": 2.22,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Mali - Evidence of War Crimes By Armed Groups in Gao Region",
       "link": "https://allafrica.com/stories/202608120315.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-12T12:37:01+00:00",
-      "score": 1.49,
+      "score": 1.46,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +125,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-12T20:55:49.507028+00:00",
+      "published_at": "2026-08-12T21:55:16.981147+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +136,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-12T20:55:49.507028+00:00",
+      "published_at": "2026-08-12T21:55:16.981147+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +149,7 @@
       "title": "Ouverture d'un concours de recrutement de cent soixante (160) \u00e9lev\u00e9s ing\u00e9nieurs pour compl\u00e9ment d'effectifs au profit de l'institut -du g\u00e9nie des syst\u00e8mes industriels et textiles (IGSIT) et de l'institut du g\u00e9nie informatique et t\u00e9l\u00e9communications (IGIT) de l'\u00e9cole polytechnique de Ouagadougou (EPO)",
       "link": "https://lefaso.net/spip.php?article148494",
       "source": "LeFaso",
-      "published_at": "2026-08-12T20:55:49.507028+00:00",
+      "published_at": "2026-08-12T21:55:16.981147+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -148,7 +162,7 @@
       "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
       "link": "https://lefaso.net/spip.php?article148547",
       "source": "LeFaso",
-      "published_at": "2026-08-12T20:55:49.507028+00:00",
+      "published_at": "2026-08-12T21:55:16.981147+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +173,7 @@
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-12T20:55:49.507028+00:00",
+      "published_at": "2026-08-12T21:55:16.981147+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -172,7 +186,7 @@
       "title": "Burkina/Tourisme interne : Et si vous mettiez le cap sur le Sanctuaire animalier de Ziniar\u00e9 ?",
       "link": "https://lefaso.net/spip.php?article148528",
       "source": "LeFaso",
-      "published_at": "2026-08-12T20:55:49.507028+00:00",
+      "published_at": "2026-08-12T21:55:16.981147+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -182,46 +196,32 @@
         "burkina",
         "ouagadougou"
       ]
-    },
-    {
-      "title": "Wafu B U20 Tourney - Flying Eagles Suffer Heavy Defeat in Final Clash Against Burkina Faso",
-      "link": "https://allafrica.com/stories/202608100319.html",
-      "source": "AllAfrica - Burkina Faso",
-      "published_at": "2026-08-10T11:12:49+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina",
-        "burkina faso"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-12T22:36:54.264005+00:00",
-      "score": 45.8
-    },
-    {
-      "timestamp": "2026-08-13T00:17:59.020982+00:00",
-      "score": 46.3
-    },
-    {
-      "timestamp": "2026-08-13T01:59:03.777959+00:00",
-      "score": 46.8
-    },
-    {
-      "timestamp": "2026-08-13T03:40:08.534936+00:00",
+      "timestamp": "2026-08-12T22:54:44.455266+00:00",
       "score": 47.3
     },
     {
-      "timestamp": "2026-08-13T05:21:13.291913+00:00",
+      "timestamp": "2026-08-12T23:54:11.929385+00:00",
       "score": 47.8
     },
     {
-      "timestamp": "2026-08-13T07:02:18.048890+00:00",
-      "score": 48.2
+      "timestamp": "2026-08-13T00:53:39.403504+00:00",
+      "score": 48.4
+    },
+    {
+      "timestamp": "2026-08-13T01:53:06.877623+00:00",
+      "score": 48.9
+    },
+    {
+      "timestamp": "2026-08-13T02:52:34.351742+00:00",
+      "score": 49.5
+    },
+    {
+      "timestamp": "2026-08-13T03:52:01.825861+00:00",
+      "score": 50.0
     }
   ]
 }
