@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-13T10:16:59.304747+00:00",
+  "fetched_at": "2026-08-13T11:54:11.399988+00:00",
   "window_hours": 72,
-  "score": 48.8,
+  "score": 49.3,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 67.6,
-    "civilian_risk": 74.9
+    "conflict_intensity": 76.8,
+    "civilian_risk": 54.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 74
+      "items": 78
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-08-12T21:09:38+00:00",
-      "score": 1.83,
+      "score": 1.78,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-13T10:16:59.304747+00:00",
+      "published_at": "2026-08-13T11:54:11.399988+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,20 +122,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-13T10:16:59.304747+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Ouverture d'un concours de recrutement de cent soixante (160) \u00e9lev\u00e9s ing\u00e9nieurs pour compl\u00e9ment d'effectifs au profit de l'institut -du g\u00e9nie des syst\u00e8mes industriels et textiles (IGSIT) et de l'institut du g\u00e9nie informatique et t\u00e9l\u00e9communications (IGIT) de l'\u00e9cole polytechnique de Ouagadougou (EPO)",
-      "link": "https://lefaso.net/spip.php?article148494",
-      "source": "LeFaso",
-      "published_at": "2026-08-13T10:16:59.304747+00:00",
+      "published_at": "2026-08-13T11:54:11.399988+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +136,7 @@
       "link": "https://allafrica.com/stories/202608120315.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-12T12:37:01+00:00",
-      "score": 1.17,
+      "score": 1.14,
       "tags": [
         "conflict_intensity"
       ],
@@ -159,10 +146,23 @@
       ]
     },
     {
+      "title": "Burkina/Douanes : 60 millions de francs CFA en faux billets saisis dans un bus \u00e0 Tenkodogo \u200e",
+      "link": "https://lefaso.net/spip.php?article148570",
+      "source": "LeFaso",
+      "published_at": "2026-08-13T11:54:11.399988+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
+    },
+    {
       "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
       "link": "https://lefaso.net/spip.php?article148547",
       "source": "LeFaso",
-      "published_at": "2026-08-13T10:16:59.304747+00:00",
+      "published_at": "2026-08-13T11:54:11.399988+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -173,7 +173,7 @@
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-13T10:16:59.304747+00:00",
+      "published_at": "2026-08-13T11:54:11.399988+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,7 +186,7 @@
       "title": "Burkina/Tourisme interne : Et si vous mettiez le cap sur le Sanctuaire animalier de Ziniar\u00e9 ?",
       "link": "https://lefaso.net/spip.php?article148528",
       "source": "LeFaso",
-      "published_at": "2026-08-13T10:16:59.304747+00:00",
+      "published_at": "2026-08-13T11:54:11.399988+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-13T11:55:48.320151+00:00",
-      "score": 52.5
+      "timestamp": "2026-08-13T13:31:23.495229+00:00",
+      "score": 52.9
     },
     {
-      "timestamp": "2026-08-13T13:34:37.335555+00:00",
-      "score": 53.2
+      "timestamp": "2026-08-13T15:08:35.590470+00:00",
+      "score": 53.6
     },
     {
-      "timestamp": "2026-08-13T15:13:26.350959+00:00",
-      "score": 53.8
+      "timestamp": "2026-08-13T16:45:47.685711+00:00",
+      "score": 54.2
     },
     {
-      "timestamp": "2026-08-13T16:52:15.366363+00:00",
-      "score": 54.4
+      "timestamp": "2026-08-13T18:22:59.780952+00:00",
+      "score": 54.9
     },
     {
-      "timestamp": "2026-08-13T18:31:04.381767+00:00",
-      "score": 55.1
+      "timestamp": "2026-08-13T20:00:11.876193+00:00",
+      "score": 55.5
     },
     {
-      "timestamp": "2026-08-13T20:09:53.397171+00:00",
-      "score": 55.7
+      "timestamp": "2026-08-13T21:37:23.971434+00:00",
+      "score": 56.2
     }
   ]
 }
