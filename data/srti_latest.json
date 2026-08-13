@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-13T11:54:11.399988+00:00",
+  "fetched_at": "2026-08-13T13:35:57.999825+00:00",
   "window_hours": 72,
-  "score": 49.3,
+  "score": 48.8,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 76.8,
-    "civilian_risk": 54.3
+    "conflict_intensity": 76.0,
+    "civilian_risk": 53.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78
+      "items": 79
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-08-12T21:09:38+00:00",
-      "score": 1.78,
+      "score": 1.73,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-13T11:54:11.399988+00:00",
+      "published_at": "2026-08-13T13:35:57.999825+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-13T11:54:11.399988+00:00",
+      "published_at": "2026-08-13T13:35:57.999825+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,24 +132,10 @@
       ]
     },
     {
-      "title": "Mali - Evidence of War Crimes By Armed Groups in Gao Region",
-      "link": "https://allafrica.com/stories/202608120315.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-08-12T12:37:01+00:00",
-      "score": 1.14,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "gao"
-      ]
-    },
-    {
       "title": "Burkina/Douanes : 60 millions de francs CFA en faux billets saisis dans un bus \u00e0 Tenkodogo \u200e",
       "link": "https://lefaso.net/spip.php?article148570",
       "source": "LeFaso",
-      "published_at": "2026-08-13T11:54:11.399988+00:00",
+      "published_at": "2026-08-13T13:35:57.999825+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -162,7 +148,7 @@
       "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
       "link": "https://lefaso.net/spip.php?article148547",
       "source": "LeFaso",
-      "published_at": "2026-08-13T11:54:11.399988+00:00",
+      "published_at": "2026-08-13T13:35:57.999825+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -173,7 +159,7 @@
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-13T11:54:11.399988+00:00",
+      "published_at": "2026-08-13T13:35:57.999825+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,7 +172,7 @@
       "title": "Burkina/Tourisme interne : Et si vous mettiez le cap sur le Sanctuaire animalier de Ziniar\u00e9 ?",
       "link": "https://lefaso.net/spip.php?article148528",
       "source": "LeFaso",
-      "published_at": "2026-08-13T11:54:11.399988+00:00",
+      "published_at": "2026-08-13T13:35:57.999825+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -196,32 +182,46 @@
         "burkina",
         "ouagadougou"
       ]
+    },
+    {
+      "title": "Mali - Evidence of War Crimes By Armed Groups in Gao Region",
+      "link": "https://allafrica.com/stories/202608120315.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-08-12T12:37:01+00:00",
+      "score": 1.1,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali",
+        "gao"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-13T13:31:23.495229+00:00",
-      "score": 52.9
+      "timestamp": "2026-08-13T15:17:44.599662+00:00",
+      "score": 53.2
     },
     {
-      "timestamp": "2026-08-13T15:08:35.590470+00:00",
-      "score": 53.6
+      "timestamp": "2026-08-13T16:59:31.199499+00:00",
+      "score": 53.8
     },
     {
-      "timestamp": "2026-08-13T16:45:47.685711+00:00",
-      "score": 54.2
+      "timestamp": "2026-08-13T18:41:17.799336+00:00",
+      "score": 54.5
     },
     {
-      "timestamp": "2026-08-13T18:22:59.780952+00:00",
-      "score": 54.9
+      "timestamp": "2026-08-13T20:23:04.399173+00:00",
+      "score": 55.1
     },
     {
-      "timestamp": "2026-08-13T20:00:11.876193+00:00",
-      "score": 55.5
+      "timestamp": "2026-08-13T22:04:50.999010+00:00",
+      "score": 55.7
     },
     {
-      "timestamp": "2026-08-13T21:37:23.971434+00:00",
-      "score": 56.2
+      "timestamp": "2026-08-13T23:46:37.598847+00:00",
+      "score": 56.4
     }
   ]
 }
