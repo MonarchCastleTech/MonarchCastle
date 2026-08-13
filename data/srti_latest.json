@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-13T17:04:22.335534+00:00",
+  "fetched_at": "2026-08-13T18:03:49.974533+00:00",
   "window_hours": 72,
   "score": 60.6,
   "risk_level": "HIGH",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 53.1
+    "civilian_risk": 52.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-08-12T21:09:38+00:00",
-      "score": 1.62,
+      "score": 1.59,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "published_at": "2026-08-13T18:03:49.974533+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "published_at": "2026-08-13T18:03:49.974533+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -135,7 +135,7 @@
       "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
       "link": "https://lefaso.net/spip.php?article148582",
       "source": "LeFaso",
-      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "published_at": "2026-08-13T18:03:49.974533+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -148,7 +148,7 @@
       "title": "Burkina/Eau, assainissement et climat : WaterAid mise sur la jeunesse pour faire bouger les lignes",
       "link": "https://lefaso.net/spip.php?article148578",
       "source": "LeFaso",
-      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "published_at": "2026-08-13T18:03:49.974533+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -163,7 +163,7 @@
       "title": "Burkina/Douanes : 60 millions de francs CFA en faux billets saisis dans un bus \u00e0 Tenkodogo \u200e",
       "link": "https://lefaso.net/spip.php?article148570",
       "source": "LeFaso",
-      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "published_at": "2026-08-13T18:03:49.974533+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -176,7 +176,7 @@
       "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
       "link": "https://lefaso.net/spip.php?article148547",
       "source": "LeFaso",
-      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "published_at": "2026-08-13T18:03:49.974533+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -187,7 +187,7 @@
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "published_at": "2026-08-13T18:03:49.974533+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -199,28 +199,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-13T19:03:01.640264+00:00",
-      "score": 55.3
+      "timestamp": "2026-08-13T19:03:17.613532+00:00",
+      "score": 57.0
     },
     {
-      "timestamp": "2026-08-13T21:01:40.944994+00:00",
-      "score": 56.0
+      "timestamp": "2026-08-13T20:02:45.252531+00:00",
+      "score": 57.8
     },
     {
-      "timestamp": "2026-08-13T23:00:20.249724+00:00",
-      "score": 56.7
+      "timestamp": "2026-08-13T21:02:12.891530+00:00",
+      "score": 58.5
     },
     {
-      "timestamp": "2026-08-14T00:58:59.554454+00:00",
-      "score": 57.4
+      "timestamp": "2026-08-13T22:01:40.530529+00:00",
+      "score": 59.3
     },
     {
-      "timestamp": "2026-08-14T02:57:38.859184+00:00",
-      "score": 58.1
+      "timestamp": "2026-08-13T23:01:08.169528+00:00",
+      "score": 60.1
     },
     {
-      "timestamp": "2026-08-14T04:56:18.163914+00:00",
-      "score": 58.8
+      "timestamp": "2026-08-14T00:00:35.808527+00:00",
+      "score": 60.9
     }
   ]
 }
