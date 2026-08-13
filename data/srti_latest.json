@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-13T15:05:43.030804+00:00",
+  "fetched_at": "2026-08-13T17:04:22.335534+00:00",
   "window_hours": 72,
-  "score": 48.4,
-  "risk_level": "ELEVATED",
+  "score": 60.6,
+  "risk_level": "HIGH",
   "components": {
-    "conflict_intensity": 75.3,
-    "civilian_risk": 53.6
+    "conflict_intensity": 100.0,
+    "civilian_risk": 53.1
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 10,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80
+      "items": 82
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-08-12T21:09:38+00:00",
-      "score": 1.68,
+      "score": 1.62,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-13T15:05:43.030804+00:00",
+      "published_at": "2026-08-13T17:04:22.335534+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "title": "Camp Vacances Faso M\u00eabo 2026 : 1 500 jeunes scolaires \u00e0 l'\u00e9cole du patriotisme dans la 3\u1d49 r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148511",
       "source": "LeFaso",
-      "published_at": "2026-08-13T15:05:43.030804+00:00",
+      "published_at": "2026-08-13T17:04:22.335534+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,10 +132,38 @@
       ]
     },
     {
+      "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
+      "link": "https://lefaso.net/spip.php?article148582",
+      "source": "LeFaso",
+      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Burkina/Eau, assainissement et climat : WaterAid mise sur la jeunesse pour faire bouger les lignes",
+      "link": "https://lefaso.net/spip.php?article148578",
+      "source": "LeFaso",
+      "published_at": "2026-08-13T17:04:22.335534+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina",
+        "burkina faso",
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Burkina/Douanes : 60 millions de francs CFA en faux billets saisis dans un bus \u00e0 Tenkodogo \u200e",
       "link": "https://lefaso.net/spip.php?article148570",
       "source": "LeFaso",
-      "published_at": "2026-08-13T15:05:43.030804+00:00",
+      "published_at": "2026-08-13T17:04:22.335534+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -148,7 +176,7 @@
       "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
       "link": "https://lefaso.net/spip.php?article148547",
       "source": "LeFaso",
-      "published_at": "2026-08-13T15:05:43.030804+00:00",
+      "published_at": "2026-08-13T17:04:22.335534+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +187,7 @@
       "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
       "link": "https://lefaso.net/spip.php?article148516",
       "source": "LeFaso",
-      "published_at": "2026-08-13T15:05:43.030804+00:00",
+      "published_at": "2026-08-13T17:04:22.335534+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,61 +195,32 @@
       "regions": [
         "burkina"
       ]
-    },
-    {
-      "title": "Burkina/Tourisme interne : Et si vous mettiez le cap sur le Sanctuaire animalier de Ziniar\u00e9 ?",
-      "link": "https://lefaso.net/spip.php?article148528",
-      "source": "LeFaso",
-      "published_at": "2026-08-13T15:05:43.030804+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "burkina",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Mali - Evidence of War Crimes By Armed Groups in Gao Region",
-      "link": "https://allafrica.com/stories/202608120315.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-08-12T12:37:01+00:00",
-      "score": 1.06,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "gao"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-13T16:35:28.061783+00:00",
-      "score": 53.3
+      "timestamp": "2026-08-13T19:03:01.640264+00:00",
+      "score": 55.3
     },
     {
-      "timestamp": "2026-08-13T18:05:13.092762+00:00",
-      "score": 53.9
+      "timestamp": "2026-08-13T21:01:40.944994+00:00",
+      "score": 56.0
     },
     {
-      "timestamp": "2026-08-13T19:34:58.123741+00:00",
-      "score": 54.5
+      "timestamp": "2026-08-13T23:00:20.249724+00:00",
+      "score": 56.7
     },
     {
-      "timestamp": "2026-08-13T21:04:43.154720+00:00",
-      "score": 55.1
+      "timestamp": "2026-08-14T00:58:59.554454+00:00",
+      "score": 57.4
     },
     {
-      "timestamp": "2026-08-13T22:34:28.185699+00:00",
-      "score": 55.7
+      "timestamp": "2026-08-14T02:57:38.859184+00:00",
+      "score": 58.1
     },
     {
-      "timestamp": "2026-08-14T00:04:13.216678+00:00",
-      "score": 56.3
+      "timestamp": "2026-08-14T04:56:18.163914+00:00",
+      "score": 58.8
     }
   ]
 }
