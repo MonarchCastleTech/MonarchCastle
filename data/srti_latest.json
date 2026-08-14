@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-14T06:20:55.910828+00:00",
+  "fetched_at": "2026-08-14T08:22:38.450417+00:00",
   "window_hours": 72,
-  "score": 60.0,
-  "risk_level": "HIGH",
+  "score": 59.9,
+  "risk_level": "ELEVATED",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 49.8
+    "civilian_risk": 49.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82
+      "items": 81
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 51
+      "items": 50
     },
     {
       "name": "UN News Africa",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Camp d'incubation de l'association Rehoboth-Ip\u00e9n\u00e9 : Pari r\u00e9ussi pour la 3\u1d49 \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148589",
       "source": "LeFaso",
-      "published_at": "2026-08-14T06:20:55.910828+00:00",
+      "published_at": "2026-08-14T08:22:38.450417+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-14T06:20:55.910828+00:00",
+      "published_at": "2026-08-14T08:22:38.450417+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -120,7 +120,7 @@
       "link": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
       "source": "France 24 - Africa",
       "published_at": "2026-08-12T21:09:38+00:00",
-      "score": 1.21,
+      "score": 1.14,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -133,7 +133,7 @@
       "title": "Douanes : 60 millions de francs CFA en faux billets et des produits prohib\u00e9s saisis dans un bus \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article148592",
       "source": "LeFaso",
-      "published_at": "2026-08-14T06:20:55.910828+00:00",
+      "published_at": "2026-08-14T08:22:38.450417+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +147,7 @@
       "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
       "link": "https://lefaso.net/spip.php?article148582",
       "source": "LeFaso",
-      "published_at": "2026-08-14T06:20:55.910828+00:00",
+      "published_at": "2026-08-14T08:22:38.450417+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +160,7 @@
       "title": "Burkina/Eau, assainissement et climat : WaterAid mise sur la jeunesse pour faire bouger les lignes",
       "link": "https://lefaso.net/spip.php?article148578",
       "source": "LeFaso",
-      "published_at": "2026-08-14T06:20:55.910828+00:00",
+      "published_at": "2026-08-14T08:22:38.450417+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -175,7 +175,7 @@
       "title": "Burkina/Douanes : 60 millions de francs CFA en faux billets saisis dans un bus \u00e0 Tenkodogo \u200e",
       "link": "https://lefaso.net/spip.php?article148570",
       "source": "LeFaso",
-      "published_at": "2026-08-14T06:20:55.910828+00:00",
+      "published_at": "2026-08-14T08:22:38.450417+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -188,7 +188,7 @@
       "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
       "link": "https://lefaso.net/spip.php?article148547",
       "source": "LeFaso",
-      "published_at": "2026-08-14T06:20:55.910828+00:00",
+      "published_at": "2026-08-14T08:22:38.450417+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -198,28 +198,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-14T07:45:44.696217+00:00",
-      "score": 62.6
+      "timestamp": "2026-08-14T10:24:20.990006+00:00",
+      "score": 63.2
     },
     {
-      "timestamp": "2026-08-14T09:10:33.481606+00:00",
-      "score": 63.3
-    },
-    {
-      "timestamp": "2026-08-14T10:35:22.266995+00:00",
+      "timestamp": "2026-08-14T12:26:03.529595+00:00",
       "score": 64.0
     },
     {
-      "timestamp": "2026-08-14T12:00:11.052384+00:00",
+      "timestamp": "2026-08-14T14:27:46.069184+00:00",
       "score": 64.7
     },
     {
-      "timestamp": "2026-08-14T13:24:59.837773+00:00",
+      "timestamp": "2026-08-14T16:29:28.608773+00:00",
       "score": 65.4
     },
     {
-      "timestamp": "2026-08-14T14:49:48.623162+00:00",
+      "timestamp": "2026-08-14T18:31:11.148362+00:00",
       "score": 66.1
+    },
+    {
+      "timestamp": "2026-08-14T20:32:53.687951+00:00",
+      "score": 66.9
     }
   ]
 }
