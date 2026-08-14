@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-14T08:22:38.450417+00:00",
+  "fetched_at": "2026-08-14T10:12:05.879896+00:00",
   "window_hours": 72,
-  "score": 59.9,
+  "score": 59.8,
   "risk_level": "ELEVATED",
   "components": {
     "conflict_intensity": 100.0,
-    "civilian_risk": 49.3
+    "civilian_risk": 48.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 81
+      "items": 83
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -97,7 +97,7 @@
       "title": "Camp d'incubation de l'association Rehoboth-Ip\u00e9n\u00e9 : Pari r\u00e9ussi pour la 3\u1d49 \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148589",
       "source": "LeFaso",
-      "published_at": "2026-08-14T08:22:38.450417+00:00",
+      "published_at": "2026-08-14T10:12:05.879896+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Camp vacances Faso M\u00eabo 2026 : 514 jeunes campeurs r\u00e9unis dans la 5e r\u00e9gion militaire",
       "link": "https://lefaso.net/spip.php?article148530",
       "source": "LeFaso",
-      "published_at": "2026-08-14T08:22:38.450417+00:00",
+      "published_at": "2026-08-14T10:12:05.879896+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -116,24 +116,10 @@
       "regions": []
     },
     {
-      "title": "Partial eclipse seen from North and West Africa",
-      "link": "https://www.france24.com/en/partial-eclipse-seen-from-north-and-west-africa",
-      "source": "France 24 - Africa",
-      "published_at": "2026-08-12T21:09:38+00:00",
-      "score": 1.14,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Douanes : 60 millions de francs CFA en faux billets et des produits prohib\u00e9s saisis dans un bus \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article148592",
       "source": "LeFaso",
-      "published_at": "2026-08-14T08:22:38.450417+00:00",
+      "published_at": "2026-08-14T10:12:05.879896+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +133,7 @@
       "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
       "link": "https://lefaso.net/spip.php?article148582",
       "source": "LeFaso",
-      "published_at": "2026-08-14T08:22:38.450417+00:00",
+      "published_at": "2026-08-14T10:12:05.879896+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +146,7 @@
       "title": "Burkina/Eau, assainissement et climat : WaterAid mise sur la jeunesse pour faire bouger les lignes",
       "link": "https://lefaso.net/spip.php?article148578",
       "source": "LeFaso",
-      "published_at": "2026-08-14T08:22:38.450417+00:00",
+      "published_at": "2026-08-14T10:12:05.879896+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -175,7 +161,7 @@
       "title": "Burkina/Douanes : 60 millions de francs CFA en faux billets saisis dans un bus \u00e0 Tenkodogo \u200e",
       "link": "https://lefaso.net/spip.php?article148570",
       "source": "LeFaso",
-      "published_at": "2026-08-14T08:22:38.450417+00:00",
+      "published_at": "2026-08-14T10:12:05.879896+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -188,38 +174,51 @@
       "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
       "link": "https://lefaso.net/spip.php?article148547",
       "source": "LeFaso",
-      "published_at": "2026-08-14T08:22:38.450417+00:00",
+      "published_at": "2026-08-14T10:12:05.879896+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": []
+    },
+    {
+      "title": "Burkina : Plusieurs chefs terroristes neutralis\u00e9s dans le Sourou",
+      "link": "https://lefaso.net/spip.php?article148516",
+      "source": "LeFaso",
+      "published_at": "2026-08-14T10:12:05.879896+00:00",
+      "score": 1.12,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-14T10:24:20.990006+00:00",
-      "score": 63.2
+      "timestamp": "2026-08-14T12:01:33.309375+00:00",
+      "score": 63.1
     },
     {
-      "timestamp": "2026-08-14T12:26:03.529595+00:00",
-      "score": 64.0
+      "timestamp": "2026-08-14T13:51:00.738854+00:00",
+      "score": 63.8
     },
     {
-      "timestamp": "2026-08-14T14:27:46.069184+00:00",
-      "score": 64.7
+      "timestamp": "2026-08-14T15:40:28.168333+00:00",
+      "score": 64.5
     },
     {
-      "timestamp": "2026-08-14T16:29:28.608773+00:00",
-      "score": 65.4
+      "timestamp": "2026-08-14T17:29:55.597812+00:00",
+      "score": 65.1
     },
     {
-      "timestamp": "2026-08-14T18:31:11.148362+00:00",
-      "score": 66.1
+      "timestamp": "2026-08-14T19:19:23.027291+00:00",
+      "score": 65.8
     },
     {
-      "timestamp": "2026-08-14T20:32:53.687951+00:00",
-      "score": 66.9
+      "timestamp": "2026-08-14T21:08:50.456770+00:00",
+      "score": 66.4
     }
   ]
 }
