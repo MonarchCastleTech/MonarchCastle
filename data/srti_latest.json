@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-16T17:27:08.140688+00:00",
+  "fetched_at": "2026-08-16T18:39:52.577209+00:00",
   "window_hours": 72,
   "score": 36.2,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 40.3,
-    "civilian_risk": 80.5
+    "civilian_risk": 80.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-16T17:27:08.140688+00:00",
+      "published_at": "2026-08-16T18:39:52.577209+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-16T17:27:08.140688+00:00",
+      "published_at": "2026-08-16T18:39:52.577209+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Camp d'incubation de l'association Rehoboth-Ip\u00e9n\u00e9 : Pari r\u00e9ussi pour la 3\u1d49 \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148589",
       "source": "LeFaso",
-      "published_at": "2026-08-16T17:27:08.140688+00:00",
+      "published_at": "2026-08-16T18:39:52.577209+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +132,7 @@
       "title": "Douanes : 60 millions de francs CFA en faux billets et des produits prohib\u00e9s saisis dans un bus \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article148592",
       "source": "LeFaso",
-      "published_at": "2026-08-16T17:27:08.140688+00:00",
+      "published_at": "2026-08-16T18:39:52.577209+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
       "link": "https://lefaso.net/spip.php?article148582",
       "source": "LeFaso",
-      "published_at": "2026-08-16T17:27:08.140688+00:00",
+      "published_at": "2026-08-16T18:39:52.577209+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +159,7 @@
       "title": "Burkina/Eau, assainissement et climat : WaterAid mise sur la jeunesse pour faire bouger les lignes",
       "link": "https://lefaso.net/spip.php?article148578",
       "source": "LeFaso",
-      "published_at": "2026-08-16T17:27:08.140688+00:00",
+      "published_at": "2026-08-16T18:39:52.577209+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -175,7 +175,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 1.05,
+      "score": 1.03,
       "tags": [
         "civilian_risk"
       ],
@@ -200,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-16T18:19:33.857935+00:00",
-      "score": 31.3
+      "timestamp": "2026-08-16T19:52:37.013730+00:00",
+      "score": 31.5
     },
     {
-      "timestamp": "2026-08-16T19:11:59.575182+00:00",
-      "score": 30.7
+      "timestamp": "2026-08-16T21:05:21.450251+00:00",
+      "score": 30.8
     },
     {
-      "timestamp": "2026-08-16T20:04:25.292429+00:00",
-      "score": 30.0
+      "timestamp": "2026-08-16T22:18:05.886772+00:00",
+      "score": 30.2
     },
     {
-      "timestamp": "2026-08-16T20:56:51.009676+00:00",
-      "score": 29.4
+      "timestamp": "2026-08-16T23:30:50.323293+00:00",
+      "score": 29.6
     },
     {
-      "timestamp": "2026-08-16T21:49:16.726923+00:00",
-      "score": 28.7
+      "timestamp": "2026-08-17T00:43:34.759814+00:00",
+      "score": 29.0
     },
     {
-      "timestamp": "2026-08-16T22:41:42.444170+00:00",
-      "score": 28.1
+      "timestamp": "2026-08-17T01:56:19.196335+00:00",
+      "score": 28.4
     }
   ]
 }
