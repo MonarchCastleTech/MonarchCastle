@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-16T22:30:21.192164+00:00",
+  "fetched_at": "2026-08-16T23:28:10.429849+00:00",
   "window_hours": 72,
-  "score": 29.3,
-  "risk_level": "GUARDED",
+  "score": 11.8,
+  "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 26.9,
-    "civilian_risk": 79.4
+    "conflict_intensity": 0.0,
+    "civilian_risk": 59.1
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 68
+      "items": 52
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-16T22:30:21.192164+00:00",
+      "published_at": "2026-08-16T23:28:10.429849+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,57 +110,19 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-16T22:30:21.192164+00:00",
+      "published_at": "2026-08-16T23:28:10.429849+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": []
-    },
-    {
-      "title": "Camp d'incubation de l'association Rehoboth-Ip\u00e9n\u00e9 : Pari r\u00e9ussi pour la 3\u1d49 \u00e9dition",
-      "link": "https://lefaso.net/spip.php?article148589",
-      "source": "LeFaso",
-      "published_at": "2026-08-16T22:30:21.192164+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
-      "title": "Douanes : 60 millions de francs CFA en faux billets et des produits prohib\u00e9s saisis dans un bus \u00e0 Tenkodogo",
-      "link": "https://lefaso.net/spip.php?article148592",
-      "source": "LeFaso",
-      "published_at": "2026-08-16T22:30:21.192164+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali",
-        "ouagadougou"
-      ]
-    },
-    {
-      "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
-      "link": "https://lefaso.net/spip.php?article148582",
-      "source": "LeFaso",
-      "published_at": "2026-08-16T22:30:21.192164+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
     },
     {
       "title": "U.S. Missionary Kidnapped in Niger Freed After More Than Nine Months",
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.97,
+      "score": 0.96,
       "tags": [
         "civilian_risk"
       ],
@@ -185,28 +147,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-16T23:32:38.235512+00:00",
-      "score": 28.9
+      "timestamp": "2026-08-17T00:25:59.667534+00:00",
+      "score": 25.5
     },
     {
-      "timestamp": "2026-08-17T00:34:55.278860+00:00",
-      "score": 28.3
+      "timestamp": "2026-08-17T01:23:48.905219+00:00",
+      "score": 24.7
     },
     {
-      "timestamp": "2026-08-17T01:37:12.322208+00:00",
-      "score": 27.7
+      "timestamp": "2026-08-17T02:21:38.142904+00:00",
+      "score": 24.0
     },
     {
-      "timestamp": "2026-08-17T02:39:29.365556+00:00",
-      "score": 27.1
+      "timestamp": "2026-08-17T03:19:27.380589+00:00",
+      "score": 23.2
     },
     {
-      "timestamp": "2026-08-17T03:41:46.408904+00:00",
-      "score": 26.6
+      "timestamp": "2026-08-17T04:17:16.618274+00:00",
+      "score": 22.5
     },
     {
-      "timestamp": "2026-08-17T04:44:03.452252+00:00",
-      "score": 26.0
+      "timestamp": "2026-08-17T05:15:05.855959+00:00",
+      "score": 21.7
     }
   ]
 }
