@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-16T04:43:36.909387+00:00",
+  "fetched_at": "2026-08-16T05:35:27.037423+00:00",
   "window_hours": 72,
-  "score": 42.9,
-  "risk_level": "ELEVATED",
+  "score": 36.2,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 67.2,
-    "civilian_risk": 46.5
+    "conflict_intensity": 53.8,
+    "civilian_risk": 46.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 92
+      "items": 76
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-16T04:43:36.909387+00:00",
+      "published_at": "2026-08-16T05:35:27.037423+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -108,7 +108,7 @@
       "title": "Camp d'incubation de l'association Rehoboth-Ip\u00e9n\u00e9 : Pari r\u00e9ussi pour la 3\u1d49 \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148589",
       "source": "LeFaso",
-      "published_at": "2026-08-16T04:43:36.909387+00:00",
+      "published_at": "2026-08-16T05:35:27.037423+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -119,7 +119,7 @@
       "title": "Douanes : 60 millions de francs CFA en faux billets et des produits prohib\u00e9s saisis dans un bus \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article148592",
       "source": "LeFaso",
-      "published_at": "2026-08-16T04:43:36.909387+00:00",
+      "published_at": "2026-08-16T05:35:27.037423+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -133,7 +133,7 @@
       "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
       "link": "https://lefaso.net/spip.php?article148582",
       "source": "LeFaso",
-      "published_at": "2026-08-16T04:43:36.909387+00:00",
+      "published_at": "2026-08-16T05:35:27.037423+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Burkina/Eau, assainissement et climat : WaterAid mise sur la jeunesse pour faire bouger les lignes",
       "link": "https://lefaso.net/spip.php?article148578",
       "source": "LeFaso",
-      "published_at": "2026-08-16T04:43:36.909387+00:00",
+      "published_at": "2026-08-16T05:35:27.037423+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,7 +161,7 @@
       "title": "Burkina/Douanes : 60 millions de francs CFA en faux billets saisis dans un bus \u00e0 Tenkodogo \u200e",
       "link": "https://lefaso.net/spip.php?article148570",
       "source": "LeFaso",
-      "published_at": "2026-08-16T04:43:36.909387+00:00",
+      "published_at": "2026-08-16T05:35:27.037423+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -171,22 +171,11 @@
       ]
     },
     {
-      "title": "\u200eLutte contre la fraude : Des produits prohib\u00e9s de plus de 141 millions FCFA saisis \u200e",
-      "link": "https://lefaso.net/spip.php?article148547",
-      "source": "LeFaso",
-      "published_at": "2026-08-16T04:43:36.909387+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": []
-    },
-    {
       "title": "US missionary released following kidnap in Niger, Christian group says",
       "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-08-14T10:18:02+00:00",
-      "score": 0.44,
+      "score": 0.43,
       "tags": [
         "civilian_risk"
       ],
@@ -197,28 +186,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-16T06:19:22.556975+00:00",
-      "score": 42.2
+      "timestamp": "2026-08-16T06:27:17.165459+00:00",
+      "score": 40.7
     },
     {
-      "timestamp": "2026-08-16T07:55:08.204563+00:00",
-      "score": 41.8
+      "timestamp": "2026-08-16T07:19:07.293495+00:00",
+      "score": 40.2
     },
     {
-      "timestamp": "2026-08-16T09:30:53.852151+00:00",
-      "score": 41.4
+      "timestamp": "2026-08-16T08:10:57.421531+00:00",
+      "score": 39.7
     },
     {
-      "timestamp": "2026-08-16T11:06:39.499739+00:00",
-      "score": 41.0
+      "timestamp": "2026-08-16T09:02:47.549567+00:00",
+      "score": 39.2
     },
     {
-      "timestamp": "2026-08-16T12:42:25.147327+00:00",
-      "score": 40.6
+      "timestamp": "2026-08-16T09:54:37.677603+00:00",
+      "score": 38.8
     },
     {
-      "timestamp": "2026-08-16T14:18:10.794915+00:00",
-      "score": 40.1
+      "timestamp": "2026-08-16T10:46:27.805639+00:00",
+      "score": 38.3
     }
   ]
 }
