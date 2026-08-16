@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T13:37:50.883439+00:00",
+  "fetched_at": "2026-08-16T14:31:17.119706+00:00",
   "window_hours": 72,
   "score": 33.3,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 72
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-16T13:37:50.883439+00:00",
+      "published_at": "2026-08-16T14:31:17.119706+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-16T13:37:50.883439+00:00",
+      "published_at": "2026-08-16T14:31:17.119706+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Camp d'incubation de l'association Rehoboth-Ip\u00e9n\u00e9 : Pari r\u00e9ussi pour la 3\u1d49 \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148589",
       "source": "LeFaso",
-      "published_at": "2026-08-16T13:37:50.883439+00:00",
+      "published_at": "2026-08-16T14:31:17.119706+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +132,7 @@
       "title": "Douanes : 60 millions de francs CFA en faux billets et des produits prohib\u00e9s saisis dans un bus \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article148592",
       "source": "LeFaso",
-      "published_at": "2026-08-16T13:37:50.883439+00:00",
+      "published_at": "2026-08-16T14:31:17.119706+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
       "link": "https://lefaso.net/spip.php?article148582",
       "source": "LeFaso",
-      "published_at": "2026-08-16T13:37:50.883439+00:00",
+      "published_at": "2026-08-16T14:31:17.119706+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +159,7 @@
       "title": "Burkina/Eau, assainissement et climat : WaterAid mise sur la jeunesse pour faire bouger les lignes",
       "link": "https://lefaso.net/spip.php?article148578",
       "source": "LeFaso",
-      "published_at": "2026-08-16T13:37:50.883439+00:00",
+      "published_at": "2026-08-16T14:31:17.119706+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,28 +186,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-16T14:21:19.302110+00:00",
-      "score": 33.0
+      "timestamp": "2026-08-16T15:24:43.355973+00:00",
+      "score": 32.2
     },
     {
-      "timestamp": "2026-08-16T15:04:47.720781+00:00",
-      "score": 32.4
+      "timestamp": "2026-08-16T16:18:09.592240+00:00",
+      "score": 31.5
     },
     {
-      "timestamp": "2026-08-16T15:48:16.139452+00:00",
-      "score": 31.7
+      "timestamp": "2026-08-16T17:11:35.828507+00:00",
+      "score": 30.8
     },
     {
-      "timestamp": "2026-08-16T16:31:44.558123+00:00",
-      "score": 31.0
+      "timestamp": "2026-08-16T18:05:02.064774+00:00",
+      "score": 30.0
     },
     {
-      "timestamp": "2026-08-16T17:15:12.976794+00:00",
-      "score": 30.3
+      "timestamp": "2026-08-16T18:58:28.301041+00:00",
+      "score": 29.3
     },
     {
-      "timestamp": "2026-08-16T17:58:41.395465+00:00",
-      "score": 29.6
+      "timestamp": "2026-08-16T19:51:54.537308+00:00",
+      "score": 28.6
     }
   ]
 }
