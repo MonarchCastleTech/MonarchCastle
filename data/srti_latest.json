@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-16T15:29:20.447455+00:00",
+  "fetched_at": "2026-08-16T16:34:42.423441+00:00",
   "window_hours": 72,
-  "score": 33.3,
+  "score": 36.3,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 40.3,
-    "civilian_risk": 65.8
+    "civilian_risk": 80.7
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 7,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 10
     },
     {
       "name": "France 24 - Africa",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 6
+      "items": 7
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-16T15:29:20.447455+00:00",
+      "published_at": "2026-08-16T16:34:42.423441+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-16T15:29:20.447455+00:00",
+      "published_at": "2026-08-16T16:34:42.423441+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Camp d'incubation de l'association Rehoboth-Ip\u00e9n\u00e9 : Pari r\u00e9ussi pour la 3\u1d49 \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148589",
       "source": "LeFaso",
-      "published_at": "2026-08-16T15:29:20.447455+00:00",
+      "published_at": "2026-08-16T16:34:42.423441+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +132,7 @@
       "title": "Douanes : 60 millions de francs CFA en faux billets et des produits prohib\u00e9s saisis dans un bus \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article148592",
       "source": "LeFaso",
-      "published_at": "2026-08-16T15:29:20.447455+00:00",
+      "published_at": "2026-08-16T16:34:42.423441+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
       "link": "https://lefaso.net/spip.php?article148582",
       "source": "LeFaso",
-      "published_at": "2026-08-16T15:29:20.447455+00:00",
+      "published_at": "2026-08-16T16:34:42.423441+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +159,7 @@
       "title": "Burkina/Eau, assainissement et climat : WaterAid mise sur la jeunesse pour faire bouger les lignes",
       "link": "https://lefaso.net/spip.php?article148578",
       "source": "LeFaso",
-      "published_at": "2026-08-16T15:29:20.447455+00:00",
+      "published_at": "2026-08-16T16:34:42.423441+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -168,6 +168,20 @@
         "burkina",
         "burkina faso",
         "ouagadougou"
+      ]
+    },
+    {
+      "title": "U.S. Missionary Kidnapped in Niger Freed After More Than Nine Months",
+      "link": "https://allafrica.com/stories/202608160005.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-08-16T15:29:50+00:00",
+      "score": 1.06,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
       ]
     },
     {
@@ -186,28 +200,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-16T16:27:23.775204+00:00",
-      "score": 31.4
+      "timestamp": "2026-08-16T17:40:04.399427+00:00",
+      "score": 31.3
     },
     {
-      "timestamp": "2026-08-16T17:25:27.102953+00:00",
-      "score": 30.7
+      "timestamp": "2026-08-16T18:45:26.375413+00:00",
+      "score": 30.6
     },
     {
-      "timestamp": "2026-08-16T18:23:30.430702+00:00",
+      "timestamp": "2026-08-16T19:50:48.351399+00:00",
       "score": 30.0
     },
     {
-      "timestamp": "2026-08-16T19:21:33.758451+00:00",
+      "timestamp": "2026-08-16T20:56:10.327385+00:00",
       "score": 29.3
     },
     {
-      "timestamp": "2026-08-16T20:19:37.086200+00:00",
-      "score": 28.5
+      "timestamp": "2026-08-16T22:01:32.303371+00:00",
+      "score": 28.6
     },
     {
-      "timestamp": "2026-08-16T21:17:40.413949+00:00",
-      "score": 27.8
+      "timestamp": "2026-08-16T23:06:54.279357+00:00",
+      "score": 27.9
     }
   ]
 }
