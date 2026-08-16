@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-16T20:31:58.087467+00:00",
+  "fetched_at": "2026-08-16T21:28:04.148816+00:00",
   "window_hours": 72,
   "score": 29.4,
   "risk_level": "GUARDED",
   "components": {
     "conflict_intensity": 26.9,
-    "civilian_risk": 79.8
+    "civilian_risk": 79.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71
+      "items": 68
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-16T20:31:58.087467+00:00",
+      "published_at": "2026-08-16T21:28:04.148816+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-16T20:31:58.087467+00:00",
+      "published_at": "2026-08-16T21:28:04.148816+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Camp d'incubation de l'association Rehoboth-Ip\u00e9n\u00e9 : Pari r\u00e9ussi pour la 3\u1d49 \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148589",
       "source": "LeFaso",
-      "published_at": "2026-08-16T20:31:58.087467+00:00",
+      "published_at": "2026-08-16T21:28:04.148816+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -132,7 +132,7 @@
       "title": "Douanes : 60 millions de francs CFA en faux billets et des produits prohib\u00e9s saisis dans un bus \u00e0 Tenkodogo",
       "link": "https://lefaso.net/spip.php?article148592",
       "source": "LeFaso",
-      "published_at": "2026-08-16T20:31:58.087467+00:00",
+      "published_at": "2026-08-16T21:28:04.148816+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -146,7 +146,7 @@
       "title": "Mali : 82 militaires lib\u00e9r\u00e9s apr\u00e8s des mois de captivit\u00e9",
       "link": "https://lefaso.net/spip.php?article148582",
       "source": "LeFaso",
-      "published_at": "2026-08-16T20:31:58.087467+00:00",
+      "published_at": "2026-08-16T21:28:04.148816+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -160,7 +160,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 1.0,
+      "score": 0.99,
       "tags": [
         "civilian_risk"
       ],
@@ -185,28 +185,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-16T21:36:23.054739+00:00",
-      "score": 29.8
+      "timestamp": "2026-08-16T22:24:10.210165+00:00",
+      "score": 29.3
     },
     {
-      "timestamp": "2026-08-16T22:40:48.022011+00:00",
-      "score": 29.2
+      "timestamp": "2026-08-16T23:20:16.271514+00:00",
+      "score": 28.7
     },
     {
-      "timestamp": "2026-08-16T23:45:12.989283+00:00",
-      "score": 28.6
+      "timestamp": "2026-08-17T00:16:22.332863+00:00",
+      "score": 28.1
     },
     {
-      "timestamp": "2026-08-17T00:49:37.956555+00:00",
-      "score": 27.9
+      "timestamp": "2026-08-17T01:12:28.394212+00:00",
+      "score": 27.4
     },
     {
-      "timestamp": "2026-08-17T01:54:02.923827+00:00",
-      "score": 27.3
+      "timestamp": "2026-08-17T02:08:34.455561+00:00",
+      "score": 26.8
     },
     {
-      "timestamp": "2026-08-17T02:58:27.891099+00:00",
-      "score": 26.7
+      "timestamp": "2026-08-17T03:04:40.516910+00:00",
+      "score": 26.2
     }
   ]
 }
