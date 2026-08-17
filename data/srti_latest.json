@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-17T08:53:44.244399+00:00",
+  "fetched_at": "2026-08-17T09:51:19.497161+00:00",
   "window_hours": 72,
-  "score": 11.4,
+  "score": 10.3,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 57.1
+    "civilian_risk": 51.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-17T08:53:44.244399+00:00",
+      "published_at": "2026-08-17T09:51:19.497161+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-17T08:53:44.244399+00:00",
+      "published_at": "2026-08-17T09:51:19.497161+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.82,
+      "score": 0.8,
       "tags": [
         "civilian_risk"
       ],
@@ -130,45 +130,32 @@
         "niger",
         "niamey"
       ]
-    },
-    {
-      "title": "US missionary released following kidnap in Niger, Christian group says",
-      "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-08-14T10:18:02+00:00",
-      "score": 0.38,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-17T10:37:16.128587+00:00",
-      "score": 11.2
+      "timestamp": "2026-08-17T10:48:54.749923+00:00",
+      "score": 9.1
     },
     {
-      "timestamp": "2026-08-17T12:20:48.012775+00:00",
-      "score": 9.9
+      "timestamp": "2026-08-17T11:46:30.002685+00:00",
+      "score": 7.8
     },
     {
-      "timestamp": "2026-08-17T14:04:19.896963+00:00",
-      "score": 8.6
+      "timestamp": "2026-08-17T12:44:05.255447+00:00",
+      "score": 6.4
     },
     {
-      "timestamp": "2026-08-17T15:47:51.781151+00:00",
-      "score": 7.3
+      "timestamp": "2026-08-17T13:41:40.508209+00:00",
+      "score": 5.0
     },
     {
-      "timestamp": "2026-08-17T17:31:23.665339+00:00",
-      "score": 6.0
+      "timestamp": "2026-08-17T14:39:15.760971+00:00",
+      "score": 3.6
     },
     {
-      "timestamp": "2026-08-17T19:14:55.549527+00:00",
-      "score": 4.7
+      "timestamp": "2026-08-17T15:36:51.013733+00:00",
+      "score": 2.3
     }
   ]
 }
