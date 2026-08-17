@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-17T10:39:56.619874+00:00",
+  "fetched_at": "2026-08-17T11:33:29.450416+00:00",
   "window_hours": 72,
-  "score": 10.3,
+  "score": 10.2,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 51.4
+    "civilian_risk": 51.2
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-17T10:39:56.619874+00:00",
+      "published_at": "2026-08-17T11:33:29.450416+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-17T10:39:56.619874+00:00",
+      "published_at": "2026-08-17T11:33:29.450416+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.79,
+      "score": 0.78,
       "tags": [
         "civilian_risk"
       ],
@@ -134,28 +134,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-17T11:28:33.742587+00:00",
-      "score": 7.4
+      "timestamp": "2026-08-17T12:27:02.280958+00:00",
+      "score": 5.9
     },
     {
-      "timestamp": "2026-08-17T12:17:10.865300+00:00",
-      "score": 6.0
+      "timestamp": "2026-08-17T13:20:35.111500+00:00",
+      "score": 4.4
     },
     {
-      "timestamp": "2026-08-17T13:05:47.988013+00:00",
-      "score": 4.5
+      "timestamp": "2026-08-17T14:14:07.942042+00:00",
+      "score": 3.0
     },
     {
-      "timestamp": "2026-08-17T13:54:25.110726+00:00",
-      "score": 3.1
+      "timestamp": "2026-08-17T15:07:40.772584+00:00",
+      "score": 1.5
     },
     {
-      "timestamp": "2026-08-17T14:43:02.233439+00:00",
-      "score": 1.7
+      "timestamp": "2026-08-17T16:01:13.603126+00:00",
+      "score": 0.1
     },
     {
-      "timestamp": "2026-08-17T15:31:39.356152+00:00",
-      "score": 0.3
+      "timestamp": "2026-08-17T16:54:46.433668+00:00",
+      "score": 0.0
     }
   ]
 }
