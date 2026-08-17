@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-17T14:36:41.618619+00:00",
+  "fetched_at": "2026-08-17T15:34:02.419016+00:00",
   "window_hours": 72,
   "score": 13.5,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 67.7
+    "civilian_risk": 67.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-17T14:36:41.618619+00:00",
+      "published_at": "2026-08-17T15:34:02.419016+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-17T14:36:41.618619+00:00",
+      "published_at": "2026-08-17T15:34:02.419016+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "link": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
       "source": "France 24 - Africa",
       "published_at": "2026-08-17T12:31:03+00:00",
-      "score": 1.22,
+      "score": 1.21,
       "tags": [
         "civilian_risk"
       ],
@@ -135,7 +135,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.73,
+      "score": 0.72,
       "tags": [
         "civilian_risk"
       ],
@@ -147,27 +147,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-17T15:27:03.398148+00:00",
-      "score": 4.7
+      "timestamp": "2026-08-17T16:31:23.219413+00:00",
+      "score": 4.5
     },
     {
-      "timestamp": "2026-08-17T16:17:25.177677+00:00",
-      "score": 3.4
+      "timestamp": "2026-08-17T17:28:44.019810+00:00",
+      "score": 3.2
     },
     {
-      "timestamp": "2026-08-17T17:07:46.957206+00:00",
+      "timestamp": "2026-08-17T18:26:04.820207+00:00",
       "score": 2.0
     },
     {
-      "timestamp": "2026-08-17T17:58:08.736735+00:00",
+      "timestamp": "2026-08-17T19:23:25.620604+00:00",
       "score": 0.7
     },
     {
-      "timestamp": "2026-08-17T18:48:30.516264+00:00",
+      "timestamp": "2026-08-17T20:20:46.421001+00:00",
       "score": 0.0
     },
     {
-      "timestamp": "2026-08-17T19:38:52.295793+00:00",
+      "timestamp": "2026-08-17T21:18:07.221398+00:00",
       "score": 0.0
     }
   ]
