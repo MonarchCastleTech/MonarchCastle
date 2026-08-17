@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-16T23:28:10.429849+00:00",
+  "fetched_at": "2026-08-17T01:48:55.535031+00:00",
   "window_hours": 72,
-  "score": 11.8,
+  "score": 11.7,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 59.1
+    "civilian_risk": 58.6
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 52
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-16T23:28:10.429849+00:00",
+      "published_at": "2026-08-17T01:48:55.535031+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
       "link": "https://lefaso.net/spip.php?article148613",
       "source": "LeFaso",
-      "published_at": "2026-08-16T23:28:10.429849+00:00",
+      "published_at": "2026-08-17T01:48:55.535031+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +122,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.96,
+      "score": 0.93,
       "tags": [
         "civilian_risk"
       ],
@@ -147,28 +147,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-17T00:25:59.667534+00:00",
-      "score": 25.5
+      "timestamp": "2026-08-17T04:09:40.640213+00:00",
+      "score": 22.4
     },
     {
-      "timestamp": "2026-08-17T01:23:48.905219+00:00",
-      "score": 24.7
+      "timestamp": "2026-08-17T06:30:25.745395+00:00",
+      "score": 21.5
     },
     {
-      "timestamp": "2026-08-17T02:21:38.142904+00:00",
-      "score": 24.0
+      "timestamp": "2026-08-17T08:51:10.850577+00:00",
+      "score": 20.6
     },
     {
-      "timestamp": "2026-08-17T03:19:27.380589+00:00",
-      "score": 23.2
+      "timestamp": "2026-08-17T11:11:55.955759+00:00",
+      "score": 19.7
     },
     {
-      "timestamp": "2026-08-17T04:17:16.618274+00:00",
-      "score": 22.5
+      "timestamp": "2026-08-17T13:32:41.060941+00:00",
+      "score": 18.8
     },
     {
-      "timestamp": "2026-08-17T05:15:05.855959+00:00",
-      "score": 21.7
+      "timestamp": "2026-08-17T15:53:26.166123+00:00",
+      "score": 17.9
     }
   ]
 }
