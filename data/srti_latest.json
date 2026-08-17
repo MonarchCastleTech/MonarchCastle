@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-17T21:33:04.462718+00:00",
+  "fetched_at": "2026-08-17T22:33:00.346190+00:00",
   "window_hours": 72,
-  "score": 12.9,
+  "score": 8.8,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 64.6
+    "civilian_risk": 43.9
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 61
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-17T21:33:04.462718+00:00",
+      "published_at": "2026-08-17T22:33:00.346190+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,22 +107,11 @@
       ]
     },
     {
-      "title": "Camp vacances Faso M\u00eabo : 464 jeunes mobilis\u00e9s \u00e0 Dori pour la deuxi\u00e8me \u00e9dition",
-      "link": "https://lefaso.net/spip.php?article148613",
-      "source": "LeFaso",
-      "published_at": "2026-08-17T21:33:04.462718+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
       "title": "Prominent Mali journalist, influencer jailed for seven years for criticising junta",
       "link": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
       "source": "France 24 - Africa",
       "published_at": "2026-08-17T12:31:03+00:00",
-      "score": 1.1,
+      "score": 1.08,
       "tags": [
         "civilian_risk"
       ],
@@ -135,7 +124,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.63,
+      "score": 0.61,
       "tags": [
         "civilian_risk"
       ],
@@ -147,28 +136,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-17T22:30:36.424531+00:00",
-      "score": 8.6
+      "timestamp": "2026-08-17T23:32:56.229662+00:00",
+      "score": 8.9
     },
     {
-      "timestamp": "2026-08-17T23:28:08.386344+00:00",
+      "timestamp": "2026-08-18T00:32:52.113134+00:00",
+      "score": 8.4
+    },
+    {
+      "timestamp": "2026-08-18T01:32:47.996606+00:00",
       "score": 8.0
     },
     {
-      "timestamp": "2026-08-18T00:25:40.348157+00:00",
-      "score": 7.5
+      "timestamp": "2026-08-18T02:32:43.880078+00:00",
+      "score": 7.6
     },
     {
-      "timestamp": "2026-08-18T01:23:12.309970+00:00",
-      "score": 7.0
+      "timestamp": "2026-08-18T03:32:39.763550+00:00",
+      "score": 7.1
     },
     {
-      "timestamp": "2026-08-18T02:20:44.271783+00:00",
-      "score": 6.5
-    },
-    {
-      "timestamp": "2026-08-18T03:18:16.233596+00:00",
-      "score": 5.9
+      "timestamp": "2026-08-18T04:32:35.647022+00:00",
+      "score": 6.7
     }
   ]
 }
