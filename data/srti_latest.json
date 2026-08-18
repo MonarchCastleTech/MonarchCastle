@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-18T15:39:05.239749+00:00",
+  "fetched_at": "2026-08-18T16:40:39.437092+00:00",
   "window_hours": 72,
-  "score": 18.5,
+  "score": 18.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 10.8,
-    "civilian_risk": 65.5
+    "conflict_intensity": 10.7,
+    "civilian_risk": 64.8
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -64,8 +64,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10
+      "status": "unreachable",
+      "items": 0
     },
     {
       "name": "France 24 - Africa",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
       "source": "France 24 - Africa",
       "published_at": "2026-08-18T10:02:18+00:00",
-      "score": 2.07,
+      "score": 2.03,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-18T15:39:05.239749+00:00",
+      "published_at": "2026-08-18T16:40:39.437092+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "link": "https://allafrica.com/stories/202608180011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-18T04:37:12+00:00",
-      "score": 0.91,
+      "score": 0.9,
       "tags": [
         "civilian_risk"
       ],
@@ -144,7 +144,7 @@
       "link": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
       "source": "France 24 - Africa",
       "published_at": "2026-08-17T12:31:03+00:00",
-      "score": 0.79,
+      "score": 0.77,
       "tags": [
         "civilian_risk"
       ],
@@ -169,28 +169,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-18T16:36:01.113264+00:00",
-      "score": 16.5
+      "timestamp": "2026-08-18T17:42:13.634435+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-08-18T17:32:56.986779+00:00",
-      "score": 16.8
+      "timestamp": "2026-08-18T18:43:47.831778+00:00",
+      "score": 17.8
     },
     {
-      "timestamp": "2026-08-18T18:29:52.860294+00:00",
-      "score": 17.1
+      "timestamp": "2026-08-18T19:45:22.029121+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-08-18T19:26:48.733809+00:00",
-      "score": 17.4
+      "timestamp": "2026-08-18T20:46:56.226464+00:00",
+      "score": 18.5
     },
     {
-      "timestamp": "2026-08-18T20:23:44.607324+00:00",
-      "score": 17.6
+      "timestamp": "2026-08-18T21:48:30.423807+00:00",
+      "score": 18.8
     },
     {
-      "timestamp": "2026-08-18T21:20:40.480839+00:00",
-      "score": 17.9
+      "timestamp": "2026-08-18T22:50:04.621150+00:00",
+      "score": 19.1
     }
   ]
 }
