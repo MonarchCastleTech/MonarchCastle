@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-18T08:47:46.114837+00:00",
+  "fetched_at": "2026-08-18T09:41:31.837466+00:00",
   "window_hours": 72,
-  "score": 10.7,
+  "score": 10.6,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 53.5
+    "civilian_risk": 52.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-18T08:47:46.114837+00:00",
+      "published_at": "2026-08-18T09:41:31.837466+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "link": "https://allafrica.com/stories/202608180011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-18T04:37:12+00:00",
-      "score": 1.02,
+      "score": 1.0,
       "tags": [
         "civilian_risk"
       ],
@@ -130,7 +130,7 @@
       "link": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
       "source": "France 24 - Africa",
       "published_at": "2026-08-17T12:31:03+00:00",
-      "score": 0.91,
+      "score": 0.89,
       "tags": [
         "civilian_risk"
       ],
@@ -143,7 +143,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.46,
+      "score": 0.45,
       "tags": [
         "civilian_risk"
       ],
@@ -155,28 +155,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-18T09:49:04.171763+00:00",
-      "score": 9.7
-    },
-    {
-      "timestamp": "2026-08-18T10:50:22.228689+00:00",
+      "timestamp": "2026-08-18T10:35:17.560095+00:00",
       "score": 9.6
     },
     {
-      "timestamp": "2026-08-18T11:51:40.285615+00:00",
-      "score": 9.4
+      "timestamp": "2026-08-18T11:29:03.282724+00:00",
+      "score": 9.5
     },
     {
-      "timestamp": "2026-08-18T12:52:58.342541+00:00",
+      "timestamp": "2026-08-18T12:22:49.005353+00:00",
       "score": 9.3
     },
     {
-      "timestamp": "2026-08-18T13:54:16.399467+00:00",
+      "timestamp": "2026-08-18T13:16:34.727982+00:00",
       "score": 9.2
     },
     {
-      "timestamp": "2026-08-18T14:55:34.456393+00:00",
+      "timestamp": "2026-08-18T14:10:20.450611+00:00",
       "score": 9.1
+    },
+    {
+      "timestamp": "2026-08-18T15:04:06.173240+00:00",
+      "score": 8.9
     }
   ]
 }
