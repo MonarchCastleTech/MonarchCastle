@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-18T14:42:09.366234+00:00",
+  "fetched_at": "2026-08-18T15:39:05.239749+00:00",
   "window_hours": 72,
-  "score": 18.7,
+  "score": 18.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 11.0,
-    "civilian_risk": 66.2
+    "conflict_intensity": 10.8,
+    "civilian_risk": 65.5
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "Somali army repels troups loyal to ousted leader and Islamist insurgents",
+      "title": "Somali army repels troops loyal to ousted leader and Islamist insurgents",
       "link": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
       "source": "France 24 - Africa",
       "published_at": "2026-08-18T10:02:18+00:00",
-      "score": 2.09,
+      "score": 2.07,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-18T14:42:09.366234+00:00",
+      "published_at": "2026-08-18T15:39:05.239749+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "link": "https://allafrica.com/stories/202608180011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-18T04:37:12+00:00",
-      "score": 0.93,
+      "score": 0.91,
       "tags": [
         "civilian_risk"
       ],
@@ -144,7 +144,7 @@
       "link": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
       "source": "France 24 - Africa",
       "published_at": "2026-08-17T12:31:03+00:00",
-      "score": 0.8,
+      "score": 0.79,
       "tags": [
         "civilian_risk"
       ],
@@ -169,28 +169,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-18T15:34:38.735746+00:00",
-      "score": 15.5
+      "timestamp": "2026-08-18T16:36:01.113264+00:00",
+      "score": 16.5
     },
     {
-      "timestamp": "2026-08-18T16:27:08.105258+00:00",
-      "score": 15.7
+      "timestamp": "2026-08-18T17:32:56.986779+00:00",
+      "score": 16.8
     },
     {
-      "timestamp": "2026-08-18T17:19:37.474770+00:00",
-      "score": 15.9
+      "timestamp": "2026-08-18T18:29:52.860294+00:00",
+      "score": 17.1
     },
     {
-      "timestamp": "2026-08-18T18:12:06.844282+00:00",
-      "score": 16.2
+      "timestamp": "2026-08-18T19:26:48.733809+00:00",
+      "score": 17.4
     },
     {
-      "timestamp": "2026-08-18T19:04:36.213794+00:00",
-      "score": 16.4
+      "timestamp": "2026-08-18T20:23:44.607324+00:00",
+      "score": 17.6
     },
     {
-      "timestamp": "2026-08-18T19:57:05.583306+00:00",
-      "score": 16.6
+      "timestamp": "2026-08-18T21:20:40.480839+00:00",
+      "score": 17.9
     }
   ]
 }
