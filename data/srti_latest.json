@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-18T13:00:58.100555+00:00",
+  "fetched_at": "2026-08-18T13:49:39.996722+00:00",
   "window_hours": 72,
-  "score": 19.2,
+  "score": 18.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 11.3,
-    "civilian_risk": 67.6
+    "conflict_intensity": 11.1,
+    "civilian_risk": 66.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 57
+      "items": 59
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
       "source": "France 24 - Africa",
       "published_at": "2026-08-18T10:02:18+00:00",
-      "score": 2.15,
+      "score": 2.12,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-18T13:00:58.100555+00:00",
+      "published_at": "2026-08-18T13:49:39.996722+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "link": "https://allafrica.com/stories/202608180011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-18T04:37:12+00:00",
-      "score": 0.95,
+      "score": 0.94,
       "tags": [
         "civilian_risk"
       ],
@@ -144,7 +144,7 @@
       "link": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
       "source": "France 24 - Africa",
       "published_at": "2026-08-17T12:31:03+00:00",
-      "score": 0.83,
+      "score": 0.82,
       "tags": [
         "civilian_risk"
       ],
@@ -157,7 +157,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.4,
+      "score": 0.39,
       "tags": [
         "civilian_risk"
       ],
@@ -169,28 +169,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-18T14:28:47.910041+00:00",
-      "score": 13.2
+      "timestamp": "2026-08-18T14:38:21.892889+00:00",
+      "score": 14.4
     },
     {
-      "timestamp": "2026-08-18T15:56:37.719527+00:00",
-      "score": 13.2
+      "timestamp": "2026-08-18T15:27:03.789056+00:00",
+      "score": 14.5
     },
     {
-      "timestamp": "2026-08-18T17:24:27.529013+00:00",
-      "score": 13.3
+      "timestamp": "2026-08-18T16:15:45.685223+00:00",
+      "score": 14.7
     },
     {
-      "timestamp": "2026-08-18T18:52:17.338499+00:00",
-      "score": 13.4
+      "timestamp": "2026-08-18T17:04:27.581390+00:00",
+      "score": 14.8
     },
     {
-      "timestamp": "2026-08-18T20:20:07.147985+00:00",
-      "score": 13.4
+      "timestamp": "2026-08-18T17:53:09.477557+00:00",
+      "score": 15.0
     },
     {
-      "timestamp": "2026-08-18T21:47:56.957471+00:00",
-      "score": 13.5
+      "timestamp": "2026-08-18T18:41:51.373724+00:00",
+      "score": 15.1
     }
   ]
 }
