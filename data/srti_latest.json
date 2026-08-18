@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-18T04:44:06.204211+00:00",
+  "fetched_at": "2026-08-18T05:36:53.922506+00:00",
   "window_hours": 72,
-  "score": 8.2,
+  "score": 11.1,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 41.1
+    "civilian_risk": 55.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -77,7 +77,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 16
+      "items": 17
     },
     {
       "name": "AllAfrica - Niger",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-18T04:44:06.204211+00:00",
+      "published_at": "2026-08-18T05:36:53.922506+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -107,11 +107,30 @@
       ]
     },
     {
+      "title": "The Coup Costs More Than the Corruption It Claims to Fix",
+      "link": "https://allafrica.com/stories/202608180011.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-08-18T04:37:12+00:00",
+      "score": 1.07,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "niger",
+        "burkina",
+        "burkina faso",
+        "bamako",
+        "niamey",
+        "ouagadougou"
+      ]
+    },
+    {
       "title": "Prominent Mali journalist, influencer jailed for seven years for criticising junta",
       "link": "https://www.france24.com/en/africa/20260817-prominent-mali-journalist-influencer-jailed-for-seven-years-for-criticising-junta",
       "source": "France 24 - Africa",
       "published_at": "2026-08-17T12:31:03+00:00",
-      "score": 0.98,
+      "score": 0.96,
       "tags": [
         "civilian_risk"
       ],
@@ -124,7 +143,7 @@
       "link": "https://allafrica.com/stories/202608160005.html",
       "source": "AllAfrica - Niger",
       "published_at": "2026-08-16T15:29:50+00:00",
-      "score": 0.52,
+      "score": 0.51,
       "tags": [
         "civilian_risk"
       ],
@@ -136,27 +155,27 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-18T05:35:06.835675+00:00",
+      "timestamp": "2026-08-18T06:29:41.640801+00:00",
       "score": 9.9
     },
     {
-      "timestamp": "2026-08-18T06:26:07.467139+00:00",
-      "score": 9.8
+      "timestamp": "2026-08-18T07:22:29.359096+00:00",
+      "score": 9.7
     },
     {
-      "timestamp": "2026-08-18T07:17:08.098603+00:00",
+      "timestamp": "2026-08-18T08:15:17.077391+00:00",
       "score": 9.6
     },
     {
-      "timestamp": "2026-08-18T08:08:08.730067+00:00",
+      "timestamp": "2026-08-18T09:08:04.795686+00:00",
       "score": 9.5
     },
     {
-      "timestamp": "2026-08-18T08:59:09.361531+00:00",
+      "timestamp": "2026-08-18T10:00:52.513981+00:00",
       "score": 9.4
     },
     {
-      "timestamp": "2026-08-18T09:50:09.992995+00:00",
+      "timestamp": "2026-08-18T10:53:40.232276+00:00",
       "score": 9.3
     }
   ]
