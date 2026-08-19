@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-19T13:51:22.493234+00:00",
+  "fetched_at": "2026-08-19T14:43:27.832305+00:00",
   "window_hours": 72,
-  "score": 17.8,
-  "risk_level": "LOW",
+  "score": 20.3,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 20.7,
-    "civilian_risk": 37.2
+    "conflict_intensity": 20.5,
+    "civilian_risk": 50.2
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 6,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73
+      "items": 75
     },
     {
       "name": "ActuNiger",
@@ -76,20 +76,20 @@
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 17
     },
     {
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 8
     },
     {
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
-      "status": "unreachable",
-      "items": 0
+      "status": "ok",
+      "items": 12
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-19T13:51:22.493234+00:00",
+      "published_at": "2026-08-19T14:43:27.832305+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "link": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
       "source": "France 24 - Africa",
       "published_at": "2026-08-18T10:02:18+00:00",
-      "score": 1.37,
+      "score": 1.35,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -124,13 +124,32 @@
       "title": "Mali : A peine lib\u00e9r\u00e9s, les 82 militaires disent \u00eatre pr\u00eats \u00e0 retourner au front",
       "link": "https://lefaso.net/spip.php?article148682",
       "source": "LeFaso",
-      "published_at": "2026-08-19T13:51:22.493234+00:00",
+      "published_at": "2026-08-19T14:43:27.832305+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "mali"
+      ]
+    },
+    {
+      "title": "The Coup Costs More Than the Corruption It Claims to Fix",
+      "link": "https://allafrica.com/stories/202608180011.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-08-18T04:37:12+00:00",
+      "score": 0.57,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "mali",
+        "niger",
+        "burkina",
+        "burkina faso",
+        "bamako",
+        "niamey",
+        "ouagadougou"
       ]
     },
     {
@@ -145,32 +164,46 @@
       "regions": [
         "mali"
       ]
+    },
+    {
+      "title": "U.S. Missionary Kidnapped in Niger Freed After More Than Nine Months",
+      "link": "https://allafrica.com/stories/202608160005.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-08-16T15:29:50+00:00",
+      "score": 0.38,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-19T14:40:51.925328+00:00",
-      "score": 21.7
+      "timestamp": "2026-08-19T15:35:33.171376+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-08-19T15:30:21.357422+00:00",
-      "score": 21.7
+      "timestamp": "2026-08-19T16:27:38.510447+00:00",
+      "score": 21.2
     },
     {
-      "timestamp": "2026-08-19T16:19:50.789516+00:00",
-      "score": 21.7
+      "timestamp": "2026-08-19T17:19:43.849518+00:00",
+      "score": 21.1
     },
     {
-      "timestamp": "2026-08-19T17:09:20.221610+00:00",
-      "score": 21.7
+      "timestamp": "2026-08-19T18:11:49.188589+00:00",
+      "score": 21.1
     },
     {
-      "timestamp": "2026-08-19T17:58:49.653704+00:00",
-      "score": 21.7
+      "timestamp": "2026-08-19T19:03:54.527660+00:00",
+      "score": 21.1
     },
     {
-      "timestamp": "2026-08-19T18:48:19.085798+00:00",
-      "score": 21.7
+      "timestamp": "2026-08-19T19:55:59.866731+00:00",
+      "score": 21.0
     }
   ]
 }
