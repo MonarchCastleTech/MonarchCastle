@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-19T15:38:53.318025+00:00",
+  "fetched_at": "2026-08-19T16:39:51.002927+00:00",
   "window_hours": 72,
-  "score": 19.1,
+  "score": 18.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 20.4,
-    "civilian_risk": 44.5
+    "conflict_intensity": 20.2,
+    "civilian_risk": 44.0
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 50
+      "items": 43
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Boxe : Le Percuteur, \u00ab l'arme fatale \u00bb du Burkina sur le ring",
       "link": "https://lefaso.net/spip.php?article148643",
       "source": "LeFaso",
-      "published_at": "2026-08-19T15:38:53.318025+00:00",
+      "published_at": "2026-08-19T16:39:51.002927+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -111,7 +111,7 @@
       "link": "https://www.france24.com/en/somali-army-repels-troups-loyal-to-ousted-leader-and-islamist-insurgents",
       "source": "France 24 - Africa",
       "published_at": "2026-08-18T10:02:18+00:00",
-      "score": 1.32,
+      "score": 1.29,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -124,7 +124,7 @@
       "title": "Mali : A peine lib\u00e9r\u00e9s, les 82 militaires disent \u00eatre pr\u00eats \u00e0 retourner au front",
       "link": "https://lefaso.net/spip.php?article148682",
       "source": "LeFaso",
-      "published_at": "2026-08-19T15:38:53.318025+00:00",
+      "published_at": "2026-08-19T16:39:51.002927+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -138,7 +138,7 @@
       "link": "https://allafrica.com/stories/202608180011.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-18T04:37:12+00:00",
-      "score": 0.55,
+      "score": 0.54,
       "tags": [
         "civilian_risk"
       ],
@@ -168,28 +168,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-19T16:34:18.803745+00:00",
-      "score": 20.5
+      "timestamp": "2026-08-19T17:40:48.687829+00:00",
+      "score": 19.8
     },
     {
-      "timestamp": "2026-08-19T17:29:44.289465+00:00",
-      "score": 20.4
+      "timestamp": "2026-08-19T18:41:46.372731+00:00",
+      "score": 19.6
     },
     {
-      "timestamp": "2026-08-19T18:25:09.775185+00:00",
-      "score": 20.3
+      "timestamp": "2026-08-19T19:42:44.057633+00:00",
+      "score": 19.5
     },
     {
-      "timestamp": "2026-08-19T19:20:35.260905+00:00",
-      "score": 20.2
+      "timestamp": "2026-08-19T20:43:41.742535+00:00",
+      "score": 19.3
     },
     {
-      "timestamp": "2026-08-19T20:16:00.746625+00:00",
-      "score": 20.1
+      "timestamp": "2026-08-19T21:44:39.427437+00:00",
+      "score": 19.2
     },
     {
-      "timestamp": "2026-08-19T21:11:26.232345+00:00",
-      "score": 20.0
+      "timestamp": "2026-08-19T22:45:37.112339+00:00",
+      "score": 19.0
     }
   ]
 }
