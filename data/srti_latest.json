@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-20T14:44:53.273309+00:00",
+  "fetched_at": "2026-08-20T15:41:08.420558+00:00",
   "window_hours": 72,
-  "score": 30.1,
+  "score": 29.9,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 39.8,
-    "civilian_risk": 51.0
+    "conflict_intensity": 39.6,
+    "civilian_risk": 50.4
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -98,7 +98,7 @@
       "link": "https://allafrica.com/stories/202608200131.html",
       "source": "AllAfrica - Mali",
       "published_at": "2026-08-20T05:29:29+00:00",
-      "score": 3.56,
+      "score": 3.5,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -109,7 +109,7 @@
       "title": "Burkina : La gendarmerie saisit \u00e0 Ouessa plus de 42 tonnes d'engrais et 1,2 tonne de pesticides non homologu\u00e9s",
       "link": "https://lefaso.net/spip.php?article148705",
       "source": "LeFaso",
-      "published_at": "2026-08-20T14:44:53.273309+00:00",
+      "published_at": "2026-08-20T15:41:08.420558+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -122,7 +122,7 @@
       "title": "Mali : A peine lib\u00e9r\u00e9s, les 82 militaires disent \u00eatre pr\u00eats \u00e0 retourner au front",
       "link": "https://lefaso.net/spip.php?article148682",
       "source": "LeFaso",
-      "published_at": "2026-08-20T14:44:53.273309+00:00",
+      "published_at": "2026-08-20T15:41:08.420558+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -167,28 +167,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-20T15:34:53.356872+00:00",
-      "score": 33.9
+      "timestamp": "2026-08-20T16:37:23.567807+00:00",
+      "score": 34.3
     },
     {
-      "timestamp": "2026-08-20T16:24:53.440435+00:00",
-      "score": 34.6
+      "timestamp": "2026-08-20T17:33:38.715056+00:00",
+      "score": 35.0
     },
     {
-      "timestamp": "2026-08-20T17:14:53.523998+00:00",
-      "score": 35.3
+      "timestamp": "2026-08-20T18:29:53.862305+00:00",
+      "score": 35.7
     },
     {
-      "timestamp": "2026-08-20T18:04:53.607561+00:00",
-      "score": 36.1
+      "timestamp": "2026-08-20T19:26:09.009554+00:00",
+      "score": 36.4
     },
     {
-      "timestamp": "2026-08-20T18:54:53.691124+00:00",
-      "score": 36.8
+      "timestamp": "2026-08-20T20:22:24.156803+00:00",
+      "score": 37.1
     },
     {
-      "timestamp": "2026-08-20T19:44:53.774687+00:00",
-      "score": 37.5
+      "timestamp": "2026-08-20T21:18:39.304052+00:00",
+      "score": 37.8
     }
   ]
 }
