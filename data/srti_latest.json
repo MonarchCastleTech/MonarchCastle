@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-22T03:50:03.826220+00:00",
+  "fetched_at": "2026-08-22T04:40:59.339288+00:00",
   "window_hours": 72,
-  "score": 47.9,
+  "score": 41.1,
   "risk_level": "ELEVATED",
   "components": {
-    "conflict_intensity": 65.2,
-    "civilian_risk": 76.6
+    "conflict_intensity": 51.6,
+    "civilian_risk": 76.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 9,
+  "items_count": 8,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 85
+      "items": 74
     },
     {
       "name": "ActuNiger",
@@ -94,22 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Russia's 'Africa Corps' Massacres Villagers",
-      "link": "https://allafrica.com/stories/202608200131.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-08-20T05:29:29+00:00",
-      "score": 1.45,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": []
-    },
-    {
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-22T03:50:03.826220+00:00",
+      "published_at": "2026-08-22T04:40:59.339288+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -122,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : Pr\u00e8s de 2000 campeurs \u00e0 l'\u00e9cole de la discipline",
       "link": "https://lefaso.net/spip.php?article148733",
       "source": "LeFaso",
-      "published_at": "2026-08-22T03:50:03.826220+00:00",
+      "published_at": "2026-08-22T04:40:59.339288+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -133,7 +121,7 @@
       "title": "Camp vacances Faso M\u00eabo : Sous la pluie, les campeurs r\u00e9affirment leur engagement pour le Burkina",
       "link": "https://lefaso.net/spip.php?article148732",
       "source": "LeFaso",
-      "published_at": "2026-08-22T03:50:03.826220+00:00",
+      "published_at": "2026-08-22T04:40:59.339288+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -143,10 +131,22 @@
       ]
     },
     {
+      "title": "Russia's 'Africa Corps' Massacres Villagers",
+      "link": "https://allafrica.com/stories/202608200131.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-08-20T05:29:29+00:00",
+      "score": 1.43,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": []
+    },
+    {
       "title": "Burkina : L'op\u00e9ration \u00ab Z\u00e9ro poulailler vide \u00bb lanc\u00e9e au profit de 500 aviculteurs",
       "link": "https://lefaso.net/spip.php?article148746",
       "source": "LeFaso",
-      "published_at": "2026-08-22T03:50:03.826220+00:00",
+      "published_at": "2026-08-22T04:40:59.339288+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +159,7 @@
       "title": "Burkina/Lutte contre la contrebande : Plus de 43 tonnes d'intrants agricoles saisies dans la r\u00e9gion du Dj\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148726",
       "source": "LeFaso",
-      "published_at": "2026-08-22T03:50:03.826220+00:00",
+      "published_at": "2026-08-22T04:40:59.339288+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -172,7 +172,7 @@
       "title": "Burkina : La gendarmerie saisit \u00e0 Ouessa plus de 42 tonnes d'engrais et 1,2 tonne de pesticides non homologu\u00e9s",
       "link": "https://lefaso.net/spip.php?article148705",
       "source": "LeFaso",
-      "published_at": "2026-08-22T03:50:03.826220+00:00",
+      "published_at": "2026-08-22T04:40:59.339288+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -182,11 +182,11 @@
       ]
     },
     {
-      "title": "Mali : A peine lib\u00e9r\u00e9s, les 82 militaires disent \u00eatre pr\u00eats \u00e0 retourner au front",
-      "link": "https://lefaso.net/spip.php?article148682",
-      "source": "LeFaso",
-      "published_at": "2026-08-22T03:50:03.826220+00:00",
-      "score": 1.12,
+      "title": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
+      "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
+      "source": "UN News Africa",
+      "published_at": "2026-08-21T12:00:00+00:00",
+      "score": 0.65,
       "tags": [
         "conflict_intensity"
       ],
@@ -197,28 +197,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-22T04:38:20.565865+00:00",
-      "score": 45.0
+      "timestamp": "2026-08-22T05:31:54.852356+00:00",
+      "score": 45.3
     },
     {
-      "timestamp": "2026-08-22T05:26:37.305510+00:00",
-      "score": 45.5
+      "timestamp": "2026-08-22T06:22:50.365424+00:00",
+      "score": 45.9
     },
     {
-      "timestamp": "2026-08-22T06:14:54.045155+00:00",
-      "score": 46.1
+      "timestamp": "2026-08-22T07:13:45.878492+00:00",
+      "score": 46.4
     },
     {
-      "timestamp": "2026-08-22T07:03:10.784800+00:00",
-      "score": 46.6
+      "timestamp": "2026-08-22T08:04:41.391560+00:00",
+      "score": 47.0
     },
     {
-      "timestamp": "2026-08-22T07:51:27.524445+00:00",
-      "score": 47.1
+      "timestamp": "2026-08-22T08:55:36.904628+00:00",
+      "score": 47.5
     },
     {
-      "timestamp": "2026-08-22T08:39:44.264090+00:00",
-      "score": 47.7
+      "timestamp": "2026-08-22T09:46:32.417696+00:00",
+      "score": 48.1
     }
   ]
 }
