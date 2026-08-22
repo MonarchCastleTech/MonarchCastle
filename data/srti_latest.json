@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-22T20:32:27.777403+00:00",
+  "fetched_at": "2026-08-22T21:29:32.654352+00:00",
   "window_hours": 72,
-  "score": 40.0,
-  "risk_level": "ELEVATED",
+  "score": 33.2,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 49.4,
+    "conflict_intensity": 35.8,
     "civilian_risk": 76.4
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 8,
+  "items_count": 7,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 66
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -97,7 +97,7 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-22T20:32:27.777403+00:00",
+      "published_at": "2026-08-22T21:29:32.654352+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : Pr\u00e8s de 2000 campeurs \u00e0 l'\u00e9cole de la discipline",
       "link": "https://lefaso.net/spip.php?article148733",
       "source": "LeFaso",
-      "published_at": "2026-08-22T20:32:27.777403+00:00",
+      "published_at": "2026-08-22T21:29:32.654352+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Camp vacances Faso M\u00eabo : Sous la pluie, les campeurs r\u00e9affirment leur engagement pour le Burkina",
       "link": "https://lefaso.net/spip.php?article148732",
       "source": "LeFaso",
-      "published_at": "2026-08-22T20:32:27.777403+00:00",
+      "published_at": "2026-08-22T21:29:32.654352+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -146,7 +146,7 @@
       "title": "Burkina : L'op\u00e9ration \u00ab Z\u00e9ro poulailler vide \u00bb lanc\u00e9e au profit de 500 aviculteurs",
       "link": "https://lefaso.net/spip.php?article148746",
       "source": "LeFaso",
-      "published_at": "2026-08-22T20:32:27.777403+00:00",
+      "published_at": "2026-08-22T21:29:32.654352+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,20 +159,7 @@
       "title": "Burkina/Lutte contre la contrebande : Plus de 43 tonnes d'intrants agricoles saisies dans la r\u00e9gion du Dj\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148726",
       "source": "LeFaso",
-      "published_at": "2026-08-22T20:32:27.777403+00:00",
-      "score": 1.12,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina"
-      ]
-    },
-    {
-      "title": "Burkina : La gendarmerie saisit \u00e0 Ouessa plus de 42 tonnes d'engrais et 1,2 tonne de pesticides non homologu\u00e9s",
-      "link": "https://lefaso.net/spip.php?article148705",
-      "source": "LeFaso",
-      "published_at": "2026-08-22T20:32:27.777403+00:00",
+      "published_at": "2026-08-22T21:29:32.654352+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -186,7 +173,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
       "source": "UN News Africa",
       "published_at": "2026-08-21T12:00:00+00:00",
-      "score": 0.46,
+      "score": 0.45,
       "tags": [
         "conflict_intensity"
       ],
@@ -197,28 +184,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-22T21:36:09.421271+00:00",
-      "score": 40.5
+      "timestamp": "2026-08-22T22:26:37.531301+00:00",
+      "score": 39.4
     },
     {
-      "timestamp": "2026-08-22T22:39:51.065139+00:00",
-      "score": 40.5
+      "timestamp": "2026-08-22T23:23:42.408250+00:00",
+      "score": 39.3
     },
     {
-      "timestamp": "2026-08-22T23:43:32.709007+00:00",
-      "score": 40.4
+      "timestamp": "2026-08-23T00:20:47.285199+00:00",
+      "score": 39.2
     },
     {
-      "timestamp": "2026-08-23T00:47:14.352875+00:00",
-      "score": 40.4
+      "timestamp": "2026-08-23T01:17:52.162148+00:00",
+      "score": 39.1
     },
     {
-      "timestamp": "2026-08-23T01:50:55.996743+00:00",
-      "score": 40.3
+      "timestamp": "2026-08-23T02:14:57.039097+00:00",
+      "score": 39.0
     },
     {
-      "timestamp": "2026-08-23T02:54:37.640611+00:00",
-      "score": 40.3
+      "timestamp": "2026-08-23T03:12:01.916046+00:00",
+      "score": 38.9
     }
   ]
 }
