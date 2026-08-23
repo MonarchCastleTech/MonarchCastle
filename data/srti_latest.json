@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T15:30:32.590110+00:00",
+  "fetched_at": "2026-08-23T16:35:14.935568+00:00",
   "window_hours": 72,
   "score": 27.3,
   "risk_level": "GUARDED",
@@ -97,7 +97,7 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-23T15:30:32.590110+00:00",
+      "published_at": "2026-08-23T16:35:14.935568+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : Pr\u00e8s de 2000 campeurs \u00e0 l'\u00e9cole de la discipline",
       "link": "https://lefaso.net/spip.php?article148733",
       "source": "LeFaso",
-      "published_at": "2026-08-23T15:30:32.590110+00:00",
+      "published_at": "2026-08-23T16:35:14.935568+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Camp vacances Faso M\u00eabo : Sous la pluie, les campeurs r\u00e9affirment leur engagement pour le Burkina",
       "link": "https://lefaso.net/spip.php?article148732",
       "source": "LeFaso",
-      "published_at": "2026-08-23T15:30:32.590110+00:00",
+      "published_at": "2026-08-23T16:35:14.935568+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -134,7 +134,7 @@
       "title": "Burkina : L'op\u00e9ration \u00ab Z\u00e9ro poulailler vide \u00bb lanc\u00e9e au profit de 500 aviculteurs",
       "link": "https://lefaso.net/spip.php?article148746",
       "source": "LeFaso",
-      "published_at": "2026-08-23T15:30:32.590110+00:00",
+      "published_at": "2026-08-23T16:35:14.935568+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -147,7 +147,7 @@
       "title": "Burkina/Lutte contre la contrebande : Plus de 43 tonnes d'intrants agricoles saisies dans la r\u00e9gion du Dj\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148726",
       "source": "LeFaso",
-      "published_at": "2026-08-23T15:30:32.590110+00:00",
+      "published_at": "2026-08-23T16:35:14.935568+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -172,28 +172,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-23T16:29:26.030016+00:00",
-      "score": 23.5
+      "timestamp": "2026-08-23T17:39:57.281026+00:00",
+      "score": 23.3
     },
     {
-      "timestamp": "2026-08-23T17:28:19.469922+00:00",
-      "score": 22.7
+      "timestamp": "2026-08-23T18:44:39.626484+00:00",
+      "score": 22.6
     },
     {
-      "timestamp": "2026-08-23T18:27:12.909828+00:00",
-      "score": 22.0
+      "timestamp": "2026-08-23T19:49:21.971942+00:00",
+      "score": 21.9
     },
     {
-      "timestamp": "2026-08-23T19:26:06.349734+00:00",
+      "timestamp": "2026-08-23T20:54:04.317400+00:00",
       "score": 21.3
     },
     {
-      "timestamp": "2026-08-23T20:24:59.789640+00:00",
+      "timestamp": "2026-08-23T21:58:46.662858+00:00",
       "score": 20.6
     },
     {
-      "timestamp": "2026-08-23T21:23:53.229546+00:00",
-      "score": 19.8
+      "timestamp": "2026-08-23T23:03:29.008316+00:00",
+      "score": 19.9
     }
   ]
 }
