@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-23T01:53:12.801543+00:00",
+  "fetched_at": "2026-08-23T03:10:46.895952+00:00",
   "window_hours": 72,
-  "score": 32.9,
+  "score": 32.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.2,
+    "conflict_intensity": 35.0,
     "civilian_risk": 76.4
   },
   "weights": {
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 12
+      "items": 11
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-23T01:53:12.801543+00:00",
+      "published_at": "2026-08-23T03:10:46.895952+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -110,7 +110,7 @@
       "title": "Camp vacances Faso M\u00eabo : Pr\u00e8s de 2000 campeurs \u00e0 l'\u00e9cole de la discipline",
       "link": "https://lefaso.net/spip.php?article148733",
       "source": "LeFaso",
-      "published_at": "2026-08-23T01:53:12.801543+00:00",
+      "published_at": "2026-08-23T03:10:46.895952+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,7 +121,7 @@
       "title": "Camp vacances Faso M\u00eabo : Sous la pluie, les campeurs r\u00e9affirment leur engagement pour le Burkina",
       "link": "https://lefaso.net/spip.php?article148732",
       "source": "LeFaso",
-      "published_at": "2026-08-23T01:53:12.801543+00:00",
+      "published_at": "2026-08-23T03:10:46.895952+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -146,7 +146,7 @@
       "title": "Burkina : L'op\u00e9ration \u00ab Z\u00e9ro poulailler vide \u00bb lanc\u00e9e au profit de 500 aviculteurs",
       "link": "https://lefaso.net/spip.php?article148746",
       "source": "LeFaso",
-      "published_at": "2026-08-23T01:53:12.801543+00:00",
+      "published_at": "2026-08-23T03:10:46.895952+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -159,7 +159,7 @@
       "title": "Burkina/Lutte contre la contrebande : Plus de 43 tonnes d'intrants agricoles saisies dans la r\u00e9gion du Dj\u00f4r\u00f4",
       "link": "https://lefaso.net/spip.php?article148726",
       "source": "LeFaso",
-      "published_at": "2026-08-23T01:53:12.801543+00:00",
+      "published_at": "2026-08-23T03:10:46.895952+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -173,7 +173,7 @@
       "link": "https://news.un.org/feed/view/en/story/2026/08/1168184",
       "source": "UN News Africa",
       "published_at": "2026-08-21T12:00:00+00:00",
-      "score": 0.4,
+      "score": 0.38,
       "tags": [
         "conflict_intensity"
       ],
@@ -184,28 +184,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-23T04:17:59.364826+00:00",
-      "score": 34.0
+      "timestamp": "2026-08-23T04:28:20.990361+00:00",
+      "score": 33.6
     },
     {
-      "timestamp": "2026-08-23T06:42:45.928109+00:00",
-      "score": 33.5
-    },
-    {
-      "timestamp": "2026-08-23T09:07:32.491392+00:00",
+      "timestamp": "2026-08-23T05:45:55.084770+00:00",
       "score": 33.1
     },
     {
-      "timestamp": "2026-08-23T11:32:19.054675+00:00",
+      "timestamp": "2026-08-23T07:03:29.179179+00:00",
       "score": 32.6
     },
     {
-      "timestamp": "2026-08-23T13:57:05.617958+00:00",
+      "timestamp": "2026-08-23T08:21:03.273588+00:00",
       "score": 32.1
     },
     {
-      "timestamp": "2026-08-23T16:21:52.181241+00:00",
-      "score": 31.6
+      "timestamp": "2026-08-23T09:38:37.367997+00:00",
+      "score": 31.7
+    },
+    {
+      "timestamp": "2026-08-23T10:56:11.462406+00:00",
+      "score": 31.2
     }
   ]
 }
