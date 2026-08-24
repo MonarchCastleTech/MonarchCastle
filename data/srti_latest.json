@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T01:50:36.414935+00:00",
+  "fetched_at": "2026-08-24T03:11:46.702874+00:00",
   "window_hours": 72,
   "score": 24.6,
   "risk_level": "GUARDED",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 8
+      "items": 5
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -97,7 +97,7 @@
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-24T01:50:36.414935+00:00",
+      "published_at": "2026-08-24T03:11:46.702874+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-24T01:50:36.414935+00:00",
+      "published_at": "2026-08-24T03:11:46.702874+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Camp vacances Faso M\u00eabo : Pr\u00e8s de 2000 campeurs \u00e0 l'\u00e9cole de la discipline",
       "link": "https://lefaso.net/spip.php?article148733",
       "source": "LeFaso",
-      "published_at": "2026-08-24T01:50:36.414935+00:00",
+      "published_at": "2026-08-24T03:11:46.702874+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Camp vacances Faso M\u00eabo : Sous la pluie, les campeurs r\u00e9affirment leur engagement pour le Burkina",
       "link": "https://lefaso.net/spip.php?article148732",
       "source": "LeFaso",
-      "published_at": "2026-08-24T01:50:36.414935+00:00",
+      "published_at": "2026-08-24T03:11:46.702874+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -149,7 +149,7 @@
       "title": "Burkina : L'op\u00e9ration \u00ab Z\u00e9ro poulailler vide \u00bb lanc\u00e9e au profit de 500 aviculteurs",
       "link": "https://lefaso.net/spip.php?article148746",
       "source": "LeFaso",
-      "published_at": "2026-08-24T01:50:36.414935+00:00",
+      "published_at": "2026-08-24T03:11:46.702874+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -174,28 +174,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-24T04:12:25.280726+00:00",
-      "score": 27.4
-    },
-    {
-      "timestamp": "2026-08-24T06:34:14.146517+00:00",
-      "score": 27.2
-    },
-    {
-      "timestamp": "2026-08-24T08:56:03.012308+00:00",
-      "score": 27.1
-    },
-    {
-      "timestamp": "2026-08-24T11:17:51.878099+00:00",
+      "timestamp": "2026-08-24T04:32:56.990813+00:00",
       "score": 27.0
     },
     {
-      "timestamp": "2026-08-24T13:39:40.743890+00:00",
+      "timestamp": "2026-08-24T05:54:07.278752+00:00",
       "score": 26.9
     },
     {
-      "timestamp": "2026-08-24T16:01:29.609681+00:00",
+      "timestamp": "2026-08-24T07:15:17.566691+00:00",
       "score": 26.8
+    },
+    {
+      "timestamp": "2026-08-24T08:36:27.854630+00:00",
+      "score": 26.7
+    },
+    {
+      "timestamp": "2026-08-24T09:57:38.142569+00:00",
+      "score": 26.6
+    },
+    {
+      "timestamp": "2026-08-24T11:18:48.430508+00:00",
+      "score": 26.4
     }
   ]
 }
