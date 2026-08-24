@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T10:45:55.169712+00:00",
+  "fetched_at": "2026-08-24T11:36:24.103343+00:00",
   "window_hours": 72,
   "score": 20.6,
   "risk_level": "GUARDED",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 47
+      "items": 49
     },
     {
       "name": "ActuNiger",
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 35
+      "items": 36
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-24T10:45:55.169712+00:00",
+      "published_at": "2026-08-24T11:36:24.103343+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-24T10:45:55.169712+00:00",
+      "published_at": "2026-08-24T11:36:24.103343+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Camp vacances Faso M\u00eabo : Pr\u00e8s de 2000 campeurs \u00e0 l'\u00e9cole de la discipline",
       "link": "https://lefaso.net/spip.php?article148733",
       "source": "LeFaso",
-      "published_at": "2026-08-24T10:45:55.169712+00:00",
+      "published_at": "2026-08-24T11:36:24.103343+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -136,7 +136,7 @@
       "title": "Burkina : L'op\u00e9ration \u00ab Z\u00e9ro poulailler vide \u00bb lanc\u00e9e au profit de 500 aviculteurs",
       "link": "https://lefaso.net/spip.php?article148746",
       "source": "LeFaso",
-      "published_at": "2026-08-24T10:45:55.169712+00:00",
+      "published_at": "2026-08-24T11:36:24.103343+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -161,28 +161,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-24T11:34:59.493216+00:00",
-      "score": 23.9
-    },
-    {
-      "timestamp": "2026-08-24T12:24:03.816720+00:00",
-      "score": 23.7
-    },
-    {
-      "timestamp": "2026-08-24T13:13:08.140224+00:00",
-      "score": 23.5
-    },
-    {
-      "timestamp": "2026-08-24T14:02:12.463728+00:00",
-      "score": 23.2
-    },
-    {
-      "timestamp": "2026-08-24T14:51:16.787232+00:00",
+      "timestamp": "2026-08-24T12:26:53.036974+00:00",
       "score": 23.0
     },
     {
-      "timestamp": "2026-08-24T15:40:21.110736+00:00",
-      "score": 22.8
+      "timestamp": "2026-08-24T13:17:21.970605+00:00",
+      "score": 22.7
+    },
+    {
+      "timestamp": "2026-08-24T14:07:50.904236+00:00",
+      "score": 22.4
+    },
+    {
+      "timestamp": "2026-08-24T14:58:19.837867+00:00",
+      "score": 22.1
+    },
+    {
+      "timestamp": "2026-08-24T15:48:48.771498+00:00",
+      "score": 21.8
+    },
+    {
+      "timestamp": "2026-08-24T16:39:17.705129+00:00",
+      "score": 21.5
     }
   ]
 }
