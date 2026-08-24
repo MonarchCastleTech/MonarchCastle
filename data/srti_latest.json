@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T16:48:27.726164+00:00",
+  "fetched_at": "2026-08-24T17:37:44.943065+00:00",
   "window_hours": 72,
   "score": 14.8,
   "risk_level": "LOW",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 57
+      "items": 58
     },
     {
       "name": "ActuNiger",
@@ -89,7 +89,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 12
+      "items": 13
     }
   ],
   "top_headlines": [
@@ -97,7 +97,7 @@
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-24T16:48:27.726164+00:00",
+      "published_at": "2026-08-24T17:37:44.943065+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -112,7 +112,7 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-24T16:48:27.726164+00:00",
+      "published_at": "2026-08-24T17:37:44.943065+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,7 +125,7 @@
       "title": "Burkina : L'op\u00e9ration \u00ab Z\u00e9ro poulailler vide \u00bb lanc\u00e9e au profit de 500 aviculteurs",
       "link": "https://lefaso.net/spip.php?article148746",
       "source": "LeFaso",
-      "published_at": "2026-08-24T16:48:27.726164+00:00",
+      "published_at": "2026-08-24T17:37:44.943065+00:00",
       "score": 1.12,
       "tags": [
         "conflict_intensity"
@@ -137,28 +137,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-24T17:48:26.577901+00:00",
-      "score": 16.3
-    },
-    {
-      "timestamp": "2026-08-24T18:48:25.429638+00:00",
-      "score": 15.6
-    },
-    {
-      "timestamp": "2026-08-24T19:48:24.281375+00:00",
+      "timestamp": "2026-08-24T18:27:02.159966+00:00",
       "score": 15.0
     },
     {
-      "timestamp": "2026-08-24T20:48:23.133112+00:00",
-      "score": 14.3
+      "timestamp": "2026-08-24T19:16:19.376867+00:00",
+      "score": 14.2
     },
     {
-      "timestamp": "2026-08-24T21:48:21.984849+00:00",
-      "score": 13.7
+      "timestamp": "2026-08-24T20:05:36.593768+00:00",
+      "score": 13.5
     },
     {
-      "timestamp": "2026-08-24T22:48:20.836586+00:00",
-      "score": 13.0
+      "timestamp": "2026-08-24T20:54:53.810669+00:00",
+      "score": 12.8
+    },
+    {
+      "timestamp": "2026-08-24T21:44:11.027570+00:00",
+      "score": 12.1
+    },
+    {
+      "timestamp": "2026-08-24T22:33:28.244471+00:00",
+      "score": 11.4
     }
   ]
 }
