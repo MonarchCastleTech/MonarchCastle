@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-24T23:28:47.463194+00:00",
+  "fetched_at": "2026-08-25T01:45:16.470694+00:00",
   "window_hours": 72,
-  "score": 11.5,
+  "score": 7.3,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 57.3
+    "civilian_risk": 36.6
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 3,
+  "items_count": 2,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -97,7 +97,7 @@
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-24T23:28:47.463194+00:00",
+      "published_at": "2026-08-25T01:45:16.470694+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -109,24 +109,11 @@
       ]
     },
     {
-      "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
-      "link": "https://lefaso.net/spip.php?article148737",
-      "source": "LeFaso",
-      "published_at": "2026-08-24T23:28:47.463194+00:00",
-      "score": 1.44,
-      "tags": [
-        "civilian_risk"
-      ],
-      "regions": [
-        "mali"
-      ]
-    },
-    {
       "title": "Zambia shuts down court system",
       "link": "https://www.france24.com/en/zambia-shuts-down-court-system",
       "source": "France 24 - Africa",
       "published_at": "2026-08-24T20:58:42+00:00",
-      "score": 1.22,
+      "score": 1.18,
       "tags": [
         "civilian_risk"
       ],
@@ -137,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-25T00:22:00.150281+00:00",
-      "score": 11.1
+      "timestamp": "2026-08-25T04:01:45.478194+00:00",
+      "score": 9.9
     },
     {
-      "timestamp": "2026-08-25T01:15:12.837368+00:00",
-      "score": 10.3
+      "timestamp": "2026-08-25T06:18:14.485694+00:00",
+      "score": 9.1
     },
     {
-      "timestamp": "2026-08-25T02:08:25.524455+00:00",
-      "score": 9.6
+      "timestamp": "2026-08-25T08:34:43.493194+00:00",
+      "score": 8.3
     },
     {
-      "timestamp": "2026-08-25T03:01:38.211542+00:00",
-      "score": 8.8
+      "timestamp": "2026-08-25T10:51:12.500694+00:00",
+      "score": 7.5
     },
     {
-      "timestamp": "2026-08-25T03:54:50.898629+00:00",
-      "score": 8.0
+      "timestamp": "2026-08-25T13:07:41.508194+00:00",
+      "score": 6.8
     },
     {
-      "timestamp": "2026-08-25T04:48:03.585716+00:00",
-      "score": 7.3
+      "timestamp": "2026-08-25T15:24:10.515694+00:00",
+      "score": 6.0
     }
   ]
 }
