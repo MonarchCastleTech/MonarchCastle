@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-25T07:00:55.580106+00:00",
+  "fetched_at": "2026-08-25T07:51:18.918486+00:00",
   "window_hours": 72,
-  "score": 7.1,
+  "score": 7.0,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 35.3
+    "civilian_risk": 35.1
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -97,7 +97,7 @@
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-25T07:00:55.580106+00:00",
+      "published_at": "2026-08-25T07:51:18.918486+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/zambia-shuts-down-court-system",
       "source": "France 24 - Africa",
       "published_at": "2026-08-24T20:58:42+00:00",
-      "score": 1.08,
+      "score": 1.07,
       "tags": [
         "civilian_risk"
       ],
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-25T08:22:43.908842+00:00",
-      "score": 6.2
-    },
-    {
-      "timestamp": "2026-08-25T09:44:32.237578+00:00",
+      "timestamp": "2026-08-25T08:41:42.256866+00:00",
       "score": 5.5
     },
     {
-      "timestamp": "2026-08-25T11:06:20.566314+00:00",
+      "timestamp": "2026-08-25T09:32:05.595246+00:00",
       "score": 4.7
     },
     {
-      "timestamp": "2026-08-25T12:28:08.895050+00:00",
+      "timestamp": "2026-08-25T10:22:28.933626+00:00",
       "score": 3.9
     },
     {
-      "timestamp": "2026-08-25T13:49:57.223786+00:00",
+      "timestamp": "2026-08-25T11:12:52.272006+00:00",
       "score": 3.1
     },
     {
-      "timestamp": "2026-08-25T15:11:45.552522+00:00",
-      "score": 2.3
+      "timestamp": "2026-08-25T12:03:15.610386+00:00",
+      "score": 2.4
+    },
+    {
+      "timestamp": "2026-08-25T12:53:38.948766+00:00",
+      "score": 1.6
     }
   ]
 }
