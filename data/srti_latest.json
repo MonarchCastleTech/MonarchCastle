@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-25T15:52:16.575639+00:00",
+  "fetched_at": "2026-08-25T16:47:48.436243+00:00",
   "window_hours": 72,
   "score": 6.6,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 33.2
+    "civilian_risk": 32.9
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -53,7 +53,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 37
+      "items": 38
     },
     {
       "name": "UN News Africa",
@@ -97,7 +97,7 @@
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-25T15:52:16.575639+00:00",
+      "published_at": "2026-08-25T16:47:48.436243+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -113,7 +113,7 @@
       "link": "https://www.france24.com/en/zambia-shuts-down-court-system",
       "source": "France 24 - Africa",
       "published_at": "2026-08-24T20:58:42+00:00",
-      "score": 0.93,
+      "score": 0.91,
       "tags": [
         "civilian_risk"
       ],
@@ -124,28 +124,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-25T16:49:56.708403+00:00",
-      "score": 4.1
+      "timestamp": "2026-08-25T17:43:20.296847+00:00",
+      "score": 3.9
     },
     {
-      "timestamp": "2026-08-25T17:47:36.841167+00:00",
-      "score": 3.6
+      "timestamp": "2026-08-25T18:38:52.157451+00:00",
+      "score": 3.4
     },
     {
-      "timestamp": "2026-08-25T18:45:16.973931+00:00",
-      "score": 3.1
+      "timestamp": "2026-08-25T19:34:24.018055+00:00",
+      "score": 2.9
     },
     {
-      "timestamp": "2026-08-25T19:42:57.106695+00:00",
-      "score": 2.6
+      "timestamp": "2026-08-25T20:29:55.878659+00:00",
+      "score": 2.4
     },
     {
-      "timestamp": "2026-08-25T20:40:37.239459+00:00",
-      "score": 2.0
+      "timestamp": "2026-08-25T21:25:27.739263+00:00",
+      "score": 1.9
     },
     {
-      "timestamp": "2026-08-25T21:38:17.372223+00:00",
-      "score": 1.5
+      "timestamp": "2026-08-25T22:20:59.599867+00:00",
+      "score": 1.4
     }
   ]
 }
