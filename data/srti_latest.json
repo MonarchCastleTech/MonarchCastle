@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-25T16:47:48.436243+00:00",
+  "fetched_at": "2026-08-25T17:38:13.858588+00:00",
   "window_hours": 72,
-  "score": 6.6,
+  "score": 15.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
-    "civilian_risk": 32.9
+    "conflict_intensity": 11.7,
+    "civilian_risk": 50.3
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 3,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 51
+      "items": 54
     },
     {
       "name": "ActuNiger",
@@ -94,10 +94,24 @@
   ],
   "top_headlines": [
     {
+      "title": "Nigeria\u2019s president orders rescue operation after mass kidnapping at mosque",
+      "link": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
+      "source": "France 24 - Africa",
+      "published_at": "2026-08-25T17:10:23+00:00",
+      "score": 2.23,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-25T16:47:48.436243+00:00",
+      "published_at": "2026-08-25T17:38:13.858588+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -113,7 +127,7 @@
       "link": "https://www.france24.com/en/zambia-shuts-down-court-system",
       "source": "France 24 - Africa",
       "published_at": "2026-08-24T20:58:42+00:00",
-      "score": 0.91,
+      "score": 0.9,
       "tags": [
         "civilian_risk"
       ],
@@ -124,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-25T17:43:20.296847+00:00",
-      "score": 3.9
+      "timestamp": "2026-08-25T18:28:39.280933+00:00",
+      "score": 5.3
     },
     {
-      "timestamp": "2026-08-25T18:38:52.157451+00:00",
+      "timestamp": "2026-08-25T19:19:04.703278+00:00",
+      "score": 4.9
+    },
+    {
+      "timestamp": "2026-08-25T20:09:30.125623+00:00",
+      "score": 4.5
+    },
+    {
+      "timestamp": "2026-08-25T20:59:55.547968+00:00",
+      "score": 4.1
+    },
+    {
+      "timestamp": "2026-08-25T21:50:20.970313+00:00",
+      "score": 3.7
+    },
+    {
+      "timestamp": "2026-08-25T22:40:46.392658+00:00",
       "score": 3.4
-    },
-    {
-      "timestamp": "2026-08-25T19:34:24.018055+00:00",
-      "score": 2.9
-    },
-    {
-      "timestamp": "2026-08-25T20:29:55.878659+00:00",
-      "score": 2.4
-    },
-    {
-      "timestamp": "2026-08-25T21:25:27.739263+00:00",
-      "score": 1.9
-    },
-    {
-      "timestamp": "2026-08-25T22:20:59.599867+00:00",
-      "score": 1.4
     }
   ]
 }
