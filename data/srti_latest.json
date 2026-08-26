@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-26T08:54:23.185317+00:00",
+  "fetched_at": "2026-08-26T09:51:18.318595+00:00",
   "window_hours": 72,
-  "score": 13.2,
+  "score": 13.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 9.2,
-    "civilian_risk": 42.8
+    "conflict_intensity": 9.0,
+    "civilian_risk": 42.3
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 62
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
       "source": "France 24 - Africa",
       "published_at": "2026-08-25T17:10:23+00:00",
-      "score": 1.75,
+      "score": 1.72,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -111,7 +111,7 @@
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-26T08:54:23.185317+00:00",
+      "published_at": "2026-08-26T09:51:18.318595+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -127,7 +127,7 @@
       "link": "https://www.france24.com/en/zambia-shuts-down-court-system",
       "source": "France 24 - Africa",
       "published_at": "2026-08-24T20:58:42+00:00",
-      "score": 0.63,
+      "score": 0.61,
       "tags": [
         "civilian_risk"
       ],
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-26T09:55:28.726384+00:00",
-      "score": 16.6
+      "timestamp": "2026-08-26T10:48:13.451873+00:00",
+      "score": 16.5
     },
     {
-      "timestamp": "2026-08-26T10:56:34.267451+00:00",
-      "score": 17.1
+      "timestamp": "2026-08-26T11:45:08.585151+00:00",
+      "score": 16.9
     },
     {
-      "timestamp": "2026-08-26T11:57:39.808518+00:00",
-      "score": 17.5
+      "timestamp": "2026-08-26T12:42:03.718429+00:00",
+      "score": 17.3
     },
     {
-      "timestamp": "2026-08-26T12:58:45.349585+00:00",
-      "score": 17.9
+      "timestamp": "2026-08-26T13:38:58.851707+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-08-26T13:59:50.890652+00:00",
-      "score": 18.3
+      "timestamp": "2026-08-26T14:35:53.984985+00:00",
+      "score": 18.1
     },
     {
-      "timestamp": "2026-08-26T15:00:56.431719+00:00",
-      "score": 18.8
+      "timestamp": "2026-08-26T15:32:49.118263+00:00",
+      "score": 18.5
     }
   ]
 }
