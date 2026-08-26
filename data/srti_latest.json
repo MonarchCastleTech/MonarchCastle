@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-26T16:24:02.823113+00:00",
+  "fetched_at": "2026-08-26T19:11:33.996360+00:00",
   "window_hours": 72,
-  "score": 11.8,
+  "score": 11.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 8.0,
-    "civilian_risk": 39.1
+    "conflict_intensity": 7.5,
+    "civilian_risk": 37.7
   },
   "weights": {
     "conflict_intensity": 0.5,
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63
+      "items": 64
     },
     {
       "name": "ActuNiger",
@@ -94,24 +94,10 @@
   ],
   "top_headlines": [
     {
-      "title": "Nigeria\u2019s president orders rescue operation after mass kidnapping at mosque",
-      "link": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
-      "source": "France 24 - Africa",
-      "published_at": "2026-08-25T17:10:23+00:00",
-      "score": 1.52,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "niger"
-      ]
-    },
-    {
       "title": "Campus Voice 6 : Fadila Rowan couronn\u00e9e au terme d'une finale riche en \u00e9motions",
       "link": "https://lefaso.net/spip.php?article148771",
       "source": "LeFaso",
-      "published_at": "2026-08-26T16:24:02.823113+00:00",
+      "published_at": "2026-08-26T19:11:33.996360+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -123,11 +109,25 @@
       ]
     },
     {
+      "title": "Nigeria\u2019s president orders rescue operation after mass kidnapping at mosque",
+      "link": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
+      "source": "France 24 - Africa",
+      "published_at": "2026-08-25T17:10:23+00:00",
+      "score": 1.43,
+      "tags": [
+        "conflict_intensity",
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    },
+    {
       "title": "Zambia shuts down court system",
       "link": "https://www.france24.com/en/zambia-shuts-down-court-system",
       "source": "France 24 - Africa",
       "published_at": "2026-08-24T20:58:42+00:00",
-      "score": 0.5,
+      "score": 0.45,
       "tags": [
         "civilian_risk"
       ],
@@ -138,28 +138,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-26T17:55:09.311280+00:00",
-      "score": 14.3
+      "timestamp": "2026-08-26T21:59:05.169607+00:00",
+      "score": 13.5
     },
     {
-      "timestamp": "2026-08-26T19:26:15.799447+00:00",
-      "score": 14.5
+      "timestamp": "2026-08-27T00:46:36.342854+00:00",
+      "score": 13.6
     },
     {
-      "timestamp": "2026-08-26T20:57:22.287614+00:00",
-      "score": 14.6
+      "timestamp": "2026-08-27T03:34:07.516101+00:00",
+      "score": 13.6
     },
     {
-      "timestamp": "2026-08-26T22:28:28.775781+00:00",
-      "score": 14.7
+      "timestamp": "2026-08-27T06:21:38.689348+00:00",
+      "score": 13.7
     },
     {
-      "timestamp": "2026-08-26T23:59:35.263948+00:00",
-      "score": 14.9
+      "timestamp": "2026-08-27T09:09:09.862595+00:00",
+      "score": 13.7
     },
     {
-      "timestamp": "2026-08-27T01:30:41.752115+00:00",
-      "score": 15.0
+      "timestamp": "2026-08-27T11:56:41.035842+00:00",
+      "score": 13.8
     }
   ]
 }
