@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-29T02:04:27.135049+00:00",
+  "fetched_at": "2026-08-29T08:58:12.394670+00:00",
   "window_hours": 72,
-  "score": 7.6,
-  "risk_level": "LOW",
+  "score": 22.8,
+  "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 4.5,
-    "civilian_risk": 26.9
+    "conflict_intensity": 35.3,
+    "civilian_risk": 25.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 2,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -83,7 +83,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 5
+      "items": 4
     },
     {
       "name": "AllAfrica - Burkina Faso",
@@ -94,13 +94,40 @@
   ],
   "top_headlines": [
     {
+      "title": "TV signal down after gunfire, explosions heard across Niger's capital",
+      "link": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
+      "source": "France 24 - Africa",
+      "published_at": "2026-08-29T06:33:07+00:00",
+      "score": 1.89,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-29T02:04:27.135049+00:00",
+      "published_at": "2026-08-29T08:58:12.394670+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
+      ],
+      "regions": [
+        "mali"
+      ]
+    },
+    {
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-08-29T01:14:13+00:00",
+      "score": 0.75,
+      "tags": [
+        "conflict_intensity"
       ],
       "regions": [
         "mali"
@@ -111,7 +138,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cx2z0p3nmdro?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-08-27T09:56:23+00:00",
-      "score": 0.85,
+      "score": 0.67,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -123,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-29T09:35:51.250134+00:00",
-      "score": 10.7
+      "timestamp": "2026-08-29T15:51:57.654291+00:00",
+      "score": 12.5
     },
     {
-      "timestamp": "2026-08-29T17:07:15.365219+00:00",
-      "score": 10.5
+      "timestamp": "2026-08-29T22:45:42.913912+00:00",
+      "score": 12.4
     },
     {
-      "timestamp": "2026-08-30T00:38:39.480304+00:00",
-      "score": 10.3
+      "timestamp": "2026-08-30T05:39:28.173533+00:00",
+      "score": 12.4
     },
     {
-      "timestamp": "2026-08-30T08:10:03.595389+00:00",
-      "score": 10.1
+      "timestamp": "2026-08-30T12:33:13.433154+00:00",
+      "score": 12.3
     },
     {
-      "timestamp": "2026-08-30T15:41:27.710474+00:00",
-      "score": 9.9
+      "timestamp": "2026-08-30T19:26:58.692775+00:00",
+      "score": 12.2
     },
     {
-      "timestamp": "2026-08-30T23:12:51.825559+00:00",
-      "score": 9.7
+      "timestamp": "2026-08-31T02:20:43.952396+00:00",
+      "score": 12.1
     }
   ]
 }
