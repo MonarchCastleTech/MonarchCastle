@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-08-29T14:23:40.523917+00:00",
+  "fetched_at": "2026-08-29T18:20:11.095385+00:00",
   "window_hours": 72,
-  "score": 27.7,
+  "score": 26.5,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 45.2,
+    "conflict_intensity": 42.7,
     "civilian_risk": 25.5
   },
   "weights": {
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 65
+      "items": 69
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
       "source": "France 24 - Africa",
       "published_at": "2026-08-29T12:33:03+00:00",
-      "score": 1.91,
+      "score": 1.8,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-29T14:23:40.523917+00:00",
+      "published_at": "2026-08-29T18:20:11.095385+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -125,26 +125,13 @@
       "link": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
       "source": "France 24 - Africa",
       "published_at": "2026-08-29T06:33:07+00:00",
-      "score": 0.87,
+      "score": 0.82,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
         "niger",
         "niamey"
-      ]
-    },
-    {
-      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Africa",
-      "published_at": "2026-08-29T01:14:13+00:00",
-      "score": 0.69,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
       ]
     },
     {
@@ -160,32 +147,45 @@
       "regions": [
         "niger"
       ]
+    },
+    {
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Africa",
+      "published_at": "2026-08-29T01:14:13+00:00",
+      "score": 0.64,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
     }
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-29T19:49:08.653164+00:00",
-      "score": 15.1
+      "timestamp": "2026-08-29T22:16:41.666853+00:00",
+      "score": 17.2
     },
     {
-      "timestamp": "2026-08-30T01:14:36.782411+00:00",
-      "score": 15.1
+      "timestamp": "2026-08-30T02:13:12.238321+00:00",
+      "score": 17.5
     },
     {
-      "timestamp": "2026-08-30T06:40:04.911658+00:00",
-      "score": 15.2
+      "timestamp": "2026-08-30T06:09:42.809789+00:00",
+      "score": 17.7
     },
     {
-      "timestamp": "2026-08-30T12:05:33.040905+00:00",
-      "score": 15.3
+      "timestamp": "2026-08-30T10:06:13.381257+00:00",
+      "score": 17.9
     },
     {
-      "timestamp": "2026-08-30T17:31:01.170152+00:00",
-      "score": 15.4
+      "timestamp": "2026-08-30T14:02:43.952725+00:00",
+      "score": 18.2
     },
     {
-      "timestamp": "2026-08-30T22:56:29.299399+00:00",
-      "score": 15.5
+      "timestamp": "2026-08-30T17:59:14.524193+00:00",
+      "score": 18.4
     }
   ]
 }
