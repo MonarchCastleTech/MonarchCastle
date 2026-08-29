@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-29T08:58:12.394670+00:00",
+  "fetched_at": "2026-08-29T14:23:40.523917+00:00",
   "window_hours": 72,
-  "score": 22.8,
+  "score": 27.7,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 35.3,
+    "conflict_intensity": 45.2,
     "civilian_risk": 25.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 4,
+  "items_count": 5,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64
+      "items": 65
     },
     {
       "name": "ActuNiger",
@@ -94,11 +94,11 @@
   ],
   "top_headlines": [
     {
-      "title": "TV signal down after gunfire, explosions heard across Niger's capital",
-      "link": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
+      "title": "Niger's junta says 'regaining control' after clashes in capital",
+      "link": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
       "source": "France 24 - Africa",
-      "published_at": "2026-08-29T06:33:07+00:00",
-      "score": 1.89,
+      "published_at": "2026-08-29T12:33:03+00:00",
+      "score": 1.91,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,7 +111,7 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-29T08:58:12.394670+00:00",
+      "published_at": "2026-08-29T14:23:40.523917+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
@@ -121,11 +121,25 @@
       ]
     },
     {
+      "title": "Niger's military regime 'gradually regaining control' from mutinous soldiers",
+      "link": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
+      "source": "France 24 - Africa",
+      "published_at": "2026-08-29T06:33:07+00:00",
+      "score": 0.87,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "niger",
+        "niamey"
+      ]
+    },
+    {
       "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
       "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-08-29T01:14:13+00:00",
-      "score": 0.75,
+      "score": 0.69,
       "tags": [
         "conflict_intensity"
       ],
@@ -150,28 +164,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-29T15:51:57.654291+00:00",
-      "score": 12.5
+      "timestamp": "2026-08-29T19:49:08.653164+00:00",
+      "score": 15.1
     },
     {
-      "timestamp": "2026-08-29T22:45:42.913912+00:00",
-      "score": 12.4
+      "timestamp": "2026-08-30T01:14:36.782411+00:00",
+      "score": 15.1
     },
     {
-      "timestamp": "2026-08-30T05:39:28.173533+00:00",
-      "score": 12.4
+      "timestamp": "2026-08-30T06:40:04.911658+00:00",
+      "score": 15.2
     },
     {
-      "timestamp": "2026-08-30T12:33:13.433154+00:00",
-      "score": 12.3
+      "timestamp": "2026-08-30T12:05:33.040905+00:00",
+      "score": 15.3
     },
     {
-      "timestamp": "2026-08-30T19:26:58.692775+00:00",
-      "score": 12.2
+      "timestamp": "2026-08-30T17:31:01.170152+00:00",
+      "score": 15.4
     },
     {
-      "timestamp": "2026-08-31T02:20:43.952396+00:00",
-      "score": 12.1
+      "timestamp": "2026-08-30T22:56:29.299399+00:00",
+      "score": 15.5
     }
   ]
 }
