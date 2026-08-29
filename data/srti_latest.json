@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-08-29T18:20:11.095385+00:00",
+  "fetched_at": "2026-08-29T21:39:25.009601+00:00",
   "window_hours": 72,
-  "score": 26.5,
+  "score": 20.8,
   "risk_level": "GUARDED",
   "components": {
-    "conflict_intensity": 42.7,
+    "conflict_intensity": 31.3,
     "civilian_risk": 25.5
   },
   "weights": {
     "conflict_intensity": 0.5,
     "civilian_risk": 0.2
   },
-  "items_count": 5,
+  "items_count": 4,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -41,7 +41,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69
+      "items": 73
     },
     {
       "name": "ActuNiger",
@@ -98,7 +98,7 @@
       "link": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
       "source": "France 24 - Africa",
       "published_at": "2026-08-29T12:33:03+00:00",
-      "score": 1.8,
+      "score": 1.71,
       "tags": [
         "conflict_intensity"
       ],
@@ -111,27 +111,13 @@
       "title": "Pratique de l'excision : Un acharnement injustifi\u00e9 sur le clitoris",
       "link": "https://lefaso.net/spip.php?article148737",
       "source": "LeFaso",
-      "published_at": "2026-08-29T18:20:11.095385+00:00",
+      "published_at": "2026-08-29T21:39:25.009601+00:00",
       "score": 1.44,
       "tags": [
         "civilian_risk"
       ],
       "regions": [
         "mali"
-      ]
-    },
-    {
-      "title": "Niger's military regime 'gradually regaining control' from mutinous soldiers",
-      "link": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
-      "source": "France 24 - Africa",
-      "published_at": "2026-08-29T06:33:07+00:00",
-      "score": 0.82,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "niger",
-        "niamey"
       ]
     },
     {
@@ -153,7 +139,7 @@
       "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Africa",
       "published_at": "2026-08-29T01:14:13+00:00",
-      "score": 0.64,
+      "score": 0.6,
       "tags": [
         "conflict_intensity"
       ],
@@ -164,28 +150,28 @@
   ],
   "forecast": [
     {
-      "timestamp": "2026-08-29T22:16:41.666853+00:00",
-      "score": 17.2
+      "timestamp": "2026-08-30T00:58:38.923817+00:00",
+      "score": 18.3
     },
     {
-      "timestamp": "2026-08-30T02:13:12.238321+00:00",
-      "score": 17.5
+      "timestamp": "2026-08-30T04:17:52.838033+00:00",
+      "score": 18.6
     },
     {
-      "timestamp": "2026-08-30T06:09:42.809789+00:00",
-      "score": 17.7
+      "timestamp": "2026-08-30T07:37:06.752249+00:00",
+      "score": 18.9
     },
     {
-      "timestamp": "2026-08-30T10:06:13.381257+00:00",
-      "score": 17.9
+      "timestamp": "2026-08-30T10:56:20.666465+00:00",
+      "score": 19.2
     },
     {
-      "timestamp": "2026-08-30T14:02:43.952725+00:00",
-      "score": 18.2
+      "timestamp": "2026-08-30T14:15:34.580681+00:00",
+      "score": 19.5
     },
     {
-      "timestamp": "2026-08-30T17:59:14.524193+00:00",
-      "score": 18.4
+      "timestamp": "2026-08-30T17:34:48.494897+00:00",
+      "score": 19.8
     }
   ]
 }
