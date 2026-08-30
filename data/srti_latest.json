@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-08-30T08:44:56.124715+00:00",
-  "content_latest_at": "2026-08-30T08:41:57+00:00",
+  "fetched_at": "2026-08-30T09:41:17.176884+00:00",
+  "content_latest_at": "2026-08-30T08:58:27+00:00",
   "window_hours": 72,
-  "score": 6.1,
+  "score": 5.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 8.5,
+    "conflict_intensity": 8.3,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,13 +15,13 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 62,
+  "items_evaluated": 63,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "ok",
-      "items": 5,
+      "status": "unreachable",
+      "items": 0,
       "eligible_items": 0,
       "regions": [
         "mali"
@@ -30,8 +30,8 @@
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "ok",
-      "items": 12,
+      "status": "unreachable",
+      "items": 0,
       "eligible_items": 0,
       "regions": [
         "niger"
@@ -40,8 +40,8 @@
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "ok",
-      "items": 6,
+      "status": "unreachable",
+      "items": 0,
       "eligible_items": 0,
       "regions": [
         "burkina_faso"
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 57,
-      "eligible_items": 57,
+      "items": 59,
+      "eligible_items": 58,
       "regions": [
         "burkina_faso"
       ]
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 41,
-      "eligible_items": 13,
+      "eligible_items": 11,
       "regions": []
     },
     {
@@ -146,7 +146,7 @@
       "link": "https://www.france24.com/en/niger-s-junta-says-regaining-control-after-clashes-in-capital",
       "source": "France 24 - Africa",
       "published_at": "2026-08-29T12:33:03+00:00",
-      "score": 0.71,
+      "score": 0.69,
       "tags": [
         "conflict_intensity"
       ],
@@ -158,13 +158,13 @@
   "quality_gate": {
     "passed": true,
     "reasons": [],
-    "reachable_sources": 13,
+    "reachable_sources": 10,
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 88,
+    "dated_items": 87,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
