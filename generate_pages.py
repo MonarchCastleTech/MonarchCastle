@@ -4,9 +4,11 @@ Reads JSON data and generates static HTML pages with embedded data.
 No JavaScript data fetching - everything is pre-rendered.
 """
 
+import html as html_lib
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 ROOT_DIR = Path(__file__).parent
 DATA_DIR = ROOT_DIR / "data"
@@ -651,564 +653,377 @@ def generate_baltic_page():
     print(f"[OK] Generated {output_path}")
 
 
-def build_srti_chart(history_points, forecast_points):
-    width = 860
-    height = 220
-    padding = 24
+def srti_safe_text(value):
+    return html_lib.escape(str(value or ""), quote=True)
 
-    total_points = max(1, len(history_points) + len(forecast_points))
-    denom = max(1, total_points - 1)
 
-    def scale_x(index):
-        return padding + (index * (width - 2 * padding) / denom)
+def srti_safe_url(value):
+    candidate = str(value or "").strip()
+    parsed = urlparse(candidate)
+    if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+        return ""
+    return html_lib.escape(candidate, quote=True)
 
-    def scale_y(value):
-        return padding + (1 - (value / 100.0)) * (height - 2 * padding)
 
-    history_coords = []
-    for i, value in enumerate(history_points):
-        history_coords.append((scale_x(i), scale_y(value)))
+def srti_parse_time(value):
+    if not value:
+        return None
+    try:
+        parsed = datetime.fromisoformat(str(value).replace("Z", "+00:00"))
+    except ValueError:
+        return None
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return parsed.astimezone(timezone.utc)
 
-    forecast_coords = []
-    if forecast_points:
-        start_index = len(history_points) - 1
-        forecast_coords.append((scale_x(start_index), scale_y(history_points[-1])))
-        for j, value in enumerate(forecast_points, start=1):
-            forecast_coords.append((scale_x(start_index + j), scale_y(value)))
 
-    history_poly = " ".join(f"{x:.1f},{y:.1f}" for x, y in history_coords) if history_coords else ""
-    forecast_poly = " ".join(f"{x:.1f},{y:.1f}" for x, y in forecast_coords) if forecast_coords else ""
+def srti_format_time(value):
+    parsed = srti_parse_time(value)
+    return parsed.strftime("%Y-%m-%d %H:%M UTC") if parsed else "Unavailable"
 
-    svg = f"""
-    <svg viewBox="0 0 {width} {height}" role="img" aria-label="SRTI history chart">
-        <defs>
-            <linearGradient id="srti-line" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#e3b341" />
-                <stop offset="100%" stop-color="#36c2ce" />
-            </linearGradient>
-        </defs>
-        <rect x="0" y="0" width="{width}" height="{height}" fill="none" />
-        <line x1="{padding}" y1="{padding}" x2="{padding}" y2="{height - padding}" stroke="#1f2430" />
-        <line x1="{padding}" y1="{height - padding}" x2="{width - padding}" y2="{height - padding}" stroke="#1f2430" />
-        <polyline points="{history_poly}" fill="none" stroke="url(#srti-line)" stroke-width="2.5" />
-        <polyline points="{forecast_poly}" fill="none" stroke="#8aa3b1" stroke-width="2" stroke-dasharray="6 6" />
+
+def srti_region_label(region):
+    labels = {
+        "mali": "Mali",
+        "niger": "Niger",
+        "burkina_faso": "Burkina Faso",
+        "sahel": "Sahel",
+    }
+    return labels.get(region, str(region).replace("_", " ").title())
+
+
+def build_srti_operator_chart(history):
+    points = history[-48:]
+    scores = [max(0.0, min(100.0, float(item.get("score", 0)))) for item in points]
+    if not scores:
+        scores = [0.0]
+    width, height = 860, 250
+    left, right, top, bottom = 42, 18, 18, 34
+    plot_width = width - left - right
+    plot_height = height - top - bottom
+    denominator = max(1, len(scores) - 1)
+
+    coordinates = []
+    for index, score in enumerate(scores):
+        x_value = left + (index * plot_width / denominator)
+        y_value = top + ((100 - score) * plot_height / 100)
+        coordinates.append(f"{x_value:.1f},{y_value:.1f}")
+
+    grid = []
+    for value in range(0, 101, 20):
+        y_value = top + ((100 - value) * plot_height / 100)
+        grid.append(
+            f'<line x1="{left}" y1="{y_value:.1f}" x2="{width - right}" '
+            f'y2="{y_value:.1f}" stroke="#26303d" stroke-width="1" />'
+            f'<text x="{left - 8}" y="{y_value + 4:.1f}" text-anchor="end" '
+            f'fill="#95a1af" font-size="10">{value}</text>'
+        )
+
+    start = srti_format_time(points[0].get("timestamp")) if points else ""
+    end = srti_format_time(points[-1].get("timestamp")) if points else ""
+    return f"""
+    <svg viewBox="0 0 {width} {height}" role="img" aria-labelledby="trend-title trend-desc">
+        <title id="trend-title">Accepted SRTI snapshot history</title>
+        <desc id="trend-desc">Fixed zero to one hundred scale, from {srti_safe_text(start)} to {srti_safe_text(end)}.</desc>
+        {''.join(grid)}
+        <polyline points="{' '.join(coordinates)}" fill="none" stroke="#66d9e8" stroke-width="2.5" vector-effect="non-scaling-stroke" />
+        <circle cx="{coordinates[-1].split(',')[0]}" cy="{coordinates[-1].split(',')[1]}" r="4" fill="#d4af37" />
+        <text x="{left}" y="{height - 9}" fill="#95a1af" font-size="10">{srti_safe_text(start)}</text>
+        <text x="{width - right}" y="{height - 9}" text-anchor="end" fill="#95a1af" font-size="10">{srti_safe_text(end)}</text>
     </svg>
     """
-    return svg
 
 
-def render_srti_html(latest, history, logo_path):
-    """Render SRTI HTML."""
-    risk = latest.get("risk_level", "UNKNOWN")
-    risk_palette = {
-        "LOW": "#22c55e",
-        "GUARDED": "#e3b341",
-        "ELEVATED": "#f59e0b",
-        "HIGH": "#ef4444",
-        "CRITICAL": "#b91c1c",
-    }
-    risk_color = risk_palette.get(risk, "#e3b341")
+def render_srti_operator_html(latest, history, asset_prefix, data_prefix):
+    risk = str(latest.get("risk_level", "UNKNOWN")).upper()
+    risk_class = f"risk-{risk.lower()}"
+    score = max(0.0, min(100.0, float(latest.get("score", 0))))
+    window_hours = int(latest.get("window_hours", 72))
+    fetched_at = str(latest.get("fetched_at") or "")
+    content_at = latest.get("content_latest_at") or fetched_at
+    sources = latest.get("sources") or []
+    reachable = [source for source in sources if source.get("status") == "ok"]
+    gate = latest.get("quality_gate") or {}
+    criteria = gate.get("criteria") or {}
+    gate_label = "GATE PASSED" if gate.get("passed") else "LEGACY SNAPSHOT"
+    previous_score = score
+    if len(history) > 1:
+        previous_score = float(history[-2].get("score", score))
+    delta = score - previous_score
+    delta_label = f"{delta:+.1f} vs previous accepted run"
 
-    score_value = float(latest.get("score", 0.0))
-    history_tail = history[-48:]
-    history_scores = [float(item["score"]) for item in history_tail]
-    if not history_scores:
-        history_scores = [float(latest.get("score", 0.0))]
-    forecast_scores = [float(item["score"]) for item in latest.get("forecast", [])]
-    chart_svg = build_srti_chart(history_scores, forecast_scores)
+    component_rows = []
+    for key, value in (latest.get("components") or {}).items():
+        numeric_value = max(0.0, min(100.0, float(value)))
+        weight = float((latest.get("weights") or {}).get(key, 0)) * 100
+        component_rows.append(f"""
+        <div class="component">
+            <div class="component-top">
+                <span class="component-name">{srti_safe_text(key.replace('_', ' '))}</span>
+                <span class="component-value">{numeric_value:.1f}</span>
+            </div>
+            <progress class="component-progress" max="100" value="{numeric_value:.1f}">{numeric_value:.1f}</progress>
+            <div class="component-meta">Normalized component · {weight:.1f}% composite weight</div>
+        </div>
+        """)
+    if not component_rows:
+        component_rows.append('<div class="empty-state">No component detail in this snapshot.</div>')
 
-    sources_ok = sum(1 for s in latest.get("sources", []) if s.get("status") == "ok")
-    sources_total = len(latest.get("sources", []))
-
-    headline_rows = ""
-    for item in latest.get("top_headlines", [])[:6]:
-        tags = ", ".join(item.get("tags") or [])
-        headline_rows += f"""
-        <div class="headline">
+    event_rows = []
+    for item in (latest.get("top_headlines") or [])[:8]:
+        title = srti_safe_text(item.get("title") or "Untitled source item")
+        link = srti_safe_url(item.get("link"))
+        title_markup = (
+            f'<a href="{link}" target="_blank" rel="noopener noreferrer">{title}</a>'
+            if link
+            else title
+        )
+        regions = sorted(set(item.get("regions") or []))
+        region_tokens = " ".join(srti_safe_text(region) for region in regions)
+        tags = [
+            f'<span class="tag">{srti_safe_text(srti_region_label(region))}</span>'
+            for region in regions
+        ]
+        tags.extend(
+            f'<span class="tag">{srti_safe_text(str(tag).replace("_", " "))}</span>'
+            for tag in (item.get("tags") or [])
+        )
+        item_score = float(item.get("score", 0))
+        event_rows.append(f"""
+        <article class="event" data-regions="{region_tokens}">
             <div>
-                <div class="headline-title"><a href="{item.get('link')}" target="_blank" rel="noopener">{item.get('title')}</a></div>
-                <div class="headline-meta">{item.get('source')} | {item.get('published_at')[:16].replace('T', ' ')}</div>
+                <h3 class="event-title">{title_markup}</h3>
+                <div class="event-meta">{srti_safe_text(item.get('source'))} · {srti_safe_text(srti_format_time(item.get('published_at')))}</div>
+                <div class="tags">{''.join(tags)}</div>
             </div>
-            <div class="headline-score">{item.get('score'):.1f}</div>
-            <div class="headline-tags">{tags}</div>
-        </div>
-        """
+            <div class="event-score">{item_score:.2f}<span>ITEM WEIGHT</span></div>
+        </article>
+        """)
+    if not event_rows:
+        event_rows.append('<div class="empty-state">No risk-keyword items passed this accepted collection window.</div>')
 
-    weight_rows = ""
-    for key, weight in latest.get("weights", {}).items():
-        score = latest.get("components", {}).get(key, 0)
-        label = key.replace("_", " ").title()
-        weight_rows += f"""
-        <div class="weight-card">
-            <div class="weight-label">{label}</div>
-            <div class="weight-score">{score:.1f}</div>
-            <div class="weight-bar">
-                <div class="weight-fill" style="width: {score:.1f}%;"></div>
-            </div>
-            <div class="weight-meta">Weight {weight:.2f}</div>
-        </div>
-        """
-
-    forecast_rows = ""
-    for item in latest.get("forecast", []):
-        forecast_rows += f"""
+    status_labels = {"ok": "reachable", "empty": "no items", "unreachable": "unreachable"}
+    source_rows = []
+    for source in sources:
+        source_url = srti_safe_url(source.get("url"))
+        name = srti_safe_text(source.get("name"))
+        name_markup = (
+            f'<a href="{source_url}" target="_blank" rel="noopener noreferrer">{name}</a>'
+            if source_url
+            else name
+        )
+        source_state = str(source.get("status") or "unknown")
+        source_rows.append(f"""
         <tr>
-            <td>{item.get('timestamp')[:16].replace('T', ' ')}</td>
-            <td>{item.get('score'):.1f}</td>
+            <td>{name_markup}</td>
+            <td><span class="source-state {srti_safe_text(source_state)}">{srti_safe_text(status_labels.get(source_state, source_state))}</span></td>
+            <td>{int(source.get('items') or 0)} fetched / {int(source.get('eligible_items') or 0)} dated</td>
         </tr>
-        """
+        """)
 
-    source_rows = ""
-    for source in latest.get("sources", []):
-        source_rows += f"""
-        <div class="source-row">
-            <div>{source.get('name')}</div>
-            <div class="source-status {source.get('status')}">{source.get('status')}</div>
-            <div>{source.get('items')}</div>
-        </div>
-        """
+    covered_regions = [srti_region_label(region) for region in gate.get("covered_regions", [])]
+    coverage_text = ", ".join(covered_regions) if covered_regions else "Not recorded"
+    history_methods = {
+        str(item.get("methodology_version") or "legacy") for item in history[-48:]
+    }
+    trend_method_label = (
+        "MIXED METHODS · FIXED AXIS"
+        if len(history_methods) > 1
+        else f"METHOD {next(iter(history_methods), 'unknown')} · FIXED AXIS"
+    )
+    trend_chart = build_srti_operator_chart(history)
+    methodology_version = srti_safe_text(latest.get("methodology_version") or "legacy")
+    schema_version = srti_safe_text(latest.get("schema_version") or "legacy")
+    evaluated = int(latest.get("items_evaluated") or latest.get("items_count") or 0)
+    signalled = int(latest.get("items_count") or 0)
+    asset_prefix = asset_prefix.rstrip("/")
+    data_prefix = data_prefix.rstrip("/")
 
-    html = f"""<!DOCTYPE html>
+    return f"""<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SRTI-004 | Sahel Region Threat Index</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <style>
-        *, *::before, *::after {{
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }}
-        :root {{
-            --bg: #050608;
-            --surface: #10141c;
-            --panel: #141a24;
-            --border: #1f2430;
-            --text: #f5f7fa;
-            --muted: #9aa4b2;
-            --accent: #e3b341;
-            --accent-2: #36c2ce;
-            --danger: #ef4444;
-            --success: #22c55e;
-        }}
-        body {{
-            font-family: 'Inter', sans-serif;
-            background: radial-gradient(circle at 20% 20%, #0b0f18 0%, #050608 45%, #050608 100%);
-            color: var(--text);
-            min-height: 100vh;
-        }}
-        .grid-overlay {{
-            position: fixed;
-            inset: 0;
-            background-image: linear-gradient(rgba(255,255,255,0.03) 1px, transparent 1px),
-                linear-gradient(90deg, rgba(255,255,255,0.03) 1px, transparent 1px);
-            background-size: 80px 80px;
-            pointer-events: none;
-            opacity: 0.35;
-        }}
-        .container {{
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 32px;
-        }}
-        header {{
-            position: sticky;
-            top: 0;
-            z-index: 10;
-            backdrop-filter: blur(14px);
-            background: rgba(5, 6, 8, 0.85);
-            border-bottom: 1px solid var(--border);
-        }}
-        header .container {{
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            padding: 20px 0;
-        }}
-        .brand {{
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            font-weight: 600;
-        }}
-        .brand img {{
-            width: 28px;
-            height: 28px;
-        }}
-        .badge {{
-            padding: 6px 12px;
-            border-radius: 999px;
-            font-size: 12px;
-            letter-spacing: 0.1em;
-            border: 1px solid {risk_color};
-            color: {risk_color};
-            text-transform: uppercase;
-        }}
-        .hero {{
-            padding: 80px 0 40px;
-        }}
-        .hero h1 {{
-            font-size: 46px;
-            font-weight: 600;
-            letter-spacing: -0.02em;
-            margin-bottom: 16px;
-        }}
-        .hero p {{
-            color: var(--muted);
-            max-width: 640px;
-            line-height: 1.7;
-        }}
-        .hero-grid {{
-            display: grid;
-            grid-template-columns: 1.3fr 1fr;
-            gap: 32px;
-            margin-top: 36px;
-        }}
-        .score-card {{
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 28px;
-        }}
-        .score-value {{
-            font-size: 72px;
-            font-weight: 700;
-            letter-spacing: -0.03em;
-            color: var(--accent);
-        }}
-        .score-meta {{
-            display: flex;
-            gap: 24px;
-            margin-top: 18px;
-            color: var(--muted);
-            font-size: 13px;
-        }}
-        .pill {{
-            padding: 6px 12px;
-            border-radius: 8px;
-            border: 1px solid var(--border);
-            font-size: 12px;
-            text-transform: uppercase;
-            letter-spacing: 0.08em;
-        }}
-        .map-card {{
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 20px;
-        }}
-        .map-card svg {{
-            width: 100%;
-            height: auto;
-        }}
-        .section {{
-            padding: 60px 0 0;
-        }}
-        .section-title {{
-            font-size: 13px;
-            color: var(--muted);
-            letter-spacing: 0.2em;
-            text-transform: uppercase;
-            margin-bottom: 16px;
-        }}
-        .chart-card {{
-            background: var(--surface);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 24px;
-        }}
-        .weights-grid {{
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-            margin-top: 20px;
-        }}
-        .weight-card {{
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 18px;
-        }}
-        .weight-label {{
-            font-size: 12px;
-            text-transform: uppercase;
-            color: var(--muted);
-            letter-spacing: 0.12em;
-        }}
-        .weight-score {{
-            font-size: 32px;
-            font-weight: 600;
-            margin: 12px 0;
-        }}
-        .weight-bar {{
-            height: 8px;
-            border-radius: 6px;
-            background: #0b0f16;
-            border: 1px solid var(--border);
-        }}
-        .weight-fill {{
-            height: 100%;
-            border-radius: 6px;
-            background: linear-gradient(90deg, var(--accent), var(--accent-2));
-        }}
-        .weight-meta {{
-            font-size: 12px;
-            color: var(--muted);
-            margin-top: 10px;
-        }}
-        .headline {{
-            display: grid;
-            grid-template-columns: 1fr 80px 160px;
-            gap: 20px;
-            padding: 16px 0;
-            border-bottom: 1px solid var(--border);
-        }}
-        .headline:last-child {{
-            border-bottom: none;
-        }}
-        .headline-title a {{
-            color: var(--text);
-            text-decoration: none;
-        }}
-        .headline-meta {{
-            color: var(--muted);
-            font-size: 12px;
-            margin-top: 6px;
-        }}
-        .headline-score {{
-            font-weight: 600;
-            color: var(--accent);
-            text-align: right;
-        }}
-        .headline-tags {{
-            font-size: 12px;
-            color: var(--muted);
-            text-transform: uppercase;
-            letter-spacing: 0.08em;
-        }}
-        .table {{
-            width: 100%;
-            border-collapse: collapse;
-        }}
-        .table th, .table td {{
-            text-align: left;
-            padding: 12px 8px;
-            border-bottom: 1px solid var(--border);
-            font-size: 13px;
-        }}
-        .source-row {{
-            display: grid;
-            grid-template-columns: 1fr 120px 60px;
-            gap: 12px;
-            padding: 10px 0;
-            border-bottom: 1px solid var(--border);
-            font-size: 13px;
-        }}
-        .source-status {{
-            text-transform: uppercase;
-            font-size: 11px;
-            letter-spacing: 0.08em;
-        }}
-        .source-status.ok {{
-            color: var(--success);
-        }}
-        .source-status.empty {{
-            color: var(--muted);
-        }}
-        .source-status.unreachable {{
-            color: var(--danger);
-        }}
-        .pricing-grid {{
-            display: grid;
-            grid-template-columns: repeat(3, 1fr);
-            gap: 20px;
-        }}
-        .price-card {{
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 24px;
-        }}
-        .price-card h3 {{
-            font-size: 18px;
-            margin-bottom: 12px;
-        }}
-        .price {{
-            font-size: 32px;
-            font-weight: 600;
-            margin-bottom: 16px;
-        }}
-        .price-list {{
-            color: var(--muted);
-            font-size: 13px;
-            line-height: 1.8;
-        }}
-        footer {{
-            padding: 40px 0;
-            margin-top: 60px;
-            border-top: 1px solid var(--border);
-            color: var(--muted);
-            font-size: 12px;
-            text-align: center;
-        }}
-        @media (max-width: 960px) {{
-            .hero-grid {{
-                grid-template-columns: 1fr;
-            }}
-            .weights-grid {{
-                grid-template-columns: 1fr;
-            }}
-            .headline {{
-                grid-template-columns: 1fr;
-            }}
-            .pricing-grid {{
-                grid-template-columns: 1fr;
-            }}
-        }}
-    </style>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="SRTI is a transparent, deterministic monitor of public Sahel security reporting for Mali, Niger, and Burkina Faso.">
+    <meta name="theme-color" content="#07090c">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self'; script-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests">
+    <title>SRTI | Sahel Region Threat Index</title>
+    <link rel="icon" type="image/png" href="{asset_prefix}/mc-mark.png">
+    <link rel="stylesheet" href="{asset_prefix}/srti.css?v=2.0">
+    <script src="{asset_prefix}/srti.js?v=2.0" defer></script>
 </head>
-<body>
-    <div class="grid-overlay"></div>
-    <header>
-        <div class="container">
+<body class="{srti_safe_text(risk_class)}">
+    <header class="topbar">
+        <div class="topbar-inner">
             <div class="brand">
-                <img src="{logo_path}" alt="Monarch Castle logo">
-                <span>Monarch Castle Technologies</span>
+                <img src="{asset_prefix}/mc-mark.png" alt="Monarch Castle Technologies mark" width="34" height="34">
+                <div>
+                    <div class="brand-name">Monarch Castle Technologies</div>
+                    <div class="brand-product">SRTI / PUBLIC OSINT MONITOR</div>
+                </div>
             </div>
-            <div class="badge">{risk}</div>
+            <div class="snapshot-state" data-collected-at="{srti_safe_text(fetched_at)}" data-state="recent">
+                <span class="snapshot-dot" aria-hidden="true"></span>
+                <span data-snapshot-label>SNAPSHOT · {srti_safe_text(srti_format_time(fetched_at))}</span>
+            </div>
         </div>
     </header>
-    <main class="container">
-        <section class="hero">
-            <div class="pill">SRTI-004 // Defense Intelligence</div>
-            <h1>Sahel Region Threat Index</h1>
-            <p>Automated OSINT scoring for Mali, Niger, and Burkina Faso. RSS-first aggregation of conflict, coup, and civilian risk signals with hourly refresh and transparency on sources.</p>
-            <div class="hero-grid">
-                <div class="score-card">
-                    <div class="score-value">{score_value:.1f}</div>
-                    <div class="score-meta">
-                        <div>Risk Level: <span style="color: {risk_color}; font-weight: 600;">{risk}</span></div>
-                        <div>Items: {latest.get("items_count")}</div>
-                        <div>Sources Live: {sources_ok}/{sources_total}</div>
+
+    <main class="shell">
+        <section class="command-head">
+            <div>
+                <div class="eyebrow">SRTI-004 / SAHEL REGION THREAT INDEX</div>
+                <h1>Regional signal picture. Sources exposed.</h1>
+                <p class="lede">Deterministic monitoring of public reporting about Mali, Niger, and Burkina Faso. Use the score to triage evidence—not as an incident count, probability, or verified intelligence assessment.</p>
+            </div>
+            <div class="scope-panel">
+                <strong>COLLECTION SCOPE / {window_hours}H</strong>
+                <p>Public RSS and public HTML fallback. No API account, private feed, model classification, or operator login.</p>
+            </div>
+        </section>
+
+        <section class="status-strip" aria-label="Snapshot status">
+            <div class="status-cell">
+                <div class="metric-label">Collection attempt</div>
+                <div class="status-value">{srti_safe_text(srti_format_time(fetched_at))}</div>
+                <div class="status-sub">Publication timestamp, not continuous monitoring</div>
+            </div>
+            <div class="status-cell">
+                <div class="metric-label">Newest evaluated item</div>
+                <div class="status-value">{srti_safe_text(srti_format_time(content_at))}</div>
+                <div class="status-sub">Publisher timestamp where available</div>
+            </div>
+            <div class="status-cell">
+                <div class="metric-label">Source response</div>
+                <div class="status-value">{len(reachable)} / {len(sources)}</div>
+                <div class="status-sub">Last accepted collection attempt</div>
+            </div>
+            <div class="status-cell">
+                <div class="metric-label">Publication gate</div>
+                <div class="status-value">{srti_safe_text(gate_label)}</div>
+                <div class="status-sub">Failed runs retain last-known-good data</div>
+            </div>
+        </section>
+
+        <div class="workspace">
+            <div class="stack">
+                <section class="panel" aria-labelledby="signal-heading">
+                    <div class="panel-head">
+                        <h2 class="panel-title" id="signal-heading">Signal summary</h2>
+                        <div class="panel-note">METHOD {methodology_version} · FIXED 0–100 SCALE</div>
                     </div>
-                    <div class="score-meta" style="margin-top: 12px;">
-                        <div>Last Updated: {latest.get("fetched_at")[:16].replace("T", " ")}</div>
+                    <div class="score-layout">
+                        <div class="score-block">
+                            <div class="metric-label">Composite signal</div>
+                            <div class="score-number">{score:.1f}</div>
+                            <div class="score-scale">/ 100 · {srti_safe_text(delta_label)}</div>
+                            <div class="risk-row">
+                                <span class="status-chip">{srti_safe_text(risk)}</span>
+                                <span class="risk-help">heuristic band</span>
+                            </div>
+                        </div>
+                        <div class="component-list">{''.join(component_rows)}</div>
                     </div>
-                </div>
-                <div class="map-card">
-                    <div class="section-title">Sahel Focus Map</div>
-                    <svg viewBox="0 0 600 360" role="img" aria-label="Sahel map">
-                        <defs>
-                            <linearGradient id="sahelGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-                                <stop offset="0%" stop-color="#2b3a4c" />
-                                <stop offset="50%" stop-color="#253142" />
-                                <stop offset="100%" stop-color="#1d2a38" />
-                            </linearGradient>
-                        </defs>
-                        <rect x="12" y="12" width="576" height="336" rx="16" fill="#0b0f16" stroke="#1f2430" />
-                        <path d="M120 70 L190 60 L250 75 L300 92 L360 86 L420 92 L465 125 L490 170 L485 220 L455 260 L410 292 L350 315 L285 322 L230 310 L185 285 L150 250 L130 205 L120 160 Z" fill="#0f1722" stroke="#1f2430" stroke-width="1.2"/>
-                        <path d="M120 138 C210 118 320 118 480 138 L480 205 C320 230 210 228 120 205 Z" fill="url(#sahelGlow)" opacity="0.6"/>
-                        <path d="M150 95 L220 80 L265 95 L260 135 L242 170 L248 208 L208 212 L170 202 L142 170 L148 130 Z" fill="#1f3b4d" stroke="#36c2ce" stroke-width="1.5"/>
-                        <path d="M262 122 L350 98 L430 120 L448 162 L438 195 L410 214 L392 248 L340 244 L310 218 L288 175 L270 145 Z" fill="#1f2f3f" stroke="#e3b341" stroke-width="1.5"/>
-                        <path d="M170 210 L230 220 L258 255 L238 287 L185 295 L145 270 L152 232 Z" fill="#263444" stroke="#e3b341" stroke-width="1.5"/>
-                        <circle cx="178" cy="165" r="4" fill="#e3b341"/>
-                        <circle cx="350" cy="175" r="4" fill="#e3b341"/>
-                        <circle cx="210" cy="255" r="4" fill="#e3b341"/>
-                        <text x="170" y="135" fill="#9aa4b2" font-size="12">Mali</text>
-                        <text x="340" y="140" fill="#9aa4b2" font-size="12">Niger</text>
-                        <text x="175" y="290" fill="#9aa4b2" font-size="12">Burkina Faso</text>
-                        <text x="186" y="178" fill="#8aa3b1" font-size="10">Bamako</text>
-                        <text x="362" y="188" fill="#8aa3b1" font-size="10">Niamey</text>
-                        <text x="222" y="268" fill="#8aa3b1" font-size="10">Ouagadougou</text>
-                        <text x="400" y="130" fill="#7b8794" font-size="10" text-anchor="end">Sahel belt</text>
-                    </svg>
-                </div>
-            </div>
-        </section>
+                </section>
 
-        <section class="section">
-            <div class="section-title">Historical Signal ({latest.get("window_hours")}h window)</div>
-            <div class="chart-card">
-                {chart_svg}
-            </div>
-        </section>
-
-        <section class="section">
-            <div class="section-title">Signal Weights</div>
-            <div class="weights-grid">
-                {weight_rows}
-            </div>
-        </section>
-
-        <section class="section">
-            <div class="section-title">Top Headlines</div>
-            <div class="chart-card">
-                {headline_rows}
-            </div>
-        </section>
-
-        <section class="section">
-            <div class="section-title">Forecast (Next {len(latest.get("forecast", []))} Hours)</div>
-            <div class="chart-card">
-                <table class="table">
-                    <thead>
-                        <tr><th>Timestamp (UTC)</th><th>Projected Score</th></tr>
-                    </thead>
-                    <tbody>
-                        {forecast_rows}
-                    </tbody>
-                </table>
-            </div>
-        </section>
-
-        <section class="section">
-            <div class="section-title">Source Coverage</div>
-            <div class="chart-card">
-                {source_rows}
-            </div>
-        </section>
-
-        <section class="section">
-            <div class="section-title">Commercial Access</div>
-            <div class="pricing-grid">
-                <div class="price-card">
-                    <h3>Observer</h3>
-                    <div class="price">$299 / month</div>
-                    <div class="price-list">
-                        - Hourly SRTI feed<br>
-                        - RSS source transparency<br>
-                        - 48h history window
+                <section class="panel" aria-labelledby="trend-heading">
+                    <div class="panel-head">
+                        <h2 class="panel-title" id="trend-heading">Accepted snapshot trend</h2>
+                        <div class="panel-note">LAST {min(48, len(history))} RUNS · {srti_safe_text(trend_method_label)}</div>
                     </div>
-                </div>
-                <div class="price-card">
-                    <h3>Analyst</h3>
-                    <div class="price">$1,200 / month</div>
-                    <div class="price-list">
-                        - Forecast exports<br>
-                        - Full headline archive<br>
-                        - Custom alert thresholds
+                    <div class="trend-wrap">{trend_chart}</div>
+                </section>
+
+                <section class="panel" aria-labelledby="queue-heading">
+                    <div class="panel-head">
+                        <h2 class="panel-title" id="queue-heading">Evidence queue</h2>
+                        <div class="filters" aria-label="Filter evidence by region">
+                            <button class="filter" type="button" data-filter="all" aria-pressed="true">All</button>
+                            <button class="filter" type="button" data-filter="mali" aria-pressed="false">Mali</button>
+                            <button class="filter" type="button" data-filter="niger" aria-pressed="false">Niger</button>
+                            <button class="filter" type="button" data-filter="burkina_faso" aria-pressed="false">Burkina Faso</button>
+                        </div>
                     </div>
-                </div>
-                <div class="price-card">
-                    <h3>Enterprise</h3>
-                    <div class="price">Contact Sales</div>
-                    <div class="price-list">
-                        - Dedicated briefing channel<br>
-                        - On-prem deployment<br>
-                        - Analyst support SLA
+                    <div class="event-list">{''.join(event_rows)}</div>
+                    <div class="empty-state" data-filter-empty hidden>No evidence items match this region in the current snapshot.</div>
+                </section>
+
+                <section class="panel" aria-labelledby="sources-heading">
+                    <div class="panel-head">
+                        <h2 class="panel-title" id="sources-heading">Source ledger</h2>
+                        <div class="panel-note">STATUS FROM LAST ATTEMPT · LINKS OPEN PUBLISHERS</div>
                     </div>
-                </div>
+                    <table class="source-table">
+                        <thead><tr><th class="table-label">Source</th><th class="table-label">Response</th><th class="table-label">Items</th></tr></thead>
+                        <tbody>{''.join(source_rows)}</tbody>
+                    </table>
+                </section>
             </div>
-        </section>
+
+            <aside class="stack" aria-label="Method and provenance">
+                <section class="panel">
+                    <div class="panel-head">
+                        <h2 class="panel-title">Operator context</h2>
+                        <div class="panel-note">{signalled} SIGNALLED / {evaluated} EVALUATED</div>
+                    </div>
+                    <div class="method-grid">
+                        <div class="method-card">
+                            <div class="section-kicker">01 / SCOPE</div>
+                            <h3>Three-country watch</h3>
+                            <p>Mali, Niger, Burkina Faso, plus explicitly Sahel-wide reporting.</p>
+                        </div>
+                        <div class="method-card">
+                            <div class="section-kicker">02 / INPUT</div>
+                            <h3>Publisher timestamps</h3>
+                            <p>Undated and out-of-window items are excluded from scoring.</p>
+                        </div>
+                        <div class="method-card">
+                            <div class="section-kicker">03 / MODEL</div>
+                            <h3>Deterministic heuristic</h3>
+                            <p>Complete-term keyword hits, source weight, and recency decay. No generative model.</p>
+                        </div>
+                        <div class="method-card">
+                            <div class="section-kicker">04 / LIMIT</div>
+                            <h3>Not independently verified</h3>
+                            <p>Feeds can lag, duplicate, mistranslate, or omit events. Open source before acting.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="panel">
+                    <div class="panel-head">
+                        <h2 class="panel-title">Quality gate</h2>
+                        <div class="panel-note">{srti_safe_text(gate_label)}</div>
+                    </div>
+                    <ul class="gate-list">
+                        <li>{len(reachable)} responding sources; minimum {int(criteria.get('minimum_reachable_sources') or 0)}.</li>
+                        <li>Target-country coverage: {srti_safe_text(coverage_text)}; minimum {int(criteria.get('minimum_target_countries') or 0)} countries.</li>
+                        <li>{int(gate.get('dated_items') or 0)} dated items; minimum {int(criteria.get('minimum_dated_items') or 0)}.</li>
+                        <li>On gate failure, no snapshot, history, event log, or site publication is replaced.</li>
+                    </ul>
+                </section>
+
+                <section class="panel">
+                    <div class="panel-head">
+                        <h2 class="panel-title">Machine-readable evidence</h2>
+                        <div class="panel-note">SCHEMA {schema_version}</div>
+                    </div>
+                    <div class="download-row">
+                        <a class="download-link" href="{data_prefix}/srti_latest.json">CURRENT ACCEPTED SNAPSHOT <span>JSON ↗</span></a>
+                        <a class="download-link" href="{data_prefix}/srti_history.json">ACCEPTED HISTORY <span>JSON ↗</span></a>
+                    </div>
+                </section>
+            </aside>
+        </div>
     </main>
-    <footer>
-        SRTI-004 - Monarch Castle Technologies - Data sources are listed above for verification.
+
+    <footer class="shell">
+        <span>SRTI-004 · Monarch Castle Technologies · Informational open-source monitor.</span>
+        <span>Not military advice · Verify linked reporting before use.</span>
     </footer>
 </body>
-</html>"""
-    return html
+</html>
+"""
 
 
 def generate_srti_page():
@@ -1220,13 +1035,13 @@ def generate_srti_page():
         print("[ERROR] No SRTI data found")
         return
 
-    module_html = render_srti_html(latest, history, "../website/logo.png")
+    module_html = render_srti_operator_html(latest, history, "../assets", "../data")
     output_path = ROOT_DIR / "Sahel Region Threat Index (SRTI)" / "index.html"
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(module_html)
     print(f"[OK] Generated {output_path}")
 
-    root_html = render_srti_html(latest, history, "website/logo.png")
+    root_html = render_srti_operator_html(latest, history, "assets", "data")
     root_path = ROOT_DIR / "index.html"
     with open(root_path, 'w', encoding='utf-8') as f:
         f.write(root_html)

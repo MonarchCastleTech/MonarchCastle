@@ -42,6 +42,9 @@ env/
 *.log
 error_log.txt
 
+# Ephemeral GitHub Pages artifact
+.pages-artifact/
+
 # Data (optional - uncomment to ignore)
 # *.csv
 

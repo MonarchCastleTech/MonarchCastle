@@ -1,98 +1,45 @@
-# 🏰 MONARCH CASTLE TECHNOLOGIES
+# Monarch Castle Technologies — SRTI
 
-> **The Palantir of Türkiye** — Democratizing intelligence through AI-powered data analysis.
+This repository's public GitHub Pages product is **SRTI-004, the Sahel Region Threat Index**: a static, transparent monitor of public security reporting about Mali, Niger, and Burkina Faso.
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-Proprietary-gold.svg)]()
+SRTI is a deterministic triage heuristic. It is not a verified event database, incident count, probability forecast, or military assessment. Every displayed evidence item links to its publisher.
 
----
-
-## 🎯 Mission
-
-Transform global noise into actionable signals for finance, defense, and strategy. We move faster than institutions but verify deeper than newsfeeds.
-
----
-
-## 🚀 Quick Start
+## Run locally
 
 ```bash
-# 1. Clone and enter directory
-cd MonarchCastle
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch the Intelligence Dashboard
-streamlit run dashboard.py
+python -m pip install -r "Sahel Region Threat Index (SRTI)/requirements.txt"
+python "Sahel Region Threat Index (SRTI)/sahel_watch.py"
+python -c "import generate_pages as gp; gp.generate_srti_page()"
+python scripts/validate_srti.py
+python scripts/build_pages.py
 ```
 
----
+Serve `.pages-artifact` to test the exact deployable output:
 
-## 📊 Active Intelligence Modules
-
-### 🍞 Inflation Intelligence Agency (IIA)
-Track real-time food prices in Turkey to create our own "Shadow CPI" index.
 ```bash
-python "MVP 1 - Inflation Intelligence Agency (IIA)/inflation_tracker.py"
+python -m http.server 8000 --directory .pages-artifact
 ```
 
-### 🍕 Pentagon Pizza Tracker (MCEI)
-Monitor late-night activity near the Pentagon as a proxy for geopolitical stress.
-```bash
-python "Pizza Stores Around Pentagon Tracker/pentagon_pizza.py"
-```
+## Publication contract
 
-### 🌍 Border Threat Index (BNTI)
-Visualize conflict data from ACLED API for Turkey's borders and the Sahel region.
+- Inputs: public RSS feeds with public HTML fallback. No API account, key, email, or operator login.
+- Window: publisher-dated items from the previous 72 hours. Undated items do not affect the score.
+- Scoring: complete-term keyword hits, source weights, and recency decay; fixed 0–100 composite.
+- Gate: minimum responding-source, dated-item, and target-country coverage. Failure exits without replacing the accepted snapshot, history, event log, or site.
+- Deployment: tests, data validation, minimal-artifact build, pre-deploy HTTP check, GitHub Pages deployment, post-deploy HTTP check.
 
-### 📈 Additional Modules
-- **Oil Price Oracle** — Prophet-based Brent Crude forecasting
-- **NATO Burden Tracker** — Defence spending vs 2% GDP target
-- **Cloudy&Shiny Index** — Global Fear & Greed sentiment
-- **Baltic Dry-Growth** — Shipping prices as economic predictor
+The hourly workflow uses only the repository-scoped GitHub Actions token to commit accepted public snapshots and deploy Pages. It requires no third-party secrets.
 
----
+## Relevant paths
 
-## 🛠️ Tech Stack
+- `Sahel Region Threat Index (SRTI)/sahel_watch.py` — collector, scoring, and quality gate.
+- `generate_pages.py` — pre-rendered operator page.
+- `data/srti_latest.json` — current accepted snapshot and provenance.
+- `data/srti_history.json` — accepted snapshot history.
+- `scripts/validate_srti.py` — fail-closed data and page contract.
+- `scripts/smoke_pages.py` — pre/post-deploy HTTP health check.
+- `.github/workflows/` — verified update and deployment automation.
 
-| Layer | Technology |
-|-------|------------|
-| **Scraping** | Selenium, Playwright |
-| **Processing** | Pandas, NumPy |
-| **Visualization** | Streamlit, Plotly |
-| **Forecasting** | Prophet, yfinance |
-| **Geospatial** | Folium, pydeck |
+Other directories are retained research prototypes and are not represented as active capabilities on the public SRTI page.
 
----
-
-## 📁 Project Structure
-
-```
-MonarchCastle/
-├── dashboard.py           # Unified Intelligence Dashboard
-├── requirements.txt       # Python dependencies
-├── GEMINI.md             # AI CLI context
-├── agents.md             # System architecture
-├── roadmap.md            # Strategic phasing
-└── [Project Folders]/    # Individual intelligence modules
-```
-
----
-
-## 🔐 Data Sovereignty
-
-All data is stored locally in CSV files. No external dependencies for storage.
-
----
-
-## ⚖️ Disclaimer
-
-*For informational purposes only. Not financial or military advice.*
-
----
-
-<p align="center">
-<b>MONARCH CASTLE TECHNOLOGIES</b><br>
-<i>"The chart doesn't lie."</i>
-</p>
+Informational use only. Verify linked reporting before use; not financial or military advice.

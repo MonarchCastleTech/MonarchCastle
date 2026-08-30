@@ -4,13 +4,13 @@
 ---
 
 ## 📊 MODULE: Sahel Watch
-**Code**: SRTI | **Division**: MCDI (Defense Intelligence) | **Status**: STANDBY
+**Code**: SRTI | **Division**: MCDI | **Status**: ACTIVE PUBLIC PAGES PRODUCT
 
 ---
 
 ## 🎯 OBJECTIVE
 
-Monitor conflict in the Sahel region (Mali, Niger, Burkina Faso) with focus on coup indicators and insurgent movements. Create a "Coup Risk" detection system.
+Monitor public security reporting about Mali, Niger, and Burkina Faso. Publish a deterministic triage score with source, timestamp, methodology, limitation, and freshness evidence. Never present the score as verified intelligence, an incident count, or a coup probability.
 
 ## RSS-FIRST POLICY
 Use RSS feeds and lightweight web scraping from Sahel-region news sites whenever possible. Do not require APIs for SRTI data collection.
@@ -22,46 +22,31 @@ Use RSS feeds and lightweight web scraping from Sahel-region news sites whenever
 | File | Purpose |
 |------|---------|
 | `sahel_watch.py` | RSS-first OSINT fetcher with Sahel filters (no API) |
-| `coup_detector.py` | Coup signal summary from OSINT stream |
 | `sahel_data.csv` | Processed events |
 | `requirements.txt` | Dependencies |
+| `../data/srti_latest.json` | Accepted snapshot and provenance |
+| `../generate_pages.py` | Static operator page generator |
 
 ---
 
 ## 🔧 IMPLEMENTATION REQUIREMENTS
 
 ### 1. Data Pipeline
-```python
-# ACLED API filters:
-# region = "Western Africa"
-# event_type IN ("Strategic developments", "Battles", "Violence against civilians")
-```
+- Public RSS first; public HTML headings only as transport fallback.
+- No third-party account, email, API key, or private feed.
+- Exclude undated, future-dated, and out-of-window items from scoring.
+- Match complete terms so `Niger` does not match `Nigeria` and `Mali` does not match `Somali`.
+- Publish only after transport, dated-item, and target-country gates pass.
 
-### 2. Coup Risk Heuristic
-```python
-def detect_coup_risk(events):
-    capitals = {
-        "Bamako": (12.6392, -8.0029),      # Mali
-        "Niamey": (13.5137, 2.1098),        # Niger
-        "Ouagadougou": (12.3714, -1.5197)   # Burkina Faso
-    }
-    
-    for capital, coords in capitals.items():
-        nearby = events_within_radius(events, coords, 50)  # 50km
-        if len(nearby) > 5 and within_24_hours(nearby):
-            return "RED ALERT", capital
-    
-    return "NORMAL", None
-```
+### 2. Scoring
+- Deterministic keyword, source-weight, and recency heuristic.
+- Normalized 0–100 components and composite; weights sum to 1.
+- No generative classification and no predictive probability.
 
 ### 3. Visualization
-- Dark-themed folium map centered on Sahel
-- Capital city radius circles (50km)
-- Event markers:
-  - 🔴 Red: Battles
-  - 🟡 Yellow: Riots
-  - 🟣 Purple: Strategic developments
-- Click for event details
+- Static, keyboard-accessible operator page.
+- Fixed-axis accepted-history chart, filterable evidence queue, source ledger, provenance, and freshness state.
+- Correct transparent Monarch Castle mark from `assets/mc-mark.png`.
 
 ---
 
@@ -71,26 +56,23 @@ def detect_coup_risk(events):
 # Fetch and analyze
 python sahel_watch.py
 
-# Run coup detection
-python coup_detector.py
+# Generate and validate static Pages output
+python -c "import generate_pages as gp; gp.generate_srti_page()"
+python scripts/validate_srti.py
 ```
 
 ---
 
-## 🔐 API SETUP
+## 🔐 ACCESS
 
-Same ACLED credentials as BNTI:
-```
-ACLED_API_KEY=your_key
-ACLED_EMAIL=your_email
-```
+No credentials. SRTI uses only public publisher endpoints and the repository-scoped GitHub Actions token supplied by GitHub for accepted-snapshot commits and Pages deployment.
 
 ---
 
 ## 🔗 INTEGRATION
 
-Shares infrastructure with BNTI module. Can be combined or separate tab.
+SRTI is the repository root GitHub Pages product. Other research modules are not exposed as active SRTI capabilities.
 
 ---
 
-**Priority**: Phase 2 | **Dependencies**: requests, folium, geopy
+**Dependencies**: requests, beautifulsoup4

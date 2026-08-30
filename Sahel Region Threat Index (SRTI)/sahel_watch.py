@@ -11,11 +11,12 @@ from __future__ import annotations
 import csv
 import json
 import re
-from datetime import datetime, timedelta, timezone
+from concurrent.futures import ThreadPoolExecutor
+from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse
 from xml.etree import ElementTree as ET
 
 import requests
@@ -35,9 +36,13 @@ HEADERS = {"User-Agent": USER_AGENT}
 
 WINDOW_HOURS = 72
 HISTORY_LIMIT = 24 * 30
-FORECAST_HOURS = 6
-COUP_WINDOW_HOURS = 24
 MAX_LOG_ROWS = 2000
+MIN_REACHABLE_SOURCES = 4
+MIN_REGION_COVERAGE = 2
+MIN_DATED_ITEMS = 3
+METHODOLOGY_VERSION = "2.0"
+FETCH_TIMEOUT_SECONDS = 12
+MAX_FETCH_WORKERS = 6
 
 SOURCES = [
     {
@@ -45,6 +50,7 @@ SOURCES = [
         "rss": "https://reliefweb.int/rss?search=country%3AMali",
         "html": "https://reliefweb.int/country/mli",
         "region_focus": True,
+        "regions": ["mali"],
         "weight": 0.9,
     },
     {
@@ -52,6 +58,7 @@ SOURCES = [
         "rss": "https://reliefweb.int/rss?search=country%3ANiger",
         "html": "https://reliefweb.int/country/ner",
         "region_focus": True,
+        "regions": ["niger"],
         "weight": 0.9,
     },
     {
@@ -59,6 +66,7 @@ SOURCES = [
         "rss": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
         "html": "https://reliefweb.int/country/bfa",
         "region_focus": True,
+        "regions": ["burkina_faso"],
         "weight": 0.9,
     },
     {
@@ -66,6 +74,7 @@ SOURCES = [
         "rss": "https://www.maliweb.net/feed",
         "html": "https://www.maliweb.net/",
         "region_focus": True,
+        "regions": ["mali"],
         "weight": 0.8,
     },
     {
@@ -73,6 +82,7 @@ SOURCES = [
         "rss": "https://lefaso.net/spip.php?page=backend",
         "html": "https://lefaso.net/",
         "region_focus": True,
+        "regions": ["burkina_faso"],
         "weight": 0.8,
     },
     {
@@ -80,6 +90,7 @@ SOURCES = [
         "rss": "https://www.actuniger.com/feed/",
         "html": "https://www.actuniger.com/",
         "region_focus": True,
+        "regions": ["niger"],
         "weight": 0.8,
     },
     {
@@ -87,6 +98,7 @@ SOURCES = [
         "rss": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
         "html": "https://www.bbc.com/news/world/africa",
         "region_focus": False,
+        "regions": [],
         "weight": 0.6,
     },
     {
@@ -94,6 +106,7 @@ SOURCES = [
         "rss": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
         "html": "https://news.un.org/en/news/region/africa",
         "region_focus": False,
+        "regions": [],
         "weight": 0.6,
     },
     {
@@ -101,6 +114,7 @@ SOURCES = [
         "rss": "https://www.crisisgroup.org/rss.xml",
         "html": "https://www.crisisgroup.org/africa",
         "region_focus": False,
+        "regions": [],
         "weight": 0.6,
     },
     {
@@ -108,6 +122,7 @@ SOURCES = [
         "rss": "https://www.france24.com/en/africa/rss",
         "html": "https://www.france24.com/en/africa/",
         "region_focus": False,
+        "regions": [],
         "weight": 0.7,
     },
     {
@@ -115,6 +130,7 @@ SOURCES = [
         "rss": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
         "html": "https://allafrica.com/mali/",
         "region_focus": True,
+        "regions": ["mali"],
         "weight": 0.6,
     },
     {
@@ -122,6 +138,7 @@ SOURCES = [
         "rss": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
         "html": "https://allafrica.com/niger/",
         "region_focus": True,
+        "regions": ["niger"],
         "weight": 0.6,
     },
     {
@@ -129,24 +146,17 @@ SOURCES = [
         "rss": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
         "html": "https://allafrica.com/burkinafaso/",
         "region_focus": True,
+        "regions": ["burkina_faso"],
         "weight": 0.6,
     },
 ]
 
-REGION_KEYWORDS = [
-    "sahel",
-    "mali",
-    "niger",
-    "burkina",
-    "burkina faso",
-    "bamako",
-    "niamey",
-    "ouagadougou",
-    "gao",
-    "tillaberi",
-    "menaka",
-    "agadez",
-]
+REGION_KEYWORDS = {
+    "mali": ["mali", "bamako", "gao", "menaka"],
+    "niger": ["niger", "niamey", "tillaberi", "agadez"],
+    "burkina_faso": ["burkina", "burkina faso", "ouagadougou"],
+    "sahel": ["sahel"],
+}
 
 
 
@@ -211,6 +221,13 @@ def parse_datetime(value: Optional[str]) -> Optional[datetime]:
     if not value:
         return None
     try:
+        parsed = datetime.fromisoformat(value.strip().replace("Z", "+00:00"))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc)
+    except (TypeError, ValueError):
+        pass
+    try:
         parsed = parsedate_to_datetime(value)
         if parsed.tzinfo is None:
             parsed = parsed.replace(tzinfo=timezone.utc)
@@ -243,7 +260,7 @@ def extract_link(node: ET.Element) -> str:
 
 def fetch_url(url: str) -> Optional[bytes]:
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=20)
+        resp = requests.get(url, headers=HEADERS, timeout=FETCH_TIMEOUT_SECONDS)
         if resp.status_code >= 400:
             return None
         return resp.content
@@ -309,6 +326,24 @@ def scrape_headlines(html: bytes, limit: int = 12) -> List[Dict[str, str]]:
     return candidates[:limit]
 
 
+def collect_source(source: Dict[str, object]) -> Tuple[Dict[str, object], List[Dict[str, str]], str]:
+    """Collect one source; callers may run independent sources concurrently."""
+    items: List[Dict[str, str]] = []
+    status = "ok"
+    rss_content = fetch_url(str(source["rss"]))
+    if rss_content:
+        items = parse_rss(rss_content)
+    if not items and source.get("html"):
+        html_content = fetch_url(str(source["html"]))
+        if html_content:
+            items = scrape_headlines(html_content)
+        else:
+            status = "unreachable"
+    if not items and status != "unreachable":
+        status = "empty"
+    return source, items, status
+
+
 def normalize_text(text: str) -> str:
     return re.sub(r"\s+", " ", text.lower()).strip()
 
@@ -318,19 +353,28 @@ def strip_html(text: str) -> str:
 
 
 def match_keywords(text: str, keywords: List[str]) -> List[str]:
-    hits = []
-    for kw in keywords:
-        if kw in text:
-            hits.append(kw)
-    return hits
+    return [keyword for keyword in keywords if keyword_present(text, keyword)]
+
+
+def keyword_present(text: str, keyword: str) -> bool:
+    """Match complete terms, preventing Mali/Somali and Niger/Nigeria collisions."""
+    pattern = rf"(?<!\w){re.escape(keyword)}(?!\w)"
+    return re.search(pattern, text, flags=re.IGNORECASE) is not None
 
 
 def region_match(text: str) -> List[str]:
-    hits = []
-    for kw in REGION_KEYWORDS:
-        if kw in text:
-            hits.append(kw)
-    return hits
+    return [
+        region
+        for region, keywords in REGION_KEYWORDS.items()
+        if any(keyword_present(text, keyword) for keyword in keywords)
+    ]
+
+
+def safe_http_url(value: str) -> str:
+    parsed = urlparse(value)
+    if parsed.scheme not in {"http", "https"} or not parsed.netloc:
+        return ""
+    return value
 
 
 def recency_weight(published: datetime, now: datetime) -> float:
@@ -412,8 +456,15 @@ def load_history() -> List[Dict[str, object]]:
 
 
 def save_history(entries: List[Dict[str, object]]) -> None:
-    with HISTORY_JSON.open("w", encoding="utf-8") as f:
-        json.dump(entries, f, indent=2)
+    atomic_write_json(HISTORY_JSON, entries)
+
+
+def atomic_write_json(path: Path, payload: object) -> None:
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    with temporary.open("w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2)
+        f.write("\n")
+    temporary.replace(path)
 
 
 def normalize_bucket(raw: float, scale: float) -> float:
@@ -432,32 +483,41 @@ def classify_score(score: float) -> str:
     return "CRITICAL"
 
 
-def forecast_scores(history: List[Dict[str, object]], hours: int) -> List[Dict[str, object]]:
-    if len(history) < 4:
-        return []
-    window = history[-24:]
-    scores = [float(item["score"]) for item in window]
-    n = len(scores)
-    xs = list(range(n))
-    mean_x = sum(xs) / n
-    mean_y = sum(scores) / n
-    cov = sum((x - mean_x) * (y - mean_y) for x, y in zip(xs, scores))
-    var = sum((x - mean_x) ** 2 for x in xs) or 1.0
-    slope = cov / var
-    intercept = mean_y - slope * mean_x
-
-    last_time = datetime.fromisoformat(window[-1]["timestamp"])
-    prev_time = datetime.fromisoformat(window[-2]["timestamp"])
-    step_delta = last_time - prev_time
-    if step_delta.total_seconds() <= 0:
-        step_delta = timedelta(hours=1)
-    forecast = []
-    for step in range(1, hours + 1):
-        predicted = intercept + slope * (n - 1 + step)
-        predicted = max(0.0, min(100.0, predicted))
-        ts = (last_time + (step * step_delta)).isoformat()
-        forecast.append({"timestamp": ts, "score": round(predicted, 1)})
-    return forecast
+def evaluate_quality_gate(
+    source_status: List[Dict[str, object]], dated_items: int
+) -> Dict[str, object]:
+    reachable = [source for source in source_status if source.get("status") == "ok"]
+    covered_regions = {
+        region
+        for source in reachable
+        if int(source.get("eligible_items", 0)) > 0
+        for region in source.get("regions", [])
+        if region in {"mali", "niger", "burkina_faso"}
+    }
+    reasons = []
+    if len(reachable) < MIN_REACHABLE_SOURCES:
+        reasons.append(
+            f"only {len(reachable)} sources responded; need {MIN_REACHABLE_SOURCES}"
+        )
+    if len(covered_regions) < MIN_REGION_COVERAGE:
+        reasons.append(
+            f"only {len(covered_regions)} target countries covered; need {MIN_REGION_COVERAGE}"
+        )
+    if dated_items < MIN_DATED_ITEMS:
+        reasons.append(f"only {dated_items} dated items; need {MIN_DATED_ITEMS}")
+    return {
+        "passed": not reasons,
+        "reasons": reasons,
+        "reachable_sources": len(reachable),
+        "total_sources": len(source_status),
+        "covered_regions": sorted(covered_regions),
+        "dated_items": dated_items,
+        "criteria": {
+            "minimum_reachable_sources": MIN_REACHABLE_SOURCES,
+            "minimum_target_countries": MIN_REGION_COVERAGE,
+            "minimum_dated_items": MIN_DATED_ITEMS,
+        },
+    }
 
 
 def main() -> None:
@@ -466,34 +526,29 @@ def main() -> None:
     all_items = []
     source_status = []
 
-    for source in SOURCES:
-        items: List[Dict[str, str]] = []
-        status = "ok"
-        rss_content = fetch_url(source["rss"])
-        if rss_content:
-            items = parse_rss(rss_content)
-        if not items and source.get("html"):
-            html_content = fetch_url(source["html"])
-            if html_content:
-                items = scrape_headlines(html_content)
-            else:
-                status = "unreachable"
-        if not items and status != "unreachable":
-            status = "empty"
-
-        all_items.extend([(source, item) for item in items])
-        source_status.append(
-            {
+    source_status_by_name = {}
+    with ThreadPoolExecutor(max_workers=MAX_FETCH_WORKERS) as executor:
+        collected_sources = executor.map(collect_source, SOURCES)
+        for source, items, status in collected_sources:
+            all_items.extend([(source, item) for item in items])
+            source_record = {
                 "name": source["name"],
                 "url": source["rss"],
                 "status": status,
                 "items": len(items),
+                "eligible_items": 0,
+                "regions": source.get("regions", []),
             }
-        )
+            source_status.append(source_record)
+            source_status_by_name[source["name"]] = source_record
 
     event_rows = []
     scored_items = []
     raw_buckets = {key: 0.0 for key in BUCKETS}
+    seen_items = set()
+    dated_items = 0
+    evaluated_items = 0
+    newest_content_at: Optional[datetime] = None
 
     for source, item in all_items:
         title = (item.get("title") or "").strip()
@@ -501,8 +556,15 @@ def main() -> None:
         link = (item.get("link") or "").strip()
         if link:
             base_url = source.get("html") or source.get("rss")
-            link = urljoin(base_url, link)
-        published = parse_datetime(item.get("published")) or now
+            link = safe_http_url(urljoin(base_url, link))
+        published = parse_datetime(item.get("published"))
+        if published is None:
+            continue
+        age_hours = (now - published).total_seconds() / 3600
+        if age_hours < -2 or age_hours > WINDOW_HOURS:
+            continue
+        dated_items += 1
+        source_status_by_name[source["name"]]["eligible_items"] += 1
 
         combined = f"{title} {summary}".strip()
         combined = strip_html(combined)
@@ -510,11 +572,19 @@ def main() -> None:
             continue
 
         normalized = normalize_text(combined)
-        region_hits = region_match(normalized)
-        if not source["region_focus"] and not region_hits:
+        region_hits = sorted(set(region_match(normalized) + source.get("regions", [])))
+        if not region_hits:
             continue
+        evaluated_items += 1
+        if newest_content_at is None or published > newest_content_at:
+            newest_content_at = published
 
-        total_score, bucket_scores, tags, region_hits = score_item(
+        dedupe_key = link or re.sub(r"[^a-z0-9]+", " ", normalized).strip()
+        if dedupe_key in seen_items:
+            continue
+        seen_items.add(dedupe_key)
+
+        total_score, bucket_scores, tags, _ = score_item(
             combined,
             published,
             source["weight"],
@@ -554,8 +624,12 @@ def main() -> None:
             }
         )
 
-    if event_rows:
-        append_event_log(event_rows)
+    quality_gate = evaluate_quality_gate(source_status, dated_items)
+    if not quality_gate["passed"]:
+        print("[HOLD] Collection failed quality gate; last-known-good snapshot retained")
+        for reason in quality_gate["reasons"]:
+            print(f"[HOLD] {reason}")
+        raise SystemExit(2)
 
     normalized_buckets = {}
     for bucket_name, raw_value in raw_buckets.items():
@@ -564,9 +638,14 @@ def main() -> None:
             1,
         )
 
+    raw_weights = {key: BUCKETS[key]["weight"] for key in BUCKETS}
+    weight_total = sum(raw_weights.values()) or 1.0
+    normalized_weights = {
+        key: round(value / weight_total, 4) for key, value in raw_weights.items()
+    }
     overall_score = 0.0
     for bucket_name, score in normalized_buckets.items():
-        overall_score += score * BUCKETS[bucket_name]["weight"]
+        overall_score += score * normalized_weights[bucket_name]
     overall_score = round(overall_score, 1)
     risk_level = classify_score(overall_score)
 
@@ -577,6 +656,7 @@ def main() -> None:
     history.append(
         {
             "timestamp": now.isoformat(),
+            "methodology_version": METHODOLOGY_VERSION,
             "score": overall_score,
             "risk_level": risk_level,
             "components": normalized_buckets,
@@ -585,25 +665,33 @@ def main() -> None:
     )
     if len(history) > HISTORY_LIMIT:
         history = history[-HISTORY_LIMIT:]
-    save_history(history)
-
-    forecast = forecast_scores(history, FORECAST_HOURS)
 
     latest = {
+        "schema_version": 2,
+        "methodology_version": METHODOLOGY_VERSION,
         "fetched_at": now.isoformat(),
+        "content_latest_at": newest_content_at.isoformat() if newest_content_at else None,
         "window_hours": WINDOW_HOURS,
         "score": overall_score,
         "risk_level": risk_level,
         "components": normalized_buckets,
-        "weights": {key: BUCKETS[key]["weight"] for key in BUCKETS},
+        "weights": normalized_weights,
         "items_count": len(scored_items),
+        "items_evaluated": evaluated_items,
         "sources": source_status,
         "top_headlines": top_items,
-        "forecast": forecast,
+        "quality_gate": quality_gate,
+        "provenance": {
+            "collection": "Public RSS feeds with public HTML fallback; no API accounts or keys.",
+            "scoring": "Deterministic keyword and recency heuristic; no model-generated classifications.",
+            "publication": "Accepted snapshots only; failed collection gates retain the prior snapshot.",
+        },
     }
 
-    with LATEST_JSON.open("w", encoding="utf-8") as f:
-        json.dump(latest, f, indent=2)
+    atomic_write_json(LATEST_JSON, latest)
+    save_history(history)
+    if event_rows:
+        append_event_log(event_rows)
 
     print(f"[OK] SRTI score {overall_score} ({risk_level}) from {len(scored_items)} items")
 

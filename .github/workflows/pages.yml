@@ -1,22 +1,57 @@
-name: Deploy GitHub Pages
+name: Verify and deploy SRTI Pages
 
 on:
   push:
-    branches: ["main"]
+    branches: [main]
+  pull_request:
   workflow_dispatch:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
 
 jobs:
-  deploy:
+  quality:
+    name: Test and validate
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: "Sahel Region Threat Index (SRTI)/requirements.txt"
+
+      - name: Install runtime dependencies
+        run: python -m pip install --disable-pip-version-check -r "Sahel Region Threat Index (SRTI)/requirements.txt"
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Verify generated pages are current
+        run: |
+          python -c "import generate_pages as gp; gp.generate_srti_page()"
+          git diff --exit-code -- index.html "Sahel Region Threat Index (SRTI)/index.html"
+
+      - name: Validate snapshot contract
+        run: python scripts/validate_srti.py
+
+  deploy:
+    name: Deploy and check
+    if: github.event_name != 'pull_request'
+    needs: quality
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages-deploy
+      cancel-in-progress: false
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -24,14 +59,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Build minimal Pages artifact
+        run: python scripts/build_pages.py
+
+      - name: Pre-deploy HTTP health check
+        run: |
+          python -m http.server 8000 --directory .pages-artifact >/tmp/srti-pages.log 2>&1 &
+          python scripts/smoke_pages.py http://127.0.0.1:8000/
+
       - name: Configure Pages
         uses: actions/configure-pages@v5
 
-      - name: Upload artifact
+      - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "."
+          path: .pages-artifact
 
-      - name: Deploy
+      - name: Deploy Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+      - name: Post-deploy HTTP health check
+        run: python scripts/smoke_pages.py "${{ steps.deployment.outputs.page_url }}"

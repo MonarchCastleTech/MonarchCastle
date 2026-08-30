@@ -1,22 +1,23 @@
 # Sahel Region Threat Index (SRTI)
 
 RSS-first OSINT pipeline for Mali, Niger, and Burkina Faso. It produces a static
-site by precomputing scores and embeddings (no client-side fetching).
+site with precomputed scores and source evidence (no client-side data fetching).
 
 ## Local run
 ```bash
 python "Sahel Region Threat Index (SRTI)/sahel_watch.py"
-python "Sahel Region Threat Index (SRTI)/coup_detector.py"
-python generate_pages.py
+python -c "import generate_pages as gp; gp.generate_srti_page()"
+python scripts/validate_srti.py
 ```
 
 ## Outputs
-- `data/srti_latest.json`: current score, components, weights, sources, forecast.
+- `data/srti_latest.json`: accepted score, components, source ledger, provenance, and gate result.
 - `data/srti_history.json`: hourly history for charting and trends.
-- `data/srti_coup_alert.json`: simplified coup alert summary.
 - `Sahel Region Threat Index (SRTI)/sahel_data.csv`: event log (trimmed to last 2000 rows).
 - `Sahel Region Threat Index (SRTI)/index.html`: static site output.
 
 ## GitHub Actions
-The workflow in `.github/workflows/srti_hourly.yml` runs hourly, updates data,
-regenerates the static page, and commits the results.
+The workflow in `.github/workflows/srti_hourly.yml` runs hourly against public
+feeds without third-party credentials. It publishes only when coverage gates,
+tests, validation, and pre-deploy health checks pass. A failed collection keeps
+the last-known-good site unchanged. The deploy is checked again over HTTP.
