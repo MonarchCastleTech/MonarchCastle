@@ -419,6 +419,10 @@ def load_existing_links() -> set:
 
 def append_event_log(rows: List[Dict[str, str]]) -> None:
     file_exists = EVENT_LOG_CSV.exists()
+    cleaned_rows = [
+        {k: (str(v).strip() if v is not None else "") for k, v in r.items()}
+        for r in rows
+    ]
     with EVENT_LOG_CSV.open("a", encoding="utf-8", newline="") as f:
         writer = csv.DictWriter(
             f,
@@ -432,14 +436,15 @@ def append_event_log(rows: List[Dict[str, str]]) -> None:
                 "tags",
                 "score",
             ],
+            lineterminator="\n",
         )
         if not file_exists:
             writer.writeheader()
-        writer.writerows(rows)
+        writer.writerows(cleaned_rows)
 
     if EVENT_LOG_CSV.exists():
         with EVENT_LOG_CSV.open("r", encoding="utf-8") as f:
-            lines = f.readlines()
+            lines = [line.rstrip("\r\n") + "\n" for line in f]
         if len(lines) > MAX_LOG_ROWS + 1:
             header = lines[0]
             trimmed = lines[-MAX_LOG_ROWS:]
