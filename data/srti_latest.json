@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-05T08:57:17.520126+00:00",
-  "content_latest_at": "2026-09-05T04:03:51+00:00",
+  "fetched_at": "2026-09-05T12:35:49.897485+00:00",
+  "content_latest_at": "2026-09-05T11:30:00+00:00",
   "window_hours": 72,
-  "score": 2.5,
+  "score": 0.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 3.5,
+    "conflict_intensity": 0.0,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 1,
-  "items_evaluated": 82,
+  "items_count": 0,
+  "items_evaluated": 83,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71,
-      "eligible_items": 71,
+      "items": 73,
+      "eligible_items": 73,
       "regions": [
         "burkina_faso"
       ]
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 43,
-      "eligible_items": 17,
+      "eligible_items": 16,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 3,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 13,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
       "items": 19,
-      "eligible_items": 3,
+      "eligible_items": 2,
       "regions": [
         "mali"
       ]
@@ -140,21 +140,7 @@
       ]
     }
   ],
-  "top_headlines": [
-    {
-      "title": "Can Mali's Fla-Jnim Insurgent Alliance Survive Its Internal Divisions?",
-      "link": "https://allafrica.com/stories/202609020329.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-09-02T10:43:21+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    }
-  ],
+  "top_headlines": [],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -165,7 +151,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 114,
+    "dated_items": 109,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
