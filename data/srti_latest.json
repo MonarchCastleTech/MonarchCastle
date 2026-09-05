@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-05T15:56:35.509214+00:00",
-  "content_latest_at": "2026-09-05T14:48:01+00:00",
+  "fetched_at": "2026-09-05T18:08:32.290009+00:00",
+  "content_latest_at": "2026-09-05T18:04:07+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 9.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 13.4,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 0,
-  "items_evaluated": 86,
+  "items_count": 1,
+  "items_evaluated": 88,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76,
-      "eligible_items": 76,
+      "items": 78,
+      "eligible_items": 78,
       "regions": [
         "burkina_faso"
       ]
@@ -140,7 +140,21 @@
       ]
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "Lutte contre le paludisme : Le Guiriko lance une nouvelle offensive contre les moustiques",
+      "link": "https://lefaso.net/spip.php?article149045",
+      "source": "LeFaso",
+      "published_at": "2026-09-05T17:47:21+00:00",
+      "score": 1.11,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina_faso"
+      ]
+    }
+  ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -151,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 111,
+    "dated_items": 113,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
