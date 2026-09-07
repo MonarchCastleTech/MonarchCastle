@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-07T04:22:11.490247+00:00",
+  "fetched_at": "2026-09-07T10:08:02.798287+00:00",
   "content_latest_at": "2026-09-06T23:52:00+00:00",
   "window_hours": 72,
-  "score": 8.9,
+  "score": 8.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 12.5,
+    "conflict_intensity": 11.4,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 70,
+  "items_evaluated": 59,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 64,
-      "eligible_items": 64,
+      "items": 57,
+      "eligible_items": 57,
       "regions": [
         "burkina_faso"
       ]
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 5,
+      "eligible_items": 4,
       "regions": []
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
       "items": 17,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": [
         "mali"
       ]
@@ -124,7 +124,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
       "items": 23,
-      "eligible_items": 4,
+      "eligible_items": 1,
       "regions": [
         "niger"
       ]
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149045",
       "source": "LeFaso",
       "published_at": "2026-09-06T23:20:00+00:00",
-      "score": 1.04,
+      "score": 0.95,
       "tags": [
         "conflict_intensity"
       ],
@@ -162,10 +162,9 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali",
       "niger"
     ],
-    "dated_items": 84,
+    "dated_items": 72,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
