@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-06T23:44:53.242750+00:00",
-  "content_latest_at": "2026-09-06T21:27:35+00:00",
+  "fetched_at": "2026-09-07T04:22:11.490247+00:00",
+  "content_latest_at": "2026-09-06T23:52:00+00:00",
   "window_hours": 72,
-  "score": 5.6,
+  "score": 8.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 7.8,
+    "conflict_intensity": 12.5,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63,
-      "eligible_items": 63,
+      "items": 64,
+      "eligible_items": 64,
       "regions": [
         "burkina_faso"
       ]
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 31,
-      "eligible_items": 11,
+      "eligible_items": 9,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 0,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
       "items": 23,
-      "eligible_items": 5,
+      "eligible_items": 4,
       "regions": [
         "niger"
       ]
@@ -145,8 +145,8 @@
       "title": "Lutte contre le paludisme : Le Guiriko lance une nouvelle offensive contre les moustiques",
       "link": "https://lefaso.net/spip.php?article149045",
       "source": "LeFaso",
-      "published_at": "2026-09-05T17:47:21+00:00",
-      "score": 0.65,
+      "published_at": "2026-09-06T23:20:00+00:00",
+      "score": 1.04,
       "tags": [
         "conflict_intensity"
       ],
@@ -165,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 85,
+    "dated_items": 84,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
