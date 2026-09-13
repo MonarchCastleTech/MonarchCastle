@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-09T09:35:09.234281+00:00",
-  "content_latest_at": "2026-09-09T09:20:00+00:00",
+  "fetched_at": "2026-09-13T00:50:06.005859+00:00",
+  "content_latest_at": "2026-09-12T23:11:52+00:00",
   "window_hours": 72,
-  "score": 3.4,
+  "score": 2.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 4.7,
+    "conflict_intensity": 3.5,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 83,
+  "items_evaluated": 48,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80,
-      "eligible_items": 80,
+      "items": 44,
+      "eligible_items": 44,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 37,
-      "eligible_items": 12,
+      "items": 41,
+      "eligible_items": 8,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 3,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://www.crisisgroup.org/rss.xml",
       "status": "ok",
       "items": 10,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": []
     },
     {
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 24,
-      "eligible_items": 1,
+      "items": 27,
+      "eligible_items": 3,
       "regions": [
         "niger"
       ]
@@ -133,7 +133,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 6,
+      "items": 5,
       "eligible_items": 0,
       "regions": [
         "burkina_faso"
@@ -142,16 +142,16 @@
   ],
   "top_headlines": [
     {
-      "title": "Lutte contre le paludisme : Le Guiriko lance une nouvelle offensive contre les moustiques",
-      "link": "https://lefaso.net/spip.php?article149045",
-      "source": "LeFaso",
-      "published_at": "2026-09-06T23:20:00+00:00",
-      "score": 0.39,
+      "title": "AI Deepfakes and Fake Fighters Reshape Mali's Information War",
+      "link": "https://allafrica.com/stories/202609100123.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-09-10T07:57:12+00:00",
+      "score": 0.29,
       "tags": [
         "conflict_intensity"
       ],
       "regions": [
-        "burkina_faso"
+        "mali"
       ]
     }
   ],
@@ -165,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 102,
+    "dated_items": 61,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
