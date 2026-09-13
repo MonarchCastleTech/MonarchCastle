@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-13T00:50:06.005859+00:00",
+  "fetched_at": "2026-09-13T05:57:05.096272+00:00",
   "content_latest_at": "2026-09-12T23:11:52+00:00",
   "window_hours": 72,
   "score": 2.5,
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 48,
+  "items_evaluated": 47,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -113,7 +113,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 17,
+      "items": 16,
       "eligible_items": 1,
       "regions": [
         "mali"
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 27,
-      "eligible_items": 3,
+      "items": 26,
+      "eligible_items": 2,
       "regions": [
         "niger"
       ]
@@ -133,7 +133,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 5,
+      "items": 4,
       "eligible_items": 0,
       "regions": [
         "burkina_faso"
@@ -165,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 61,
+    "dated_items": 60,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
