@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-13T16:07:40.902611+00:00",
-  "content_latest_at": "2026-09-13T11:26:14+00:00",
+  "fetched_at": "2026-09-14T00:55:45.939351+00:00",
+  "content_latest_at": "2026-09-13T23:23:00+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 5.6,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 0.0
+    "civilian_risk": 19.6
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 0,
-  "items_evaluated": 44,
+  "items_count": 1,
+  "items_evaluated": 34,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 43,
-      "eligible_items": 43,
+      "items": 33,
+      "eligible_items": 33,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 40,
-      "eligible_items": 6,
+      "items": 43,
+      "eligible_items": 7,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -140,7 +140,21 @@
       ]
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "Robotique, drones et codage : Le Camp vacances ACES \u00e9veille la curiosit\u00e9 scientifique des jeunes",
+      "link": "https://lefaso.net/spip.php?article149195",
+      "source": "LeFaso",
+      "published_at": "2026-09-13T23:00:00+00:00",
+      "score": 1.4,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina_faso"
+      ]
+    }
+  ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -150,7 +164,7 @@
       "burkina_faso",
       "niger"
     ],
-    "dated_items": 52,
+    "dated_items": 42,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
