@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-14T12:36:27.277294+00:00",
-  "content_latest_at": "2026-09-14T12:21:00+00:00",
+  "fetched_at": "2026-09-14T18:31:13.897700+00:00",
+  "content_latest_at": "2026-09-14T16:15:00+00:00",
   "window_hours": 72,
-  "score": 4.7,
+  "score": 4.2,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 16.3
+    "civilian_risk": 14.7
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 41,
+  "items_evaluated": 46,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 39,
-      "eligible_items": 39,
+      "items": 45,
+      "eligible_items": 44,
       "regions": [
         "burkina_faso"
       ]
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 29,
-      "eligible_items": 9,
+      "eligible_items": 11,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 0,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -113,8 +113,8 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 16,
-      "eligible_items": 0,
+      "items": 17,
+      "eligible_items": 1,
       "regions": [
         "mali"
       ]
@@ -124,7 +124,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
       "items": 27,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": [
         "niger"
       ]
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149195",
       "source": "LeFaso",
       "published_at": "2026-09-13T23:00:00+00:00",
-      "score": 1.17,
+      "score": 1.05,
       "tags": [
         "civilian_risk"
       ],
@@ -162,9 +162,10 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
+      "mali",
       "niger"
     ],
-    "dated_items": 51,
+    "dated_items": 59,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
