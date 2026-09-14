@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-14T06:04:16.355975+00:00",
-  "content_latest_at": "2026-09-13T23:23:00+00:00",
+  "fetched_at": "2026-09-14T12:36:27.277294+00:00",
+  "content_latest_at": "2026-09-14T12:21:00+00:00",
   "window_hours": 72,
-  "score": 5.2,
+  "score": 4.7,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 18.2
+    "civilian_risk": 16.3
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 34,
+  "items_evaluated": 41,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 33,
-      "eligible_items": 33,
+      "items": 39,
+      "eligible_items": 39,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 43,
-      "eligible_items": 7,
+      "items": 29,
+      "eligible_items": 9,
       "regions": []
     },
     {
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 26,
-      "eligible_items": 1,
+      "items": 27,
+      "eligible_items": 2,
       "regions": [
         "niger"
       ]
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149195",
       "source": "LeFaso",
       "published_at": "2026-09-13T23:00:00+00:00",
-      "score": 1.3,
+      "score": 1.17,
       "tags": [
         "civilian_risk"
       ],
@@ -164,7 +164,7 @@
       "burkina_faso",
       "niger"
     ],
-    "dated_items": 42,
+    "dated_items": 51,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
