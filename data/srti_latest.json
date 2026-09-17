@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-17T06:00:41.969058+00:00",
-  "content_latest_at": "2026-09-17T00:13:00+00:00",
+  "fetched_at": "2026-09-17T11:31:09.288354+00:00",
+  "content_latest_at": "2026-09-17T11:00:00+00:00",
   "window_hours": 72,
-  "score": 12.1,
+  "score": 0.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 10.6,
-    "civilian_risk": 15.9
+    "conflict_intensity": 0.0,
+    "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 1,
-  "items_evaluated": 82,
+  "items_count": 0,
+  "items_evaluated": 78,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77,
-      "eligible_items": 77,
+      "items": 76,
+      "eligible_items": 75,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32,
-      "eligible_items": 15,
+      "items": 31,
+      "eligible_items": 14,
       "regions": []
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://www.crisisgroup.org/rss.xml",
       "status": "ok",
       "items": 10,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 7,
+      "eligible_items": 6,
       "regions": []
     },
     {
@@ -124,7 +124,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
       "items": 26,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": [
         "niger"
       ]
@@ -140,25 +140,7 @@
       ]
     }
   ],
-  "top_headlines": [
-    {
-      "title": "Ten Challenges for the UN in 2026-2027",
-      "link": "https://www.crisisgroup.org/sbr/global/sb15-ten-challenges-un-2026-2027",
-      "source": "Crisis Group",
-      "published_at": "2026-09-14T08:00:00+00:00",
-      "score": 2.02,
-      "tags": [
-        "conflict_intensity",
-        "civilian_risk"
-      ],
-      "regions": [
-        "burkina_faso",
-        "mali",
-        "niger",
-        "sahel"
-      ]
-    }
-  ],
+  "top_headlines": [],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -166,10 +148,9 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali",
-      "niger"
+      "mali"
     ],
-    "dated_items": 108,
+    "dated_items": 102,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
