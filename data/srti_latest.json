@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-18T04:29:29.334210+00:00",
+  "fetched_at": "2026-09-18T09:35:56.334077+00:00",
   "content_latest_at": "2026-09-18T00:27:53+00:00",
   "window_hours": 72,
   "score": 0.0,
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29,
-      "eligible_items": 13,
+      "items": 28,
+      "eligible_items": 14,
       "regions": []
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://www.crisisgroup.org/rss.xml",
       "status": "ok",
       "items": 10,
-      "eligible_items": 0,
+      "eligible_items": 2,
       "regions": []
     },
     {
@@ -150,7 +150,7 @@
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 105,
+    "dated_items": 108,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
