@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-19T00:09:18.929329+00:00",
+  "fetched_at": "2026-09-19T05:42:46.100526+00:00",
   "content_latest_at": "2026-09-18T22:22:00+00:00",
   "window_hours": 72,
   "score": 0.0,
@@ -113,7 +113,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 15,
+      "items": 14,
       "eligible_items": 1,
       "regions": [
         "mali"
@@ -123,7 +123,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 26,
+      "items": 25,
       "eligible_items": 0,
       "regions": [
         "niger"
