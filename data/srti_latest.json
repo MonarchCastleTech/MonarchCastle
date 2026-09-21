@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-19T05:42:46.100526+00:00",
-  "content_latest_at": "2026-09-18T22:22:00+00:00",
+  "fetched_at": "2026-09-21T13:55:00.841778+00:00",
+  "content_latest_at": "2026-09-21T13:48:00+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 86,
+  "items_evaluated": 71,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 82,
-      "eligible_items": 82,
+      "items": 68,
+      "eligible_items": 68,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29,
-      "eligible_items": 12,
+      "items": 28,
+      "eligible_items": 8,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": []
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://www.crisisgroup.org/rss.xml",
       "status": "ok",
       "items": 10,
-      "eligible_items": 2,
+      "eligible_items": 0,
       "regions": []
     },
     {
@@ -113,8 +113,8 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 14,
-      "eligible_items": 1,
+      "items": 13,
+      "eligible_items": 0,
       "regions": [
         "mali"
       ]
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 25,
-      "eligible_items": 0,
+      "items": 26,
+      "eligible_items": 1,
       "regions": [
         "niger"
       ]
@@ -148,9 +148,9 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali"
+      "niger"
     ],
-    "dated_items": 108,
+    "dated_items": 87,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
