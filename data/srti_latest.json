@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-21T23:11:08.621156+00:00",
+  "fetched_at": "2026-09-22T04:39:59.758268+00:00",
   "content_latest_at": "2026-09-21T22:41:00+00:00",
   "window_hours": 72,
   "score": 0.0,
@@ -113,7 +113,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 13,
+      "items": 12,
       "eligible_items": 0,
       "regions": [
         "mali"
