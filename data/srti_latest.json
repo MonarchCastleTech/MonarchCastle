@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-23T11:22:56.003336+00:00",
-  "content_latest_at": "2026-09-23T10:50:00+00:00",
+  "fetched_at": "2026-09-23T16:45:35.411950+00:00",
+  "content_latest_at": "2026-09-23T16:03:15+00:00",
   "window_hours": 72,
-  "score": 5.8,
+  "score": 5.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 3.7,
-    "civilian_risk": 11.2
+    "conflict_intensity": 3.5,
+    "civilian_risk": 10.6
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 91,
+  "items_evaluated": 105,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 85,
-      "eligible_items": 83,
+      "items": 97,
+      "eligible_items": 97,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32,
-      "eligible_items": 10,
+      "items": 34,
+      "eligible_items": 14,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 9,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -146,7 +146,7 @@
       "link": "https://www.crisisgroup.org/sco/global/updates-un-general-assembly-2026",
       "source": "Crisis Group",
       "published_at": "2026-09-21T13:56:47+00:00",
-      "score": 1.11,
+      "score": 1.05,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -166,7 +166,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 112,
+    "dated_items": 132,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
