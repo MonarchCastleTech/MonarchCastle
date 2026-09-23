@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-22T21:58:25.951403+00:00",
-  "content_latest_at": "2026-09-22T21:56:25+00:00",
+  "fetched_at": "2026-09-23T00:17:51.675412+00:00",
+  "content_latest_at": "2026-09-22T22:50:00+00:00",
   "window_hours": 72,
-  "score": 8.8,
+  "score": 8.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 5.6,
-    "civilian_risk": 16.8
+    "conflict_intensity": 5.3,
+    "civilian_risk": 15.8
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 82,
+  "items_evaluated": 85,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78,
-      "eligible_items": 78,
+      "items": 81,
+      "eligible_items": 81,
       "regions": [
         "burkina_faso"
       ]
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 9,
+      "eligible_items": 8,
       "regions": []
     },
     {
@@ -146,7 +146,7 @@
       "link": "https://www.crisisgroup.org/sco/global/updates-un-general-assembly-2026",
       "source": "Crisis Group",
       "published_at": "2026-09-21T13:56:47+00:00",
-      "score": 1.67,
+      "score": 1.57,
       "tags": [
         "conflict_intensity",
         "civilian_risk"
@@ -165,7 +165,7 @@
       "burkina_faso",
       "niger"
     ],
-    "dated_items": 100,
+    "dated_items": 102,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
