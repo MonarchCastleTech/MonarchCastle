@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-25T13:37:02.780552+00:00",
-  "content_latest_at": "2026-09-25T12:43:10+00:00",
+  "fetched_at": "2026-09-25T18:28:31.828583+00:00",
+  "content_latest_at": "2026-09-25T16:14:21+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 117,
+  "items_evaluated": 115,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 110,
-      "eligible_items": 110,
+      "items": 108,
+      "eligible_items": 108,
       "regions": [
         "burkina_faso"
       ]
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 29,
-      "eligible_items": 11,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 28,
-      "eligible_items": 2,
+      "items": 30,
+      "eligible_items": 3,
       "regions": [
         "niger"
       ]
@@ -134,7 +134,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
       "items": 5,
-      "eligible_items": 4,
+      "eligible_items": 3,
       "regions": [
         "burkina_faso"
       ]
@@ -151,7 +151,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 144,
+    "dated_items": 141,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
