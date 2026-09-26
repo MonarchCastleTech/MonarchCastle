@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-26T19:45:32.513934+00:00",
-  "content_latest_at": "2026-09-26T19:21:23+00:00",
+  "fetched_at": "2026-09-26T22:39:22.194300+00:00",
+  "content_latest_at": "2026-09-26T20:20:39+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -61,7 +61,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 95,
+      "items": 98,
       "eligible_items": 95,
       "regions": [
         "burkina_faso"
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 28,
-      "eligible_items": 7,
+      "items": 29,
+      "eligible_items": 8,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 12,
+      "eligible_items": 11,
       "regions": []
     },
     {
