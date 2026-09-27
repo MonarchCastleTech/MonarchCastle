@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-27T07:59:56.637301+00:00",
-  "content_latest_at": "2026-09-27T01:09:56+00:00",
+  "fetched_at": "2026-09-27T13:49:56.418308+00:00",
+  "content_latest_at": "2026-09-27T13:28:05+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 86,
-      "eligible_items": 86,
+      "items": 87,
+      "eligible_items": 87,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29,
-      "eligible_items": 8,
+      "items": 27,
+      "eligible_items": 7,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 4,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -134,7 +134,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
       "items": 5,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": [
         "burkina_faso"
       ]
@@ -150,7 +150,7 @@
       "burkina_faso",
       "niger"
     ],
-    "dated_items": 112,
+    "dated_items": 110,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
