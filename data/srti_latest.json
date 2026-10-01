@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-09-28T06:39:08.765647+00:00",
-  "content_latest_at": "2026-09-27T23:54:00+00:00",
+  "fetched_at": "2026-10-01T13:00:39.260766+00:00",
+  "content_latest_at": "2026-10-01T10:04:23+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 2.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 3.5,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 0,
-  "items_evaluated": 76,
+  "items_count": 1,
+  "items_evaluated": 15,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -60,9 +60,9 @@
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
-      "status": "ok",
-      "items": 74,
-      "eligible_items": 74,
+      "status": "empty",
+      "items": 0,
+      "eligible_items": 0,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 26,
-      "eligible_items": 6,
+      "items": 31,
+      "eligible_items": 13,
       "regions": []
     },
     {
@@ -96,8 +96,8 @@
     {
       "name": "Crisis Group",
       "url": "https://www.crisisgroup.org/rss.xml",
-      "status": "ok",
-      "items": 10,
+      "status": "unreachable",
+      "items": 0,
       "eligible_items": 0,
       "regions": []
     },
@@ -106,15 +106,15 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 13,
+      "eligible_items": 7,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 10,
-      "eligible_items": 0,
+      "items": 18,
+      "eligible_items": 9,
       "regions": [
         "mali"
       ]
@@ -133,24 +133,39 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 5,
-      "eligible_items": 0,
+      "items": 9,
+      "eligible_items": 4,
       "regions": [
         "burkina_faso"
       ]
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "Lone Star Seek to Bounce Back Against Mali in AFCON Qualifying Clash",
+      "link": "https://allafrica.com/stories/202609280735.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-09-28T23:57:40+00:00",
+      "score": 0.29,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "mali"
+      ]
+    }
+  ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
-    "reachable_sources": 10,
+    "reachable_sources": 8,
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
+      "mali",
       "niger"
     ],
-    "dated_items": 98,
+    "dated_items": 38,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
