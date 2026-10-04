@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-04T13:07:53.243949+00:00",
-  "content_latest_at": "2026-10-04T11:41:08+00:00",
+  "fetched_at": "2026-10-04T18:04:47.740416+00:00",
+  "content_latest_at": "2026-10-04T17:21:29+00:00",
   "window_hours": 72,
-  "score": 5.5,
+  "score": 5.1,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 19.4
+    "civilian_risk": 18.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 61,
-      "eligible_items": 61,
+      "items": 63,
+      "eligible_items": 63,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31,
-      "eligible_items": 10,
+      "items": 32,
+      "eligible_items": 9,
       "regions": []
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
       "items": 19,
-      "eligible_items": 2,
+      "eligible_items": 0,
       "regions": [
         "mali"
       ]
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149724",
       "source": "LeFaso",
       "published_at": "2026-10-04T10:22:50+00:00",
-      "score": 1.38,
+      "score": 1.29,
       "tags": [
         "civilian_risk"
       ],
@@ -162,10 +162,9 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali",
       "niger"
     ],
-    "dated_items": 80,
+    "dated_items": 79,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
