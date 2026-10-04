@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-04T00:29:29.863607+00:00",
+  "fetched_at": "2026-10-04T06:44:40.036467+00:00",
   "content_latest_at": "2026-10-03T23:37:00+00:00",
   "window_hours": 72,
   "score": 0.0,
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 69,
+  "items_evaluated": 68,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 32,
-      "eligible_items": 11,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -113,7 +113,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 20,
+      "items": 19,
       "eligible_items": 4,
       "regions": [
         "mali"
@@ -134,7 +134,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
       "items": 9,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": [
         "burkina_faso"
       ]
@@ -151,7 +151,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 86,
+    "dated_items": 84,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
