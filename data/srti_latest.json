@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-04T06:44:40.036467+00:00",
-  "content_latest_at": "2026-10-03T23:37:00+00:00",
+  "fetched_at": "2026-10-04T13:07:53.243949+00:00",
+  "content_latest_at": "2026-10-04T11:41:08+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 5.5,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 0.0
+    "civilian_risk": 19.4
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 0,
-  "items_evaluated": 68,
+  "items_count": 1,
+  "items_evaluated": 64,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 63,
-      "eligible_items": 63,
+      "items": 61,
+      "eligible_items": 61,
       "regions": [
         "burkina_faso"
       ]
@@ -81,7 +81,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32,
+      "items": 31,
       "eligible_items": 10,
       "regions": []
     },
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 4,
+      "eligible_items": 5,
       "regions": []
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
       "items": 19,
-      "eligible_items": 4,
+      "eligible_items": 2,
       "regions": [
         "mali"
       ]
@@ -140,7 +140,21 @@
       ]
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "Match amical international : Le Burkina Faso s'incline face \u00e0 l'Argentine (7-0)",
+      "link": "https://lefaso.net/spip.php?article149724",
+      "source": "LeFaso",
+      "published_at": "2026-10-04T10:22:50+00:00",
+      "score": 1.38,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "burkina_faso"
+      ]
+    }
+  ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -151,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 84,
+    "dated_items": 80,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
