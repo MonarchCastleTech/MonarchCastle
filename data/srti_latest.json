@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-05T00:45:01.403369+00:00",
-  "content_latest_at": "2026-10-04T21:13:00+00:00",
+  "fetched_at": "2026-10-09T20:49:46.127619+00:00",
+  "content_latest_at": "2026-10-09T19:18:22+00:00",
   "window_hours": 72,
-  "score": 5.4,
+  "score": 2.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
-    "civilian_risk": 19.0
+    "conflict_intensity": 3.5,
+    "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 48,
+  "items_evaluated": 110,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 47,
-      "eligible_items": 47,
+      "items": 105,
+      "eligible_items": 103,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31,
-      "eligible_items": 7,
+      "items": 30,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 1,
+      "eligible_items": 2,
       "regions": []
     },
     {
@@ -106,15 +106,15 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 5,
+      "eligible_items": 7,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 19,
-      "eligible_items": 0,
+      "items": 22,
+      "eligible_items": 5,
       "regions": [
         "mali"
       ]
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 20,
-      "eligible_items": 1,
+      "items": 15,
+      "eligible_items": 2,
       "regions": [
         "niger"
       ]
@@ -142,16 +142,16 @@
   ],
   "top_headlines": [
     {
-      "title": "Match amical international : Le Burkina Faso s'incline face \u00e0 l'Argentine (7-0)",
-      "link": "https://lefaso.net/spip.php?article149724",
-      "source": "LeFaso",
-      "published_at": "2026-10-04T20:35:00+00:00",
-      "score": 1.36,
+      "title": "Junta Forces Retake Strategic Town of Kidal",
+      "link": "https://allafrica.com/stories/202610070174.html",
+      "source": "AllAfrica - Mali",
+      "published_at": "2026-10-07T05:35:09+00:00",
+      "score": 0.29,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "burkina_faso"
+        "mali"
       ]
     }
   ],
@@ -162,9 +162,10 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
+      "mali",
       "niger"
     ],
-    "dated_items": 61,
+    "dated_items": 129,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
