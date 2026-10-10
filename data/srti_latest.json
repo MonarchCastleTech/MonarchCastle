@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-10T00:41:44.410587+00:00",
-  "content_latest_at": "2026-10-09T22:39:39+00:00",
+  "fetched_at": "2026-10-10T06:56:15.713265+00:00",
+  "content_latest_at": "2026-10-09T23:30:00+00:00",
   "window_hours": 72,
-  "score": 2.5,
+  "score": 0.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 3.5,
+    "conflict_intensity": 0.0,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 1,
-  "items_evaluated": 99,
+  "items_count": 0,
+  "items_evaluated": 102,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 92,
-      "eligible_items": 92,
+      "items": 96,
+      "eligible_items": 96,
       "regions": [
         "burkina_faso"
       ]
@@ -113,8 +113,8 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 22,
-      "eligible_items": 5,
+      "items": 21,
+      "eligible_items": 4,
       "regions": [
         "mali"
       ]
@@ -140,21 +140,7 @@
       ]
     }
   ],
-  "top_headlines": [
-    {
-      "title": "Junta Forces Retake Strategic Town of Kidal",
-      "link": "https://allafrica.com/stories/202610070174.html",
-      "source": "AllAfrica - Mali",
-      "published_at": "2026-10-07T05:35:09+00:00",
-      "score": 0.29,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "mali"
-      ]
-    }
-  ],
+  "top_headlines": [],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -165,7 +151,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 119,
+    "dated_items": 122,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
