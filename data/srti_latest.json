@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-10T06:56:15.713265+00:00",
-  "content_latest_at": "2026-10-09T23:30:00+00:00",
+  "fetched_at": "2026-10-10T13:32:03.036475+00:00",
+  "content_latest_at": "2026-10-10T11:40:14+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 96,
-      "eligible_items": 96,
+      "items": 97,
+      "eligible_items": 97,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31,
-      "eligible_items": 11,
+      "items": 30,
+      "eligible_items": 9,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
       "items": 21,
-      "eligible_items": 4,
+      "eligible_items": 3,
       "regions": [
         "mali"
       ]
@@ -151,7 +151,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 122,
+    "dated_items": 119,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
