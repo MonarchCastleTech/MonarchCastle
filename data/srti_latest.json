@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-11T15:33:24.962139+00:00",
-  "content_latest_at": "2026-10-11T12:20:28+00:00",
+  "fetched_at": "2026-10-11T20:10:02.248420+00:00",
+  "content_latest_at": "2026-10-11T17:00:00+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 79,
+  "items_evaluated": 73,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76,
-      "eligible_items": 75,
+      "items": 71,
+      "eligible_items": 69,
       "regions": [
         "burkina_faso"
       ]
@@ -151,7 +151,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 94,
+    "dated_items": 88,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
