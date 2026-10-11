@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-11T08:39:57.653644+00:00",
-  "content_latest_at": "2026-10-10T23:24:38+00:00",
+  "fetched_at": "2026-10-11T15:33:24.962139+00:00",
+  "content_latest_at": "2026-10-11T12:20:28+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 84,
+  "items_evaluated": 79,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 80,
-      "eligible_items": 80,
+      "items": 76,
+      "eligible_items": 75,
       "regions": [
         "burkina_faso"
       ]
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 8,
+      "eligible_items": 9,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 5,
+      "eligible_items": 6,
       "regions": []
     },
     {
@@ -151,7 +151,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 98,
+    "dated_items": 94,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
