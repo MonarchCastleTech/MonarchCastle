@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-12T00:25:57.775897+00:00",
+  "fetched_at": "2026-10-12T07:14:42.079345+00:00",
   "content_latest_at": "2026-10-11T22:05:00+00:00",
   "window_hours": 72,
   "score": 0.0,
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 61,
+  "items_evaluated": 58,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 0,
+      "eligible_items": 2,
       "regions": []
     },
     {
@@ -106,15 +106,15 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 6,
+      "eligible_items": 7,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 20,
-      "eligible_items": 1,
+      "items": 19,
+      "eligible_items": 0,
       "regions": [
         "mali"
       ]
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 16,
-      "eligible_items": 3,
+      "items": 14,
+      "eligible_items": 1,
       "regions": [
         "niger"
       ]
@@ -148,7 +148,6 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali",
       "niger"
     ],
     "dated_items": 76,
