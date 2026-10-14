@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-14T18:29:15.368520+00:00",
-  "content_latest_at": "2026-10-14T15:54:13+00:00",
+  "fetched_at": "2026-10-14T22:11:39.824743+00:00",
+  "content_latest_at": "2026-10-14T21:17:00+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 9.5,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 13.3,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 0,
-  "items_evaluated": 83,
+  "items_count": 1,
+  "items_evaluated": 76,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78,
-      "eligible_items": 78,
+      "items": 73,
+      "eligible_items": 71,
       "regions": [
         "burkina_faso"
       ]
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 1,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 10,
+      "eligible_items": 11,
       "regions": []
     },
     {
@@ -140,7 +140,21 @@
       ]
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "\u200eBurkina/Gestion des d\u00e9chets : Face \u00e0 un syst\u00e8me \u00ab \u00e0 bout de souffle \u00bb, l'\u00c9tat engage une offensive de trois ans",
+      "link": "https://lefaso.net/spip.php?article149975",
+      "source": "LeFaso",
+      "published_at": "2026-10-14T21:11:00+00:00",
+      "score": 1.1,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina_faso"
+      ]
+    }
+  ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -151,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 107,
+    "dated_items": 103,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
