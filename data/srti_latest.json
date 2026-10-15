@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-15T13:18:49.329177+00:00",
-  "content_latest_at": "2026-10-15T13:00:00+00:00",
+  "fetched_at": "2026-10-15T18:11:23.371246+00:00",
+  "content_latest_at": "2026-10-15T16:09:00+00:00",
   "window_hours": 72,
-  "score": 7.4,
+  "score": 6.8,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 10.4,
+    "conflict_intensity": 9.5,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 80,
+  "items_evaluated": 85,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 73,
-      "eligible_items": 73,
+      "items": 78,
+      "eligible_items": 78,
       "regions": [
         "burkina_faso"
       ]
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149975",
       "source": "LeFaso",
       "published_at": "2026-10-14T21:11:00+00:00",
-      "score": 0.87,
+      "score": 0.79,
       "tags": [
         "conflict_intensity"
       ],
@@ -165,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 104,
+    "dated_items": 110,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
