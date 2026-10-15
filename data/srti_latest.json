@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-15T07:17:52.546737+00:00",
-  "content_latest_at": "2026-10-15T07:01:45+00:00",
+  "fetched_at": "2026-10-15T13:18:49.329177+00:00",
+  "content_latest_at": "2026-10-15T13:00:00+00:00",
   "window_hours": 72,
-  "score": 8.3,
+  "score": 7.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 11.6,
+    "conflict_intensity": 10.4,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 78,
+  "items_evaluated": 80,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71,
-      "eligible_items": 71,
+      "items": 73,
+      "eligible_items": 73,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 34,
-      "eligible_items": 10,
+      "items": 32,
+      "eligible_items": 12,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 3,
+      "eligible_items": 2,
       "regions": []
     },
     {
@@ -98,7 +98,7 @@
       "url": "https://www.crisisgroup.org/rss.xml",
       "status": "ok",
       "items": 10,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 10,
+      "eligible_items": 9,
       "regions": []
     },
     {
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149975",
       "source": "LeFaso",
       "published_at": "2026-10-14T21:11:00+00:00",
-      "score": 0.96,
+      "score": 0.87,
       "tags": [
         "conflict_intensity"
       ],
@@ -165,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 103,
+    "dated_items": 104,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
