@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-15T18:11:23.371246+00:00",
-  "content_latest_at": "2026-10-15T16:09:00+00:00",
+  "fetched_at": "2026-10-15T22:07:20.195408+00:00",
+  "content_latest_at": "2026-10-15T21:36:45+00:00",
   "window_hours": 72,
-  "score": 6.8,
+  "score": 6.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 9.5,
+    "conflict_intensity": 8.8,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -61,7 +61,7 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 78,
+      "items": 83,
       "eligible_items": 78,
       "regions": [
         "burkina_faso"
@@ -98,7 +98,7 @@
       "url": "https://www.crisisgroup.org/rss.xml",
       "status": "ok",
       "items": 10,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 9,
+      "eligible_items": 8,
       "regions": []
     },
     {
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149975",
       "source": "LeFaso",
       "published_at": "2026-10-14T21:11:00+00:00",
-      "score": 0.79,
+      "score": 0.73,
       "tags": [
         "conflict_intensity"
       ],
@@ -165,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 110,
+    "dated_items": 108,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
