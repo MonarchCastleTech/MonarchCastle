@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-16T01:09:59.867996+00:00",
+  "fetched_at": "2026-10-16T07:01:30.590172+00:00",
   "content_latest_at": "2026-10-16T00:35:17+00:00",
   "window_hours": 72,
-  "score": 5.9,
+  "score": 5.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 8.2,
+    "conflict_intensity": 7.1,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 78,
+  "items_evaluated": 77,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -113,7 +113,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 24,
+      "items": 23,
       "eligible_items": 5,
       "regions": [
         "mali"
@@ -123,7 +123,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 14,
+      "items": 13,
       "eligible_items": 1,
       "regions": [
         "niger"
@@ -134,7 +134,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
       "items": 10,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": [
         "burkina_faso"
       ]
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149975",
       "source": "LeFaso",
       "published_at": "2026-10-14T21:11:00+00:00",
-      "score": 0.68,
+      "score": 0.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -165,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 101,
+    "dated_items": 100,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
