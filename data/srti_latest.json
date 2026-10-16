@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-16T07:01:30.590172+00:00",
-  "content_latest_at": "2026-10-16T00:35:17+00:00",
+  "fetched_at": "2026-10-16T12:16:43.421121+00:00",
+  "content_latest_at": "2026-10-16T11:50:55+00:00",
   "window_hours": 72,
-  "score": 5.1,
+  "score": 4.4,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 7.1,
+    "conflict_intensity": 6.1,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 77,
+  "items_evaluated": 86,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 71,
-      "eligible_items": 71,
+      "items": 80,
+      "eligible_items": 80,
       "regions": [
         "burkina_faso"
       ]
@@ -106,14 +106,14 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 8,
+      "eligible_items": 6,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 23,
+      "items": 24,
       "eligible_items": 5,
       "regions": [
         "mali"
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article149975",
       "source": "LeFaso",
       "published_at": "2026-10-14T21:11:00+00:00",
-      "score": 0.59,
+      "score": 0.51,
       "tags": [
         "conflict_intensity"
       ],
@@ -165,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 100,
+    "dated_items": 107,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
