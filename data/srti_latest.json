@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-17T19:12:29.396545+00:00",
+  "fetched_at": "2026-10-17T22:10:46.620812+00:00",
   "content_latest_at": "2026-10-17T18:42:42+00:00",
   "window_hours": 72,
-  "score": 3.4,
+  "score": 0.0,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 4.7,
+    "conflict_intensity": 0.0,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 1,
-  "items_evaluated": 63,
+  "items_count": 0,
+  "items_evaluated": 51,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 60,
-      "eligible_items": 60,
+      "items": 48,
+      "eligible_items": 48,
       "regions": [
         "burkina_faso"
       ]
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 4,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -140,21 +140,7 @@
       ]
     }
   ],
-  "top_headlines": [
-    {
-      "title": "\u200eBurkina/Gestion des d\u00e9chets : Face \u00e0 un syst\u00e8me \u00ab \u00e0 bout de souffle \u00bb, l'\u00c9tat engage une offensive de trois ans",
-      "link": "https://lefaso.net/spip.php?article149975",
-      "source": "LeFaso",
-      "published_at": "2026-10-14T21:11:00+00:00",
-      "score": 0.39,
-      "tags": [
-        "conflict_intensity"
-      ],
-      "regions": [
-        "burkina_faso"
-      ]
-    }
-  ],
+  "top_headlines": [],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -164,7 +150,7 @@
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 75,
+    "dated_items": 62,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
