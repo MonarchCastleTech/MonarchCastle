@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-18T10:52:48.539225+00:00",
-  "content_latest_at": "2026-10-18T08:21:06+00:00",
+  "fetched_at": "2026-10-18T14:29:42.679779+00:00",
+  "content_latest_at": "2026-10-18T12:43:15+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 32,
-      "eligible_items": 4,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -150,7 +150,7 @@
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 67,
+    "dated_items": 65,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
