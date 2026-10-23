@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-23T09:55:13.936090+00:00",
-  "content_latest_at": "2026-10-23T06:47:52+00:00",
+  "fetched_at": "2026-10-23T14:54:12.728787+00:00",
+  "content_latest_at": "2026-10-23T14:39:03+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 7,
+  "items_evaluated": 102,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -60,9 +60,9 @@
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
-      "status": "empty",
-      "items": 0,
-      "eligible_items": 0,
+      "status": "ok",
+      "items": 96,
+      "eligible_items": 96,
       "regions": [
         "burkina_faso"
       ]
@@ -70,8 +70,8 @@
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "unreachable",
-      "items": 0,
+      "status": "ok",
+      "items": 6,
       "eligible_items": 0,
       "regions": [
         "niger"
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 33,
-      "eligible_items": 10,
+      "eligible_items": 11,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 5,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -105,8 +105,8 @@
       "name": "France 24 - Africa",
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
-      "items": 30,
-      "eligible_items": 18,
+      "items": 12,
+      "eligible_items": 0,
       "regions": []
     },
     {
@@ -144,13 +144,13 @@
   "quality_gate": {
     "passed": true,
     "reasons": [],
-    "reachable_sources": 8,
+    "reachable_sources": 10,
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 38,
+    "dated_items": 115,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
