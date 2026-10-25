@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-25T05:59:26.455620+00:00",
-  "content_latest_at": "2026-10-24T23:56:00+00:00",
+  "fetched_at": "2026-10-25T11:12:27.743298+00:00",
+  "content_latest_at": "2026-10-25T10:40:00+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 97,
-      "eligible_items": 97,
+      "items": 98,
+      "eligible_items": 98,
       "regions": [
         "burkina_faso"
       ]
@@ -134,7 +134,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
       "items": 10,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": [
         "burkina_faso"
       ]
