@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-26T05:58:40.878380+00:00",
-  "content_latest_at": "2026-10-25T22:24:00+00:00",
+  "fetched_at": "2026-10-27T10:22:31.856820+00:00",
+  "content_latest_at": "2026-10-27T10:02:21+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 85,
+  "items_evaluated": 78,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 84,
-      "eligible_items": 84,
+      "items": 72,
+      "eligible_items": 72,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32,
-      "eligible_items": 8,
+      "items": 31,
+      "eligible_items": 7,
       "regions": []
     },
     {
@@ -106,15 +106,15 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 7,
+      "eligible_items": 2,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 28,
-      "eligible_items": 1,
+      "items": 30,
+      "eligible_items": 2,
       "regions": [
         "mali"
       ]
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 10,
-      "eligible_items": 0,
+      "items": 9,
+      "eligible_items": 1,
       "regions": [
         "niger"
       ]
@@ -148,9 +148,10 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali"
+      "mali",
+      "niger"
     ],
-    "dated_items": 103,
+    "dated_items": 87,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
