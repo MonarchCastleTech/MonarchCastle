@@ -85,6 +85,14 @@ class RenderTests(unittest.TestCase):
         self.assertNotIn("Sources Live", markup)
         self.assertIn("SRTI / PUBLIC OSINT MONITOR", markup)
 
+    def test_shared_navigation_uses_relative_assets_for_both_routes(self):
+        latest, history = self.sample()
+        for prefix in ("assets", "../assets"):
+            markup = generate_pages.render_srti_operator_html(latest, history, prefix, "data")
+            self.assertIn(f'href="{prefix}/monarch/design.css"', markup)
+            self.assertIn('class="monarch-shell"', markup)
+            self.assertIn('href="https://monarchcastle.com/products/"', markup)
+
 
 if __name__ == "__main__":
     unittest.main()

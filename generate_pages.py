@@ -850,9 +850,11 @@ def render_srti_operator_html(latest, history, asset_prefix, data_prefix):
     <title>SRTI | Sahel Region Threat Index</title>
     <link rel="icon" type="image/png" href="{asset_prefix}/mc-mark.png">
     <link rel="stylesheet" href="{asset_prefix}/srti.css?v=2.0">
+    <link rel="stylesheet" href="{asset_prefix}/monarch/design.css">
     <script src="{asset_prefix}/srti.js?v=2.0" defer></script>
 </head>
-<body class="{srti_safe_text(risk_class)}">
+<body class="{srti_safe_text(risk_class)} monarch-product" data-monarch-product="srti">
+    <header class="monarch-shell"><a class="monarch-shell-brand" href="https://monarchcastle.com/">Monarch Castle<span class="monarch-shell-product">Sahel Region Threat Index</span></a><nav aria-label="Monarch Castle collection"><a href="https://monarchcastle.com/datasets/">Data</a><a href="https://monarchcastle.com/products/">Maps</a><a href="https://monarchcastle.com/insights/">Signals</a><a href="https://monarchcastle.com/developers/">Research</a><a href="https://monarchcastle.com/methodology/">Methodology</a><a class="monarch-shell-keep" href="https://monarchcastle.com/platform/">Open The Keep</a></nav><details><summary>Collection</summary><nav aria-label="Monarch Castle collection"><a href="https://monarchcastle.com/datasets/">Data</a><a href="https://monarchcastle.com/products/">Maps</a><a href="https://monarchcastle.com/insights/">Signals</a><a href="https://monarchcastle.com/developers/">Research</a><a href="https://monarchcastle.com/methodology/">Methodology</a><a class="monarch-shell-keep" href="https://monarchcastle.com/platform/">Open The Keep</a></nav></details></header>
     <header class="topbar">
         <div class="topbar-inner">
             <div class="brand">
