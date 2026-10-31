@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-10-30T23:36:52.942823+00:00",
+  "fetched_at": "2026-10-31T05:20:19.010608+00:00",
   "content_latest_at": "2026-10-30T22:44:40+00:00",
   "window_hours": 72,
   "score": 0.0,
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 113,
+  "items_evaluated": 109,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -62,7 +62,7 @@
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
       "items": 108,
-      "eligible_items": 108,
+      "eligible_items": 104,
       "regions": [
         "burkina_faso"
       ]
@@ -113,7 +113,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 30,
+      "items": 29,
       "eligible_items": 2,
       "regions": [
         "mali"
@@ -151,7 +151,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 144,
+    "dated_items": 140,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
