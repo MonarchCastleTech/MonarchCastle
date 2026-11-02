@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-02T05:47:53.847032+00:00",
-  "content_latest_at": "2026-11-01T23:27:00+00:00",
+  "fetched_at": "2026-11-02T15:33:21.544995+00:00",
+  "content_latest_at": "2026-11-02T14:25:00+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -81,7 +81,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 30,
+      "items": 31,
       "eligible_items": 7,
       "regions": []
     },
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 3,
+      "eligible_items": 2,
       "regions": []
     },
     {
@@ -106,14 +106,14 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 9,
+      "eligible_items": 5,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 21,
+      "items": 22,
       "eligible_items": 1,
       "regions": [
         "mali"
@@ -150,7 +150,7 @@
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 109,
+    "dated_items": 104,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
