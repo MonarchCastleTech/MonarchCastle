@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-02T23:24:47.640375+00:00",
-  "content_latest_at": "2026-11-02T22:49:00+00:00",
+  "fetched_at": "2026-11-03T06:29:17.580381+00:00",
+  "content_latest_at": "2026-11-03T04:58:31+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 79,
+  "items_evaluated": 80,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 32,
-      "eligible_items": 7,
+      "eligible_items": 6,
       "regions": []
     },
     {
@@ -113,8 +113,8 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 22,
-      "eligible_items": 1,
+      "items": 23,
+      "eligible_items": 2,
       "regions": [
         "mali"
       ]
@@ -123,7 +123,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 8,
+      "items": 7,
       "eligible_items": 0,
       "regions": [
         "niger"
