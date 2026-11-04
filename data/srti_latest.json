@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-04T08:57:37.845400+00:00",
-  "content_latest_at": "2026-11-04T05:26:09+00:00",
+  "fetched_at": "2026-11-04T17:03:14.375144+00:00",
+  "content_latest_at": "2026-11-04T16:23:16+00:00",
   "window_hours": 72,
-  "score": 13.7,
+  "score": 12.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 19.2,
+    "conflict_intensity": 16.9,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 108,
+  "items_evaluated": 114,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 103,
-      "eligible_items": 103,
+      "items": 109,
+      "eligible_items": 109,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32,
-      "eligible_items": 7,
+      "items": 31,
+      "eligible_items": 9,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 3,
+      "eligible_items": 2,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 10,
+      "eligible_items": 12,
       "regions": []
     },
     {
@@ -146,7 +146,7 @@
       "link": "https://allafrica.com/stories/202611040136.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-11-04T05:26:09+00:00",
-      "score": 1.6,
+      "score": 1.41,
       "tags": [
         "conflict_intensity"
       ],
@@ -164,7 +164,7 @@
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 128,
+    "dated_items": 137,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
