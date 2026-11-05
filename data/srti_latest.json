@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-05T03:24:04.772372+00:00",
-  "content_latest_at": "2026-11-04T23:28:00+00:00",
+  "fetched_at": "2026-11-05T12:08:23.656587+00:00",
+  "content_latest_at": "2026-11-05T09:51:47+00:00",
   "window_hours": 72,
-  "score": 10.0,
+  "score": 8.3,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 14.0,
+    "conflict_intensity": 11.6,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 118,
+  "items_evaluated": 112,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 113,
-      "eligible_items": 113,
+      "items": 107,
+      "eligible_items": 107,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 31,
-      "eligible_items": 9,
+      "items": 32,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -106,14 +106,14 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 12,
+      "eligible_items": 15,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 24,
+      "items": 25,
       "eligible_items": 3,
       "regions": [
         "mali"
@@ -146,7 +146,7 @@
       "link": "https://allafrica.com/stories/202611040136.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-11-04T05:26:09+00:00",
-      "score": 1.17,
+      "score": 0.96,
       "tags": [
         "conflict_intensity"
       ],
@@ -164,7 +164,7 @@
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 141,
+    "dated_items": 138,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
