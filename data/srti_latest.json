@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-06T01:28:31.608332+00:00",
-  "content_latest_at": "2026-11-05T23:02:00+00:00",
+  "fetched_at": "2026-11-06T09:14:24.861603+00:00",
+  "content_latest_at": "2026-11-06T03:44:57+00:00",
   "window_hours": 72,
-  "score": 5.6,
+  "score": 5.1,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 7.8,
+    "conflict_intensity": 7.1,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 118,
+  "items_evaluated": 119,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 113,
-      "eligible_items": 113,
+      "items": 114,
+      "eligible_items": 114,
       "regions": [
         "burkina_faso"
       ]
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -106,7 +106,7 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 16,
+      "eligible_items": 17,
       "regions": []
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
       "items": 25,
-      "eligible_items": 3,
+      "eligible_items": 2,
       "regions": [
         "mali"
       ]
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 7,
-      "eligible_items": 0,
+      "items": 8,
+      "eligible_items": 1,
       "regions": [
         "niger"
       ]
@@ -133,7 +133,7 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 7,
+      "items": 6,
       "eligible_items": 2,
       "regions": [
         "burkina_faso"
@@ -146,7 +146,7 @@
       "link": "https://allafrica.com/stories/202611040136.html",
       "source": "AllAfrica - Burkina Faso",
       "published_at": "2026-11-04T05:26:09+00:00",
-      "score": 0.65,
+      "score": 0.59,
       "tags": [
         "conflict_intensity"
       ],
@@ -162,9 +162,10 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali"
+      "mali",
+      "niger"
     ],
-    "dated_items": 148,
+    "dated_items": 151,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
