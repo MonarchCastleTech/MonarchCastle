@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-07T16:17:21.309967+00:00",
-  "content_latest_at": "2026-11-07T13:25:37+00:00",
+  "fetched_at": "2026-11-07T20:47:21.414747+00:00",
+  "content_latest_at": "2026-11-07T17:21:00+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 98,
+  "items_evaluated": 86,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 97,
-      "eligible_items": 96,
+      "items": 86,
+      "eligible_items": 84,
       "regions": [
         "burkina_faso"
       ]
@@ -70,8 +70,8 @@
     {
       "name": "ActuNiger",
       "url": "https://www.actuniger.com/feed/",
-      "status": "ok",
-      "items": 6,
+      "status": "unreachable",
+      "items": 0,
       "eligible_items": 0,
       "regions": [
         "niger"
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 31,
-      "eligible_items": 11,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -144,14 +144,14 @@
   "quality_gate": {
     "passed": true,
     "reasons": [],
-    "reachable_sources": 10,
+    "reachable_sources": 9,
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
       "mali",
       "niger"
     ],
-    "dated_items": 122,
+    "dated_items": 109,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
