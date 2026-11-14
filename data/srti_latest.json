@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-10T16:57:37.912094+00:00",
-  "content_latest_at": "2026-11-10T15:17:37+00:00",
+  "fetched_at": "2026-11-14T10:06:49.489945+00:00",
+  "content_latest_at": "2026-11-13T23:55:00+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 1.5,
   "risk_level": "LOW",
   "components": {
     "conflict_intensity": 0.0,
-    "civilian_risk": 0.0
+    "civilian_risk": 5.3
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 0,
-  "items_evaluated": 2,
+  "items_count": 1,
+  "items_evaluated": 84,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 12,
-      "eligible_items": 0,
+      "items": 81,
+      "eligible_items": 81,
       "regions": [
         "burkina_faso"
       ]
@@ -81,7 +81,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 30,
+      "items": 29,
       "eligible_items": 10,
       "regions": []
     },
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 4,
+      "eligible_items": 3,
       "regions": []
     },
     {
@@ -106,14 +106,14 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 2,
+      "eligible_items": 12,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 21,
+      "items": 22,
       "eligible_items": 1,
       "regions": [
         "mali"
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 6,
-      "eligible_items": 0,
+      "items": 8,
+      "eligible_items": 1,
       "regions": [
         "niger"
       ]
@@ -140,7 +140,21 @@
       ]
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "UNHRC Calls For Millions in Emergency Aid to Fill Critical Gaps",
+      "link": "https://allafrica.com/stories/202611120372.html",
+      "source": "AllAfrica - Niger",
+      "published_at": "2026-11-12T11:27:17+00:00",
+      "score": 0.38,
+      "tags": [
+        "civilian_risk"
+      ],
+      "regions": [
+        "niger"
+      ]
+    }
+  ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -148,9 +162,10 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali"
+      "mali",
+      "niger"
     ],
-    "dated_items": 18,
+    "dated_items": 109,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
