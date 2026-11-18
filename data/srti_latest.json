@@ -1,27 +1,27 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-15T09:09:43.671812+00:00",
-  "content_latest_at": "2026-11-14T23:21:34+00:00",
+  "fetched_at": "2026-11-18T12:55:58.316205+00:00",
+  "content_latest_at": "2026-11-18T11:54:27+00:00",
   "window_hours": 72,
-  "score": 1.5,
+  "score": 6.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
-    "civilian_risk": 5.3
+    "conflict_intensity": 9.7,
+    "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 71,
+  "items_evaluated": 81,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
       "url": "https://reliefweb.int/rss?search=country%3AMali",
-      "status": "unreachable",
-      "items": 0,
+      "status": "ok",
+      "items": 12,
       "eligible_items": 0,
       "regions": [
         "mali"
@@ -30,8 +30,8 @@
     {
       "name": "ReliefWeb - Niger",
       "url": "https://reliefweb.int/rss?search=country%3ANiger",
-      "status": "unreachable",
-      "items": 0,
+      "status": "ok",
+      "items": 12,
       "eligible_items": 0,
       "regions": [
         "niger"
@@ -40,8 +40,8 @@
     {
       "name": "ReliefWeb - Burkina Faso",
       "url": "https://reliefweb.int/rss?search=country%3ABurkina%20Faso",
-      "status": "unreachable",
-      "items": 0,
+      "status": "ok",
+      "items": 12,
       "eligible_items": 0,
       "regions": [
         "burkina_faso"
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 69,
-      "eligible_items": 69,
+      "items": 80,
+      "eligible_items": 80,
       "regions": [
         "burkina_faso"
       ]
@@ -81,7 +81,7 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 29,
+      "items": 31,
       "eligible_items": 10,
       "regions": []
     },
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 3,
+      "eligible_items": 1,
       "regions": []
     },
     {
@@ -106,15 +106,15 @@
       "url": "https://www.france24.com/en/africa/rss",
       "status": "ok",
       "items": 30,
-      "eligible_items": 13,
+      "eligible_items": 8,
       "regions": []
     },
     {
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 20,
-      "eligible_items": 0,
+      "items": 18,
+      "eligible_items": 1,
       "regions": [
         "mali"
       ]
@@ -124,7 +124,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
       "items": 7,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": [
         "niger"
       ]
@@ -134,7 +134,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
       "items": 7,
-      "eligible_items": 1,
+      "eligible_items": 0,
       "regions": [
         "burkina_faso"
       ]
@@ -142,29 +142,29 @@
   ],
   "top_headlines": [
     {
-      "title": "UNHRC Calls For Millions in Emergency Aid to Fill Critical Gaps",
-      "link": "https://allafrica.com/stories/202611120372.html",
-      "source": "AllAfrica - Niger",
-      "published_at": "2026-11-12T11:27:17+00:00",
-      "score": 0.38,
+      "title": "\u00c9liminatoires CAN 2027 : Les \u00c9talons face au d\u00e9fi de l'efficacit\u00e9 offensive",
+      "link": "https://lefaso.net/spip.php?article150843",
+      "source": "LeFaso",
+      "published_at": "2026-11-17T16:42:00+00:00",
+      "score": 0.81,
       "tags": [
-        "civilian_risk"
+        "conflict_intensity"
       ],
       "regions": [
-        "niger"
+        "burkina_faso"
       ]
     }
   ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
-    "reachable_sources": 10,
+    "reachable_sources": 13,
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "niger"
+      "mali"
     ],
-    "dated_items": 97,
+    "dated_items": 100,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
