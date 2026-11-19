@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-19T03:09:48.790006+00:00",
-  "content_latest_at": "2026-11-18T23:22:00+00:00",
+  "fetched_at": "2026-11-19T12:48:50.056135+00:00",
+  "content_latest_at": "2026-11-19T12:42:00+00:00",
   "window_hours": 72,
-  "score": 5.0,
+  "score": 3.7,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 7.0,
+    "conflict_intensity": 5.2,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 78,
+  "items_evaluated": 80,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 77,
-      "eligible_items": 77,
+      "items": 78,
+      "eligible_items": 78,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 32,
-      "eligible_items": 9,
+      "items": 31,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -133,8 +133,8 @@
       "name": "AllAfrica - Burkina Faso",
       "url": "https://allafrica.com/tools/headlines/rdf/burkinafaso/headlines.rdf",
       "status": "ok",
-      "items": 7,
-      "eligible_items": 0,
+      "items": 8,
+      "eligible_items": 1,
       "regions": [
         "burkina_faso"
       ]
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article150843",
       "source": "LeFaso",
       "published_at": "2026-11-17T16:42:00+00:00",
-      "score": 0.58,
+      "score": 0.43,
       "tags": [
         "conflict_intensity"
       ],
@@ -164,7 +164,7 @@
       "burkina_faso",
       "mali"
     ],
-    "dated_items": 95,
+    "dated_items": 98,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
