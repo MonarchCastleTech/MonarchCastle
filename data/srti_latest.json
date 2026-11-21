@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-21T09:35:30.087250+00:00",
-  "content_latest_at": "2026-11-21T09:00:00+00:00",
+  "fetched_at": "2026-11-21T17:19:36.701833+00:00",
+  "content_latest_at": "2026-11-21T15:48:36+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 8.9,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 12.5,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 0,
-  "items_evaluated": 81,
+  "items_count": 1,
+  "items_evaluated": 90,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 76,
-      "eligible_items": 76,
+      "items": 88,
+      "eligible_items": 86,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 30,
-      "eligible_items": 10,
+      "items": 28,
+      "eligible_items": 8,
       "regions": []
     },
     {
@@ -114,7 +114,7 @@
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
       "items": 16,
-      "eligible_items": 2,
+      "eligible_items": 1,
       "regions": [
         "mali"
       ]
@@ -140,7 +140,21 @@
       ]
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "Bobo-Dioulasso : Des journ\u00e9es promotionnelles pour dynamiser le march\u00e9 du compost",
+      "link": "https://lefaso.net/spip.php?article150944",
+      "source": "LeFaso",
+      "published_at": "2026-11-21T12:16:58+00:00",
+      "score": 1.04,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina_faso"
+      ]
+    }
+  ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
@@ -151,7 +165,7 @@
       "mali",
       "niger"
     ],
-    "dated_items": 97,
+    "dated_items": 104,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
