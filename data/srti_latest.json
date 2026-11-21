@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-21T01:20:56.894841+00:00",
-  "content_latest_at": "2026-11-20T21:53:35+00:00",
+  "fetched_at": "2026-11-21T09:35:30.087250+00:00",
+  "content_latest_at": "2026-11-21T09:00:00+00:00",
   "window_hours": 72,
   "score": 0.0,
   "risk_level": "LOW",
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 0,
-  "items_evaluated": 80,
+  "items_evaluated": 81,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 75,
-      "eligible_items": 75,
+      "items": 76,
+      "eligible_items": 76,
       "regions": [
         "burkina_faso"
       ]
@@ -82,7 +82,7 @@
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 11,
+      "eligible_items": 10,
       "regions": []
     },
     {
