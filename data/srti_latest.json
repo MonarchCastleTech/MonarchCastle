@@ -1,13 +1,13 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-27T08:04:58.517383+00:00",
-  "content_latest_at": "2026-11-26T21:49:00+00:00",
+  "fetched_at": "2026-11-27T18:07:01.951338+00:00",
+  "content_latest_at": "2026-11-27T17:16:15+00:00",
   "window_hours": 72,
-  "score": 8.1,
+  "score": 6.8,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 11.4,
+    "conflict_intensity": 9.5,
     "civilian_risk": 0.0
   },
   "weights": {
@@ -15,7 +15,7 @@
     "civilian_risk": 0.2857
   },
   "items_count": 1,
-  "items_evaluated": 99,
+  "items_evaluated": 117,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -61,8 +61,8 @@
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
       "status": "ok",
-      "items": 98,
-      "eligible_items": 98,
+      "items": 115,
+      "eligible_items": 115,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 30,
-      "eligible_items": 10,
+      "items": 31,
+      "eligible_items": 11,
       "regions": []
     },
     {
@@ -90,7 +90,7 @@
       "url": "https://news.un.org/feed/subscribe/en/news/region/africa/feed/rss.xml",
       "status": "ok",
       "items": 30,
-      "eligible_items": 3,
+      "eligible_items": 2,
       "regions": []
     },
     {
@@ -113,7 +113,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 15,
+      "items": 16,
       "eligible_items": 1,
       "regions": [
         "mali"
@@ -123,8 +123,8 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 8,
-      "eligible_items": 0,
+      "items": 9,
+      "eligible_items": 1,
       "regions": [
         "niger"
       ]
@@ -146,7 +146,7 @@
       "link": "https://lefaso.net/spip.php?article151090",
       "source": "LeFaso",
       "published_at": "2026-11-26T21:10:00+00:00",
-      "score": 0.95,
+      "score": 0.79,
       "tags": [
         "conflict_intensity"
       ],
@@ -164,9 +164,10 @@
     "total_sources": 13,
     "covered_regions": [
       "burkina_faso",
-      "mali"
+      "mali",
+      "niger"
     ],
-    "dated_items": 122,
+    "dated_items": 140,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
