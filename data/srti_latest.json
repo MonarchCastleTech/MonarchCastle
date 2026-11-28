@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "methodology_version": "2.0",
-  "fetched_at": "2026-11-28T01:52:00.001032+00:00",
-  "content_latest_at": "2026-11-27T12:08:54+00:00",
+  "fetched_at": "2026-11-28T10:10:18.470517+00:00",
+  "content_latest_at": "2026-11-27T22:16:00+00:00",
   "window_hours": 72,
-  "score": 0.0,
+  "score": 4.6,
   "risk_level": "LOW",
   "components": {
-    "conflict_intensity": 0.0,
+    "conflict_intensity": 6.5,
     "civilian_risk": 0.0
   },
   "weights": {
     "conflict_intensity": 0.7143,
     "civilian_risk": 0.2857
   },
-  "items_count": 0,
-  "items_evaluated": 2,
+  "items_count": 1,
+  "items_evaluated": 102,
   "sources": [
     {
       "name": "ReliefWeb - Mali",
@@ -60,9 +60,9 @@
     {
       "name": "LeFaso",
       "url": "https://lefaso.net/spip.php?page=backend",
-      "status": "empty",
-      "items": 0,
-      "eligible_items": 0,
+      "status": "ok",
+      "items": 100,
+      "eligible_items": 100,
       "regions": [
         "burkina_faso"
       ]
@@ -81,8 +81,8 @@
       "name": "BBC Africa",
       "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
       "status": "ok",
-      "items": 33,
-      "eligible_items": 12,
+      "items": 32,
+      "eligible_items": 10,
       "regions": []
     },
     {
@@ -113,7 +113,7 @@
       "name": "AllAfrica - Mali",
       "url": "https://allafrica.com/tools/headlines/rdf/mali/headlines.rdf",
       "status": "ok",
-      "items": 16,
+      "items": 14,
       "eligible_items": 1,
       "regions": [
         "mali"
@@ -123,7 +123,7 @@
       "name": "AllAfrica - Niger",
       "url": "https://allafrica.com/tools/headlines/rdf/niger/headlines.rdf",
       "status": "ok",
-      "items": 9,
+      "items": 8,
       "eligible_items": 1,
       "regions": [
         "niger"
@@ -140,17 +140,34 @@
       ]
     }
   ],
-  "top_headlines": [],
+  "top_headlines": [
+    {
+      "title": "L'Ukraine et l'attisation du conflit au Mali : la communaut\u00e9 internationale somnole, fermant les yeux. Jusqu'\u00e0 quand ?",
+      "link": "https://lefaso.net/spip.php?article151090",
+      "source": "LeFaso",
+      "published_at": "2026-11-26T21:10:00+00:00",
+      "score": 0.54,
+      "tags": [
+        "conflict_intensity"
+      ],
+      "regions": [
+        "burkina_faso",
+        "mali",
+        "sahel"
+      ]
+    }
+  ],
   "quality_gate": {
     "passed": true,
     "reasons": [],
-    "reachable_sources": 12,
+    "reachable_sources": 13,
     "total_sources": 13,
     "covered_regions": [
+      "burkina_faso",
       "mali",
       "niger"
     ],
-    "dated_items": 26,
+    "dated_items": 124,
     "criteria": {
       "minimum_reachable_sources": 4,
       "minimum_target_countries": 2,
